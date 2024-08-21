@@ -1,0 +1,43 @@
+.option {
+  cursor: pointer;
+  padding: 10px;
+  border: 1px solid #ffffff;
+  margin: 5px 0;
+  border-radius: 5px;
+  background-color: #ffffff;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transform: perspective(1px) translateZ(0);
+}
+
+.option:hover {
+  background-color: #e3e7fe;
+  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.2);
+  transform: translateY(-2px);
+}
+
+.option:active {
+  background-color: #d0d0d0;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  transform: translateY(2px);
+}
+
+.option.selected {
+  background: #488ad194;
+  color: white;
+}
+
+.option.correct {
+  background-color: #d4edda;
+  border-color: #c3e6cb;
+}
+
+.option.wrong {
+  background-color: #f8d7da;
+  border-color: #f5c6cb;
+}
+
+.option.wrong.selected {
+  background: #589be394;
+  color: white;
+}

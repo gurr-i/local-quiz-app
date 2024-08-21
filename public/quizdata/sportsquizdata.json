@@ -1,0 +1,3178 @@
+[
+    {
+        "title": "Games Quiz",
+        "questions": [
+            {
+                "question": "How many players are there in a basketball team?",
+                "options": [
+                    "6",
+                    "7",
+                    "5",
+                    "9"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "How many players are there in a volleyball team?",
+                "options": [
+                    "9",
+                    "7",
+                    "6",
+                    "5"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "How many players are there in a netball or handball team?",
+                "options": [
+                    "6",
+                    "11",
+                    "7",
+                    "5"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "How many players are there in a baseball team?",
+                "options": [
+                    "9",
+                    "6",
+                    "7",
+                    "5"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "How many players are there in a football or cricket team?",
+                "options": [
+                    "6",
+                    "11",
+                    "7",
+                    "5"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "How many players are there in a polo team?",
+                "options": [
+                    "5",
+                    "4",
+                    "7",
+                    "6"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "How many players are there in a futsal team?",
+                "options": [
+                    "5",
+                    "4",
+                    "6",
+                    "7"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "How many players are there in an ice hockey team?",
+                "options": [
+                    "5",
+                    "6",
+                    "7",
+                    "4"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What is the standard length of a football field?",
+                "options": [
+                    "68 meters",
+                    "105 meters",
+                    "45-91 meters",
+                    "91-120 meters"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What is the width of a football field?",
+                "options": [
+                    "91-120 meters",
+                    "68 meters",
+                    "45-91 meters",
+                    "105 meters"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What are the dimensions of a football goal post?",
+                "options": [
+                    "Width: 8 ft, Height: 24 ft",
+                    "Width: 7.32 meters, Height: 24 ft",
+                    "Width: 7.32 meters, Height: 8 ft",
+                    "Width: 24 ft, Height: 8 ft"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "How many players are on a football team?",
+                "options": [
+                    "12",
+                    "11",
+                    "9",
+                    "10"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What is the total duration of a regular football match?",
+                "options": [
+                    "70 minutes",
+                    "90 minutes",
+                    "80 minutes",
+                    "60 minutes"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What happens if a football match is tied after regular time?",
+                "options": [
+                    "Both extra time and penalty shootout",
+                    "Penalty shootout",
+                    "Replay the match",
+                    "Extra time of 30 minutes"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What is the weight of a football?",
+                "options": [
+                    "360-410 grams",
+                    "460-510 grams",
+                    "300-350 grams",
+                    "410-460 grams"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "How many substitutions are allowed in a football match?",
+                "options": [
+                    "1",
+                    "2",
+                    "3",
+                    "4"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which of the following is a football trophy associated with India?",
+                "options": [
+                    "Serie A",
+                    "FA Cup",
+                    "Copa del Rey",
+                    "Durand Cup"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which of these international football tournaments is not a league?",
+                "options": [
+                    "La Liga",
+                    "Scissors Cup",
+                    "Copa Libertadores",
+                    "Merdeka Cup"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Who is a famous Indian football player?",
+                "options": [
+                    "Sunil Chhetri",
+                    "Cristiano Ronaldo",
+                    "Lionel Messi",
+                    "Neymar Jr."
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which country is Lionel Messi from?",
+                "options": [
+                    "Spain",
+                    "Argentina",
+                    "Brazil",
+                    "Portugal"
+                ],
+                "answer": 1
+            }
+        ]
+    },
+    {
+        "title": "Hockey Quiz",
+        "questions": [
+            {
+                "question": "What is the length of a hockey field?",
+                "options": [
+                    "100 meters",
+                    "85 meters",
+                    "91.44 meters",
+                    "80 meters"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What is the width of a hockey field?",
+                "options": [
+                    "75 meters",
+                    "65 meters",
+                    "45 meters",
+                    "55 meters"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "What is the height of a hockey goal post?",
+                "options": [
+                    "3 meters",
+                    "2.5 meters",
+                    "2.14 meters",
+                    "1.8 meters"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What is the width of a hockey goal post?",
+                "options": [
+                    "5.32 meters",
+                    "6.5 meters",
+                    "4.14 meters",
+                    "3.66 meters"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "What is the weight of a hockey ball?",
+                "options": [
+                    "156-163 grams",
+                    "140-150 grams",
+                    "150-156 grams",
+                    "163-170 grams"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "How many players are on a hockey team?",
+                "options": [
+                    "10",
+                    "12",
+                    "9",
+                    "11"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Are there any limits on substitutions in a hockey match?",
+                "options": [
+                    "No limit",
+                    "Yes, 3 substitutions",
+                    "Yes, 5 substitutions",
+                    "Only 1 substitution per half"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "How long is a hockey match?",
+                "options": [
+                    "90 minutes",
+                    "60 minutes",
+                    "80 minutes",
+                    "70 minutes"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Where was the 2020 Hockey World Cup held?",
+                "options": [
+                    "Australia",
+                    "Germany",
+                    "India",
+                    "Belgium & Netherlands"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "What happens if a hockey match is tied?",
+                "options": [
+                    "Replay the match",
+                    "Extra time only",
+                    "Penalty shootouts only",
+                    "Both extra time and penalty shootouts"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "What does 'Astroturf' refer to in hockey?",
+                "options": [
+                    "Synthetic grass surface",
+                    "A type of hockey stick",
+                    "A protective helmet",
+                    "The coach's strategy"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What does the term 'Dribble' mean in hockey?",
+                "options": [
+                    "Taking a shot at goal",
+                    "Passing the ball",
+                    "Controlling the ball while running",
+                    "Lifting the ball into the air"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What does the term 'Scoop' mean in hockey?",
+                "options": [
+                    "Passing the ball",
+                    "Lifting the ball into the air with the stick",
+                    "Shooting at the goal",
+                    "Controlling the ball while running"
+                ],
+                "answer": 1
+            }
+        ]
+    },
+    {
+        "title": "Hockey Quiz",
+        "questions": [
+            {
+                "question": "What is the standard length of a hockey field?",
+                "options": [
+                    "85 meters",
+                    "110 meters",
+                    "100 meters",
+                    "91.44 meters"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "What is the standard width of a hockey field?",
+                "options": [
+                    "60 meters",
+                    "50 meters",
+                    "55 meters",
+                    "45 meters"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What is the height of a hockey goal post?",
+                "options": [
+                    "1.8 meters",
+                    "3 meters",
+                    "2.14 meters",
+                    "2.5 meters"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What is the width of a hockey goal post?",
+                "options": [
+                    "4.14 meters",
+                    "6.1 meters",
+                    "5 meters",
+                    "3.66 meters"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "How much does a standard hockey ball weigh?",
+                "options": [
+                    "140-150 grams",
+                    "156-163 grams",
+                    "150-156 grams",
+                    "163-170 grams"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "How many players are there on each hockey team?",
+                "options": [
+                    "12",
+                    "10",
+                    "11",
+                    "9"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Is there a limit on the number of substitutions allowed in hockey?",
+                "options": [
+                    "No",
+                    "Yes, 5",
+                    "Only 1 per half",
+                    "Yes, 3"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "How long is a standard hockey match?",
+                "options": [
+                    "80 minutes",
+                    "60 minutes",
+                    "70 minutes",
+                    "90 minutes"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "How was the duration of a hockey match divided before it was reduced to 60 minutes?",
+                "options": [
+                    "Four quarters of 15 minutes each",
+                    "Three periods of 20 minutes each",
+                    "Two halves of 35 minutes each",
+                    "One continuous 70 minutes"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which country won the first Hockey World Cup in 1971?",
+                "options": [
+                    "India",
+                    "Australia",
+                    "Pakistan",
+                    "Netherlands"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which country has won the most Hockey World Cups?",
+                "options": [
+                    "Pakistan",
+                    "Germany",
+                    "Netherlands",
+                    "Australia"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which country hosted the 2020 Hockey World Cup?",
+                "options": [
+                    "Australia",
+                    "Belgium & Netherlands",
+                    "India",
+                    "Germany"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What is the term 'Astroturf' used for in hockey?",
+                "options": [
+                    "Synthetic grass surface",
+                    "A type of hockey stick",
+                    "The coach's strategy",
+                    "Protective gear"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What does 'Dribble' mean in hockey?",
+                "options": [
+                    "Tackling an opponent",
+                    "Shooting at goal",
+                    "Controlling the ball while running",
+                    "Passing the ball"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What is a 'Scoop' in hockey?",
+                "options": [
+                    "Passing the ball",
+                    "Tackling an opponent",
+                    "Lifting the ball into the air with the stick",
+                    "Shooting at the goal"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What is the radius of the penalty circle in hockey?",
+                "options": [
+                    "10 meters",
+                    "9.15 meters",
+                    "7 meters",
+                    "8.5 meters"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "How many players are allowed inside the penalty circle during a penalty corner?",
+                "options": [
+                    "4",
+                    "3",
+                    "2",
+                    "5"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "What is the maximum number of players that can be substituted in a hockey match?",
+                "options": [
+                    "5",
+                    "No limit",
+                    "3",
+                    "7"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What color card results in a 5-minute suspension in hockey?",
+                "options": [
+                    "Blue",
+                    "Green",
+                    "Red",
+                    "Yellow"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What color card results in a 10-minute suspension in hockey?",
+                "options": [
+                    "Red",
+                    "Blue",
+                    "Yellow",
+                    "Green"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What does a red card signify in hockey?",
+                "options": [
+                    "5-minute suspension",
+                    "10-minute suspension",
+                    "Permanent expulsion from the game",
+                    "Warning"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "How is a tie resolved in a knockout hockey match?",
+                "options": [
+                    "Extra time",
+                    "Both extra time and penalty shootout",
+                    "Replay the match",
+                    "Penalty shootout"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Who is the governing body for international field hockey?",
+                "options": [
+                    "IOC",
+                    "FIH",
+                    "FIFA",
+                    "BWF"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which is the oldest hockey tournament in the world?",
+                "options": [
+                    "Nehru Trophy",
+                    "Beighton Cup",
+                    "Sultan Azlan Shah Cup",
+                    "Durand Cup"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which Indian player is known as the 'Wizard' of hockey?",
+                "options": [
+                    "Sardar Singh",
+                    "Dhanraj Pillay",
+                    "Dhyan Chand",
+                    "Ajit Pal Singh"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which country won the 1975 Hockey World Cup?",
+                "options": [
+                    "Netherlands",
+                    "Pakistan",
+                    "India",
+                    "Australia"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which tournament is considered the premier field hockey event in India?",
+                "options": [
+                    "Beighton Cup",
+                    "Santosh Trophy",
+                    "Nehru Trophy",
+                    "Murugappa Gold Cup"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "What year was the first Women’s Hockey World Cup held?",
+                "options": [
+                    "1974",
+                    "1982",
+                    "1971",
+                    "1978"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Who won the first Women’s Hockey World Cup?",
+                "options": [
+                    "Argentina",
+                    "Netherlands",
+                    "Australia",
+                    "West Germany"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "How many players are on the field during a penalty shootout in hockey?",
+                "options": [
+                    "2",
+                    "3",
+                    "1",
+                    "5"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which country is known for its domination in women's hockey?",
+                "options": [
+                    "Netherlands",
+                    "Germany",
+                    "Australia",
+                    "Argentina"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What is the primary material used for modern hockey sticks?",
+                "options": [
+                    "Wood",
+                    "Fiberglass",
+                    "Carbon fiber",
+                    "Aluminum"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which country won the 2024 FIH Hockey5s World Cup?",
+                "options": [
+                    "India",
+                    "Netherlands",
+                    "Australia",
+                    "Belgium"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "How many field players are there in an indoor hockey team?",
+                "options": [
+                    "5",
+                    "7",
+                    "4",
+                    "6"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which Indian state is known for producing many top-level hockey players?",
+                "options": [
+                    "Punjab",
+                    "Maharashtra",
+                    "Tamil Nadu",
+                    "Kerala"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which trophy is associated with Indian women's hockey?",
+                "options": [
+                    "Begum Rasul Trophy",
+                    "Wellington Trophy",
+                    "Maharaja Ranjit Singh Cup",
+                    "Aga Khan Cup"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What is the term for a situation where the ball hits a player's feet?",
+                "options": [
+                    "Foot violation",
+                    "Foot stop",
+                    "Foot fault",
+                    "Foot foul"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "How many points is a goal worth in hockey?",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "1"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which team won the most medals in Olympic men's hockey?",
+                "options": [
+                    "Netherlands",
+                    "Germany",
+                    "India",
+                    "Australia"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "When was hockey first included in the Olympics?",
+                "options": [
+                    "1920",
+                    "1928",
+                    "1900",
+                    "1908"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which country won the gold medal in men's hockey at the 2020 Tokyo Olympics?",
+                "options": [
+                    "India",
+                    "Belgium",
+                    "Germany",
+                    "Australia"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Who is the most successful team in the Women's Hockey World Cup?",
+                "options": [
+                    "Germany",
+                    "Netherlands",
+                    "Australia",
+                    "Argentina"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What does 'push back' refer to in hockey?",
+                "options": [
+                    "The start of play",
+                    "A defensive tactic",
+                    "An offensive tactic",
+                    "A foul"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which hockey tournament is held in Malaysia?",
+                "options": [
+                    "Murugappa Gold Cup",
+                    "Beighton Cup",
+                    "Nehru Trophy",
+                    "Sultan Azlan Shah Cup"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "What is the width of the goal box in hockey?",
+                "options": [
+                    "8 yards",
+                    "10 yards",
+                    "12 yards",
+                    "6 yards"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "How long is each quarter in modern field hockey?",
+                "options": [
+                    "20 minutes",
+                    "15 minutes",
+                    "12 minutes",
+                    "10 minutes"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What is the signal for a short corner in hockey?",
+                "options": [
+                    "Raised arm",
+                    "Blown whistle",
+                    "Pointing to the goal",
+                    "Pointing to the penalty circle"
+                ],
+                "answer": 3
+            }
+        ]
+    },
+    {
+        "title": "Tennis Quiz",
+        "questions": [
+            {
+                "question": "What is the standard length of a tennis court?",
+                "options": [
+                    "78 feet",
+                    "72 feet",
+                    "76 feet",
+                    "74 feet"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What is the standard width of a tennis court for singles matches?",
+                "options": [
+                    "30 feet",
+                    "27 feet",
+                    "36 feet",
+                    "28 feet"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What is the standard width of a tennis court for doubles matches?",
+                "options": [
+                    "28 feet",
+                    "27 feet",
+                    "36 feet",
+                    "30 feet"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What is the height of the net at the center of a tennis court?",
+                "options": [
+                    "4 feet",
+                    "3 feet",
+                    "3 feet 6 inches",
+                    "2 feet 9 inches"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What is the height of the net posts in tennis?",
+                "options": [
+                    "4 feet",
+                    "3 feet",
+                    "4 feet 6 inches",
+                    "3 feet 6 inches"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which player has won the most Grand Slam titles in tennis?",
+                "options": [
+                    "Novak Djokovic",
+                    "Rafael Nadal",
+                    "Roger Federer",
+                    "Pete Sampras"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which is the oldest tennis tournament in the world?",
+                "options": [
+                    "French Open",
+                    "Australian Open",
+                    "Wimbledon",
+                    "US Open"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which Grand Slam tournament is played on grass?",
+                "options": [
+                    "Australian Open",
+                    "Wimbledon",
+                    "US Open",
+                    "French Open"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which Grand Slam tournament is played on clay?",
+                "options": [
+                    "US Open",
+                    "French Open",
+                    "Wimbledon",
+                    "Australian Open"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which Grand Slam tournament is played on hard courts in the United States?",
+                "options": [
+                    "US Open",
+                    "French Open",
+                    "Australian Open",
+                    "Wimbledon"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which Grand Slam tournament is played on hard courts in Australia?",
+                "options": [
+                    "French Open",
+                    "Australian Open",
+                    "US Open",
+                    "Wimbledon"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Who won the Men's Singles title at the 2024 Australian Open?",
+                "options": [
+                    "Daniil Medvedev",
+                    "Carlos Alcaraz",
+                    "Novak Djokovic",
+                    "Jannik Sinner"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Who won the Women's Singles title at the 2024 Australian Open?",
+                "options": [
+                    "Aryna Sabalenka",
+                    "Elena Rybakina",
+                    "Iga Świątek",
+                    "Ons Jabeur"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which doubles team won the Men's Doubles title at the 2024 Australian Open?",
+                "options": [
+                    "Rohan Bopanna & Mathew Ebden",
+                    "Jamie Murray & Bruno Soares",
+                    "Joe Salisbury & Rajeev Ram",
+                    "Nicolas Mahut & Pierre-Hugues Herbert"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What does the term 'deuce' mean in tennis?",
+                "options": [
+                    "A tie break",
+                    "A game point",
+                    "Equality in points",
+                    "A double fault"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What is the highest governing body for tennis?",
+                "options": [
+                    "ITF",
+                    "IOC",
+                    "WTA",
+                    "ATP"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "When was tennis first played?",
+                "options": [
+                    "21st century",
+                    "18th century",
+                    "19th century",
+                    "20th century"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Where was tennis first played?",
+                "options": [
+                    "Paris, France",
+                    "New York, USA",
+                    "Birmingham, England",
+                    "Melbourne, Australia"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Is tennis a contact sport?",
+                "options": [
+                    "Yes",
+                    "No"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "How many players are there in a doubles match?",
+                "options": [
+                    "4",
+                    "2",
+                    "8",
+                    "6"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which type of tennis match involves mixed-sex teams?",
+                "options": [
+                    "Singles",
+                    "Doubles",
+                    "Team event",
+                    "Mixed doubles"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "On which surface is the French Open played?",
+                "options": [
+                    "Carpet",
+                    "Hard",
+                    "Clay",
+                    "Grass"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What equipment is required to play tennis?",
+                "options": [
+                    "Puck, stick, helmet",
+                    "Shuttlecock, racket, net",
+                    "Ball, gloves, bat",
+                    "Ball, racket, net"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which of the following is not a surface used in tennis?",
+                "options": [
+                    "Hard",
+                    "Ice",
+                    "Clay",
+                    "Grass"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What was tennis originally called?",
+                "options": [
+                    "Lawn tennis",
+                    "Real tennis",
+                    "Court tennis",
+                    "Sphairistike"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "What is the standard net height at the posts in tennis?",
+                "options": [
+                    "3 feet",
+                    "4 feet 6 inches",
+                    "3 feet 6 inches",
+                    "4 feet"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Who is credited with inventing modern tennis?",
+                "options": [
+                    "Billie Jean King",
+                    "Arthur Ashe",
+                    "Rene Lacoste",
+                    "Walter Clopton Wingfield"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "What shape was the original tennis court designed by Walter Clopton Wingfield?",
+                "options": [
+                    "Hourglass",
+                    "Circle",
+                    "Rectangle",
+                    "Oval"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "In what year was the court design changed to a rectangle?",
+                "options": [
+                    "1900",
+                    "1873",
+                    "1881",
+                    "1875"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which Grand Slam tournament was first held in 1877?",
+                "options": [
+                    "Australian Open",
+                    "Wimbledon",
+                    "US Open",
+                    "French Open"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which Grand Slam tournament was first held in 1881?",
+                "options": [
+                    "Australian Open",
+                    "US Open",
+                    "Wimbledon",
+                    "French Open"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which Grand Slam tournament was first held in 1891?",
+                "options": [
+                    "French Open",
+                    "US Open",
+                    "Wimbledon",
+                    "Australian Open"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which Grand Slam tournament was first held in 1905?",
+                "options": [
+                    "Australian Open",
+                    "US Open",
+                    "Wimbledon",
+                    "French Open"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What type of surface is used for the Australian Open?",
+                "options": [
+                    "Grass",
+                    "Clay",
+                    "Carpet",
+                    "Hard"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "When was tennis reintroduced to the Olympics after being dropped in 1924?",
+                "options": [
+                    "1968",
+                    "1992",
+                    "1988",
+                    "1984"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which year did tennis become a part of the Summer Paralympic program?",
+                "options": [
+                    "1996",
+                    "1988",
+                    "1984",
+                    "1992"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which of the following is a famous tennis player from France?",
+                "options": [
+                    "Roger Federer",
+                    "Rafael Nadal",
+                    "Andy Murray",
+                    "Guillaume Rufin"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which tennis player served against Tomáš Berdych in the 2013 Australian Open?",
+                "options": [
+                    "Novak Djokovic",
+                    "Guillaume Rufin",
+                    "Roger Federer",
+                    "David Ferrer"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which of these is part of the tennis glossary?",
+                "options": [
+                    "Double fault",
+                    "Offside",
+                    "Power play",
+                    "Scrum"
+                ],
+                "answer": 0
+            }
+        ]
+    },
+    {
+        "title": "Badminton Quiz",
+        "questions": [
+            {
+                "question": "What is the standard length of a badminton court?",
+                "options": [
+                    "46 feet",
+                    "40 feet",
+                    "44 feet",
+                    "42 feet"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What is the standard width of a badminton court for doubles matches?",
+                "options": [
+                    "15 feet",
+                    "20 feet",
+                    "17 feet",
+                    "18 feet"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What is the standard width of a badminton court for singles matches?",
+                "options": [
+                    "18 feet",
+                    "15 feet",
+                    "20 feet",
+                    "17 feet"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "What is the height of the net at the center of a badminton court?",
+                "options": [
+                    "5 feet",
+                    "4 feet",
+                    "6 feet",
+                    "5 feet 1 inch"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What is the height of the net at the edges of a badminton court?",
+                "options": [
+                    "5 feet 1 inch",
+                    "5 feet",
+                    "4 feet 11 inches",
+                    "5 feet 2 inches"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Who is the current head of the Badminton Federation of India?",
+                "options": [
+                    "Prakash Padukone",
+                    "Vimal Kumar",
+                    "Himanta Biswa Sarma",
+                    "Pullela Gopichand"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "When was the Sports Authority of India (SAI) formed?",
+                "options": [
+                    "1990",
+                    "1984",
+                    "1974",
+                    "1980"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What does a yellow card represent in badminton?",
+                "options": [
+                    "Disqualification",
+                    "Warning for misconduct",
+                    "Suspension",
+                    "Fault"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What does a red card represent in badminton?",
+                "options": [
+                    "Disqualification",
+                    "Fault",
+                    "Suspension",
+                    "Warning for misconduct"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What does a black card represent in badminton?",
+                "options": [
+                    "Warning for misconduct",
+                    "Fault",
+                    "Equal to 2 yellow cards",
+                    "Disqualification"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which cup is associated with men's badminton team competitions?",
+                "options": [
+                    "Uber Cup",
+                    "All England Cup",
+                    "Sudirman Cup",
+                    "Thomas Cup"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which cup is associated with women's badminton team competitions?",
+                "options": [
+                    "Uber Cup",
+                    "Thomas Cup",
+                    "Sudirman Cup",
+                    "All England Cup"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which badminton tournament is held in India?",
+                "options": [
+                    "All England Open",
+                    "China Open",
+                    "Syed Modi International",
+                    "Indonesia Open"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What is the highest governing body for badminton?",
+                "options": [
+                    "Badminton World Federation",
+                    "Asian Badminton Federation",
+                    "International Olympic Committee",
+                    "Commonwealth Games Federation"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Where was badminton first played?",
+                "options": [
+                    "India",
+                    "China",
+                    "Indonesia",
+                    "Badminton House, England"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Is badminton a contact sport?",
+                "options": [
+                    "Yes",
+                    "No"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "How many players are there in a doubles match?",
+                "options": [
+                    "4",
+                    "8",
+                    "6",
+                    "2"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which type of badminton match involves mixed-sex teams?",
+                "options": [
+                    "Mixed doubles",
+                    "Singles",
+                    "Team event",
+                    "Doubles"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What equipment is required to play badminton?",
+                "options": [
+                    "Ball, racket, net",
+                    "Shuttlecock, racquet",
+                    "Ball, gloves, bat",
+                    "Puck, stick, helmet"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What is the full width of a doubles badminton court?",
+                "options": [
+                    "6.1 meters",
+                    "8.2 meters",
+                    "7.1 meters",
+                    "5.18 meters"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What is the full width of a singles badminton court?",
+                "options": [
+                    "7.1 meters",
+                    "5.18 meters",
+                    "8.2 meters",
+                    "6.1 meters"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What is the full length of a badminton court?",
+                "options": [
+                    "15 meters",
+                    "13.4 meters",
+                    "17.2 meters",
+                    "11 meters"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What does the center line in badminton mark?",
+                "options": [
+                    "The middle of the court",
+                    "The serve-length boundary",
+                    "The doubles boundary",
+                    "The service court"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "What is the distance of the short service line from the net in badminton?",
+                "options": [
+                    "1.98 meters",
+                    "2.5 meters",
+                    "3.5 meters",
+                    "3 meters"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What is the distance of the long service line from the back boundary in doubles badminton?",
+                "options": [
+                    "0.76 meters",
+                    "1 meter",
+                    "1.5 meters",
+                    "2 meters"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "How high are the net posts in badminton?",
+                "options": [
+                    "1.55 meters",
+                    "1.45 meters",
+                    "1.5 meters",
+                    "1.6 meters"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Where are the net posts placed in badminton?",
+                "options": [
+                    "Inside the doubles court",
+                    "Outside the back boundary",
+                    "On the sidelines",
+                    "Inside the singles court"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What is the minimum ceiling height required above a badminton court?",
+                "options": [
+                    "7 meters",
+                    "3 meters",
+                    "Not mentioned in the Laws of Badminton",
+                    "5 meters"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "In which year did badminton become part of the Olympic Games?",
+                "options": [
+                    "1992",
+                    "2000",
+                    "1988",
+                    "1996"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "When was the World Games first included in badminton?",
+                "options": [
+                    "1988",
+                    "1981",
+                    "1984",
+                    "1978"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which card is given for a warning of misconduct in badminton?",
+                "options": [
+                    "Black",
+                    "Red",
+                    "Yellow",
+                    "Green"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which card is equivalent to two yellow cards in badminton?",
+                "options": [
+                    "Black",
+                    "Yellow",
+                    "Red",
+                    "Green"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which card indicates a fault in badminton?",
+                "options": [
+                    "Red",
+                    "Black",
+                    "Green",
+                    "Yellow"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which of these is a famous badminton tournament held in India?",
+                "options": [
+                    "Indonesia Open",
+                    "All England Open",
+                    "Syed Modi India International",
+                    "China Open"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "In which country did badminton originate?",
+                "options": [
+                    "England",
+                    "Indonesia",
+                    "China",
+                    "India"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What is the name of the badminton cup associated with men's team competitions?",
+                "options": [
+                    "Sudriman Cup",
+                    "All England Cup",
+                    "Thomas Cup",
+                    "Uber Cup"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What is the name of the badminton cup associated with women's team competitions?",
+                "options": [
+                    "All England Cup",
+                    "Uber Cup",
+                    "Sudriman Cup",
+                    "Thomas Cup"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Who governs the rules and regulations of badminton internationally?",
+                "options": [
+                    "Badminton World Federation",
+                    "Sports Authority of India",
+                    "International Olympic Committee",
+                    "Asian Badminton Federation"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What is the size of a badminton court in doubles?",
+                "options": [
+                    "5.18 meters x 13.4 meters",
+                    "6.1 meters x 15 meters",
+                    "6.1 meters x 13.4 meters",
+                    "7.1 meters x 13.4 meters"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What is the height of the badminton net at the edges?",
+                "options": [
+                    "4 feet",
+                    "5 feet",
+                    "6 feet",
+                    "5 feet 1 inch"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "What is the length of the badminton court?",
+                "options": [
+                    "14 meters",
+                    "11 meters",
+                    "12.4 meters",
+                    "13.4 meters"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which Indian player is associated with the Syed Modi International tournament?",
+                "options": [
+                    "Pullela Gopichand",
+                    "Saina Nehwal",
+                    "Syed Modi",
+                    "Prakash Padukone"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which badminton player has won the Thomas Cup?",
+                "options": [
+                    "Kento Momota",
+                    "Lee Chong Wei",
+                    "Kidambi Srikanth",
+                    "Viktor Axelsen"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which country has the most Thomas Cup wins?",
+                "options": [
+                    "China",
+                    "Denmark",
+                    "Indonesia",
+                    "Malaysia"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which country has the most Uber Cup wins?",
+                "options": [
+                    "Denmark",
+                    "Malaysia",
+                    "Indonesia",
+                    "China"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "When did the Uber Cup start?",
+                "options": [
+                    "1956",
+                    "1950",
+                    "1965",
+                    "1960"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Who won the first Uber Cup?",
+                "options": [
+                    "USA",
+                    "Indonesia",
+                    "Japan",
+                    "China"
+                ],
+                "answer": 0
+            }
+        ]
+    },
+    {
+        "title": "Chess Quiz",
+        "questions": [
+            {
+                "question": "How many pieces does each player have at the start of a chess game?",
+                "options": [
+                    "12",
+                    "18",
+                    "16",
+                    "14"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "How many pawns does each player have in chess?",
+                "options": [
+                    "8",
+                    "10",
+                    "6",
+                    "12"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "How many knights does each player have in chess?",
+                "options": [
+                    "3",
+                    "2",
+                    "1",
+                    "4"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "How many bishops does each player have in chess?",
+                "options": [
+                    "4",
+                    "1",
+                    "2",
+                    "3"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "How many rooks does each player have in chess?",
+                "options": [
+                    "2",
+                    "1",
+                    "4",
+                    "3"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "How many queens does each player have in chess?",
+                "options": [
+                    "2",
+                    "4",
+                    "3",
+                    "1"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "How many kings does each player have in chess?",
+                "options": [
+                    "1",
+                    "4",
+                    "3",
+                    "2"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which famous chess player is known for his match against Deep Blue?",
+                "options": [
+                    "Viswanathan Anand",
+                    "Bobby Fischer",
+                    "Garry Kasparov",
+                    "Magnus Carlsen"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Who is the reigning World Chess Champion as of 2024?",
+                "options": [
+                    "Ding Liren",
+                    "Fabiano Caruana",
+                    "Magnus Carlsen",
+                    "Garry Kasparov"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Who is the reigning Women's World Chess Champion as of 2024?",
+                "options": [
+                    "Ju Wenjun",
+                    "Judit Polgar",
+                    "Nona Gaprindashvili",
+                    "Hou Yifan"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What is the term for a situation where no legal moves can be made but the king is not in check?",
+                "options": [
+                    "Stalemate",
+                    "Gambit",
+                    "Checkmate",
+                    "Mate"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What is the term used when a player sacrifices material for strategic advantage?",
+                "options": [
+                    "Checkmate",
+                    "Stalemate",
+                    "Gambit",
+                    "Promotion"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "How many moves does a knight make in an L-shape in chess?",
+                "options": [
+                    "1",
+                    "2",
+                    "3",
+                    "2.5"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which body governs international chess competitions?",
+                "options": [
+                    "ICCF",
+                    "IOC",
+                    "FIDE",
+                    "WCF"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What does FIDE stand for?",
+                "options": [
+                    "Federation International of Chess Education",
+                    "Fédération Internationale des Échecs",
+                    "Federation of International Chess Events",
+                    "Federation International of Diverse Entertainment"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which chess title is awarded to world-class chess masters?",
+                "options": [
+                    "Candidate Master",
+                    "FIDE Master",
+                    "International Master",
+                    "Grandmaster"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which title requires an Elo rating of at least 2500?",
+                "options": [
+                    "FIDE Master",
+                    "Candidate Master",
+                    "Grandmaster",
+                    "International Master"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What is the minimum Elo rating required for the FIDE Master title?",
+                "options": [
+                    "2200",
+                    "2400",
+                    "2300",
+                    "2500"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What is the minimum Elo rating required for the International Master title?",
+                "options": [
+                    "2500",
+                    "2300",
+                    "2400",
+                    "2200"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which chess title is awarded for a FIDE rating of 2200 or more?",
+                "options": [
+                    "Candidate Master",
+                    "International Master",
+                    "Grandmaster",
+                    "FIDE Master"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Who developed the Elo rating system used in chess?",
+                "options": [
+                    "Bobby Fischer",
+                    "Magnus Carlsen",
+                    "Garry Kasparov",
+                    "Arpad Elo"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which chess tournament attracts the world's strongest players and is held annually in Wijk aan Zee?",
+                "options": [
+                    "Dortmund Sparkassen",
+                    "Linares",
+                    "Tata Steel",
+                    "Melody Amber"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What is the primary aim of a chess game?",
+                "options": [
+                    "Control the center",
+                    "Promote a pawn",
+                    "Checkmate the opponent",
+                    "Capture the opponent's pieces"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What does 'checkmate' mean in chess?",
+                "options": [
+                    "The queen is captured",
+                    "The king is in check and has no legal move",
+                    "The game ends in a draw",
+                    "The king is under threat but can move"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What is the name of the move where a pawn is promoted to another piece?",
+                "options": [
+                    "Gambit",
+                    "En passant",
+                    "Castling",
+                    "Promotion"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which piece can move diagonally and capture opponents in any direction?",
+                "options": [
+                    "Rook",
+                    "Bishop",
+                    "Knight",
+                    "Queen"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which piece can move in an L-shape?",
+                "options": [
+                    "Knight",
+                    "Bishop",
+                    "Queen",
+                    "Rook"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What is the unique move involving the king and rook called?",
+                "options": [
+                    "Gambit",
+                    "Castling",
+                    "Promotion",
+                    "En passant"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What is the term for a chess position where the king is in check and cannot escape?",
+                "options": [
+                    "Gambit",
+                    "Stalemate",
+                    "Draw",
+                    "Checkmate"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which chess piece can move horizontally or vertically any number of squares?",
+                "options": [
+                    "Bishop",
+                    "Queen",
+                    "Knight",
+                    "Rook"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Who was the World Chess Champion before Ding Liren?",
+                "options": [
+                    "Bobby Fischer",
+                    "Garry Kasparov",
+                    "Vishwanathan Anand",
+                    "Magnus Carlsen"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which title is awarded for a rating of 2200 or above, but is lower than the FIDE Master?",
+                "options": [
+                    "Grandmaster",
+                    "FIDE Master",
+                    "Candidate Master",
+                    "International Master"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which chess piece is only allowed to move one square in any direction?",
+                "options": [
+                    "King",
+                    "Pawn",
+                    "Knight",
+                    "Rook"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which chess piece can move diagonally but only on squares of the same color?",
+                "options": [
+                    "Queen",
+                    "Rook",
+                    "Bishop",
+                    "Knight"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What is the name of the chess tournament held annually in Spain?",
+                "options": [
+                    "Linares",
+                    "Tata Steel",
+                    "Dortmund Sparkassen",
+                    "Melody Amber"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which piece can move diagonally and vertically but not horizontally?",
+                "options": [
+                    "Rook",
+                    "Bishop",
+                    "Queen",
+                    "King"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "In which year did FIDE begin organizing the World Chess Championship?",
+                "options": [
+                    "1960",
+                    "1950",
+                    "1972",
+                    "1948"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "What is the term for a chess position where neither player can force a win?",
+                "options": [
+                    "Gambit",
+                    "Draw",
+                    "Checkmate",
+                    "Stalemate"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which chess piece has the ability to move in a straight line but not diagonally?",
+                "options": [
+                    "Queen",
+                    "King",
+                    "Bishop",
+                    "Rook"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Who is known for the famous gambit known as the King's Gambit?",
+                "options": [
+                    "Bobby Fischer",
+                    "Garry Kasparov",
+                    "Magnus Carlsen",
+                    "Wilhelm Steinitz"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which chess piece starts on the corner squares?",
+                "options": [
+                    "King",
+                    "Rook",
+                    "Queen",
+                    "Bishop"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which chess piece can only move one square at a time but in any direction?",
+                "options": [
+                    "Pawn",
+                    "Queen",
+                    "Knight",
+                    "King"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which chess piece is essential in performing castling?",
+                "options": [
+                    "Queen",
+                    "King",
+                    "Bishop",
+                    "Rook"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which chess title is awarded for a player who achieves a rating of 2400?",
+                "options": [
+                    "International Master",
+                    "Grandmaster",
+                    "Candidate Master",
+                    "FIDE Master"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which chess piece can move to any square on the board as long as it is in a straight line?",
+                "options": [
+                    "Knight",
+                    "Bishop",
+                    "Queen",
+                    "King"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which tournament is known for featuring the world's strongest players in rapid and blitz formats?",
+                "options": [
+                    "Linares",
+                    "Tata Steel",
+                    "Melody Amber",
+                    "Sinquefield Cup"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which chess piece is often referred to as the 'most powerful piece on the board'?",
+                "options": [
+                    "Queen",
+                    "Knight",
+                    "Bishop",
+                    "Rook"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which piece moves in an L-shape and can jump over other pieces?",
+                "options": [
+                    "Rook",
+                    "Knight",
+                    "Bishop",
+                    "Pawn"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What is the name of the chess strategy where a player sacrifices material for a potential long-term gain?",
+                "options": [
+                    "Checkmate",
+                    "Stalemate",
+                    "Gambit",
+                    "Promotion"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What is the name of the chess move where a pawn moves two squares forward from its starting position?",
+                "options": [
+                    "Promotion",
+                    "Castling",
+                    "En passant",
+                    "Double step"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which chess title requires an Elo rating of 2400 or more?",
+                "options": [
+                    "International Master",
+                    "Candidate Master",
+                    "FIDE Master",
+                    "Grandmaster"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which famous chess player was known for his opening theories and match against Boris Spassky?",
+                "options": [
+                    "Vishwanathan Anand",
+                    "Garry Kasparov",
+                    "Magnus Carlsen",
+                    "Bobby Fischer"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which chess piece is restricted to moving only one square at a time?",
+                "options": [
+                    "Queen",
+                    "King",
+                    "Knight",
+                    "Bishop"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which chess tournament is known for its prestigious invitation-only format?",
+                "options": [
+                    "Linares",
+                    "Tata Steel",
+                    "Melody Amber",
+                    "Dortmund Sparkassen"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What is the name of the move where a pawn is moved to the end of the board and promoted to another piece?",
+                "options": [
+                    "En passant",
+                    "Checkmate",
+                    "Promotion",
+                    "Castling"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Who is known for his contribution to the development of modern chess openings?",
+                "options": [
+                    "Magnus Carlsen",
+                    "Emanuel Lasker",
+                    "José Raúl Capablanca",
+                    "Garry Kasparov"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What is the name of the chess position where the player cannot make a legal move and the king is not in check?",
+                "options": [
+                    "Checkmate",
+                    "Draw",
+                    "Stalemate",
+                    "Gambit"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which famous chess player is known for holding the highest Elo rating of all time?",
+                "options": [
+                    "Viswanathan Anand",
+                    "Magnus Carlsen",
+                    "Garry Kasparov",
+                    "Bobby Fischer"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "In which year was the International Chess Federation (FIDE) established?",
+                "options": [
+                    "1924",
+                    "1948",
+                    "1950",
+                    "1960"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which chess tournament is held annually in Monte Carlo?",
+                "options": [
+                    "Dortmund Sparkassen",
+                    "Melody Amber",
+                    "Linares",
+                    "Tata Steel"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What is the term for a chess position where both players have the same number of pieces left and no winning strategy exists?",
+                "options": [
+                    "Stalemate",
+                    "Checkmate",
+                    "Draw",
+                    "Gambit"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which chess title is awarded for a player with an Elo rating of 2300 or above?",
+                "options": [
+                    "Candidate Master",
+                    "Grandmaster",
+                    "International Master",
+                    "FIDE Master"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which chess piece can move diagonally but only one square at a time?",
+                "options": [
+                    "Bishop",
+                    "Queen",
+                    "King",
+                    "Knight"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which famous chess player from India is known for his achievements at a young age?",
+                "options": [
+                    "Garry Kasparov",
+                    "Bobby Fischer",
+                    "Viswanathan Anand",
+                    "R Praggnanandhaa"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which chess piece is limited to moving forward one square at a time, but has the option to capture diagonally?",
+                "options": [
+                    "Rook",
+                    "Pawn",
+                    "Queen",
+                    "Bishop"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which chess piece has the ability to move in any direction and is considered the most powerful piece?",
+                "options": [
+                    "Rook",
+                    "Bishop",
+                    "Queen",
+                    "King"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What is the name of the move where a pawn captures an opponent's piece en passant?",
+                "options": [
+                    "Gambit",
+                    "En passant",
+                    "Castling",
+                    "Promotion"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which chess piece can only move horizontally or vertically?",
+                "options": [
+                    "Rook",
+                    "Queen",
+                    "Knight",
+                    "Bishop"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which chess player is known for his book 'My Great Predecessors'?",
+                "options": [
+                    "Bobby Fischer",
+                    "Viswanathan Anand",
+                    "Garry Kasparov",
+                    "Magnus Carlsen"
+                ],
+                "answer": 2
+            }
+        ]
+    },
+    {
+        "title": "Basketball Quiz",
+        "questions": [
+            {
+                "question": "What is the standard length of a basketball court in the NBA?",
+                "options": [
+                    "94 feet",
+                    "84 feet",
+                    "90 feet",
+                    "100 feet"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "How many players are there on each team in a standard basketball game?",
+                "options": [
+                    "7",
+                    "6",
+                    "5",
+                    "4"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What is the height of the basketball rim from the court?",
+                "options": [
+                    "8 feet",
+                    "10 feet",
+                    "9 feet",
+                    "11 feet"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "How many points is a field goal worth if made from beyond the three-point line?",
+                "options": [
+                    "4",
+                    "3",
+                    "1",
+                    "2"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What is the official weight of a men's basketball?",
+                "options": [
+                    "22 ounces",
+                    "26 ounces",
+                    "20 ounces",
+                    "24 ounces"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which position is typically the tallest player on the team?",
+                "options": [
+                    "Small Forward",
+                    "Point Guard",
+                    "Shooting Guard",
+                    "Center"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "In which year was basketball invented?",
+                "options": [
+                    "1875",
+                    "1901",
+                    "1881",
+                    "1891"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Who is credited with inventing basketball?",
+                "options": [
+                    "Larry Bird",
+                    "Dr. J",
+                    "James Naismith",
+                    "Michael Jordan"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What is the primary objective of basketball?",
+                "options": [
+                    "To block shots",
+                    "To dribble the ball",
+                    "To shoot the ball through the hoop",
+                    "To pass the ball"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What is the term for a game extension if the score is tied at the end of regulation time?",
+                "options": [
+                    "Penalty Period",
+                    "Overtime",
+                    "Sudden Death",
+                    "Extra Time"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "How many points is a free throw worth?",
+                "options": [
+                    "2",
+                    "3",
+                    "1",
+                    "4"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What is the height of a basketball hoop from the ground in meters?",
+                "options": [
+                    "2.5 meters",
+                    "3.5 meters",
+                    "3.05 meters",
+                    "4 meters"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which position is usually responsible for leading the offense and distributing the ball?",
+                "options": [
+                    "Point Guard",
+                    "Center",
+                    "Power Forward",
+                    "Small Forward"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which organization is the highest governing body for international basketball?",
+                "options": [
+                    "NBA",
+                    "NCAA",
+                    "WNBA",
+                    "FIBA"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "What is the diameter of a standard basketball?",
+                "options": [
+                    "9 inches",
+                    "8 inches",
+                    "10 inches",
+                    "11 inches"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What is the name of the tournament that crowns the world champion in basketball?",
+                "options": [
+                    "FIBA Basketball World Cup",
+                    "NBA Finals",
+                    "EuroLeague",
+                    "Olympic Basketball Tournament"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What is the term for a move where a player jumps and scores with one hand from above the rim?",
+                "options": [
+                    "Jump Shot",
+                    "Hook Shot",
+                    "Dunk",
+                    "Layup"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which type of shot is made by bouncing the ball on the court before scoring?",
+                "options": [
+                    "Dunk",
+                    "Jump Shot",
+                    "Free Throw",
+                    "Layup"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "What is it called when a player uses both hands to control the ball and then resumes dribbling?",
+                "options": [
+                    "Charging",
+                    "Carrying",
+                    "Traveling",
+                    "Double Dribble"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which team won the first NBA championship?",
+                "options": [
+                    "Los Angeles Lakers",
+                    "Philadelphia Warriors",
+                    "Boston Celtics",
+                    "Chicago Bulls"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What is the name of the famous NBA team known for its Golden State Warriors?",
+                "options": [
+                    "Los Angeles Lakers",
+                    "Chicago Bulls",
+                    "Golden State Warriors",
+                    "Boston Celtics"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which player is known as 'His Airness'?",
+                "options": [
+                    "Kobe Bryant",
+                    "LeBron James",
+                    "Michael Jordan",
+                    "Larry Bird"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "In basketball, what is it called when a player intercepts a pass and gains possession?",
+                "options": [
+                    "Rebound",
+                    "Steal",
+                    "Block",
+                    "Assist"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What is the term for a basketball game played with three players on each team?",
+                "options": [
+                    "Half Court",
+                    "2-on-2",
+                    "Full Court",
+                    "3x3"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "What is the name of the award given to the best player in the NBA each season?",
+                "options": [
+                    "NBA All-Star",
+                    "Most Improved Player",
+                    "NBA MVP",
+                    "NBA Finals MVP"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which country hosted the first FIBA Basketball World Cup?",
+                "options": [
+                    "United States",
+                    "Brazil",
+                    "Spain",
+                    "Argentina"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "How many points is a field goal worth if made from inside the three-point line?",
+                "options": [
+                    "2",
+                    "1",
+                    "4",
+                    "3"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What is the diameter of the basketball hoop?",
+                "options": [
+                    "14 inches",
+                    "18 inches",
+                    "12 inches",
+                    "16 inches"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "In which city was basketball invented?",
+                "options": [
+                    "Chicago",
+                    "Boston",
+                    "New York",
+                    "Springfield"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "What is the height of the basketball net from the court in feet?",
+                "options": [
+                    "8 feet",
+                    "9 feet",
+                    "11 feet",
+                    "10 feet"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which position is usually responsible for rebounding and scoring in the post area?",
+                "options": [
+                    "Power Forward",
+                    "Small Forward",
+                    "Point Guard",
+                    "Shooting Guard"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "How many fouls does a player need to commit to be disqualified from a game in the NBA?",
+                "options": [
+                    "6",
+                    "7",
+                    "5",
+                    "4"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which team won the most NBA championships as of 2024?",
+                "options": [
+                    "Los Angeles Lakers",
+                    "Chicago Bulls",
+                    "San Antonio Spurs",
+                    "Boston Celtics"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "What is the maximum number of players allowed on a basketball team roster in the NBA?",
+                "options": [
+                    "10",
+                    "14",
+                    "15",
+                    "12"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which NBA team is known for its 'Black Mamba' nickname?",
+                "options": [
+                    "Golden State Warriors",
+                    "Miami Heat",
+                    "Chicago Bulls",
+                    "Los Angeles Lakers"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "What is the official size of a basketball used in women’s professional leagues?",
+                "options": [
+                    "28.5 inches",
+                    "31.5 inches",
+                    "29.5 inches",
+                    "30.5 inches"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "How many points is a successful free throw worth?",
+                "options": [
+                    "3",
+                    "4",
+                    "2",
+                    "1"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which NBA team is known for its 'Big Three' era featuring Tim Duncan, Tony Parker, and Manu Ginóbili?",
+                "options": [
+                    "Los Angeles Lakers",
+                    "Boston Celtics",
+                    "San Antonio Spurs",
+                    "Miami Heat"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which famous basketball player was known for his 'Sky Hook' shot?",
+                "options": [
+                    "Shaquille O'Neal",
+                    "Hakeem Olajuwon",
+                    "Kareem Abdul-Jabbar",
+                    "Wilt Chamberlain"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What is the term for a violation where a player moves without dribbling the ball?",
+                "options": [
+                    "Foul",
+                    "Double Dribble",
+                    "Traveling",
+                    "Carry"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "In which international competition do national basketball teams compete every four years?",
+                "options": [
+                    "Asian Games",
+                    "FIBA Basketball World Cup",
+                    "Olympic Basketball Tournament",
+                    "EuroBasket"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which player is known for the nickname 'The Mailman'?",
+                "options": [
+                    "Karl Malone",
+                    "Scottie Pippen",
+                    "Dennis Rodman",
+                    "Charles Barkley"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What is the name of the shot taken from behind the three-point line?",
+                "options": [
+                    "Three-Pointer",
+                    "Jump Shot",
+                    "Layup",
+                    "Hook Shot"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What is the term for the act of blocking a shot from going into the basket?",
+                "options": [
+                    "Rebound",
+                    "Block",
+                    "Steal",
+                    "Assist"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which position is typically the best ball handler on the team?",
+                "options": [
+                    "Point Guard",
+                    "Small Forward",
+                    "Shooting Guard",
+                    "Center"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What is the maximum number of periods in an NBA game, including overtime?",
+                "options": [
+                    "5",
+                    "4",
+                    "6",
+                    "7"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which famous player is known for his 'Dream Shake' move?",
+                "options": [
+                    "Kareem Abdul-Jabbar",
+                    "Michael Jordan",
+                    "Larry Bird",
+                    "Hakeem Olajuwon"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "What is the name of the line that players must stand behind for a free throw?",
+                "options": [
+                    "Baseline",
+                    "Sideline",
+                    "Foul Line",
+                    "Three-Point Line"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What is the term for the period of time during which a player is not allowed to make a move or take a shot?",
+                "options": [
+                    "Traveling",
+                    "Timeout",
+                    "Free Throw",
+                    "Shot Clock"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which of the following is not a position in basketball?",
+                "options": [
+                    "Point Guard",
+                    "Power Forward",
+                    "Center Forward",
+                    "Shooting Guard"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What is the name of the court area where players take free throws?",
+                "options": [
+                    "Key",
+                    "Paint",
+                    "Perimeter",
+                    "Baseline"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What is the height of the backboard from the ground in meters?",
+                "options": [
+                    "3 meters",
+                    "2.5 meters",
+                    "3.2 meters",
+                    "2.7 meters"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which basketball league is considered the most prestigious professional league in the world?",
+                "options": [
+                    "WNBA",
+                    "NBA",
+                    "FIBA",
+                    "EuroLeague"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "How many players from each team are on the court during a basketball game?",
+                "options": [
+                    "5",
+                    "4",
+                    "7",
+                    "6"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What is the term for a move where a player jumps and catches the ball before it hits the rim or backboard?",
+                "options": [
+                    "Steal",
+                    "Assist",
+                    "Rebound",
+                    "Block"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which country is known for its dominant basketball teams in the Olympics and World Cup?",
+                "options": [
+                    "United States",
+                    "Spain",
+                    "Argentina",
+                    "France"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "In basketball, what is the term for the area directly in front of the basket where players often position themselves for rebounds?",
+                "options": [
+                    "The Key",
+                    "The Sideline",
+                    "The Perimeter",
+                    "The Paint"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which of the following is a violation that occurs when a player makes more than one movement without dribbling?",
+                "options": [
+                    "Carry",
+                    "Foul",
+                    "Traveling",
+                    "Double Dribble"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which position is generally responsible for guarding the opposing team’s best perimeter player?",
+                "options": [
+                    "Power Forward",
+                    "Small Forward",
+                    "Shooting Guard",
+                    "Point Guard"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What is the term for the line that separates the court from the area where spectators sit?",
+                "options": [
+                    "Baseline",
+                    "Three-Point Line",
+                    "Sideline",
+                    "Foul Line"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What is the name of the skill used to move the ball up the court by bouncing it repeatedly?",
+                "options": [
+                    "Passing",
+                    "Shooting",
+                    "Rebounding",
+                    "Dribbling"
+                ],
+                "answer": 3
+            }
+        ]
+    },
+    {
+        "title": "Sports Awards and Honors Quiz",
+        "questions": [
+            {
+                "question": "Who was the 1st recipient of the Major Dhyan Chand Khel Ratna Award (formerly Rajiv Gandhi Khel Ratna Award)?",
+                "options": [
+                    "Viswanathan Anand",
+                    "Chirag Shetty",
+                    "Satwiksairaj Rankireddy",
+                    "Abhinav Bindra"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Who is the youngest recipient of the Major Dhyan Chand Khel Ratna Award?",
+                "options": [
+                    "Abhinav Bindra",
+                    "Viswanathan Anand",
+                    "Satwiksairaj Rankireddy",
+                    "Chirag Shetty"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Who were the latest recipients of the Major Dhyan Chand Khel Ratna Award?",
+                "options": [
+                    "Karnam Malleshwar and Abhinav Bindra",
+                    "Viswanathan Anand and Abhinav Bindra",
+                    "Chirag Shetty and Satwiksairaj Rankireddy",
+                    "Chirag Shetty and Karnam Malleshwar"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Who was the 1st woman recipient of the Major Dhyan Chand Khel Ratna Award?",
+                "options": [
+                    "Karnam Malleshwar",
+                    "Satwiksairaj Rankireddy",
+                    "Abhinav Bindra",
+                    "Chirag Shetty"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "When was the Arjuna Award first introduced?",
+                "options": [
+                    "1960",
+                    "1962",
+                    "1961",
+                    "1950"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Who was the 1st woman to receive the Arjuna Award?",
+                "options": [
+                    "Karnam Malleshwar",
+                    "Meena Shah",
+                    "Hansa Sharma",
+                    "Nandu Natekar"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which athlete was honored with the Arjuna Award in the field of athletics?",
+                "options": [
+                    "Sharabjit Singh",
+                    "Nandu Natekar",
+                    "Gurbachan Singh Randhawa",
+                    "L. Buddy D’Souza"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Who received the Arjuna Award for badminton?",
+                "options": [
+                    "Sharabjit Singh",
+                    "Nandu Natekar",
+                    "L. Buddy D’Souza",
+                    "Gurbachan Singh Randhawa"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which sportsperson was awarded the Arjuna Award for basketball?",
+                "options": [
+                    "Manuel Aaron",
+                    "Gurbachan Singh Randhawa",
+                    "Sharabjit Singh",
+                    "L. Buddy D’Souza"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Who was honored with the Arjuna Award in boxing?",
+                "options": [
+                    "L. Buddy D’Souza",
+                    "Salim Durani",
+                    "Krishna Das",
+                    "O P Bhardwaj"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which sportsperson received the Arjuna Award for chess?",
+                "options": [
+                    "Shahanand Shetty",
+                    "Salim Durani",
+                    "Manuel Aaron",
+                    "Krishna Das"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Who was awarded the Arjuna Award for archery?",
+                "options": [
+                    "Manuel Aaron",
+                    "Krishna Das",
+                    "Gurbachan Singh Randhawa",
+                    "O P Bhardwaj"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which sportsperson received the Arjuna Award for cricket?",
+                "options": [
+                    "L. Buddy D’Souza",
+                    "Salim Durani",
+                    "Shahanand Shetty",
+                    "Nandu Natekar"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Who was honored with the Arjuna Award for kabaddi?",
+                "options": [
+                    "Gurbachan Singh Randhawa",
+                    "Meena Shah",
+                    "Shahanand Shetty",
+                    "Salim Durani"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Who was the first recipient of the Dronacharya Award in wrestling?",
+                "options": [
+                    "Hansa Sharma",
+                    "Bhalchandra Bhaskar Bhagwat",
+                    "O P Bhardwaj",
+                    "O M Nambiar"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which coach received the Dronacharya Award for boxing?",
+                "options": [
+                    "Hansa Sharma",
+                    "O M Nambiar",
+                    "O P Bhardwaj",
+                    "Bhalchandra Bhaskar Bhagwat"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Who was the first recipient of the Dronacharya Award in athletics?",
+                "options": [
+                    "Hansa Sharma",
+                    "O M Nambiar",
+                    "O P Bhardwaj",
+                    "Bhalchandra Bhaskar Bhagwat"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Who was the first woman to receive the Dronacharya Award?",
+                "options": [
+                    "Bhalchandra Bhaskar Bhagwat",
+                    "Hansa Sharma",
+                    "O M Nambiar",
+                    "O P Bhardwaj"
+                ],
+                "answer": 1
+            }
+        ]
+    }
+]

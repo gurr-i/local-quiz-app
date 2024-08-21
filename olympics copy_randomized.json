@@ -1,0 +1,1322 @@
+[
+  {
+    "title": "The Olympic Games Quiz",
+    "questions": [
+      {
+        "question": "Which city became the first to host both the Summer and Winter Olympics?",
+        "options": [
+          "Tokyo",
+          "Paris",
+          "Athens",
+          "Beijing"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "As of 2024, how many cities have hosted the Summer Olympics more than once?",
+        "options": [
+          "Eleven",
+          "Seven",
+          "Nine",
+          "Five"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Which city was the first to host three Olympic Games?",
+        "options": [
+          "London",
+          "Tokyo",
+          "Paris",
+          "Los Angeles"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Which two cities are scheduled to host the Winter Olympics after the 2022 Games in Beijing?",
+        "options": [
+          "Salt Lake City and Brisbane",
+          "Milan–Cortina d'Ampezzo and the French Alps",
+          "Salt Lake City and the French Alps",
+          "Milan and Los Angeles"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Which city hosted the 1912 Summer Olympics and also the equestrian portion of the 1956 Summer Olympics?",
+        "options": [
+          "Stockholm",
+          "Rome",
+          "London",
+          "Paris"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Which Olympic Games were the first to be postponed rather than cancelled?",
+        "options": [
+          "London 1948",
+          "Salt Lake City 2002",
+          "Tokyo 2020",
+          "Beijing 2008"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Which city will host the Summer Olympics in 2032?",
+        "options": [
+          "Salt Lake City",
+          "Los Angeles",
+          "Brisbane",
+          "Paris"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Which city hosted the Summer Olympics in 2004 and 1896?",
+        "options": [
+          "Tokyo",
+          "Athens",
+          "Paris",
+          "London"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "How many times have the Summer and Winter Games been held in the same year?",
+        "options": [
+          "Five",
+          "Nine",
+          "Three",
+          "Seven"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Which Olympic Games were the first to be fully selected under the Olympic Agenda 2020 process?",
+        "options": [
+          "2030 Winter Olympics",
+          "2026 Winter Olympics",
+          "2024 Summer Olympics",
+          "2032 Summer Olympics"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "Which city hosted the Winter Olympics in 1960 and the Summer Olympics in 1984?",
+        "options": [
+          "Squaw Valley",
+          "Salt Lake City",
+          "Los Angeles",
+          "Vancouver"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Which city hosted the Summer Olympics in 2000 and 1956?",
+        "options": [
+          "Rome",
+          "Sydney",
+          "Athens",
+          "Melbourne"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "Which city was the first to host the Olympics twice in the same year?",
+        "options": [
+          "Chamonix",
+          "Garmisch-Partenkirchen",
+          "St. Moritz",
+          "Paris"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Which city hosted the Winter Olympics in 1988 and the Summer Olympics in 1992?",
+        "options": [
+          "Lillehammer",
+          "Calgary",
+          "Albertville",
+          "Nagano"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Which city hosted the Summer Olympics in 1980 and the Winter Olympics in 1984?",
+        "options": [
+          "Sarajevo",
+          "Los Angeles",
+          "Moscow",
+          "Montreal"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Which city hosted the Winter Olympics in 2010 and the Summer Olympics in 2004?",
+        "options": [
+          "Sydney",
+          "Salt Lake City",
+          "Athens",
+          "Vancouver"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "Which city hosted the Summer Olympics in 2008 and the Winter Olympics in 2022?",
+        "options": [
+          "Beijing",
+          "Paris",
+          "Tokyo",
+          "London"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Which city is scheduled to host the Winter Olympics in 2026?",
+        "options": [
+          "Salt Lake City",
+          "Los Angeles",
+          "Milan–Cortina d'Ampezzo",
+          "Brisbane"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Which city hosted the Summer Olympics in 1932 and 1984?",
+        "options": [
+          "Paris",
+          "Rome",
+          "Tokyo",
+          "Los Angeles"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "Which city hosted the Winter Olympics in 1994 and the Summer Olympics in 1952?",
+        "options": [
+          "Oslo",
+          "Stockholm",
+          "Lillehammer",
+          "Grenoble"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Which city hosted the Summer Olympics in 1924 and the Winter Olympics in 1924?",
+        "options": [
+          "St. Moritz",
+          "Paris",
+          "Chamonix",
+          "Amsterdam"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Which city hosted the Winter Olympics in 2018 and the Summer Olympics in 2020?",
+        "options": [
+          "Beijing",
+          "Tokyo",
+          "Salt Lake City",
+          "Pyeongchang"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Which city was scheduled to host the Winter Olympics in 1940 but had its Games cancelled due to WWII?",
+        "options": [
+          "Cortina d'Ampezzo",
+          "Tokyo",
+          "Sapporo",
+          "Garmisch-Partenkirchen"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Which city is scheduled to host the Summer Olympics in 2036?",
+        "options": [
+          "Los Angeles",
+          "Brisbane",
+          "Paris",
+          "Salt Lake City"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "Which city hosted the Summer Olympics in 1988 and the Winter Olympics in 1994?",
+        "options": [
+          "Seoul",
+          "Barcelona",
+          "Lillehammer",
+          "Sydney"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Which city hosted the Summer Olympics in 1912 and the Winter Olympics in 1952?",
+        "options": [
+          "London",
+          "Oslo",
+          "Stockholm",
+          "Paris"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Which city hosted the Winter Olympics in 1964 and 1976?",
+        "options": [
+          "Lake Placid",
+          "Grenoble",
+          "Sarajevo",
+          "Innsbruck"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "Which city hosted the Summer Olympics in 2004 and 1896?",
+        "options": [
+          "Paris",
+          "London",
+          "Athens",
+          "Rome"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Which city hosted the Winter Olympics in 1984 and 1992?",
+        "options": [
+          "Nagano",
+          "Lillehammer",
+          "Albertville",
+          "Sarajevo"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "Which city was the first to host the Olympics after World War II?",
+        "options": [
+          "Helsinki",
+          "London",
+          "Oslo",
+          "Rome"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Which city hosted the Summer Olympics in 1960 and the Winter Olympics in 1984?",
+        "options": [
+          "Tokyo",
+          "Paris",
+          "Rome",
+          "Los Angeles"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "Which city hosted the Winter Olympics in 1976 and the Summer Olympics in 1992?",
+        "options": [
+          "Grenoble",
+          "Albertville",
+          "Sarajevo",
+          "Innsbruck"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "Which city hosted the Summer Olympics in 2024 and will also host the Winter Olympics in 2030?",
+        "options": [
+          "Los Angeles",
+          "Tokyo",
+          "London",
+          "Paris"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "Which city hosted the Winter Olympics in 2022 and the Summer Olympics in 2008?",
+        "options": [
+          "Tokyo",
+          "Salt Lake City",
+          "Beijing",
+          "Vancouver"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Which city hosted the Summer Olympics in 1924 and the Winter Olympics in 1968?",
+        "options": [
+          "St. Moritz",
+          "Paris",
+          "Chamonix",
+          "Grenoble"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Which city is scheduled to host the Winter Olympics in 2030?",
+        "options": [
+          "Los Angeles",
+          "Salt Lake City",
+          "Milan–Cortina d'Ampezzo",
+          "Brisbane"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Which city hosted the Summer Olympics in 1900 and 1924?",
+        "options": [
+          "Rome",
+          "Paris",
+          "Athens",
+          "London"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Which city hosted the Winter Olympics in 1956 and the Summer Olympics in 1960?",
+        "options": [
+          "Stockholm",
+          "Cortina d'Ampezzo",
+          "Oslo",
+          "Rome"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Which city hosted the Summer Olympics in 1988 and the Winter Olympics in 2018?",
+        "options": [
+          "Beijing",
+          "Pyeongchang",
+          "Tokyo",
+          "Seoul"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "Which city hosted the Winter Olympics in 1968 and the Summer Olympics in 1936?",
+        "options": [
+          "Grenoble",
+          "Berlin",
+          "Rome",
+          "Oslo"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Which city hosted the Summer Olympics in 1976 and the Winter Olympics in 1976?",
+        "options": [
+          "Innsbruck",
+          "Atlanta",
+          "Mexico City",
+          "Montreal"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Which city became the first to host both the Summer and Winter Olympics?",
+        "options": [
+          "Athens",
+          "Beijing",
+          "Paris",
+          "Tokyo"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "As of 2024, how many cities have hosted the Summer Olympics more than once?",
+        "options": [
+          "Nine",
+          "Five",
+          "Eleven",
+          "Seven"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Which city was the first to host three Olympic Games?",
+        "options": [
+          "Los Angeles",
+          "London",
+          "Tokyo",
+          "Paris"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Which two cities are scheduled to host the Winter Olympics after the 2022 Games in Beijing?",
+        "options": [
+          "Salt Lake City and the French Alps",
+          "Milan and Los Angeles",
+          "Salt Lake City and Brisbane",
+          "Milan–Cortina d'Ampezzo and the French Alps"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "Which city hosted the 1912 Summer Olympics and also the equestrian portion of the 1956 Summer Olympics?",
+        "options": [
+          "Paris",
+          "Rome",
+          "Stockholm",
+          "London"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Which Olympic Games were the first to be postponed rather than cancelled?",
+        "options": [
+          "Tokyo 2020",
+          "Salt Lake City 2002",
+          "Beijing 2008",
+          "London 1948"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Which city will host the Summer Olympics in 2032?",
+        "options": [
+          "Salt Lake City",
+          "Los Angeles",
+          "Paris",
+          "Brisbane"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "Which city hosted the Summer Olympics in 2004 and 1896?",
+        "options": [
+          "London",
+          "Paris",
+          "Athens",
+          "Tokyo"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "How many times have the Summer and Winter Games been held in the same year?",
+        "options": [
+          "Nine",
+          "Three",
+          "Seven",
+          "Five"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Which Olympic Games were the first to be fully selected under the Olympic Agenda 2020 process?",
+        "options": [
+          "2024 Summer Olympics",
+          "2026 Winter Olympics",
+          "2032 Summer Olympics",
+          "2030 Winter Olympics"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "How is the Olympic medal table sorted when prioritizing gold, silver, and then bronze medals?",
+        "options": [
+          "By sorting gold first, then silver, and bronze last",
+          "By sorting bronze first, then silver, and gold last",
+          "By sorting silver first, then bronze, and gold last",
+          "By sorting gold, silver, and bronze in any order"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Are revoked medals due to doping included in the Olympic medal table?",
+        "options": [
+          "Only if the medals were not redistributed",
+          "No",
+          "Only if the medals were recent",
+          "Yes"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "How many National Olympic Committees (NOCs) have participated in all 24 Winter Olympic Games up to 2022?",
+        "options": [
+          "15",
+          "10",
+          "20",
+          "12"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "As of the 2024 Summer Olympics, how many NOCs have participated in all 30 Summer Olympic Games?",
+        "options": [
+          "10",
+          "2",
+          "4",
+          "5"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Which of the following countries has a 100% participation rate in all 54 Olympic Games combined?",
+        "options": [
+          "Germany",
+          "Canada",
+          "USA",
+          "France"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "What is the total number of NOCs that have earned at least one medal in Olympic history?",
+        "options": [
+          "150",
+          "100",
+          "162",
+          "130"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "How are changes in medal standings due to doping cases accounted for in the medal table?",
+        "options": [
+          "They are accounted for up to a specific date",
+          "They are included if the medals are not redistributed",
+          "They are updated in the table",
+          "They are ignored"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Which Olympic Games are counted in the medal totals as of 11 August 2024?",
+        "options": [
+          "Only Summer Games up to 2024",
+          "All Games up to the 2022 Winter Olympics",
+          "All Games up to the 2024 Summer Olympics",
+          "Only Winter Games up to 2022"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Which countries missed a perfect participation record due to the 1980 Summer Olympics boycott?",
+        "options": [
+          "France, Great Britain, and Switzerland",
+          "Great Britain and Switzerland",
+          "France and Switzerland",
+          "France and Great Britain"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "When sorting by the total number of medals, which column is sorted last?",
+        "options": [
+          "Gold",
+          "Bronze",
+          "Total medals",
+          "Silver"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Which company first sponsored the Summer Olympics in 1928 and has remained an Olympic sponsor ever since?",
+        "options": [
+          "Pepsi",
+          "Coca-Cola",
+          "Oxo",
+          "Kodak"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "In which year did the IOC begin to explore the potential of television and lucrative advertising markets?",
+        "options": [
+          "1980",
+          "1984",
+          "1960",
+          "1972"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "Who was the IOC President that resisted commercial sponsorship and believed it would impact decision-making?",
+        "options": [
+          "Jacques Rogge",
+          "Thomas Bach",
+          "Juan Antonio Samaranch",
+          "Avery Brundage"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "What was the name of the programme established in 1985 to create an Olympic brand and manage sponsorship rights?",
+        "options": [
+          "The Olympic Sponsorship Programme",
+          "The Olympic Brand Initiative",
+          "The Olympic Programme (TOP)",
+          "The Olympic Marketing Plan"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "How much did the IOC have in assets when Avery Brundage retired in 1972?",
+        "options": [
+          "US$45 million",
+          "US$10 million",
+          "US$100 million",
+          "US$2 million"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "What was the surplus amount generated by the Los Angeles-based organizing committee for the 1984 Summer Olympics?",
+        "options": [
+          "US$300 million",
+          "US$150 million",
+          "US$225 million",
+          "US$100 million"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "How much did membership in The Olympic Programme (TOP) cost for a four-year period?",
+        "options": [
+          "US$30 million",
+          "US$75 million",
+          "US$50 million",
+          "US$25 million"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Which IOC President's leadership marked a shift towards international sponsors and commercialization of the Games?",
+        "options": [
+          "Jacques Rogge",
+          "Thomas Bach",
+          "Juan Antonio Samaranch",
+          "Avery Brundage"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "What did the exclusive sponsorship rights in the 1984 Summer Olympics help generate?",
+        "options": [
+          "A financial deficit",
+          "A small surplus",
+          "A moderate surplus",
+          "An unprecedented surplus"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "Which of the following companies was NOT an official sponsor in the early 1900s?",
+        "options": [
+          "Coca-Cola",
+          "Kodak",
+          "Indian Foot Powder",
+          "Oxo"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "title": "Olympic Games History Quiz",
+    "questions": [
+      {
+        "question": "Who was the founder of the International Olympic Committee (IOC)?",
+        "options": [
+          "Abhinav Bindra",
+          "Thomas Bach",
+          "Pierre de Coubertin",
+          "Demetrius Vikelas"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Where is the headquarters of the IOC located now?",
+        "options": [
+          "Lausanne, Switzerland",
+          "London, UK",
+          "Paris, France",
+          "Athens, Greece"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "What is the motto of the Olympics?",
+        "options": [
+          "Faster, Stronger, Together",
+          "Stronger, Higher, Together",
+          "Citius, Altius, Fortius - Communiter",
+          "Faster, Higher, Stronger"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "In which year were the first Summer Olympic Games held?",
+        "options": [
+          "1900",
+          "1960",
+          "1924",
+          "1896"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "Where were the first Winter Olympic Games held?",
+        "options": [
+          "Chamonix, France",
+          "Lake Placid, USA",
+          "Stockholm, Sweden",
+          "Oslo, Norway"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "In which city were the first Paralympic Games held?",
+        "options": [
+          "Rome, Italy",
+          "Tokyo, Japan",
+          "London, UK",
+          "Athens, Greece"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "When were the first Youth Summer Olympics held?",
+        "options": [
+          "2010",
+          "2008",
+          "2014",
+          "2012"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Which city hosted the first Youth Winter Olympics?",
+        "options": [
+          "Salt Lake City, USA",
+          "Innsbruck, Austria",
+          "Sochi, Russia",
+          "Vancouver, Canada"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Who was the 1st President of the IOC?",
+        "options": [
+          "Norman Pritchard",
+          "Pierre de Coubertin",
+          "Demetrius Vikelas",
+          "Thomas Bach"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Who designed the Olympic rings?",
+        "options": [
+          "Norman Pritchard",
+          "Demetrius Vikelas",
+          "Thomas Bach",
+          "Pierre de Coubertin"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "What is the correct order of the Olympic rings from left to right?",
+        "options": [
+          "Green, Yellow, Blue, Black, Red",
+          "Blue, Yellow, Black, Green, Red",
+          "Red, Blue, Yellow, Black, Green",
+          "Black, Red, Green, Yellow, Blue"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "How many member countries are there in the IOC as of 2024?",
+        "options": [
+          "106",
+          "150",
+          "120",
+          "100"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Which city is scheduled to host the 2024 Summer Olympics?",
+        "options": [
+          "Los Angeles, USA",
+          "Paris, France",
+          "Tokyo, Japan",
+          "Brisbane, Australia"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Where will the 2028 Summer Olympics be held?",
+        "options": [
+          "Paris, France",
+          "Beijing, China",
+          "Los Angeles, USA",
+          "Brisbane, Australia"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Which city will host the Summer Olympics in 2032?",
+        "options": [
+          "Tokyo, Japan",
+          "Los Angeles, USA",
+          "Paris, France",
+          "Brisbane, Australia"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "Which city has hosted the most number of Olympic Games?",
+        "options": [
+          "USA",
+          "Los Angeles",
+          "Paris",
+          "London"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Which Indian athlete won the first individual medal for India at the Olympics?",
+        "options": [
+          "Abhinav Bindra",
+          "Norman Pritchard",
+          "K.D. Jadhav",
+          "Neeraj Chopra"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Which Indian athlete won a gold medal in air rifle shooting at the 2008 Beijing Olympics?",
+        "options": [
+          "Vijay Kumar",
+          "Sushil Kumar",
+          "Neeraj Chopra",
+          "Abhinav Bindra"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "Who won the first gold medal for India in track and field events?",
+        "options": [
+          "Neeraj Chopra",
+          "Rajyavardhan Singh Rathore",
+          "Abhinav Bindra",
+          "Karnam Malleshwari"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Which Indian athlete won a bronze medal in weightlifting at the 2000 Sydney Olympics?",
+        "options": [
+          "Mary Kom",
+          "Sushil Kumar",
+          "Leander Paes",
+          "Karnam Malleshwari"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "Who is the current President of the IOC as of 2024?",
+        "options": [
+          "Pierre de Coubertin",
+          "Thomas Bach",
+          "Norman Pritchard",
+          "Demetrius Vikelas"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Who is the torch bearer for the 2024 Olympics?",
+        "options": [
+          "Saina Nehwal",
+          "Abhinav Bindra",
+          "Vijay Kumar",
+          "Neeraj Chopra"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Who is the flag bearer for India in the 2024 Olympics?",
+        "options": [
+          "Mary Kom",
+          "Neeraj Chopra",
+          "Abhinav Bindra",
+          "Achanta Sharath Kamal"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "Who was the first Indian woman to be a jury member in the Olympics?",
+        "options": [
+          "Mary Kom",
+          "Saina Nehwal",
+          "Bilquis Mir",
+          "Karnam Malleshwari"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Who won a bronze medal in wrestling at the 1952 Helsinki Olympics?",
+        "options": [
+          "Neeraj Chopra",
+          "K.D. Jadhav",
+          "Sushil Kumar",
+          "Abhinav Bindra"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Which Indian athlete won a bronze medal in the 1996 Olympics?",
+        "options": [
+          "Sushil Kumar",
+          "Leander Paes",
+          "Abhinav Bindra",
+          "Vijay Kumar"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Which Indian athlete won a silver medal in weightlifting at the 2016 Rio Olympics?",
+        "options": [
+          "Mirabai Chanu",
+          "PV Sindhu",
+          "Sakshi Malik",
+          "Karnam Malleshwari"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Who won a bronze medal in badminton at the 2016 Rio Olympics?",
+        "options": [
+          "PV Sindhu",
+          "Mary Kom",
+          "Saina Nehwal",
+          "Karnam Malleshwari"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Which Indian athlete won a gold medal in javelin throw at the 2021 Tokyo Olympics?",
+        "options": [
+          "Sushil Kumar",
+          "Abhinav Bindra",
+          "Neeraj Chopra",
+          "Vijay Kumar"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Which Indian athlete won a bronze medal in boxing at the 2021 Tokyo Olympics?",
+        "options": [
+          "Mary Kom",
+          "Saina Nehwal",
+          "Vijender Singh",
+          "Lovlina Borgohain"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "Who won a silver medal in wrestling at the 2021 Tokyo Olympics?",
+        "options": [
+          "Yogeshwar Dutt",
+          "Bajrang Punia",
+          "Sushil Kumar",
+          "Ravi Dahiya"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "Which Indian athlete won a bronze medal in boxing at the 2008 Beijing Olympics?",
+        "options": [
+          "Abhinav Bindra",
+          "Mary Kom",
+          "Sushil Kumar",
+          "Vijender Singh"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "Who won a silver medal in shooting at the 2004 Athens Olympics?",
+        "options": [
+          "Sushil Kumar",
+          "Rajyavardhan Singh Rathore",
+          "Abhinav Bindra",
+          "Karnam Malleshwari"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Which Indian athlete won a gold medal in weightlifting at the 2000 Sydney Olympics?",
+        "options": [
+          "Neeraj Chopra",
+          "PV Sindhu",
+          "Karnam Malleshwari",
+          "Leander Paes"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Who won a bronze medal in weightlifting at the 2000 Sydney Olympics?",
+        "options": [
+          "Karnam Malleshwari",
+          "PV Sindhu",
+          "Mary Kom",
+          "Leander Paes"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Which Indian athlete won a bronze medal in badminton at the 2012 London Olympics?",
+        "options": [
+          "PV Sindhu",
+          "Mary Kom",
+          "Saina Nehwal",
+          "Karnam Malleshwari"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Which city hosted the Summer Olympics in 1900 and 1924?",
+        "options": [
+          "Athens, Greece",
+          "Rome, Italy",
+          "London, UK",
+          "Paris, France"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "Which city hosted the Winter Olympics in 1968 and the Summer Olympics in 1936?",
+        "options": [
+          "Berlin, Germany",
+          "Rome, Italy",
+          "Grenoble, France",
+          "Oslo, Norway"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Which city hosted the Summer Olympics in 1976 and the Winter Olympics in 1976?",
+        "options": [
+          "Montreal, Canada",
+          "Innsbruck, Austria",
+          "Atlanta, USA",
+          "Mexico City, Mexico"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Which city hosted the Winter Olympics in 1956 and the Summer Olympics in 1960?",
+        "options": [
+          "Oslo, Norway",
+          "Stockholm, Sweden",
+          "Cortina d'Ampezzo, Italy",
+          "Rome, Italy"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Which city hosted the Summer Olympics in 1988 and the Winter Olympics in 2018?",
+        "options": [
+          "Tokyo, Japan",
+          "Pyeongchang, South Korea",
+          "Seoul, South Korea",
+          "Beijing, China"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Which city is scheduled to host the Winter Olympics in 2030?",
+        "options": [
+          "Brisbane, Australia",
+          "Salt Lake City, USA",
+          "Milan–Cortina d'Ampezzo, Italy",
+          "Los Angeles, USA"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Which city hosted the Winter Olympics in 1924?",
+        "options": [
+          "Chamonix, France",
+          "Vancouver, Canada",
+          "Lake Placid, USA",
+          "St. Moritz, Switzerland"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Which city hosted the Summer Olympics in 1904?",
+        "options": [
+          "Berlin, Germany",
+          "Paris, France",
+          "London, UK",
+          "St. Louis, USA"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "Which country has hosted the Olympic Games the most number of times?",
+        "options": [
+          "Germany",
+          "UK",
+          "USA",
+          "France"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "What does the Olympic motto 'Citius, Altius, Fortius - Communiter' mean?",
+        "options": [
+          "Stronger, Faster, Together",
+          "Stronger, Higher, Faster - United",
+          "Faster, Higher, Together",
+          "Faster, Higher, Stronger - Together"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "In which year were the first Youth Winter Olympics held?",
+        "options": [
+          "2008",
+          "2010",
+          "2014",
+          "2012"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "Which Indian athlete won the first gold medal in athletics at the Olympics?",
+        "options": [
+          "Abhinav Bindra",
+          "Sushil Kumar",
+          "Vijay Kumar",
+          "Neeraj Chopra"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "Who was the Indian athlete to win a bronze medal in the 2004 Athens Olympics?",
+        "options": [
+          "Sushil Kumar",
+          "Abhinav Bindra",
+          "Rajyavardhan Singh Rathore",
+          "Leander Paes"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Which Indian athlete won the first medal for India in the 2016 Rio Olympics?",
+        "options": [
+          "Mirabai Chanu",
+          "PV Sindhu",
+          "Leander Paes",
+          "Sakshi Malik"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "Who is the only Indian to win a gold medal in track and field at the Olympics?",
+        "options": [
+          "Rajyavardhan Singh Rathore",
+          "Vijay Kumar",
+          "Sushil Kumar",
+          "Neeraj Chopra"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "Which Indian athlete won a bronze medal in badminton at the 2016 Rio Olympics?",
+        "options": [
+          "PV Sindhu",
+          "Mary Kom",
+          "Leander Paes",
+          "Saina Nehwal"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "Which Indian athlete won a bronze medal in boxing at the 2021 Tokyo Olympics?",
+        "options": [
+          "Saina Nehwal",
+          "Lovlina Borgohain",
+          "Vijender Singh",
+          "Mary Kom"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Which Indian athlete won a silver medal in wrestling at the 2021 Tokyo Olympics?",
+        "options": [
+          "Ravi Dahiya",
+          "Sushil Kumar",
+          "Yogeshwar Dutt",
+          "Bajrang Punia"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Which Indian athlete won a gold medal in shooting at the 2008 Beijing Olympics?",
+        "options": [
+          "Abhinav Bindra",
+          "Sushil Kumar",
+          "Rajyavardhan Singh Rathore",
+          "Vijay Kumar"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Which Indian athlete won a bronze medal in weightlifting at the 2000 Sydney Olympics?",
+        "options": [
+          "Mary Kom",
+          "Karnam Malleshwari",
+          "Neeraj Chopra",
+          "Leander Paes"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Which Indian athlete won a silver medal in weightlifting at the 2016 Rio Olympics?",
+        "options": [
+          "PV Sindhu",
+          "Mirabai Chanu",
+          "Vijender Singh",
+          "Sakshi Malik"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Who was the Indian athlete to win a bronze medal in the 2021 Tokyo Olympics?",
+        "options": [
+          "PV Sindhu",
+          "Neeraj Chopra",
+          "Bajrang Punia",
+          "Lovlina Borgohain"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "Which city hosted the Summer Olympics in 2004?",
+        "options": [
+          "Beijing, China",
+          "Sydney, Australia",
+          "Athens, Greece",
+          "London, UK"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Which Indian athlete won a bronze medal in javelin throw at the 2021 Tokyo Olympics?",
+        "options": [
+          "Sushil Kumar",
+          "Vijay Kumar",
+          "Rajyavardhan Singh Rathore",
+          "Neeraj Chopra"
+        ],
+        "answer": 3
+      }
+    ]
+  }
+]
