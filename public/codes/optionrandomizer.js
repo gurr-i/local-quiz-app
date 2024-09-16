@@ -1,12 +1,12 @@
 const fs = require("fs");
 const path = require("path");
 
-const filePath = "./public/olympics copy.json";
+const filePath = "./public/quizdata/Polity200.json";
 const fileName = path.basename(filePath, path.extname(filePath));
 
-console.log(fileName); // Output: olympics copy.json
+console.log(fileName); // Output: current_affairs_quiz
 
-var jsonData = {};
+let jsonData = {};
 
 // Read the file synchronously
 try {
@@ -18,6 +18,25 @@ try {
 }
 
 const quizData = jsonData;
+
+// Function to remove duplicate questions
+function removeDuplicateQuestions(data) {
+  const uniqueQuestions = [];
+  const questionSet = new Set();
+
+  data.forEach((quiz) => {
+    const uniqueQuiz = { ...quiz, questions: [] };
+    quiz.questions.forEach((questionObj) => {
+      if (!questionSet.has(questionObj.question)) {
+        questionSet.add(questionObj.question);
+        uniqueQuiz.questions.push(questionObj);
+      }
+    });
+    uniqueQuestions.push(uniqueQuiz);
+  });
+
+  return uniqueQuestions;
+}
 
 // Function to shuffle array elements and return the new index of the original element
 function shuffleOptions(options, correctAnswerIndex) {
@@ -49,14 +68,17 @@ function randomizeQuizData(data) {
   });
 }
 
+// Remove duplicate questions from the quiz data
+const uniqueQuizData = removeDuplicateQuestions(jsonData);
+
 // Randomize the quiz data
-randomizeQuizData(quizData);
+randomizeQuizData(uniqueQuizData);
 
 // Save the updated quiz data to a file
 fs.writeFileSync(
   fileName + "_randomized.json",
-  JSON.stringify(quizData, null, 2),
+  JSON.stringify({ title: jsonData.title, questions: uniqueQuizData }, null, 2),
   "utf-8"
 );
 
-console.log("Quiz data randomized and saved to $(fileName)_randomized.json");
+console.log(`Quiz data randomized and saved to ${fileName}_randomized.json`);
