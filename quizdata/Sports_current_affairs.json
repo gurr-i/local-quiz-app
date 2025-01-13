@@ -1,0 +1,1057 @@
+[
+    {
+        "title": "Sports Quiz 2024",
+        "questions": [
+            {
+                "question": "Where was the 6th edition of Khelo India Youth Games 2023 held?",
+                "options": [
+                    "Kolkata",
+                    "Delhi",
+                    "Chennai",
+                    "Mumbai"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which city was NOT one of the host cities for the Khelo India Youth Games 2023?",
+                "options": [
+                    "Hyderabad",
+                    "Coimbatore",
+                    "Madurai",
+                    "Chennai"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What was the mascot of Khelo India Youth Games 2023?",
+                "options": [
+                    "Veermangai",
+                    "Thiruvalluvar",
+                    "Pearl",
+                    "Ujjawala"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which sport was added for the first time in Khelo India Youth Games 2023?",
+                "options": [
+                    "Badminton",
+                    "Basketball",
+                    "Hockey",
+                    "Squash"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Who won the most gold medals in Khelo India Youth Games 2023?",
+                "options": [
+                    "Delhi",
+                    "Tamil Nadu",
+                    "Haryana",
+                    "Maharashtra"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which state was the runner-up in Khelo India Youth Games 2023?",
+                "options": [
+                    "Tamil Nadu",
+                    "Maharashtra",
+                    "Haryana",
+                    "Karnataka"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What is the mascot for the Khelo India Winter Games 2024?",
+                "options": [
+                    "Pearl",
+                    "Sheen-e-She",
+                    "Ujjawala",
+                    "Veermangai"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "In which location was the 2nd phase of Khelo India Winter Games 2024 held?",
+                "options": [
+                    "Chennai",
+                    "Delhi",
+                    "Leh, Ladakh",
+                    "Gulmarg, J&K"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Who won the most gold medals in Khelo India Winter Games 2024?",
+                "options": [
+                    "J&K",
+                    "Maharashtra",
+                    "Indian Army",
+                    "Karnataka"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which sport is included in Khelo India Para Games 2023?",
+                "options": [
+                    "Swimming",
+                    "All of the above",
+                    "Basketball",
+                    "Athletics"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What is the mascot for Khelo India Para Games 2023?",
+                "options": [
+                    "Veermangai",
+                    "Sheen-e-She",
+                    "Ujjawala",
+                    "Pearl"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which city hosted the Khelo India Para Games 2023?",
+                "options": [
+                    "Mumbai",
+                    "Chennai",
+                    "Coimbatore",
+                    "Delhi"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "What was the date range for the Khelo India Beach Games 2024?",
+                "options": [
+                    "1-7 Jan 2024",
+                    "2-6 Feb 2024",
+                    "10-17 Dec 2023",
+                    "4-11 Jan 2024"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Who was the winner of the 1st edition of Khelo India Beach Games 2024?",
+                "options": [
+                    "Diu",
+                    "Madhya Pradesh",
+                    "Goa",
+                    "Gujarat"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which country hosted the ISSF Shooting World Cup?",
+                "options": [
+                    "Japan",
+                    "China",
+                    "India",
+                    "Egypt"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Who won the gold medal in the 10m air rifle at the ISSF Shooting World Cup?",
+                "options": [
+                    "Divyansh Singh Pawar",
+                    "Sonam Maskar",
+                    "Rythm Sangwan",
+                    "Sarabjot Singh"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which player won the FIFA men’s player award in 2024?",
+                "options": [
+                    "Lionel Messi",
+                    "Robert Lewandowski",
+                    "Cristiano Ronaldo",
+                    "Kylian Mbappé"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Who won the ICC Men's ODI Cricketer of the Year award in 2023?",
+                "options": [
+                    "Virat Kohli",
+                    "Pat Cummins",
+                    "Rachin Ravindra",
+                    "Suryakumar Yadav"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which team won the 77th Santosh Trophy 2023-24?",
+                "options": [
+                    "Goa",
+                    "Kerala",
+                    "Services",
+                    "Kolkata"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which state won the most gold medals in Khelo India Para Games 2023?",
+                "options": [
+                    "Uttar Pradesh",
+                    "Tamil Nadu",
+                    "Maharashtra",
+                    "Haryana"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "What is the slogan for the Winter Asian Games 2025?",
+                "options": [
+                    "Dream of Winter, Love among Asia",
+                    "Winter Dreams, Asian Spirit",
+                    "Winter Joys, Asian Pride",
+                    "Asia's Winter Wonderland"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Where will the Winter Asian Games 2025 be held?",
+                "options": [
+                    "Harbin, China",
+                    "Tokyo, Japan",
+                    "Beijing, China",
+                    "Seoul, South Korea"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which team won the FIH Hockey 5s World Cup 2024 for men?",
+                "options": [
+                    "Malaysia",
+                    "India",
+                    "Netherlands",
+                    "Australia"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Who won the gold medal in men’s flyweight at the 75th Strandja Memorial Tournament?",
+                "options": [
+                    "Vikas Krishan",
+                    "Satish Kumar",
+                    "Amit Panghal",
+                    "Manoj Kumar"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which player won the Australian Open 2024 in the men’s singles category?",
+                "options": [
+                    "Novak Djokovic",
+                    "Jannik Sinner",
+                    "Rafael Nadal",
+                    "Carlos Alcaraz"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Who won the women’s singles category at the Australian Open 2024?",
+                "options": [
+                    "Aryna Sabalenka",
+                    "Elena Rybakina",
+                    "Iga Swiatek",
+                    "Naomi Osaka"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which player became the fastest to score 10,000 runs in international cricket?",
+                "options": [
+                    "Rohit Sharma",
+                    "Babar Azam",
+                    "Virat Kohli",
+                    "Chris Gayle"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which Indian player became the first pacer to achieve No.1 ranking in all three formats of cricket?",
+                "options": [
+                    "Bhuvneshwar Kumar",
+                    "Ishant Sharma",
+                    "Jasprit Bumrah",
+                    "Mohammed Shami"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Who won the 1st edition of the Khelo India Universe Games 2023?",
+                "options": [
+                    "Guru Nanak University",
+                    "Jadavpur University",
+                    "Lovely Professional University",
+                    "Chandigarh University"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "What was the mascot for the Khelo India Universe Games 2023?",
+                "options": [
+                    "Ujjawala",
+                    "Pearl",
+                    "Ashtalakshmi",
+                    "Veermangai"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which team won the Pro Kabaddi League 2023-24?",
+                "options": [
+                    "Dabang Delhi",
+                    "Puneri Paltan",
+                    "Bengal Warriors",
+                    "U Mumba"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Who won the Nagesh Trophy for the Blind in Men’s National T20 cricket tournament 2023-24?",
+                "options": [
+                    "Delhi",
+                    "Maharashtra",
+                    "Karnataka",
+                    "Andhra Pradesh"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which Indian archer was awarded the Breakthrough Archer of the Year 2023?",
+                "options": [
+                    "Aditi Swami",
+                    "Pravin Jadhav",
+                    "Deepika Kumari",
+                    "Atanu Das"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which team won the most number of medals at the 75th Strandja Memorial Tournament?",
+                "options": [
+                    "India",
+                    "Kazakhstan",
+                    "Bulgaria",
+                    "Russia"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which team won the 1st edition of the FIH Hockey 5s World Cup for women?",
+                "options": [
+                    "India",
+                    "Netherlands",
+                    "Australia",
+                    "Malaysia"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Who won the gold medal in the 10m air pistol at the ISSF Shooting World Cup?",
+                "options": [
+                    "Sonam Maskar",
+                    "Divyansh Singh Pawar",
+                    "Sarabjot Singh",
+                    "Rythm Sangwan & Ujjwal Malik"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Who was the chef de mission for India at the Paris Olympics 2024?",
+                "options": [
+                    "Abhinav Bindra",
+                    "Gagan Narang",
+                    "P.V. Sindhu",
+                    "Sharath Kamal"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Who was the torch bearer for the Paris Olympics 2024?",
+                "options": [
+                    "Gagan Narang",
+                    "P.V. Sindhu",
+                    "Sharath Kamal",
+                    "Abhinav Bindra"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Who was the winner of the 2024 Badminton Asia Team Championships for women?",
+                "options": [
+                    "Japan",
+                    "Thailand",
+                    "China",
+                    "India"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Who hit the fastest century in T20 internationals?",
+                "options": [
+                    "Rohit Sharma",
+                    "Chris Gayle",
+                    "Jan Nicol Loftie-Eaton",
+                    "AB de Villiers"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Who won the gold medal at The Zagreb Open 2023?",
+                "options": [
+                    "Sushil Kumar",
+                    "Aman Sehrawat",
+                    "Vijender Singh",
+                    "Deepak Punia"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which Indian tennis player became the first in 35 years to beat a seed at a Grand Slam?",
+                "options": [
+                    "Sumit Nagal",
+                    "Leander Paes",
+                    "Nikhat Zareen",
+                    "Mahesh Bhupathi"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which company won the IPL sponsorship rights for 5 years?",
+                "options": [
+                    "Tata Group",
+                    "Reliance",
+                    "Nike",
+                    "Adidas"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Who became the 2nd Indian to win Gold at the Asian Marathon Championship?",
+                "options": [
+                    "Man Singh",
+                    "Rajesh Kumar",
+                    "K. Ramesh",
+                    "Sunil Kumar"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which player holds the record for the most number of sixes in international cricket?",
+                "options": [
+                    "Rohit Sharma",
+                    "Chris Gayle",
+                    "MS Dhoni",
+                    "AB de Villiers"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Who won the gold medal in men’s double category at the Australian Open 2024?",
+                "options": [
+                    "Nick Kyrgios & Thanasi Kokkinakis",
+                    "Roger Federer & Rafael Nadal",
+                    "Leander Paes & Mahesh Bhupathi",
+                    "Rohan Bopanna & Mathew Ebden"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Who won the 1st edition of the Khelo India Beach Games 2024?",
+                "options": [
+                    "Diu",
+                    "Gujarat",
+                    "Madhya Pradesh",
+                    "Goa"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which Indian pacer achieved No.1 ranking in all three formats of cricket?",
+                "options": [
+                    "Jasprit Bumrah",
+                    "Mohammed Shami",
+                    "Bhuvneshwar Kumar",
+                    "Ishant Sharma"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which player won the ICC Women's T20I Cricketer of the Year 2023 award?",
+                "options": [
+                    "Hayley Matthews",
+                    "Ellyse Perry",
+                    "Nai Sciver-Brunt",
+                    "Chamari Attapattu"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Who won the ICC Women's ODI Cricketer of the Year 2023 award?",
+                "options": [
+                    "Nai Sciver-Brunt",
+                    "Ellyse Perry",
+                    "Meg Lanning",
+                    "Chamari Attapattu"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Who was awarded the ICC Sir Garfield Sobers Trophy for Best Cricketer in 2023?",
+                "options": [
+                    "Virat Kohli",
+                    "Steve Smith",
+                    "Babar Azam",
+                    "Pat Cummins"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which team won the Khelo India Universe Games 2023?",
+                "options": [
+                    "Chandigarh University",
+                    "Lovely Professional University",
+                    "Guru Nanak University",
+                    "Jadavpur University"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Who was the mascot for the Khelo India Youth Games 2023?",
+                "options": [
+                    "Thiruvalluvar",
+                    "Veermangai",
+                    "Pearl",
+                    "Ujjawala"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Who won the silver medal in the 10m air rifle at the ISSF Shooting World Cup?",
+                "options": [
+                    "Divyansh Singh Pawar",
+                    "Sarabjot Singh",
+                    "Sonam Maskar",
+                    "Rythm Sangwan"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which player won the ICC Men's T20I Cricketer of the Year 2023 award?",
+                "options": [
+                    "Virat Kohli",
+                    "Suryakumar Yadav",
+                    "Babar Azam",
+                    "Rachin Ravindra"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Who won the ICC Men's Test Cricketer of the Year 2023 award?",
+                "options": [
+                    "Virat Kohli",
+                    "Usman Khawaja",
+                    "Pat Cummins",
+                    "Steve Smith"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which Indian player became the first in 35 years to beat a seed at a Grand Slam?",
+                "options": [
+                    "Mahesh Bhupathi",
+                    "Sumit Nagal",
+                    "Nikhat Zareen",
+                    "Leander Paes"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which Indian player hit 6 sixes in an over during the Colonel CK Naidu Trophy?",
+                "options": [
+                    "Rohit Sharma",
+                    "Yuvraj Singh",
+                    "Vamshhi Krishna",
+                    "MS Dhoni"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Who won the gold medal in the men’s flyweight category at the 75th Strandja Memorial Tournament?",
+                "options": [
+                    "Vikas Krishan",
+                    "Manoj Kumar",
+                    "Amit Panghal",
+                    "Satish Kumar"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which Indian tennis player became the first to beat a seed at a Grand Slam in 35 years?",
+                "options": [
+                    "Sumit Nagal",
+                    "Mahesh Bhupathi",
+                    "Leander Paes",
+                    "Nikhat Zareen"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Who won the BCCI Polly Umrigar Award for Best International Cricketer?",
+                "options": [
+                    "Shubman Gill",
+                    "Rachin Ravindra",
+                    "Deepti Sharma",
+                    "Virat Kohli"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Who won the ICC Women's T20I Cricketer of the Year 2023 award?",
+                "options": [
+                    "Hayley Matthews",
+                    "Nai Sciver-Brunt",
+                    "Ellyse Perry",
+                    "Chamari Attapattu"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which Indian cricketer has the record for most number of sixes?",
+                "options": [
+                    "MS Dhoni",
+                    "AB de Villiers",
+                    "Chris Gayle",
+                    "Rohit Sharma"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Who won the title of Best Cricketer in ICC Awards 2023?",
+                "options": [
+                    "Virat Kohli",
+                    "Pat Cummins",
+                    "Babar Azam",
+                    "Steve Smith"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which team won the most medals at the 75th Strandja Memorial Tournament?",
+                "options": [
+                    "Russia",
+                    "Bulgaria",
+                    "Kazakhstan",
+                    "India"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Who was awarded the Breakthrough Archer of the Year 2023 by World Archery?",
+                "options": [
+                    "Deepika Kumari",
+                    "Atanu Das",
+                    "Pravin Jadhav",
+                    "Aditi Swami"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which player won the Australian Open men’s doubles category in 2024?",
+                "options": [
+                    "Nick Kyrgios & Thanasi Kokkinakis",
+                    "Roger Federer & Rafael Nadal",
+                    "Leander Paes & Mahesh Bhupathi",
+                    "Rohan Bopanna & Mathew Ebden"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Who won the gold medal in men’s flyweight category at the 75th Strandja Memorial Tournament?",
+                "options": [
+                    "Manoj Kumar",
+                    "Vikas Krishan",
+                    "Amit Panghal",
+                    "Satish Kumar"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Who became the youngest Olympian medallist at The Zagreb Open 2023?",
+                "options": [
+                    "Aman Sehrawat",
+                    "Sushil Kumar",
+                    "Vijender Singh",
+                    "Deepak Punia"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which company secured the IPL sponsorship rights for 5 years?",
+                "options": [
+                    "Nike",
+                    "Adidas",
+                    "Reliance",
+                    "Tata Group"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Who won the Nagesh Trophy for the Blind in Men's National T20 Cricket Tournament 2023-24?",
+                "options": [
+                    "Delhi",
+                    "Karnataka",
+                    "Maharashtra",
+                    "Andhra Pradesh"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Who was the mascot for the Khelo India Beach Games 2024?",
+                "options": [
+                    "Pearl",
+                    "Veermangai",
+                    "Ujjawala",
+                    "Ashtalakshmi"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which state won the 1st edition of Khelo India Beach Games 2024?",
+                "options": [
+                    "Diu",
+                    "Goa",
+                    "Madhya Pradesh",
+                    "Gujarat"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which player won the ICC Men’s Test Cricketer of the Year 2023?",
+                "options": [
+                    "Virat Kohli",
+                    "Usman Khawaja",
+                    "Pat Cummins",
+                    "Steve Smith"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Who was the mascot for the Khelo India Universe Games 2023?",
+                "options": [
+                    "Veermangai",
+                    "Ujjawala",
+                    "Ashtalakshmi",
+                    "Pearl"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Who won the ICC Men's T20I Cricketer of the Year 2023 award?",
+                "options": [
+                    "Rachin Ravindra",
+                    "Suryakumar Yadav",
+                    "Chris Gayle",
+                    "Babar Azam"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Who was the flag bearer for India at the Paris Olympics 2024?",
+                "options": [
+                    "Sharath Kamal and PV Sindhu",
+                    "PV Sindhu and Gagan Narang",
+                    "Abhinav Bindra and PV Sindhu",
+                    "Sharath Kamal and Abhinav Bindra"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Who was the Chef de Mission for the Indian team at the Paris Olympics 2024?",
+                "options": [
+                    "Gagan Narang",
+                    "Sharath Kamal",
+                    "Abhinav Bindra",
+                    "PV Sindhu"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Who was the torch bearer for the Indian team at the Paris Olympics 2024?",
+                "options": [
+                    "Abhinav Bindra",
+                    "PV Sindhu",
+                    "Gagan Narang",
+                    "Sharath Kamal"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which team won the 2023-24 Pro Kabaddi League?",
+                "options": [
+                    "Puneri Paltan",
+                    "U Mumba",
+                    "Gujarat Giants",
+                    "Bengal Warriors"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Who won the Nagesh Trophy for the Blind in Men's National T20 cricket tournament 2023-24?",
+                "options": [
+                    "Andhra Pradesh",
+                    "Karnataka",
+                    "Maharashtra",
+                    "Delhi"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Who was named the Breakthrough Archer of the Year 2023 by World Archery?",
+                "options": [
+                    "Deepika Kumari",
+                    "Aditi Swami",
+                    "Atanu Das",
+                    "Pravin Jadhav"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which Indian pacer became the first to achieve No.1 ranking in all three formats of cricket?",
+                "options": [
+                    "Ishant Sharma",
+                    "Bhuvneshwar Kumar",
+                    "Mohammed Shami",
+                    "Jasprit Bumrah"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which team won the 4th title at the U-19 World Cup?",
+                "options": [
+                    "England",
+                    "India",
+                    "Australia",
+                    "Pakistan"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Who holds the record for the most number of sixes in international cricket?",
+                "options": [
+                    "Rohit Sharma",
+                    "Chris Gayle",
+                    "MS Dhoni",
+                    "AB de Villiers"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What was India’s biggest win against England in terms of runs?",
+                "options": [
+                    "298 runs",
+                    "372 runs",
+                    "434 runs",
+                    "310 runs"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which team won the gold medal in the Badminton Asia Team Championships 2024?",
+                "options": [
+                    "China Women's Team",
+                    "Thailand Women's Team",
+                    "India Women's Team",
+                    "Japan Women's Team"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Who was the quickest to score 10,000 runs in international cricket?",
+                "options": [
+                    "Rohit Sharma",
+                    "Chris Gayle",
+                    "Virat Kohli",
+                    "Babar Azam"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Who hit the fastest century in T20 internationals in just 33 balls?",
+                "options": [
+                    "Rohit Sharma",
+                    "Chris Gayle",
+                    "AB de Villiers",
+                    "Jan Nicol Loftei-Eaton"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which player hit six sixes in an over during the Colonel CK Naidu Trophy?",
+                "options": [
+                    "Vamshhi Krishna",
+                    "Yuvraj Singh",
+                    "MS Dhoni",
+                    "Rohit Sharma"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which group secured the IPL sponsorship rights for 5 years for $300 million?",
+                "options": [
+                    "Tata Group",
+                    "Adidas",
+                    "Nike",
+                    "Reliance"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Who is the second Indian to win gold at the Asian Marathon Championship?",
+                "options": [
+                    "Baba Ramdev",
+                    "Man Singh",
+                    "Sandeep Kumar",
+                    "Milkha Singh"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Who received BCCI’s Polly Umrigar Award for Best International Cricketer?",
+                "options": [
+                    "Rohit Sharma & Harmanpreet Kaur",
+                    "Shubman Gill & Deepti Sharma",
+                    "Jasprit Bumrah & Mithali Raj",
+                    "Virat Kohli & Smriti Mandhana"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Who are the four astronauts announced by PM Modi for the Gaganyaan mission?",
+                "options": [
+                    "Suresh Patel, Ajit Kumar, Angad Singh, Subhanshu Nair",
+                    "Prasanth B. Nair, Ajit Krishnan, Angad Pratap, Subhanshu Shukla",
+                    "Ravi Kumar, Ajit Kumar, Angad Sharma, Subhanshu Patel",
+                    "Rajesh Kumar, Ajit Singh, Anil Patel, Subhanshu Sharma"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What is the name of the rocket for the Gaganyaan mission?",
+                "options": [
+                    "GSLV Mk III",
+                    "RLV-TD",
+                    "HLVM3",
+                    "PSLV XL"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What international organization was launched by PM Modi with its headquarters in Delhi?",
+                "options": [
+                    "Global Animal Welfare Organization",
+                    "International Big Cat Alliance (IBCA)",
+                    "Global Wildlife Protection Council",
+                    "International Tiger Conservation Foundation"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which fast breeder reactor was inaugurated by PM Modi in Kalpakkam, Tamil Nadu?",
+                "options": [
+                    "PHWR (Pressurized Heavy Water Reactor)",
+                    "BWR (Boiling Water Reactor)",
+                    "PFBR (Prototype Fast Breeder Reactor)",
+                    "FBR (Fast Breeder Reactor)"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Where did PM Modi lay the foundation stone for the Talabira Thermal Power Plant?",
+                "options": [
+                    "Tamil Nadu",
+                    "Odisha",
+                    "Karnataka",
+                    "West Bengal"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Where is the new permanent IIM campus inaugurated by PM Modi located?",
+                "options": [
+                    "Rourkela",
+                    "Kolkata",
+                    "Bhubaneswar",
+                    "Sambalpur"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "What is the name of the scheme launched by PM Modi to provide free electricity to 1 crore households?",
+                "options": [
+                    "Surya Garh",
+                    "Shakti Scheme",
+                    "Bijli Yojana",
+                    "Ujjwala Scheme"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Where was the first Hindu temple in Abu Dhabi inaugurated by PM Modi?",
+                "options": [
+                    "Shiv Mandir",
+                    "ISKCON Temple",
+                    "Shri Ram Temple",
+                    "BAPS Temple"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which statue was inaugurated by PM Modi in Varanasi?",
+                "options": [
+                    "Mahatma Gandhi",
+                    "Sant Ravidas",
+                    "Jawaharlal Nehru",
+                    "Swami Vivekananda"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What is the name of India’s longest cable-stayed bridge inaugurated by PM Modi?",
+                "options": [
+                    "Vikas Setu",
+                    "Bharat Setu",
+                    "Rama Setu",
+                    "Sudarshan Setu"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "What railway station's foundation stone was laid by PM Modi in Sikkim?",
+                "options": [
+                    "Pelling",
+                    "Gangtok",
+                    "Namchi",
+                    "Rangpo"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "What technology was used in the first on-grid solar project dedicated by PM Modi in Kavaratti, Lakshadweep?",
+                "options": [
+                    "Grid Energy Storage System (GESS)",
+                    "Hybrid Solar Storage System (HSS)",
+                    "Solar Battery Technology (SBT)",
+                    "Battery Energy Storage System (BESS)"
+                ],
+                "answer": 3
+            }
+        ]
+    }
+]
