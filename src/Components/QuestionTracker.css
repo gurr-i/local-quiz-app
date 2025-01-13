@@ -1,0 +1,34 @@
+.question-tracker {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 20px 0;
+  gap: 10px;
+}
+
+.tracker-item {
+  width: 30px;
+  height: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 14px;
+  font-weight: bold;
+  background-color: #f4f4f4;
+}
+
+.tracker-item.correct {
+  background-color: #4caf50; /* Green */
+  color: #fff;
+}
+
+.tracker-item.wrong {
+  background-color: #f44336; /* Red */
+  color: #fff;
+}
+
+.tracker-item.unanswered {
+  background-color: #ffc107; /* Yellow */
+  color: #fff;
+}

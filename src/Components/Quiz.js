@@ -1,42 +1,68 @@
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, useMemo } from "react";
 import { useParams, Link } from "react-router-dom";
 import Question from "./Question";
 import "./Quiz.css";
+import QuestionTracker from "./QuestionTracker";
+import QuizCompleted from "./QuizCompleted";
+import { Button, Card, Typography, Spin } from "antd";
+
+const { Title, Paragraph } = Typography;
 const config = require("../configvariable");
 
 function Quiz() {
-  const { id } = useParams();
-  const [quizData, setQuizData] = useState({});
+  const { id, subcategory } = useParams();
+  const [quizData, setQuizData] = useState(null);
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
   const [selectedOption, setSelectedOption] = useState(null);
   const [showAnswer, setShowAnswer] = useState(false);
   const [userAnswers, setUserAnswers] = useState([]);
   const [error, setError] = useState(null);
+  const [timer, setTimer] = useState(30);
+  const [totalTime, setTotalTime] = useState(0);
+  const [reviewMode, setReviewMode] = useState(false);
 
   useEffect(() => {
-    fetch(config.QUIZPATH)
+    const quizPath = config.QUIZPATHS[id]?.[subcategory];
+    if (!quizPath) {
+      setError("Invalid category or subcategory.");
+      return;
+    }
+
+    fetch(quizPath)
       .then((response) => {
         if (!response.ok) {
-          throw new Error(`HTTP error! status: ${response.status}`);
+          throw new Error(`HTTP error! Status: ${response.status}`);
         }
         return response.json();
       })
       .then((data) => {
-        if (Array.isArray(data) && data[id]) {
-          setQuizData(data[id]);
+        if (Array.isArray(data)) {
+          setQuizData(data[0]);
         } else {
-          throw new Error("Invalid quiz data or ID");
+          throw new Error("Invalid quiz data format");
         }
       })
       .catch((error) => {
-        console.error("There was a problem with the fetch operation:", error);
-        setError(error.message);
+        setError(`Error fetching quizzes: ${error.message}`);
       });
-  }, [id]);
+  }, [id, subcategory]);
+
+  useEffect(() => {
+    const countdown = setInterval(() => {
+      setTimer((prev) => {
+        if (prev <= 1) {
+          handleNextQuestion();
+          return 30;
+        }
+        return prev - 1;
+      });
+    }, 1000);
+
+    return () => clearInterval(countdown);
+  }, [currentQuestionIndex]);
 
   const handleOptionClick = (index) => {
     if (selectedOption === null) {
-      // Prevent re-selection
       setSelectedOption(index);
       setShowAnswer(true);
       setUserAnswers((prevAnswers) => {
@@ -45,65 +71,64 @@ function Quiz() {
           index,
           ...prevAnswers.slice(currentQuestionIndex + 1),
         ];
-        // console.log("Updated User Answers:", updatedAnswers);
         return updatedAnswers;
       });
     }
   };
 
   const handleNextQuestion = () => {
+    if (!quizData?.questions || quizData.questions.length === 0) return;
+
+    setTotalTime((prevTime) => prevTime + (30 - timer));
+
     if (currentQuestionIndex < quizData.questions.length - 1) {
       setSelectedOption(null);
       setShowAnswer(false);
       setCurrentQuestionIndex((prev) => prev + 1);
+      setTimer(30);
     } else {
-      // Ensure final answers are updated before finishing
       if (selectedOption !== null) {
-        setUserAnswers((prevAnswers) => [
-          ...prevAnswers.slice(0, currentQuestionIndex),
-          selectedOption,
-        ]);
+        setUserAnswers((prevAnswers) => {
+          const updatedAnswers = [...prevAnswers];
+          updatedAnswers[currentQuestionIndex] = selectedOption;
+          return updatedAnswers;
+        });
       }
-      // console.log("Final User Answers before completion:", userAnswers);
     }
   };
 
-  const calculateScore = () => {
-    const { questions } = quizData;
-    const answeredQuestions = userAnswers.slice(0, questions.length);
-    const correctAnswers = answeredQuestions.filter(
-      (answer, index) => answer === questions[index]?.answer
+  const toggleReviewMode = () => {
+    setReviewMode(!reviewMode);
+  };
+
+  const score = useMemo(() => {
+    return userAnswers.filter(
+      (answer, index) => answer === quizData?.questions[index]?.answer
     ).length;
+  }, [userAnswers, quizData]);
 
-    // console.log("User Answers:", userAnswers);
-    // console.log("Questions:", questions);
-    // console.log("Calculated Score:", correctAnswers);
-
-    return correctAnswers;
-  };
-
-  const calculateAccuracy = () => {
-    const { questions } = quizData;
-    const totalQuestions = questions.length;
-    const answeredQuestions = userAnswers.slice(0, totalQuestions);
-    const score = calculateScore();
-
-    // console.log("Total Questions:", totalQuestions);
-    // console.log("Answered Questions:", answeredQuestions.length);
-    // console.log(
-    //   "Calculated Accuracy:",
-    //   (score / answeredQuestions.length) * 100
-    // );
-
-    return totalQuestions > 0 ? (score / answeredQuestions.length) * 100 : 0;
-  };
+  const calculateAccuracy = useMemo(() => {
+    const totalQuestions = quizData?.questions.length || 0;
+    return totalQuestions > 0 ? (score / totalQuestions) * 100 : 0;
+  }, [score, quizData]);
 
   if (error) {
-    return <div className="quiz-container">Error: {error}</div>;
+    return (
+      <div className="quiz-container">
+        <Typography.Title level={4} type="danger">
+          Error: {error}
+        </Typography.Title>
+      </div>
+    );
   }
 
-  if (!quizData.questions) {
-    return <div className="quiz-container">Loading...</div>;
+  if (!quizData?.questions) {
+    return (
+      <div className="quiz-container">
+        <Spin size="large" />
+        <p>Loading...</p>
+      </div>
+    );
   }
 
   const { questions } = quizData;
@@ -116,40 +141,91 @@ function Quiz() {
       <Link to="/" className="home-button">
         Home
       </Link>
-      <h1 className="quiz-title">{quizData.title}</h1>
-      {isQuizCompleted ? (
-        <div className="quiz-completed">
-          <h2>Quiz Completed!</h2>
-          <p>
-            Your score: {calculateScore()} / {questions.length}
-          </p>
-          <p>Accuracy: {calculateAccuracy().toFixed(2)}%</p>
+      <Title level={1}>{quizData.title}</Title>
+      <div className="question-tracker">
+        {questions.map((question, index) => {
+          const isCorrect = userAnswers[index] === question.answer;
+          return (
+            <div
+              key={index}
+              className={`tracker-item ${isCorrect ? "correct" : "wrong"} ${
+                userAnswers[index] == null ? "unanswered" : ""
+              }`}
+            >
+              {index + 1}
+            </div>
+          );
+        })}
+      </div>
+
+      {reviewMode ? (
+        <div className="quiz-review">
+          <Card className="review-card" bordered={false}>
+            <Title level={2}>Review Your Answers</Title>
+            {questions.map((question, index) => (
+              <Card
+                key={index}
+                className="review-item"
+                style={{ marginBottom: 20 }}
+              >
+                <Paragraph>
+                  <strong>Q{index + 1}:</strong> {question.question}
+                </Paragraph>
+                <Paragraph>
+                  <strong>Your Answer:</strong>{" "}
+                  {question.options[userAnswers[index]] || "Not Answered"}
+                </Paragraph>
+                <Paragraph>
+                  <strong>Correct Answer:</strong>{" "}
+                  {question.options[question.answer]}
+                </Paragraph>
+              </Card>
+            ))}
+            <Button
+              type="dashed"
+              size="large"
+              onClick={toggleReviewMode}
+              style={{ width: "100%" }}
+            >
+              Back to Results
+            </Button>
+          </Card>
         </div>
+      ) : isQuizCompleted ? (
+        <QuizCompleted
+          score={score}
+          questions={questions}
+          accuracy={calculateAccuracy}
+          totalTime={totalTime}
+          toggleReviewMode={toggleReviewMode}
+        />
       ) : (
         <>
           <p>
             Question {currentQuestionIndex + 1} of {questions.length}
           </p>
+          <p>Time Remaining: {timer}s</p>
           {currentQuestion ? (
             <Question
               question={currentQuestion}
               selectedOption={selectedOption}
               onOptionClick={handleOptionClick}
               showAnswer={showAnswer}
-              correctAnswer={currentQuestion.answer} // Pass the correct answer index
+              correctAnswer={currentQuestion.answer}
             />
           ) : (
             <div>Loading...</div>
           )}
-          <button
-            className="next-button"
+          <Button
+            type="primary"
             onClick={handleNextQuestion}
             disabled={!showAnswer}
+            style={{ marginTop: "10px" }}
           >
             {currentQuestionIndex === questions.length - 1
               ? "Submit Quiz"
               : "Next Question"}
-          </button>
+          </Button>
         </>
       )}
     </div>
