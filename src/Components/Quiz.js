@@ -20,31 +20,34 @@ function Quiz() {
   const [timer, setTimer] = useState(30);
   const [totalTime, setTotalTime] = useState(0);
   const [reviewMode, setReviewMode] = useState(false);
+  const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    const quizPath = config.QUIZPATHS[id]?.[subcategory];
-    if (!quizPath) {
-      setError("Invalid category or subcategory.");
-      return;
-    }
-
-    fetch(quizPath)
-      .then((response) => {
-        if (!response.ok) {
-          throw new Error(`HTTP error! Status: ${response.status}`);
+    const fetchData = async () => {
+      try {
+        const quizPath = config.QUIZPATHS[id]?.[subcategory];
+        if (!quizPath) {
+          throw new Error("Quiz not found.");
         }
-        return response.json();
-      })
-      .then((data) => {
+        const fullUrl = `${config.BASE_URL}${quizPath}`;
+        const response = await fetch(fullUrl);
+        if (!response.ok) {
+          throw new Error(`Failed to fetch quiz data: ${response.status}`);
+        }
+        const data = await response.json();
         if (Array.isArray(data)) {
           setQuizData(data[0]);
         } else {
           throw new Error("Invalid quiz data format");
         }
-      })
-      .catch((error) => {
-        setError(`Error fetching quizzes: ${error.message}`);
-      });
+      } catch (err) {
+        setError(err.message);
+      } finally {
+        setLoading(false);
+      }
+    };
+
+    fetchData();
   }, [id, subcategory]);
 
   useEffect(() => {
@@ -118,6 +121,18 @@ function Quiz() {
         <Typography.Title level={4} type="danger">
           Error: {error}
         </Typography.Title>
+        <Link to="/local-quiz-app/Home" className="home-button">
+          Go Back to Home
+        </Link>
+      </div>
+    );
+  }
+
+  if (loading) {
+    return (
+      <div className="quiz-container">
+        <Spin size="large" />
+        <p>Loading quiz data...</p>
       </div>
     );
   }
@@ -125,8 +140,12 @@ function Quiz() {
   if (!quizData?.questions) {
     return (
       <div className="quiz-container">
-        <Spin size="large" />
-        <p>Loading...</p>
+        <Typography.Title level={4} type="danger">
+          No quiz data found.
+        </Typography.Title>
+        <Link to="/local-quiz-app/Home" className="home-button">
+          Go Back to Home
+        </Link>
       </div>
     );
   }
@@ -138,7 +157,7 @@ function Quiz() {
 
   return (
     <div className="quiz-container">
-      <Link to="/" className="home-button">
+      <Link to="/local-quiz-app/Home" className="home-button">
         Home
       </Link>
       <Title level={1}>{quizData.title}</Title>

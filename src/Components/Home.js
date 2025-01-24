@@ -7,6 +7,8 @@ const { Title, Text } = Typography;
 const { Search } = Input;
 const { Option } = Select;
 
+// const { BASE_URL, QUIZPATHS } = require("../configvariable");
+
 const config = require("../configvariable");
 
 function Home() {
@@ -32,7 +34,7 @@ function Home() {
 
     // Construct the quiz path
     const quizPath = config.QUIZPATHS[selectedCategory][selectedSubcategory];
-    const fullUrl = window.location.origin + quizPath;
+    const fullUrl = `${config.BASE_URL}${quizPath}`;
 
     // For debugging: log the correct URL you're trying to fetch
     console.log("Fetching quiz data from:", fullUrl);
@@ -138,7 +140,7 @@ function Home() {
                 >
                   <Button type="primary" block>
                     <Link
-                      to={`/quiz/${selectedCategory}/${selectedSubcategory}`}
+                      to={`/local-quiz-app/quiz/${selectedCategory}/${selectedSubcategory}`}
                     >
                       Start Quiz
                     </Link>

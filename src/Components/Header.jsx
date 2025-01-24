@@ -12,13 +12,13 @@ function AppHeader() {
       </div>
       <Menu theme="dark" mode="horizontal" defaultSelectedKeys={["1"]}>
         <Menu.Item key="1">
-          <Link to="/">Home</Link>
+          <Link to="/local-quiz-app/Home">Home</Link>
         </Menu.Item>
         <Menu.Item key="2">
-          <Link to="/about">About</Link>
+          <Link to="/local-quiz-app/about">About</Link>
         </Menu.Item>
         <Menu.Item key="3">
-          <Link to="/contact">Contact</Link>
+          <Link to="/local-quiz-app/contact">Contact</Link>
         </Menu.Item>
       </Menu>
     </Header>

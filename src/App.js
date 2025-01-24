@@ -6,20 +6,35 @@ import Quiz from "./Components/Quiz";
 import AppHeader from "./Components/Header";
 import AppFooter from "./Components/Footer";
 import "./App.css"; // Add your custom styles here
-// import QuizContainer from "./Components/Quiz/QuizContainer";
+
+// Constants for routes (to avoid hardcoding paths)
+const ROUTES = {
+  HOME: "/",
+  QUIZ: "/local-quiz-app/quiz/:id/:subcategory",
+};
 
 function App() {
   return (
     <Router>
       <Layout style={{ minHeight: "100vh" }}>
+        {/* Header */}
         <AppHeader />
+
+        {/* Main Content */}
         <Layout.Content style={{ padding: "20px" }}>
           <Routes>
-            <Route path="/" element={<Home />} />
-            <Route path="/quiz/:id/:subcategory" element={<Quiz />} />
-            {/* <Route path="/quiz/:id/:subcategory" element={<QuizContainer />} /> */}
+            {/* Home Route */}
+            <Route path={ROUTES.HOME} element={<Home />} />
+
+            {/* Quiz Route */}
+            <Route path={ROUTES.QUIZ} element={<Quiz />} />
+
+            {/* Fallback Route (e.g., for 404 pages) */}
+            <Route path="*" element={<Home />} />
           </Routes>
         </Layout.Content>
+
+        {/* Footer */}
         <AppFooter />
       </Layout>
     </Router>
