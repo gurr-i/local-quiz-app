@@ -49,7 +49,7 @@ function Quiz() {
     };
 
     fetchData();
-  }, [id, subcategory]);
+  }, [id, subcategory, handleNextQuestion]);
 
   useEffect(() => {
     const countdown = setInterval(() => {
@@ -170,9 +170,8 @@ function Quiz() {
           return (
             <div
               key={index}
-              className={`tracker-item ${isCorrect ? "correct" : "wrong"} ${
-                userAnswers[index] == null ? "unanswered" : ""
-              }`}
+              className={`tracker-item ${isCorrect ? "correct" : "wrong"} ${userAnswers[index] == null ? "unanswered" : ""
+                }`}
             >
               {index + 1}
             </div>
