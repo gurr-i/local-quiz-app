@@ -1,35 +1,33 @@
 const BASE_URL = "https://gurr-i.github.io/local-quiz-app";
-// const BASE_URL = "../..";
 
 const QUIZPATHS = {
   polity: {
-    polity100: "/quizdata/Polity100.json",
-    polity200: "/quizdata/Polity200.json",
+    polity100: "/quizdata/Polity/Polity100.json",
+    polity200: "/quizdata/Polity/Polity200.json",
   },
   currentAffairs: {
-    general: "/quizdata/current_affairs_quiz.json",
-    sports: "/quizdata/Sports_current_affairs.json",
+    general: "/quizdata/CurrentAffairs/current_affairs_quiz.json",
+    sports: "/quizdata/CurrentAffairs/Sports_current_affairs.json",
   },
   sports: {
-    olympics: "/quizdata/olympics.json",
-    generalSports: "/quizdata/sports_quiz_data.json",
+    olympics: "/quizdata/Sports/olympics.json",
+    generalSports: "/quizdata/Sports/sports_quiz_data.json",
   },
   organizations: {
-    general: "/quizdata/organizations_quizdata.json",
+    general: "/quizdata/Organizations/organizations_quizdata.json",
   },
-  general: {
-    quizData: "/quizdata/quizData.json",
+  staticsGk: {
+    quiz1: "/quizdata/StaticsGk/statics_gk_quiz1.json",
+    quiz2: "/quizdata/StaticsGk/statics_gk_quiz2.json",
   },
   history: {
-    // Add paths for quizzes inside the History folder
     historyQuiz1: "/quizdata/History/Indus Valley Civilisation.json",
     historyQuiz2: "/quizdata/History/Jainism and Buddhism.json",
     historyQuiz3: "/quizdata/History/Stone_age.json",
     historyQuiz4: "/quizdata/History/Vedic Age.json",
-    // Add more as needed
   },
   sample: {
-    sampleQuiz: "/quizdata/testquiz.json",
+    sampleQuiz1: "/quizdata/Sample/testquiz.json",
   },
 };
 

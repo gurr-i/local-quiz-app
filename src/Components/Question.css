@@ -1,43 +1,113 @@
+/* General Styling */
+.question-container {
+  background: #ffffff;
+  padding: 20px;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  margin-bottom: 20px;
+  animation: fadeIn 0.5s ease-in-out;
+}
+
+.question-container h2 {
+  font-size: 1.5rem;
+  color: #2c3e50;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.options-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
 .option {
+  display: block;
+  background: #f5f7fa;
+  border: 2px solid #3498db;
+  border-radius: 10px;
+  margin: 10px 0;
+  padding: 15px;
   cursor: pointer;
-  padding: 10px;
-  border: 1px solid #ffffff;
-  margin: 5px 0;
-  border-radius: 5px;
-  background-color: #ffffff;
-  transition: all 0.3s ease;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-  transform: perspective(1px) translateZ(0);
+  font-size: 1rem;
+  color: #2c3e50;
+  transition: background 0.3s ease, transform 0.3s ease, border-color 0.3s ease;
 }
 
 .option:hover {
-  background-color: #e3e7fe;
-  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.2);
-  transform: translateY(-2px);
-}
-
-.option:active {
-  background-color: #d0d0d0;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
-  transform: translateY(2px);
+  background: #3498db;
+  color: white;
+  transform: translateX(10px);
 }
 
 .option.selected {
-  background: #488ad194;
+  background: #3498db;
   color: white;
+  border-color: #2980b9;
 }
 
 .option.correct {
-  background-color: #d4edda;
-  border-color: #c3e6cb;
+  background: #2ecc71;
+  border-color: #27ae60;
+  color: white;
+  animation: bounce 0.5s ease-in-out;
 }
 
 .option.wrong {
-  background-color: #f8d7da;
-  border-color: #f5c6cb;
+  background: #e74c3c;
+  border-color: #c0392b;
+  color: white;
+  animation: shake 0.5s ease-in-out;
 }
 
-.option.wrong.selected {
-  background: #589be394;
-  color: white;
+/* Animations */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes bounce {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.1);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+@keyframes shake {
+  0% {
+    transform: translateX(0);
+  }
+  25% {
+    transform: translateX(-5px);
+  }
+  50% {
+    transform: translateX(5px);
+  }
+  75% {
+    transform: translateX(-5px);
+  }
+  100% {
+    transform: translateX(0);
+  }
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .question-container h2 {
+    font-size: 1.2rem;
+  }
+
+  .option {
+    padding: 10px;
+    font-size: 0.9rem;
+  }
 }

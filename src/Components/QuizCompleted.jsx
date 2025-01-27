@@ -31,7 +31,7 @@ function QuizCompleted({
 }) {
   // Data for the bar chart
   //   const score = calculateScore();
-//   const accuracy = calculateAccuracy().toFixed(2);
+  //   const accuracy = calculateAccuracy().toFixed(2);
 
   const data = {
     labels: ["Accuracy"],
@@ -101,6 +101,13 @@ function QuizCompleted({
       <div className="chart-container">
         <Bar data={data2} options={options} />
       </div>
+      <Button
+        type="primary"
+        size="large"
+        onClick={() => window.location.reload()}
+      >
+        Retake Quiz
+      </Button>
 
       {/* Review Button */}
       <Button

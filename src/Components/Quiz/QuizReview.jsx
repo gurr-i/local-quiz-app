@@ -1,4 +1,5 @@
 import React from "react";
+import "./QuizReview.css"; // Import the fancy CSS
 
 function QuizReview({ questions, userAnswers, toggleReviewMode }) {
   return (

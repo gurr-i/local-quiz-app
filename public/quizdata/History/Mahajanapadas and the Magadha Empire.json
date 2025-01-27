@@ -1,0 +1,407 @@
+[
+    {
+        "title": "Mahajanapadas and Magadha Empire Quiz",
+        "questions": [
+            {
+                "question": "What is the term used for the tribes in ancient India?",
+                "options": [
+                    "Jana",
+                    "Janapada",
+                    "Mahajanapada",
+                    "Gana"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What does 'Janapada' refer to?",
+                "options": [
+                    "A tribe",
+                    "A kingdom",
+                    "A place where tribes settled",
+                    "A religious text"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "How many Mahajanapadas were there in ancient India?",
+                "options": [
+                    "12",
+                    "16",
+                    "18",
+                    "20"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which text mentions 40 Janapadas?",
+                "options": [
+                    "Anguttara Nikaya",
+                    "Digha Nikaya",
+                    "Ashtadhyayi",
+                    "Bhagavathi Sutra"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which Buddhist text mentions 16 Mahajanapadas?",
+                "options": [
+                    "Anguttara Nikaya",
+                    "Digha Nikaya",
+                    "Ashtadhyayi",
+                    "Bhagavathi Sutra"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which of the following was a republic Mahajanapada?",
+                "options": [
+                    "Magadha",
+                    "Kuru",
+                    "Vajji",
+                    "Kamboja"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which river is associated with the city of Varanasi?",
+                "options": [
+                    "Ganga",
+                    "Yamuna",
+                    "Varuna",
+                    "Shipra"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What was the capital of Magadha during Bimbisara's reign?",
+                "options": [
+                    "Pataliputra",
+                    "Rajgriha",
+                    "Vaishali",
+                    "Taxila"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which dynasty ruled Magadha after the Haryanka dynasty?",
+                "options": [
+                    "Nanda",
+                    "Shishunaga",
+                    "Maurya",
+                    "Gupta"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Who was the founder of the Haryanka dynasty?",
+                "options": [
+                    "Bimbisara",
+                    "Ajatshatru",
+                    "Udayin",
+                    "Mahapadmananda"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "How did Bimbisara expand his kingdom?",
+                "options": [
+                    "Through wars",
+                    "Through diplomacy and marriages",
+                    "Through trade",
+                    "Through religious conversions"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Who was the physician sent by Bimbisara to Ujjain?",
+                "options": [
+                    "Charaka",
+                    "Sushruta",
+                    "Jivaka",
+                    "Dhanvantari"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Who killed Bimbisara?",
+                "options": [
+                    "Ajatshatru",
+                    "Udayin",
+                    "Mahapadmananda",
+                    "Dhanananda"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which city did Udayin make the capital of Magadha?",
+                "options": [
+                    "Rajgriha",
+                    "Pataliputra",
+                    "Vaishali",
+                    "Taxila"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Who defeated the Avanti kingdom and merged it with Magadha?",
+                "options": [
+                    "Bimbisara",
+                    "Ajatshatru",
+                    "Shishunaga",
+                    "Mahapadmananda"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Who patronized the 2nd Buddhist Council?",
+                "options": [
+                    "Bimbisara",
+                    "Ajatshatru",
+                    "Kalashoka",
+                    "Chandragupta Maurya"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Who was the founder of the Nanda dynasty?",
+                "options": [
+                    "Bimbisara",
+                    "Ajatshatru",
+                    "Mahapadmananda",
+                    "Dhanananda"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What was the title of Mahapadmananda?",
+                "options": [
+                    "Ekrat",
+                    "Chakravartin",
+                    "Maharaja",
+                    "Samrat"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Who was the last ruler of the Nanda dynasty?",
+                "options": [
+                    "Bimbisara",
+                    "Ajatshatru",
+                    "Mahapadmananda",
+                    "Dhanananda"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "During whose reign did Alexander invade India?",
+                "options": [
+                    "Bimbisara",
+                    "Ajatshatru",
+                    "Mahapadmananda",
+                    "Dhanananda"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which battle was fought between Alexander and Porus?",
+                "options": [
+                    "Battle of Hydaspes",
+                    "Battle of Kalinga",
+                    "Battle of Plassey",
+                    "Battle of Panipat"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What type of coins were used during the Mahajanapada period?",
+                "options": [
+                    "Gold coins",
+                    "Punched mark silver coins",
+                    "Copper coins",
+                    "Bronze coins"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What was the term for village headmen in ancient India?",
+                "options": [
+                    "Gahapati",
+                    "Bhojaka",
+                    "Shaulkika",
+                    "Shulkadhyaksha"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What was the tax paid by peasants to the king?",
+                "options": [
+                    "1/4th of their produce",
+                    "1/6th of their produce",
+                    "1/8th of their produce",
+                    "1/10th of their produce"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What was the term for rich peasants in ancient India?",
+                "options": [
+                    "Gahapati",
+                    "Bhojaka",
+                    "Shaulkika",
+                    "Shulkadhyaksha"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What was the term for voluntary offerings to the king?",
+                "options": [
+                    "Bali",
+                    "Shulka",
+                    "Bhaga",
+                    "Kara"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Who collected toll taxes in ancient India?",
+                "options": [
+                    "Gahapati",
+                    "Bhojaka",
+                    "Shaulkika",
+                    "Shulkadhyaksha"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which dynasty succeeded the Nanda dynasty?",
+                "options": [
+                    "Haryanka",
+                    "Shishunaga",
+                    "Maurya",
+                    "Gupta"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Who founded the Mauryan dynasty?",
+                "options": [
+                    "Bimbisara",
+                    "Ajatshatru",
+                    "Chandragupta Maurya",
+                    "Ashoka"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What was the primary metal used for tools and weapons during the Mahajanapada period?",
+                "options": [
+                    "Copper",
+                    "Bronze",
+                    "Iron",
+                    "Gold"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What was the term for black metal in ancient India?",
+                "options": [
+                    "Krishna Ayas",
+                    "Shyam Ayas",
+                    "Lohit Ayas",
+                    "Tamra Ayas"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which river is associated with the city of Ujjain?",
+                "options": [
+                    "Ganga",
+                    "Yamuna",
+                    "Shipra",
+                    "Narmada"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which Mahajanapada was located in the south of the Ganga?",
+                "options": [
+                    "Kuru",
+                    "Vajji",
+                    "Magadha",
+                    "Kashi"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which Mahajanapada was known for its republican form of government?",
+                "options": [
+                    "Magadha",
+                    "Kuru",
+                    "Vajji",
+                    "Kamboja"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which Mahajanapada was located in the Punjab region?",
+                "options": [
+                    "Kuru",
+                    "Kamboja",
+                    "Vajji",
+                    "Magadha"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which Mahajanapada was associated with the Lichchavi clan?",
+                "options": [
+                    "Magadha",
+                    "Vajji",
+                    "Kuru",
+                    "Kamboja"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which Mahajanapada was located in the Deccan region?",
+                "options": [
+                    "Assaka",
+                    "Magadha",
+                    "Kuru",
+                    "Vajji"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which Mahajanapada was associated with the city of Taxila?",
+                "options": [
+                    "Gandhara",
+                    "Magadha",
+                    "Kuru",
+                    "Vajji"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which Mahajanapada was associated with the city of Ayodhya?",
+                "options": [
+                    "Kashi",
+                    "Kosala",
+                    "Magadha",
+                    "Vajji"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which Mahajanapada was associated with the city of Vaishali?",
+                "options": [
+                    "Magadha",
+                    "Vajji",
+                    "Kuru",
+                    "Kamboja"
+                ],
+                "answer": 1
+            }
+        ]
+    }
+]

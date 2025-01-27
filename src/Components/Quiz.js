@@ -1,10 +1,11 @@
 import React, { useState, useEffect, useMemo } from "react";
 import { useParams, Link } from "react-router-dom";
 import Question from "./Question";
-import "./Quiz.css";
+import "./Quiz.css"; // Import updated CSS for fancy styling
 import QuestionTracker from "./QuestionTracker";
 import QuizCompleted from "./QuizCompleted";
 import { Button, Card, Typography, Spin } from "antd";
+import backgroundImage from "../assets/5442676.jpg"; // Import the image
 
 const { Title, Paragraph } = Typography;
 const config = require("../configvariable");
@@ -117,7 +118,10 @@ function Quiz() {
 
   if (error) {
     return (
-      <div className="quiz-container">
+      <div
+        className="quiz-container"
+        style={{ backgroundImage: `url(${backgroundImage})` }}
+      >
         <Typography.Title level={4} type="danger">
           Error: {error}
         </Typography.Title>
@@ -131,7 +135,7 @@ function Quiz() {
   if (loading) {
     return (
       <div className="quiz-container">
-        <Spin size="large" />
+        <Spin size="large" className="loading-spinner" />
         <p>Loading quiz data...</p>
       </div>
     );
@@ -157,10 +161,9 @@ function Quiz() {
 
   return (
     <div className="quiz-container">
-      <Link to="/local-quiz-app/Home" className="home-button">
-        Home
-      </Link>
-      <Title level={1}>{quizData.title}</Title>
+      <Title level={1} className="quiz-title">
+        {quizData.title}
+      </Title>
       <div className="question-tracker">
         {questions.map((question, index) => {
           const isCorrect = userAnswers[index] === question.answer;
@@ -220,10 +223,10 @@ function Quiz() {
         />
       ) : (
         <>
-          <p>
+          <p className="question-info">
             Question {currentQuestionIndex + 1} of {questions.length}
           </p>
-          <p>Time Remaining: {timer}s</p>
+          <p className="timer">Time Remaining: {timer}s</p>
           {currentQuestion ? (
             <Question
               question={currentQuestion}
@@ -239,7 +242,7 @@ function Quiz() {
             type="primary"
             onClick={handleNextQuestion}
             disabled={!showAnswer}
-            style={{ marginTop: "10px" }}
+            className="next-button"
           >
             {currentQuestionIndex === questions.length - 1
               ? "Submit Quiz"

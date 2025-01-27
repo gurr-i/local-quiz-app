@@ -1,0 +1,397 @@
+[
+    {
+        "title": "Mauryan Empire Quiz",
+        "questions": [
+            {
+                "question": "Which text is attributed to Kautilya?",
+                "options": [
+                    "Mudrarakshasa",
+                    "Arthashastra",
+                    "Indica",
+                    "Jataka Tales"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Who wrote 'Mudrarakshasa'?",
+                "options": [
+                    "Kautilya",
+                    "Vishakhadatta",
+                    "Megasthenes",
+                    "Ashoka"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which Greek ambassador wrote 'Indica'?",
+                "options": [
+                    "Kautilya",
+                    "Vishakhadatta",
+                    "Megasthenes",
+                    "Seleucus Nicator"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "According to the Puranas, which varna did Chandragupta Maurya belong to?",
+                "options": [
+                    "Brahmin",
+                    "Kshatriya",
+                    "Vaishya",
+                    "Shudra"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "According to the Junagarh Rock Inscription, which varna did Chandragupta Maurya belong to?",
+                "options": [
+                    "Brahmin",
+                    "Kshatriya",
+                    "Vaishya",
+                    "Shudra"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Who was the last ruler of the Nanda dynasty?",
+                "options": [
+                    "Bimbisara",
+                    "Ajatshatru",
+                    "Dhanananda",
+                    "Mahapadmananda"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Who founded the Mauryan Empire?",
+                "options": [
+                    "Bindusara",
+                    "Ashoka",
+                    "Chandragupta Maurya",
+                    "Kautilya"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which Greek general did Chandragupta Maurya defeat?",
+                "options": [
+                    "Alexander the Great",
+                    "Seleucus Nicator",
+                    "Porus",
+                    "Megasthenes"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Who was the son of Chandragupta Maurya?",
+                "options": [
+                    "Bindusara",
+                    "Ashoka",
+                    "Dhanananda",
+                    "Kautilya"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What was Bindusara known as among the Greeks?",
+                "options": [
+                    "Amitrochates",
+                    "Piyadassi",
+                    "Devanampriya",
+                    "Chandashoka"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which religious sect did Bindusara patronize?",
+                "options": [
+                    "Buddhism",
+                    "Jainism",
+                    "Ajivikas",
+                    "Hinduism"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Who was the son of Bindusara?",
+                "options": [
+                    "Chandragupta Maurya",
+                    "Ashoka",
+                    "Kautilya",
+                    "Dhanananda"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Who helped Chandragupta Maurya in establishing the Mauryan Empire?",
+                "options": [
+                    "Megasthenes",
+                    "Vishakhadatta",
+                    "Kautilya",
+                    "Seleucus Nicator"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which war did Ashoka fight in 261 BC?",
+                "options": [
+                    "Kalinga War",
+                    "Battle of Hydaspes",
+                    "Battle of Plassey",
+                    "Battle of Panipat"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What did Ashoka adopt after the Kalinga War?",
+                "options": [
+                    "Jainism",
+                    "Buddhism",
+                    "Hinduism",
+                    "Ajivikas"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What did Ashoka replace 'Berighosha' with?",
+                "options": [
+                    "Dhammagosha",
+                    "Arthashastra",
+                    "Mudrarakshasa",
+                    "Indica"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "How many Major Rock Edicts did Ashoka issue?",
+                "options": [
+                    "12",
+                    "14",
+                    "16",
+                    "18"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which language was primarily used in Ashoka's edicts?",
+                "options": [
+                    "Sanskrit",
+                    "Pali",
+                    "Prakrit",
+                    "Greek"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which script was used in Ashoka's edicts?",
+                "options": [
+                    "Brahmi",
+                    "Kharoshti",
+                    "Greek",
+                    "All of the above"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "What was Ashoka referred to as in his inscriptions?",
+                "options": [
+                    "Devanampriya",
+                    "Piyadassi",
+                    "Chandashoka",
+                    "Both Devanampriya and Piyadassi"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which of the following was NOT a type of Ashokan edict?",
+                "options": [
+                    "Rock Edicts",
+                    "Pillar Edicts",
+                    "Cave Edicts",
+                    "Minor Rock Edicts"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Who was the first to decipher Ashoka's edicts?",
+                "options": [
+                    "James Princep",
+                    "Megasthenes",
+                    "Kautilya",
+                    "Vishakhadatta"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which of the following languages was NOT used in Ashoka's edicts?",
+                "options": [
+                    "Prakrit",
+                    "Greek",
+                    "Aramaic",
+                    "Sanskrit"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "What was the ancient name of coastal Orissa?",
+                "options": [
+                    "Kalinga",
+                    "Magadha",
+                    "Vaishali",
+                    "Avanti"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which dynasty did Chandragupta Maurya overthrow?",
+                "options": [
+                    "Haryanka",
+                    "Shishunaga",
+                    "Nanda",
+                    "Gupta"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What was the capital of the Mauryan Empire?",
+                "options": [
+                    "Rajgriha",
+                    "Pataliputra",
+                    "Vaishali",
+                    "Taxila"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which of the following was NOT a source of information about the Mauryan Empire?",
+                "options": [
+                    "Arthashastra",
+                    "Mudrarakshasa",
+                    "Indica",
+                    "Ramayana"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which of the following was a Buddhist text that provides information about the Mauryan Empire?",
+                "options": [
+                    "Jataka Tales",
+                    "Mudrarakshasa",
+                    "Arthashastra",
+                    "Indica"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What was the primary script used in Ashoka's edicts in India?",
+                "options": [
+                    "Brahmi",
+                    "Kharoshti",
+                    "Greek",
+                    "Aramaic"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which of the following was NOT a title used by Ashoka?",
+                "options": [
+                    "Devanampriya",
+                    "Piyadassi",
+                    "Chandashoka",
+                    "Amitrochates"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which of the following was a major rock edict of Ashoka?",
+                "options": [
+                    "Edict 1",
+                    "Edict 14",
+                    "Edict 15",
+                    "Edict 16"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which of the following was a minor rock edict of Ashoka?",
+                "options": [
+                    "Edict 1",
+                    "Edict 14",
+                    "Edict 15",
+                    "Edict 16"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which of the following was a pillar edict of Ashoka?",
+                "options": [
+                    "Edict 1",
+                    "Edict 14",
+                    "Edict 15",
+                    "Edict 16"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "What was the primary purpose of Ashoka's edicts?",
+                "options": [
+                    "To record his victories",
+                    "To spread Buddhism",
+                    "To communicate with his subjects",
+                    "To record his genealogy"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which of the following was NOT a feature of Ashoka's administration?",
+                "options": [
+                    "Centralized bureaucracy",
+                    "Decentralized governance",
+                    "Use of edicts for communication",
+                    "Patronage of Buddhism"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which of the following was a major contribution of the Mauryan Empire?",
+                "options": [
+                    "Introduction of Buddhism",
+                    "Centralized administration",
+                    "Use of iron tools",
+                    "All of the above"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which of the following was NOT a feature of Ashoka's edicts?",
+                "options": [
+                    "Use of multiple languages",
+                    "Use of multiple scripts",
+                    "Focus on military conquests",
+                    "Promotion of Dhamma"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which of the following was a major rock edict that focused on non-violence?",
+                "options": [
+                    "Edict 1",
+                    "Edict 13",
+                    "Edict 14",
+                    "Edict 15"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which of the following was a major rock edict that focused on religious tolerance?",
+                "options": [
+                    "Edict 7",
+                    "Edict 12",
+                    "Edict 13",
+                    "Edict 14"
+                ],
+                "answer": 1
+            }
+        ]
+    }
+]

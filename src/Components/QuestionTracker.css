@@ -1,34 +1,87 @@
+/* General Styling */
 .question-tracker {
   display: flex;
-  flex-wrap: wrap;
-  margin: 20px 0;
+  justify-content: center;
   gap: 10px;
+  margin-bottom: 20px;
+  flex-wrap: wrap;
 }
 
 .tracker-item {
-  width: 30px;
-  height: 30px;
+  width: 40px;
+  height: 40px;
   display: flex;
-  justify-content: center;
   align-items: center;
-  border: 1px solid #ccc;
-  border-radius: 5px;
-  font-size: 14px;
+  justify-content: center;
+  border-radius: 50%;
+  background: #3498db;
+  color: white;
   font-weight: bold;
-  background-color: #f4f4f4;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background 0.3s ease, transform 0.3s ease, box-shadow 0.3s ease;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.tracker-item:hover {
+  transform: scale(1.1);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
 }
 
 .tracker-item.correct {
-  background-color: #4caf50; /* Green */
-  color: #fff;
+  background: #2ecc71;
+  animation: bounce 0.5s ease-in-out;
 }
 
 .tracker-item.wrong {
-  background-color: #f44336; /* Red */
-  color: #fff;
+  background: #e74c3c;
+  animation: shake 0.5s ease-in-out;
 }
 
 .tracker-item.unanswered {
-  background-color: #ffc107; /* Yellow */
-  color: #fff;
+  background: #bdc3c7;
+}
+
+.tracker-item.unanswered:hover {
+  background: #95a5a6;
+}
+
+/* Animations */
+@keyframes bounce {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.2);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+@keyframes shake {
+  0% {
+    transform: translateX(0);
+  }
+  25% {
+    transform: translateX(-5px);
+  }
+  50% {
+    transform: translateX(5px);
+  }
+  75% {
+    transform: translateX(-5px);
+  }
+  100% {
+    transform: translateX(0);
+  }
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .tracker-item {
+    width: 35px;
+    height: 35px;
+    font-size: 0.9rem;
+  }
 }

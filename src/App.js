@@ -31,6 +31,7 @@ function App() {
 
             {/* Fallback Route (e.g., for 404 pages) */}
             <Route path="*" element={<Home />} />
+            
           </Routes>
         </Layout.Content>
 

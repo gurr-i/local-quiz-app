@@ -7,8 +7,8 @@ const { Header } = Layout;
 function AppHeader() {
   return (
     <Header>
-      <div className="logo" style={{ color: "white", fontSize: "24px" }}>
-        Quiz App
+      <div className="logo" style={{ color: "white", fontSize: "20px" }}>
+        Quiziare.ai
       </div>
       <Menu theme="dark" mode="horizontal" defaultSelectedKeys={["1"]}>
         <Menu.Item key="1">
