@@ -37,7 +37,7 @@ function Home() {
     const fullUrl = `${config.BASE_URL}${quizPath}`;
 
     // For debugging: log the correct URL you're trying to fetch
-    console.log("Fetching quiz data from:", fullUrl);
+    // console.log("Fetching quiz data from:", fullUrl);
 
     fetch(fullUrl)
       .then((response) => {
@@ -68,9 +68,6 @@ function Home() {
       className="home-container"
 
     >
-      <Title level={1} className="home-title">
-        Quiz Hub
-      </Title>
 
       {/* Search Bar */}
       <Search

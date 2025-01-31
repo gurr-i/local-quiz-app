@@ -6,11 +6,12 @@ function QuestionTracker({ questions, userAnswers }) {
     <div className="question-tracker">
       {questions.map((question, index) => {
         const isCorrect = userAnswers[index] === question.answer;
+        const isUnanswered = userAnswers[index] === null;
         return (
           <div
             key={index}
-            className={`tracker-item ${isCorrect ? "correct" : "wrong"} ${
-              userAnswers[index] == null ? "unanswered" : ""
+            className={`tracker-item ${
+              isUnanswered ? "unanswered" : isCorrect ? "correct" : "wrong"
             }`}
           >
             {index + 1}

@@ -1,0 +1,14 @@
+/* Hide mobile menu by default */
+.mobile-menu {
+  display: none;
+}
+
+/* Show mobile menu and hide desktop menu on smaller screens */
+@media (max-width: 768px) {
+  .desktop-menu {
+    display: none;
+  }
+  .mobile-menu {
+    display: block;
+  }
+}

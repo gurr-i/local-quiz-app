@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useMemo } from "react";
+import React, { useState, useEffect, useMemo, useCallback } from "react";
 import { useParams, Link } from "react-router-dom";
 import Question from "./Question";
 import "./Quiz.css"; // Import updated CSS for fancy styling
@@ -23,6 +23,7 @@ function Quiz() {
   const [reviewMode, setReviewMode] = useState(false);
   const [loading, setLoading] = useState(true);
 
+  // Fetch quiz data
   useEffect(() => {
     const fetchData = async () => {
       try {
@@ -36,8 +37,9 @@ function Quiz() {
           throw new Error(`Failed to fetch quiz data: ${response.status}`);
         }
         const data = await response.json();
-        if (Array.isArray(data)) {
-          setQuizData(data[0]);
+        if (Array.isArray(data) && data.length > 0) {
+          setQuizData(data[0]); // Ensure data is an array and has at least one item
+          setUserAnswers(new Array(data[0].questions.length).fill(null)); // Initialize userAnswers
         } else {
           throw new Error("Invalid quiz data format");
         }
@@ -51,70 +53,101 @@ function Quiz() {
     fetchData();
   }, [id, subcategory, handleNextQuestion]);
 
-  useEffect(() => {
-    const countdown = setInterval(() => {
-      setTimer((prev) => {
-        if (prev <= 1) {
-          handleNextQuestion();
-          return 30;
-        }
-        return prev - 1;
-      });
-    }, 1000);
-
-    return () => clearInterval(countdown);
-  }, [currentQuestionIndex]);
-
-  const handleOptionClick = (index) => {
-    if (selectedOption === null) {
-      setSelectedOption(index);
-      setShowAnswer(true);
-      setUserAnswers((prevAnswers) => {
-        const updatedAnswers = [
-          ...prevAnswers.slice(0, currentQuestionIndex),
-          index,
-          ...prevAnswers.slice(currentQuestionIndex + 1),
-        ];
-        return updatedAnswers;
-      });
-    }
-  };
-
-  const handleNextQuestion = () => {
+  // Handle moving to the next question
+  const handleNextQuestion = useCallback(() => {
     if (!quizData?.questions || quizData.questions.length === 0) return;
 
+    // Update total time
     setTotalTime((prevTime) => prevTime + (30 - timer));
 
+    // Update userAnswers array with the selected option (or null if unanswered)
+    setUserAnswers((prevAnswers) => {
+      const updatedAnswers = [...prevAnswers];
+      updatedAnswers[currentQuestionIndex] = selectedOption;
+      return updatedAnswers;
+    });
+
+    // Move to the next question or finish the quiz
     if (currentQuestionIndex < quizData.questions.length - 1) {
       setSelectedOption(null);
       setShowAnswer(false);
       setCurrentQuestionIndex((prev) => prev + 1);
-      setTimer(30);
-    } else {
-      if (selectedOption !== null) {
+      setTimer(30); // Reset timer for the next question
+    }
+  }, [quizData, currentQuestionIndex, selectedOption, timer]);
+
+  // Timer logic
+  useEffect(() => {
+    let countdown;
+    if (!reviewMode && currentQuestionIndex < quizData?.questions.length) {
+      countdown = setInterval(() => {
+        setTimer((prev) => {
+          if (prev <= 1) {
+            handleNextQuestion(); // Call handleNextQuestion when timer runs out
+            return 30; // Reset timer
+          }
+          return prev - 1;
+        });
+      }, 1000);
+    }
+    return () => clearInterval(countdown);
+  }, [currentQuestionIndex, handleNextQuestion, reviewMode, quizData]);
+
+  // Helper function to convert answer (text or index) to index
+  const getAnswerIndex = (answer, options) => {
+    if (typeof answer === "number") {
+      return answer; // Already an index
+    } else if (typeof answer === "string") {
+      return options.indexOf(answer); // Convert text to index
+    }
+    return null; // Invalid answer
+  };
+
+  // Handle option selection
+  const handleOptionClick = (answer) => {
+    if (selectedOption === null) {
+      const currentQuestion = quizData.questions[currentQuestionIndex];
+      const answerIndex = getAnswerIndex(answer, currentQuestion.options);
+
+      if (answerIndex !== null) {
+        setSelectedOption(answerIndex);
+        setShowAnswer(true);
         setUserAnswers((prevAnswers) => {
           const updatedAnswers = [...prevAnswers];
-          updatedAnswers[currentQuestionIndex] = selectedOption;
+          updatedAnswers[currentQuestionIndex] = answerIndex;
           return updatedAnswers;
         });
       }
     }
   };
 
-  const toggleReviewMode = () => {
-    setReviewMode(!reviewMode);
-  };
-
+  // Calculate score
   const score = useMemo(() => {
-    return userAnswers.filter(
-      (answer, index) => answer === quizData?.questions[index]?.answer
-    ).length;
+    return userAnswers.filter((answer, index) => {
+      const correctAnswerIndex = getAnswerIndex(
+        quizData?.questions[index]?.answer,
+        quizData?.questions[index]?.options
+      );
+      return answer === correctAnswerIndex;
+    }).length;
   }, [userAnswers, quizData]);
 
+  // Calculate accuracy
   const calculateAccuracy = useMemo(() => {
     const totalQuestions = quizData?.questions.length || 0;
     return totalQuestions > 0 ? (score / totalQuestions) * 100 : 0;
   }, [score, quizData]);
+
+  // Restart quiz
+  const restartQuiz = () => {
+    setCurrentQuestionIndex(0);
+    setSelectedOption(null);
+    setShowAnswer(false);
+    setUserAnswers(new Array(quizData.questions.length).fill(null));
+    setTimer(30);
+    setTotalTime(0);
+    setReviewMode(false);
+  };
 
   if (error) {
     return (
@@ -166,7 +199,9 @@ function Quiz() {
       </Title>
       <div className="question-tracker">
         {questions.map((question, index) => {
-          const isCorrect = userAnswers[index] === question.answer;
+          const isCorrect =
+            userAnswers[index] ===
+            getAnswerIndex(question.answer, question.options);
           return (
             <div
               key={index}
@@ -194,18 +229,22 @@ function Quiz() {
                 </Paragraph>
                 <Paragraph>
                   <strong>Your Answer:</strong>{" "}
-                  {question.options[userAnswers[index]] || "Not Answered"}
+                  {userAnswers[index] !== null
+                    ? question.options[userAnswers[index]]
+                    : "Not Answered"}
                 </Paragraph>
                 <Paragraph>
                   <strong>Correct Answer:</strong>{" "}
-                  {question.options[question.answer]}
+                  {question.options[
+                    getAnswerIndex(question.answer, question.options)
+                  ]}
                 </Paragraph>
               </Card>
             ))}
             <Button
               type="dashed"
               size="large"
-              onClick={toggleReviewMode}
+              onClick={() => setReviewMode(false)}
               style={{ width: "100%" }}
             >
               Back to Results
@@ -218,7 +257,8 @@ function Quiz() {
           questions={questions}
           accuracy={calculateAccuracy}
           totalTime={totalTime}
-          toggleReviewMode={toggleReviewMode}
+          toggleReviewMode={() => setReviewMode(true)}
+          restartQuiz={restartQuiz}
         />
       ) : (
         <>
@@ -232,7 +272,10 @@ function Quiz() {
               selectedOption={selectedOption}
               onOptionClick={handleOptionClick}
               showAnswer={showAnswer}
-              correctAnswer={currentQuestion.answer}
+              correctAnswer={getAnswerIndex(
+                currentQuestion.answer,
+                currentQuestion.options
+              )}
             />
           ) : (
             <div>Loading...</div>
