@@ -1,0 +1,827 @@
+[
+    {
+        "title": "Vijayanagar Empire",
+        "questions": [
+            {
+                "question": "Who discovered the ruins of Hampi in 1800?",
+                "options": [
+                    "Colin Mackenzie",
+                    "Ibn Battuta",
+                    "Duarte Barbosa",
+                    "Domingo Paes"
+                ],
+                "answer": "Colin Mackenzie"
+            },
+            {
+                "question": "What is the local name of the mother goddess associated with Hampi?",
+                "options": [
+                    "Pampadevi",
+                    "Lakshmi",
+                    "Saraswati",
+                    "Durga"
+                ],
+                "answer": "Pampadevi"
+            },
+            {
+                "question": "What were the local communities of merchants in the Vijayanagara Empire known as?",
+                "options": [
+                    "Kudirai Chettis",
+                    "Amara Nayakas",
+                    "Ayangar",
+                    "Nayaka"
+                ],
+                "answer": "Kudirai Chettis"
+            },
+            {
+                "question": "Which dynasty was the first to rule the Vijayanagara Empire?",
+                "options": [
+                    "Sangama",
+                    "Saluva",
+                    "Tuluva",
+                    "Aravidu"
+                ],
+                "answer": "Sangama"
+            },
+            {
+                "question": "Who were the founders of the Vijayanagara Empire?",
+                "options": [
+                    "Harihara I and Bukka I",
+                    "Krishna Deva Raya",
+                    "Deva Raya II",
+                    "Sangama"
+                ],
+                "answer": "Harihara I and Bukka I"
+            },
+            {
+                "question": "Which traveler visited the Vijayanagara Empire during the reign of Deva Raya II?",
+                "options": [
+                    "Abdur Razzaq",
+                    "Ibn Battuta",
+                    "Duarte Barbosa",
+                    "Nicolo de Conti"
+                ],
+                "answer": "Abdur Razzaq"
+            },
+            {
+                "question": "What was the capital of the Vijayanagara Empire?",
+                "options": [
+                    "Hampi",
+                    "Bidar",
+                    "Gulbarga",
+                    "Hyderabad"
+                ],
+                "answer": "Hampi"
+            },
+            {
+                "question": "Which battle marked the decline of the Vijayanagara Empire in 1565?",
+                "options": [
+                    "Battle of Talikota",
+                    "Battle of Rakshasi Tangdi",
+                    "Battle of Raichur",
+                    "Battle of Bidar"
+                ],
+                "answer": "Battle of Talikota"
+            },
+            {
+                "question": "Who was the greatest ruler of the Tuluva Dynasty?",
+                "options": [
+                    "Krishna Deva Raya",
+                    "Deva Raya II",
+                    "Harihara I",
+                    "Bukka I"
+                ],
+                "answer": "Krishna Deva Raya"
+            },
+            {
+                "question": "Which temple was built by Krishna Deva Raya and dedicated to Lord Vishnu?",
+                "options": [
+                    "Vitthal Swami Temple",
+                    "Hazara Rama Temple",
+                    "Lotus Temple",
+                    "Charminar"
+                ],
+                "answer": "Vitthal Swami Temple"
+            },
+            {
+                "question": "What was the title taken by Krishna Deva Raya?",
+                "options": [
+                    "Abhinava Bhoja",
+                    "Andhra Bhoja",
+                    "Andhra Pitamaha",
+                    "All of the above"
+                ],
+                "answer": "All of the above"
+            },
+            {
+                "question": "Which language was introduced as the court language by Ibrahim Adil Shah in the Bahmani Kingdom?",
+                "options": [
+                    "Dakhini",
+                    "Persian",
+                    "Telugu",
+                    "Sanskrit"
+                ],
+                "answer": "Dakhini"
+            },
+            {
+                "question": "Who built the Gol Gumbaz?",
+                "options": [
+                    "Muhammad Adil Shah",
+                    "Alauddin Hasan Bahman Shah",
+                    "Ibrahim Adil Shah",
+                    "Quli Qutub Shah"
+                ],
+                "answer": "Muhammad Adil Shah"
+            },
+            {
+                "question": "What is the famous feature of the Gol Gumbaz?",
+                "options": [
+                    "Whispering Gallery",
+                    "Largest Dome",
+                    "Tallest Minaret",
+                    "Golden Ceiling"
+                ],
+                "answer": "Whispering Gallery"
+            },
+            {
+                "question": "Who founded the city of Hyderabad?",
+                "options": [
+                    "Muhammad Quli Qutub Shah",
+                    "Alauddin Hasan Bahman Shah",
+                    "Ibrahim Adil Shah",
+                    "Krishna Deva Raya"
+                ],
+                "answer": "Muhammad Quli Qutub Shah"
+            },
+            {
+                "question": "What was the original name of Hyderabad?",
+                "options": [
+                    "Bhagyanagar",
+                    "Golconda",
+                    "Bidar",
+                    "Gulbarga"
+                ],
+                "answer": "Bhagyanagar"
+            },
+            {
+                "question": "Which famous monument was built by Muhammad Quli Qutub Shah in Hyderabad?",
+                "options": [
+                    "Charminar",
+                    "Gol Gumbaz",
+                    "Golkonda Fort",
+                    "Hazara Rama Temple"
+                ],
+                "answer": "Charminar"
+            },
+            {
+                "question": "Which dynasty ruled the Vijayanagara Empire from 1505 to 1570 AD?",
+                "options": [
+                    "Tuluva",
+                    "Sangama",
+                    "Saluva",
+                    "Aravidu"
+                ],
+                "answer": "Tuluva"
+            },
+            {
+                "question": "Who was the last ruler of the Aravidu Dynasty?",
+                "options": [
+                    "Sri Ranga III",
+                    "Krishna Deva Raya",
+                    "Deva Raya II",
+                    "Harihara I"
+                ],
+                "answer": "Sri Ranga III"
+            },
+            {
+                "question": "What was the administrative system in the Vijayanagara Empire known as?",
+                "options": [
+                    "Amara Nayakas",
+                    "Ayangar System",
+                    "Kudirai Chettis",
+                    "Nayaka"
+                ],
+                "answer": "Ayangar System"
+            },
+            {
+                "question": "Which traveler visited the Vijayanagara Empire during the reign of Harihara I and Bukka I?",
+                "options": [
+                    "Ibn Battuta",
+                    "Duarte Barbosa",
+                    "Domingo Paes",
+                    "Nicolo de Conti"
+                ],
+                "answer": "Ibn Battuta"
+            },
+            {
+                "question": "Who was the chief minister of Veer Narasimha who placed Krishna Deva Raya on the throne?",
+                "options": [
+                    "Suluva Timma",
+                    "Tenalirama",
+                    "Abdur Razzaq",
+                    "Aliya Rama Raya"
+                ],
+                "answer": "Suluva Timma"
+            },
+            {
+                "question": "Which temple is known for its intricate carvings of Ramayana scenes?",
+                "options": [
+                    "Hazara Rama Temple",
+                    "Vitthal Swami Temple",
+                    "Lotus Temple",
+                    "Charminar"
+                ],
+                "answer": "Hazara Rama Temple"
+            },
+            {
+                "question": "What was the name of the stepped tank built by Krishna Deva Raya?",
+                "options": [
+                    "Kamalapuram Tank",
+                    "Mahanavami Dibba",
+                    "Elephant Stable",
+                    "Lotus Temple"
+                ],
+                "answer": "Kamalapuram Tank"
+            },
+            {
+                "question": "Which Bahmani ruler shifted the capital from Gulbarga to Bidar?",
+                "options": [
+                    "Ahmad Shah Wali",
+                    "Alauddin Hasan Bahman Shah",
+                    "Tajuddin Firozabad Shah",
+                    "Ibrahim Adil Shah"
+                ],
+                "answer": "Ahmad Shah Wali"
+            },
+            {
+                "question": "Who was the founder of the Bahmani Kingdom?",
+                "options": [
+                    "Alauddin Hasan Bahman Shah",
+                    "Ahmad Shah Wali",
+                    "Tajuddin Firozabad Shah",
+                    "Ibrahim Adil Shah"
+                ],
+                "answer": "Alauddin Hasan Bahman Shah"
+            },
+            {
+                "question": "Which Bahmani ruler was known for his cruelty and was given the title 'Zalima'?",
+                "options": [
+                    "Humayun Shah",
+                    "Ahmad Shah Wali",
+                    "Tajuddin Firozabad Shah",
+                    "Ibrahim Adil Shah"
+                ],
+                "answer": "Humayun Shah"
+            },
+            {
+                "question": "What was the first capital of the Bahmani Kingdom?",
+                "options": [
+                    "Gulbarga",
+                    "Bidar",
+                    "Golconda",
+                    "Hyderabad"
+                ],
+                "answer": "Gulbarga"
+            },
+            {
+                "question": "Which Bahmani ruler built the famous Golconda Fort?",
+                "options": [
+                    "Quli Qutub Shah",
+                    "Muhammad Adil Shah",
+                    "Ibrahim Adil Shah",
+                    "Alauddin Hasan Bahman Shah"
+                ],
+                "answer": "Quli Qutub Shah"
+            },
+            {
+                "question": "What is the significance of the Gol Gumbaz's Whispering Gallery?",
+                "options": [
+                    "Sound echoes",
+                    "Largest dome",
+                    "Tallest minaret",
+                    "Golden ceiling"
+                ],
+                "answer": "Sound echoes"
+            },
+            {
+                "question": "Which dynasty ruled the Vijayanagara Empire from 1570 to 1650 AD?",
+                "options": [
+                    "Aravidu",
+                    "Sangama",
+                    "Saluva",
+                    "Tuluva"
+                ],
+                "answer": "Aravidu"
+            },
+            {
+                "question": "Who was the puppet ruler of the Tuluva Dynasty?",
+                "options": [
+                    "Sadasiva Raya",
+                    "Krishna Deva Raya",
+                    "Deva Raya II",
+                    "Harihara I"
+                ],
+                "answer": "Sadasiva Raya"
+            },
+            {
+                "question": "Which traveler visited the Vijayanagara Empire during the reign of Deva Raya I?",
+                "options": [
+                    "Nicolo de Conti",
+                    "Ibn Battuta",
+                    "Duarte Barbosa",
+                    "Domingo Paes"
+                ],
+                "answer": "Nicolo de Conti"
+            },
+            {
+                "question": "What was the name of the village committee in the Vijayanagara Empire?",
+                "options": [
+                    "12 members",
+                    "Amara Nayakas",
+                    "Ayangar System",
+                    "Kudirai Chettis"
+                ],
+                "answer": "12 members"
+            },
+            {
+                "question": "Which Bahmani ruler defeated Deva Raya I but was later defeated in the subsequent battle?",
+                "options": [
+                    "Tajuddin Firozabad Shah",
+                    "Ahmad Shah Wali",
+                    "Alauddin Hasan Bahman Shah",
+                    "Ibrahim Adil Shah"
+                ],
+                "answer": "Tajuddin Firozabad Shah"
+            },
+            {
+                "question": "What was the name of the city founded by Krishna Deva Raya after his mother?",
+                "options": [
+                    "Nagalapuram",
+                    "Hampi",
+                    "Bidar",
+                    "Gulbarga"
+                ],
+                "answer": "Nagalapuram"
+            },
+            {
+                "question": "Which traveler visited the Vijayanagara Empire during the reign of Achutya Raya?",
+                "options": [
+                    "Fernao Nuniz",
+                    "Ibn Battuta",
+                    "Duarte Barbosa",
+                    "Domingo Paes"
+                ],
+                "answer": "Fernao Nuniz"
+            },
+            {
+                "question": "What was the title given to the military chiefs in the Vijayanagara Empire?",
+                "options": [
+                    "Nayaka",
+                    "Amara Nayakas",
+                    "Ayangar",
+                    "Kudirai Chettis"
+                ],
+                "answer": "Nayaka"
+            },
+            {
+                "question": "Which Bahmani ruler was known as Hasan Gangu?",
+                "options": [
+                    "Alauddin Hasan Bahman Shah",
+                    "Ahmad Shah Wali",
+                    "Tajuddin Firozabad Shah",
+                    "Ibrahim Adil Shah"
+                ],
+                "answer": "Alauddin Hasan Bahman Shah"
+            },
+            {
+                "question": "What was the name of the tank built by Krishna Deva Raya?",
+                "options": [
+                    "Kamalapuram Tank",
+                    "Mahanavami Dibba",
+                    "Elephant Stable",
+                    "Lotus Temple"
+                ],
+                "answer": "Kamalapuram Tank"
+            },
+            {
+                "question": "Which Bahmani ruler built the famous Charminar?",
+                "options": [
+                    "Muhammad Quli Qutub Shah",
+                    "Alauddin Hasan Bahman Shah",
+                    "Ibrahim Adil Shah",
+                    "Quli Qutub Shah"
+                ],
+                "answer": "Muhammad Quli Qutub Shah"
+            },
+            {
+                "question": "What was the name of the elephant stable built by Krishna Deva Raya?",
+                "options": [
+                    "Elephant Stable",
+                    "Kamalapuram Tank",
+                    "Mahanavami Dibba",
+                    "Lotus Temple"
+                ],
+                "answer": "Elephant Stable"
+            },
+            {
+                "question": "Which Bahmani ruler was known for his cruelty and was given the title 'Zalima'?",
+                "options": [
+                    "Humayun Shah",
+                    "Ahmad Shah Wali",
+                    "Tajuddin Firozabad Shah",
+                    "Ibrahim Adil Shah"
+                ],
+                "answer": "Humayun Shah"
+            },
+            {
+                "question": "What was the name of the city founded by Krishna Deva Raya after his mother?",
+                "options": [
+                    "Nagalapuram",
+                    "Hampi",
+                    "Bidar",
+                    "Gulbarga"
+                ],
+                "answer": "Nagalapuram"
+            },
+            {
+                "question": "Which traveler visited the Vijayanagara Empire during the reign of Achutya Raya?",
+                "options": [
+                    "Fernao Nuniz",
+                    "Ibn Battuta",
+                    "Duarte Barbosa",
+                    "Domingo Paes"
+                ],
+                "answer": "Fernao Nuniz"
+            },
+            {
+                "question": "What was the title given to the military chiefs in the Vijayanagara Empire?",
+                "options": [
+                    "Nayaka",
+                    "Amara Nayakas",
+                    "Ayangar",
+                    "Kudirai Chettis"
+                ],
+                "answer": "Nayaka"
+            },
+            {
+                "question": "Which Bahmani ruler was known as Hasan Gangu?",
+                "options": [
+                    "Alauddin Hasan Bahman Shah",
+                    "Ahmad Shah Wali",
+                    "Tajuddin Firozabad Shah",
+                    "Ibrahim Adil Shah"
+                ],
+                "answer": "Alauddin Hasan Bahman Shah"
+            },
+            {
+                "question": "What was the name of the tank built by Krishna Deva Raya?",
+                "options": [
+                    "Kamalapuram Tank",
+                    "Mahanavami Dibba",
+                    "Elephant Stable",
+                    "Lotus Temple"
+                ],
+                "answer": "Kamalapuram Tank"
+            },
+            {
+                "question": "Which Bahmani ruler built the famous Charminar?",
+                "options": [
+                    "Muhammad Quli Qutub Shah",
+                    "Alauddin Hasan Bahman Shah",
+                    "Ibrahim Adil Shah",
+                    "Quli Qutub Shah"
+                ],
+                "answer": "Muhammad Quli Qutub Shah"
+            },
+            {
+                "question": "What was the name of the elephant stable built by Krishna Deva Raya?",
+                "options": [
+                    "Elephant Stable",
+                    "Kamalapuram Tank",
+                    "Mahanavami Dibba",
+                    "Lotus Temple"
+                ],
+                "answer": "Elephant Stable"
+            },
+            {
+                "question": "Which Bahmani ruler was known for his cruelty and was given the title 'Zalima'?",
+                "options": [
+                    "Humayun Shah",
+                    "Ahmad Shah Wali",
+                    "Tajuddin Firozabad Shah",
+                    "Ibrahim Adil Shah"
+                ],
+                "answer": "Humayun Shah"
+            },
+            {
+                "question": "What was the name of the city founded by Krishna Deva Raya after his mother?",
+                "options": [
+                    "Nagalapuram",
+                    "Hampi",
+                    "Bidar",
+                    "Gulbarga"
+                ],
+                "answer": "Nagalapuram"
+            },
+            {
+                "question": "Which traveler visited the Vijayanagara Empire during the reign of Achutya Raya?",
+                "options": [
+                    "Fernao Nuniz",
+                    "Ibn Battuta",
+                    "Duarte Barbosa",
+                    "Domingo Paes"
+                ],
+                "answer": "Fernao Nuniz"
+            },
+            {
+                "question": "What was the title given to the military chiefs in the Vijayanagara Empire?",
+                "options": [
+                    "Nayaka",
+                    "Amara Nayakas",
+                    "Ayangar",
+                    "Kudirai Chettis"
+                ],
+                "answer": "Nayaka"
+            },
+            {
+                "question": "Which Bahmani ruler was known as Hasan Gangu?",
+                "options": [
+                    "Alauddin Hasan Bahman Shah",
+                    "Ahmad Shah Wali",
+                    "Tajuddin Firozabad Shah",
+                    "Ibrahim Adil Shah"
+                ],
+                "answer": "Alauddin Hasan Bahman Shah"
+            },
+            {
+                "question": "What was the name of the tank built by Krishna Deva Raya?",
+                "options": [
+                    "Kamalapuram Tank",
+                    "Mahanavami Dibba",
+                    "Elephant Stable",
+                    "Lotus Temple"
+                ],
+                "answer": "Kamalapuram Tank"
+            },
+            {
+                "question": "Which Bahmani ruler built the famous Charminar?",
+                "options": [
+                    "Muhammad Quli Qutub Shah",
+                    "Alauddin Hasan Bahman Shah",
+                    "Ibrahim Adil Shah",
+                    "Quli Qutub Shah"
+                ],
+                "answer": "Muhammad Quli Qutub Shah"
+            },
+            {
+                "question": "What was the name of the elephant stable built by Krishna Deva Raya?",
+                "options": [
+                    "Elephant Stable",
+                    "Kamalapuram Tank",
+                    "Mahanavami Dibba",
+                    "Lotus Temple"
+                ],
+                "answer": "Elephant Stable"
+            },
+            {
+                "question": "Which Bahmani ruler was known for his cruelty and was given the title 'Zalima'?",
+                "options": [
+                    "Humayun Shah",
+                    "Ahmad Shah Wali",
+                    "Tajuddin Firozabad Shah",
+                    "Ibrahim Adil Shah"
+                ],
+                "answer": "Humayun Shah"
+            },
+            {
+                "question": "What was the name of the city founded by Krishna Deva Raya after his mother?",
+                "options": [
+                    "Nagalapuram",
+                    "Hampi",
+                    "Bidar",
+                    "Gulbarga"
+                ],
+                "answer": "Nagalapuram"
+            },
+            {
+                "question": "Which traveler visited the Vijayanagara Empire during the reign of Achutya Raya?",
+                "options": [
+                    "Fernao Nuniz",
+                    "Ibn Battuta",
+                    "Duarte Barbosa",
+                    "Domingo Paes"
+                ],
+                "answer": "Fernao Nuniz"
+            },
+            {
+                "question": "What was the title given to the military chiefs in the Vijayanagara Empire?",
+                "options": [
+                    "Nayaka",
+                    "Amara Nayakas",
+                    "Ayangar",
+                    "Kudirai Chettis"
+                ],
+                "answer": "Nayaka"
+            },
+            {
+                "question": "Which Bahmani ruler was known as Hasan Gangu?",
+                "options": [
+                    "Alauddin Hasan Bahman Shah",
+                    "Ahmad Shah Wali",
+                    "Tajuddin Firozabad Shah",
+                    "Ibrahim Adil Shah"
+                ],
+                "answer": "Alauddin Hasan Bahman Shah"
+            },
+            {
+                "question": "What was the name of the tank built by Krishna Deva Raya?",
+                "options": [
+                    "Kamalapuram Tank",
+                    "Mahanavami Dibba",
+                    "Elephant Stable",
+                    "Lotus Temple"
+                ],
+                "answer": "Kamalapuram Tank"
+            },
+            {
+                "question": "Which Bahmani ruler built the famous Charminar?",
+                "options": [
+                    "Muhammad Quli Qutub Shah",
+                    "Alauddin Hasan Bahman Shah",
+                    "Ibrahim Adil Shah",
+                    "Quli Qutub Shah"
+                ],
+                "answer": "Muhammad Quli Qutub Shah"
+            },
+            {
+                "question": "What was the name of the elephant stable built by Krishna Deva Raya?",
+                "options": [
+                    "Elephant Stable",
+                    "Kamalapuram Tank",
+                    "Mahanavami Dibba",
+                    "Lotus Temple"
+                ],
+                "answer": "Elephant Stable"
+            },
+            {
+                "question": "Which Bahmani ruler was known for his cruelty and was given the title 'Zalima'?",
+                "options": [
+                    "Humayun Shah",
+                    "Ahmad Shah Wali",
+                    "Tajuddin Firozabad Shah",
+                    "Ibrahim Adil Shah"
+                ],
+                "answer": "Humayun Shah"
+            },
+            {
+                "question": "What was the name of the city founded by Krishna Deva Raya after his mother?",
+                "options": [
+                    "Nagalapuram",
+                    "Hampi",
+                    "Bidar",
+                    "Gulbarga"
+                ],
+                "answer": "Nagalapuram"
+            },
+            {
+                "question": "Which traveler visited the Vijayanagara Empire during the reign of Achutya Raya?",
+                "options": [
+                    "Fernao Nuniz",
+                    "Ibn Battuta",
+                    "Duarte Barbosa",
+                    "Domingo Paes"
+                ],
+                "answer": "Fernao Nuniz"
+            },
+            {
+                "question": "What was the title given to the military chiefs in the Vijayanagara Empire?",
+                "options": [
+                    "Nayaka",
+                    "Amara Nayakas",
+                    "Ayangar",
+                    "Kudirai Chettis"
+                ],
+                "answer": "Nayaka"
+            },
+            {
+                "question": "Which Bahmani ruler was known as Hasan Gangu?",
+                "options": [
+                    "Alauddin Hasan Bahman Shah",
+                    "Ahmad Shah Wali",
+                    "Tajuddin Firozabad Shah",
+                    "Ibrahim Adil Shah"
+                ],
+                "answer": "Alauddin Hasan Bahman Shah"
+            },
+            {
+                "question": "What was the name of the tank built by Krishna Deva Raya?",
+                "options": [
+                    "Kamalapuram Tank",
+                    "Mahanavami Dibba",
+                    "Elephant Stable",
+                    "Lotus Temple"
+                ],
+                "answer": "Kamalapuram Tank"
+            },
+            {
+                "question": "Which Bahmani ruler built the famous Charminar?",
+                "options": [
+                    "Muhammad Quli Qutub Shah",
+                    "Alauddin Hasan Bahman Shah",
+                    "Ibrahim Adil Shah",
+                    "Quli Qutub Shah"
+                ],
+                "answer": "Muhammad Quli Qutub Shah"
+            },
+            {
+                "question": "What was the name of the elephant stable built by Krishna Deva Raya?",
+                "options": [
+                    "Elephant Stable",
+                    "Kamalapuram Tank",
+                    "Mahanavami Dibba",
+                    "Lotus Temple"
+                ],
+                "answer": "Elephant Stable"
+            },
+            {
+                "question": "Which Bahmani ruler was known for his cruelty and was given the title 'Zalima'?",
+                "options": [
+                    "Humayun Shah",
+                    "Ahmad Shah Wali",
+                    "Tajuddin Firozabad Shah",
+                    "Ibrahim Adil Shah"
+                ],
+                "answer": "Humayun Shah"
+            },
+            {
+                "question": "What was the name of the city founded by Krishna Deva Raya after his mother?",
+                "options": [
+                    "Nagalapuram",
+                    "Hampi",
+                    "Bidar",
+                    "Gulbarga"
+                ],
+                "answer": "Nagalapuram"
+            },
+            {
+                "question": "Which traveler visited the Vijayanagara Empire during the reign of Achutya Raya?",
+                "options": [
+                    "Fernao Nuniz",
+                    "Ibn Battuta",
+                    "Duarte Barbosa",
+                    "Domingo Paes"
+                ],
+                "answer": "Fernao Nuniz"
+            },
+            {
+                "question": "What was the title given to the military chiefs in the Vijayanagara Empire?",
+                "options": [
+                    "Nayaka",
+                    "Amara Nayakas",
+                    "Ayangar",
+                    "Kudirai Chettis"
+                ],
+                "answer": "Nayaka"
+            },
+            {
+                "question": "Which Bahmani ruler was known as Hasan Gangu?",
+                "options": [
+                    "Alauddin Hasan Bahman Shah",
+                    "Ahmad Shah Wali",
+                    "Tajuddin Firozabad Shah",
+                    "Ibrahim Adil Shah"
+                ],
+                "answer": "Alauddin Hasan Bahman Shah"
+            },
+            {
+                "question": "What was the name of the tank built by Krishna Deva Raya?",
+                "options": [
+                    "Kamalapuram Tank",
+                    "Mahanavami Dibba",
+                    "Elephant Stable",
+                    "Lotus Temple"
+                ],
+                "answer": "Kamalapuram Tank"
+            },
+            {
+                "question": "Which Bahmani ruler built the famous Charminar?",
+                "options": [
+                    "Muhammad Quli Qutub Shah",
+                    "Alauddin Hasan Bahman Shah",
+                    "Ibrahim Adil Shah",
+                    "Quli Qutub Shah"
+                ],
+                "answer": "Muhammad Quli Qutub Shah"
+            },
+            {
+                "question": "What was the name of the elephant stable built by Krishna Deva Raya?",
+                "options": [
+                    "Elephant Stable",
+                    "Kamalapuram Tank",
+                    "Mahanavami Dibba",
+                    "Lotus Temple"
+                ],
+                "answer": "Elephant Stable"
+            }
+        ]
+    }
+]

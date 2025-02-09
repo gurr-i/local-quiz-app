@@ -243,26 +243,6 @@
                 "answer": 1
             },
             {
-                "question": "Which Sultan was known for his 'Blood and Iron' policy?",
-                "options": [
-                    "Iltutmish",
-                    "Balban",
-                    "Alauddin Khilji",
-                    "Muhammad Bin Tughlaq"
-                ],
-                "answer": 1
-            },
-            {
-                "question": "Who was the first Sultan to introduce the practice of 'Sijda' and 'Paibos'?",
-                "options": [
-                    "Iltutmish",
-                    "Balban",
-                    "Alauddin Khilji",
-                    "Muhammad Bin Tughlaq"
-                ],
-                "answer": 1
-            },
-            {
                 "question": "Which Sultan was the son-in-law of Qutubuddin Aibak?",
                 "options": [
                     "Iltutmish",
@@ -313,16 +293,6 @@
                 "answer": 1
             },
             {
-                "question": "Who was the first Sultan to introduce the practice of 'Sijda'?",
-                "options": [
-                    "Iltutmish",
-                    "Balban",
-                    "Alauddin Khilji",
-                    "Muhammad Bin Tughlaq"
-                ],
-                "answer": 1
-            },
-            {
                 "question": "Which Sultan is known for his 'Blood and Iron' policy?",
                 "options": [
                     "Iltutmish",
@@ -333,12 +303,22 @@
                 "answer": 1
             },
             {
-                "question": "Who was the first Sultan to issue coins in the name of the Caliph of Baghdad?",
+                "question": "Which Sultan is known as 'Zil-i-Ilahi'?",
                 "options": [
-                    "Qutubuddin Aibak",
                     "Iltutmish",
                     "Balban",
-                    "Alauddin Khilji"
+                    "Alauddin Khilji",
+                    "Muhammad Bin Tughlaq"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Who was the first Sultan to introduce the practice of 'Sijda'?",
+                "options": [
+                    "Iltutmish",
+                    "Balban",
+                    "Alauddin Khilji",
+                    "Muhammad Bin Tughlaq"
                 ],
                 "answer": 1
             },
