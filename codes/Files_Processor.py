@@ -88,5 +88,5 @@ def process_folder(folder_path):
             process_file(file_path)
 
 # Example usage
-json_folder_path = "public\\quizdata\\CurrentAffairs"  # Replace with your folder path
+json_folder_path = "public\\quizdata\\Polity"  # Replace with your folder path
 process_folder(json_folder_path)
