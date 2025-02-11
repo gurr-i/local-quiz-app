@@ -1,0 +1,687 @@
+[
+    {
+        "title": "Quiz on Vijayanagar Empire Indian History",
+        "questions": [
+            {
+                "question": "Which architectural feature is a hallmark of Vijayanagar temples?",
+                "options": [
+                    "Stained glass windows",
+                    "Domes",
+                    "Minarets",
+                    "Intricately carved pillared halls"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which Vijayanagar ruler is known for his extensive public works, including irrigation projects and road construction?",
+                "options": [
+                    "Bukka Raya I",
+                    "Krishnadevaraya",
+                    "Achyuta Deva Raya",
+                    "Harihara I"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What was the capital city of the Vijayanagar Empire, famous for its ruins in modern-day Karnataka?",
+                "options": [
+                    "Thanjavur",
+                    "Madurai",
+                    "Pattadakal",
+                    "Hampi (Vijayanagar)"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which river was crucial for irrigation and served as a lifeline for the Vijayanagar capital?",
+                "options": [
+                    "Tungabhadra",
+                    "Cauvery",
+                    "Krishna",
+                    "Godavari"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which kingdom defeated Vijayanagar in the Battle of Talikota?",
+                "options": [
+                    "Rajputs",
+                    "Deccan Sultanates",
+                    "Bahmani Sultanate",
+                    "Mughals"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which battle led to the downfall of the Vijayanagar Empire?",
+                "options": [
+                    "Battle of Haldighati",
+                    "Battle of Panipat",
+                    "Battle of Plassey",
+                    "Battle of Talikota"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which kingdom was a major trading partner of Vijayanagar?",
+                "options": [
+                    "Mughal Empire",
+                    "Persia",
+                    "China",
+                    "Portugal"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Who is widely regarded as the greatest ruler of the Vijayanagar Empire, known for his patronage of art and literature?",
+                "options": [
+                    "Bukka Raya I",
+                    "Ramaraya",
+                    "Harihara I",
+                    "Krishnadevaraya"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which type of water management structure was commonly used in Vijayanagar for irrigation?",
+                "options": [
+                    "Canals",
+                    "Irrigation tanks",
+                    "Stepwells",
+                    "Reservoirs"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which temple in Hampi is renowned for its intricate architecture and is a UNESCO World Heritage Site?",
+                "options": [
+                    "Brihadeeswarar Temple",
+                    "Meenakshi Temple",
+                    "Konark Sun Temple",
+                    "Virupaksha Temple"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which battle strategy significantly contributed to the initial military successes of the Vijayanagar Empire?",
+                "options": [
+                    "Large-scale cavalry charges",
+                    "Guerrilla warfare",
+                    "Naval blockades",
+                    "Fortified defenses"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which tactic was crucial in Vijayanagar's military strategy against its rivals?",
+                "options": [
+                    "Long-range missile artillery",
+                    "Use of war elephants",
+                    "Surprise attacks at night",
+                    "Naval blockades"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "How did Vijayanagar maintain a balance between central authority and regional autonomy?",
+                "options": [
+                    "Direct royal oversight of every province",
+                    "Relying solely on local customs",
+                    "Ignoring local issues",
+                    "Delegation of power through the Nayankara system"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which Vijayanagar ruler is noted for promoting religious tolerance and supporting multiple faiths?",
+                "options": [
+                    "Harihara I",
+                    "Achyuta Deva Raya",
+                    "Bukka Raya I",
+                    "Krishnadevaraya"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "What was the primary source of revenue for the Vijayanagar Empire?",
+                "options": [
+                    "Land revenue",
+                    "Mineral extraction",
+                    "Tributes from vassal states",
+                    "Trade tariffs"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What was the official language of the Vijayanagar Empire?",
+                "options": [
+                    "Kannada",
+                    "Telugu",
+                    "All of the above",
+                    "Sanskrit"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which battle marked a decisive defeat and is considered a turning point in the decline of the Vijayanagar Empire?",
+                "options": [
+                    "Battle of Talikota",
+                    "Battle of Plassey",
+                    "Battle of Panipat",
+                    "Battle of Haldighati"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which river was the capital city of Vijayanagar, Hampi, located near?",
+                "options": [
+                    "Godavari",
+                    "Krishna",
+                    "Tungabhadra",
+                    "Ganges"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which factor, besides military defeat, contributed significantly to the decline of the Vijayanagar Empire?",
+                "options": [
+                    "Frequent internal rebellions",
+                    "Cultural integration",
+                    "Economic boom",
+                    "Technological advancement"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which European power later engaged in trade with the remnants of the Vijayanagar Empire?",
+                "options": [
+                    "French",
+                    "Portuguese",
+                    "British",
+                    "Dutch"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which economic activity, apart from agriculture, significantly bolstered Vijayanagar's economy?",
+                "options": [
+                    "Digital commerce",
+                    "Automotive manufacturing",
+                    "Handicrafts and textiles production",
+                    "Modern banking"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which foreign traveler, known for his detailed accounts, visited Vijayanagar and described its splendor?",
+                "options": [
+                    "Ibn Battuta",
+                    "Marco Polo",
+                    "Abdur Razzaq",
+                    "Nicolo Conti"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which trade commodity was especially important in Vijayanagar's commerce with the Middle East?",
+                "options": [
+                    "Spices",
+                    "Tea",
+                    "Iron",
+                    "Silk"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which ruler initiated military campaigns against the Bahmani Sultanate, expanding the empire's territory?",
+                "options": [
+                    "Harihara I",
+                    "Bukka Raya I",
+                    "Krishnadevaraya",
+                    "Achyuta Deva Raya"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What administrative title was given to local military governors in the Vijayanagar Empire?",
+                "options": [
+                    "Subedars",
+                    "Nayakas",
+                    "Chieftains",
+                    "Sardars"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which language was predominantly used for administrative inscriptions in the Hampi region?",
+                "options": [
+                    "Hindi",
+                    "Marathi",
+                    "Punjabi",
+                    "Kannada"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "During whose reign did Vijayanagar witness a flourishing of literature, art, and music?",
+                "options": [
+                    "Saluva Narasimha",
+                    "Krishnadevaraya",
+                    "Bukka Raya I",
+                    "Harihara II"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What was the main reason for Vijayanagar's defeat at Talikota?",
+                "options": [
+                    "Superior artillery of enemies",
+                    "Weak rulers",
+                    "Lack of resources",
+                    "Internal betrayal"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "What role did the 'Nayakas' play in the governance of the Vijayanagar Empire?",
+                "options": [
+                    "Regional governors and military commanders",
+                    "Trade ministers",
+                    "Religious advisors",
+                    "Ceremonial figures"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which structure was built by Krishnadevaraya in Hampi?",
+                "options": [
+                    "Vittala Temple",
+                    "Mahanavami Dibba",
+                    "Hampi Bazaar",
+                    "Lotus Mahal"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which administrative system allowed the Vijayanagar Empire to delegate regional authority to local commanders?",
+                "options": [
+                    "Nayankara system",
+                    "Feudalism",
+                    "Matrimonial system",
+                    "Zamindari system"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which Vijayanagar ruler was known as 'Andhra Bhoja'?",
+                "options": [
+                    "Ramaraya",
+                    "Krishnadevaraya",
+                    "Harihara I",
+                    "Devaraya II"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which dynasty continued to rule as a rump state after the empire's peak?",
+                "options": [
+                    "Sangama",
+                    "Saluva",
+                    "Aravidu",
+                    "Tuluva"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What is the term used for the large, man-made reservoirs constructed in Vijayanagar for irrigation?",
+                "options": [
+                    "Pushkarini",
+                    "Kalyani",
+                    "Tank",
+                    "Sagar"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which of the following best describes Vijayanagar's cultural policy?",
+                "options": [
+                    "Exclusively promoting Hinduism",
+                    "Adopting Islamic art forms exclusively",
+                    "Patronizing both Hindu and Jain traditions",
+                    "Supporting a syncretic blend of Hindu art and literature"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which Vijayanagar monument is often depicted on stamps as a symbol of the empire's grandeur?",
+                "options": [
+                    "Hazara Rama Temple",
+                    "Mahanavami Dibba",
+                    "Vittala Temple",
+                    "Virupaksha Temple"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which of the following best characterizes Vijayanagar's approach to warfare?",
+                "options": [
+                    "Avoiding conflict through diplomacy",
+                    "Offensive campaigns supported by robust cavalry and infantry",
+                    "Defensive fortification only",
+                    "Reliance solely on naval forces"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which festival was grandly celebrated in Vijayanagar?",
+                "options": [
+                    "Diwali",
+                    "Navratri",
+                    "Dussehra",
+                    "Holi"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which structure in Hampi served as a royal audience hall and is renowned for its detailed frescoes?",
+                "options": [
+                    "Mahanavami Dibba",
+                    "Hazara Rama Temple",
+                    "Virupaksha Temple",
+                    "Vittala Temple"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which river, together with the Tungabhadra, defines the fertile Raichur Doab region of the Vijayanagar Empire?",
+                "options": [
+                    "Cauvery River",
+                    "Krishna River",
+                    "Godavari River",
+                    "Narmada River"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which Vijayanagar dynasty was in power during the empire's final years before its complete disintegration?",
+                "options": [
+                    "Sangama",
+                    "Aravidu",
+                    "Tuluva",
+                    "Saluva"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Who was the greatest ruler of the Vijayanagar Empire?",
+                "options": [
+                    "Krishnadevaraya",
+                    "Harihara I",
+                    "Sadasiva Raya",
+                    "Ramaraya"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Krishnadevaraya wrote which famous book?",
+                "options": [
+                    "Harshacharita",
+                    "Rajatarangini",
+                    "Amuktamalyada",
+                    "Manucharitam"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which architectural style is predominantly seen in the temples and monuments built during the Vijayanagar period?",
+                "options": [
+                    "Dravidian",
+                    "Indo-Islamic",
+                    "Gothic",
+                    "Mughal"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which monument in Hampi is famous for its impressive stone chariot sculpture?",
+                "options": [
+                    "Hazara Rama Temple",
+                    "Vittala Temple",
+                    "Queen's Bath",
+                    "Virupaksha Temple"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which Persian traveler visited the Vijayanagar Empire?",
+                "options": [
+                    "Ibn Battuta",
+                    "Nicolo Conti",
+                    "Al-Biruni",
+                    "Abdur Razzaq"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which region, known for its fertile land, was frequently contested by the Vijayanagar Empire and its rivals?",
+                "options": [
+                    "Raichur Doab",
+                    "Konkan Coast",
+                    "Ganges Valley",
+                    "Deccan Plateau"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Who was the founder of the Vijayanagar Empire?",
+                "options": [
+                    "Ramaraya",
+                    "Krishnadevaraya",
+                    "Devaraya II",
+                    "Harihara I"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which system was crucial to the administrative efficiency of the Vijayanagar Empire?",
+                "options": [
+                    "Foreign administrative practices",
+                    "Decentralized governance through local chieftains",
+                    "Reliance on a strong central bureaucracy",
+                    "Feudal loyalties alone"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which dynasty was the first to rule the Vijayanagar Empire?",
+                "options": [
+                    "Saluva",
+                    "Aravidu",
+                    "Tuluva",
+                    "Sangama"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Who among the following was NOT a Vijayanagar ruler?",
+                "options": [
+                    "Harihara II",
+                    "Bukka I",
+                    "Shivaji",
+                    "Krishnadevaraya"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What term best describes Vijayanagar's system of collecting taxes from agricultural lands?",
+                "options": [
+                    "Zamindari system",
+                    "Land revenue system",
+                    "Ryotwari system",
+                    "Mandi system"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which ruler succeeded Krishnadevaraya in the Tuluva dynasty?",
+                "options": [
+                    "Ramaraya",
+                    "Harihara II",
+                    "Bukka Raya II",
+                    "Achyuta Deva Raya"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which Vijayanagar ruler authored the famous Telugu work 'Amuktamalyada'?",
+                "options": [
+                    "Achyuta Deva Raya",
+                    "Harihara I",
+                    "Bukka Raya I",
+                    "Krishnadevaraya"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which key natural resource contributed to the prosperity of Vijayanagar through agriculture?",
+                "options": [
+                    "Coal reserves",
+                    "Irrigated land",
+                    "Precious stones",
+                    "Timber"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which dynasty ruled the Vijayanagar Empire first?",
+                "options": [
+                    "Saluva",
+                    "Aravidu",
+                    "Tuluva",
+                    "Sangama"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which European traveler described the grandeur of Vijayanagar?",
+                "options": [
+                    "Megasthenes",
+                    "Hieun Tsang",
+                    "Marco Polo",
+                    "Duarte Barbosa"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which temple in Hampi is famed for its musical pillars that produce sounds when struck?",
+                "options": [
+                    "Hazara Rama Temple",
+                    "Queen's Bath",
+                    "Virupaksha Temple",
+                    "Vittala Temple"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which foreign community was instrumental in facilitating maritime trade with the Vijayanagar Empire?",
+                "options": [
+                    "South American explorers",
+                    "Scandinavian merchants",
+                    "East Asian traders",
+                    "Arab traders"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which inscription style is most commonly associated with Vijayanagar monuments?",
+                "options": [
+                    "Bronze inscriptions in Telugu",
+                    "Granite inscriptions in Kannada",
+                    "Marble inscriptions in Sanskrit",
+                    "Wooden inscriptions in Tamil"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which temple in Hampi is dedicated to Lord Virupaksha?",
+                "options": [
+                    "Somnath Temple",
+                    "Brihadeshwara Temple",
+                    "Virupaksha Temple",
+                    "Meenakshi Temple"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which form of art, involving music and dance, received significant royal patronage during the Vijayanagar period?",
+                "options": [
+                    "Bharatanatyam",
+                    "Odissi",
+                    "Sattriya",
+                    "Kathak"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "During which dynasty did the Vijayanagar Empire reach its zenith under Krishnadevaraya?",
+                "options": [
+                    "Saluva",
+                    "Aravidu",
+                    "Sangama",
+                    "Tuluva"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "What was the main source of revenue for the Vijayanagar Empire?",
+                "options": [
+                    "Land Tax",
+                    "War Booty",
+                    "Trade",
+                    "Agriculture"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What was the significance of the Raichur Doab during Vijayanagar rule?",
+                "options": [
+                    "A fertile agricultural region",
+                    "A cultural center",
+                    "A coastal trading port",
+                    "A religious sanctuary"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which dynasty followed the Sangama dynasty in the Vijayanagar Empire?",
+                "options": [
+                    "Aravidu",
+                    "Chola",
+                    "Tuluva",
+                    "Saluva"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which of the following dynasties ruled Vijayanagar last?",
+                "options": [
+                    "Tuluva",
+                    "Saluva",
+                    "Aravidu",
+                    "Sangama"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which Vijayanagar king is celebrated for his contributions to Telugu literature and poetry?",
+                "options": [
+                    "Achyuta Deva Raya",
+                    "Harihara II",
+                    "Bukka Raya II",
+                    "Krishnadevaraya"
+                ],
+                "answer": 3
+            }
+        ]
+    }
+]

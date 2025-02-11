@@ -77,16 +77,18 @@ def process_file(file_path):
     except Exception as e:
         print(f"Error processing {file_path}: {e}")
 
-def process_folder(folder_path):
-    if not os.path.isdir(folder_path):
-        print(f"Error: {folder_path} is not a valid directory.")
-        return
-    
-    for filename in os.listdir(folder_path):
-        if filename.endswith(".json"):
-            file_path = os.path.join(folder_path, filename)
-            process_file(file_path)
+process_file("public\\quizdata\\History\\18_Advent of Europeans.json")
 
-# Example usage
-json_folder_path = "public\\quizdata\\Polity"  # Replace with your folder path
-process_folder(json_folder_path)
+# def process_folder(folder_path):
+#     if not os.path.isdir(folder_path):
+#         print(f"Error: {folder_path} is not a valid directory.")
+#         return
+    
+#     for filename in os.listdir(folder_path):
+#         if filename.endswith(".json"):
+#             file_path = os.path.join(folder_path, filename)
+#             process_file(file_path)
+
+# # Example usage
+# json_folder_path = "public\\quizdata\\Polity"  # Replace with your folder path
+# process_folder(json_folder_path)
