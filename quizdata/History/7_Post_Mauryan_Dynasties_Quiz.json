@@ -3,136 +3,6 @@
         "title": "Post Mauryan Dynasties Quiz",
         "questions": [
             {
-                "question": "Which dynasty is credited with starting the Saka Era (followed by the Government of India)?",
-                "options": [
-                    "Kanva Dynasty",
-                    "Satvahana Dynasty",
-                    "Sunga Dynasty",
-                    "Kushan Dynasty"
-                ],
-                "answer": 3
-            },
-            {
-                "question": "Who among the following was NOT a ruler of the Kushana dynasty? (SSC CHSL 12/04/2021 Afternoon Shift)",
-                "options": [
-                    "Vasishka",
-                    "Vasudeva",
-                    "Nahapana",
-                    "Huvishka"
-                ],
-                "answer": 2
-            },
-            {
-                "question": "Who among the following gave up his traditional professions and took to arms, successfully establishing a kingdom in Karnataka? (SSC CGL 13/12/2022 First Shift)",
-                "options": [
-                    "Gurjara-Pratihara Harichandra",
-                    "Kadamba Mayurasharman",
-                    "Vasudeva Kanva",
-                    "Pushyamitra Shunga"
-                ],
-                "answer": 1
-            },
-            {
-                "question": "What was the capital of the Kanva Dynasty?",
-                "options": [
-                    "Pataliputra",
-                    "Ujjain",
-                    "Vidisha",
-                    "Paithan"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "What was the capital of the Sunga Dynasty?",
-                "options": [
-                    "Mathura",
-                    "Pataliputra",
-                    "Vidisha",
-                    "Paithan"
-                ],
-                "answer": 2
-            },
-            {
-                "question": "The Tamil word 'muvendar' mentioned in the Sangam poems means (SSC CGL 01/12/2022 Second Shift)",
-                "options": [
-                    "Rich",
-                    "Three chiefs",
-                    "Headmen",
-                    "Dhamma Mahamatta"
-                ],
-                "answer": 1
-            },
-            {
-                "question": "Which famous Greek ruler converted to Buddhism under Nagasena?",
-                "options": [
-                    "Seleucus Nicator",
-                    "Alexander the Great",
-                    "Menander (Milinda)",
-                    "Antiochus"
-                ],
-                "answer": 2
-            },
-            {
-                "question": "Kanishka was a _____ king? (SSC CPO 16/03/2019 Afternoon Shift)",
-                "options": [
-                    "Kushan",
-                    "Maurya",
-                    "Gupta",
-                    "Chola"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Which book by Kalidasa narrates the love story of Agnimitra and Malvika?",
-                "options": [
-                    "Meghaduta",
-                    "Abhijnanashakuntalam",
-                    "Raghuvamsa",
-                    "Malvikagnimitra"
-                ],
-                "answer": 3
-            },
-            {
-                "question": "Which of the following statements is correct with respect to the Shakas dynasty? (SSC CGL 12/12/2022 Second Shift)\nI. Some kingdoms of Shakas lasted for about 500 years.\nII. The Shakas were followed by the Kushans about 2200 years ago.",
-                "options": [
-                    "Only II",
-                    "Both I and II",
-                    "Only I",
-                    "Neither I nor II"
-                ],
-                "answer": 1
-            },
-            {
-                "question": "Which famous lake was repaired by Rudradaman I, the ruler of the Saka Dynasty?",
-                "options": [
-                    "Dal Lake",
-                    "Pushkar Lake",
-                    "Sudarshan Lake",
-                    "Chilka Lake"
-                ],
-                "answer": 2
-            },
-            {
-                "question": "Who was the most famous ruler of the Kushan Dynasty?",
-                "options": [
-                    "Vima Kadphises",
-                    "Kujula Kadphises",
-                    "Huvishka",
-                    "Kanishka"
-                ],
-                "answer": 3
-            },
-            {
-                "question": "Who was the first ruler to cross the Hindu Kush mountains?",
-                "options": [
-                    "Kanishka",
-                    "Meander (Milinda)",
-                    "Ashoka",
-                    "Rudradaman I"
-                ],
-                "answer": 1
-            },
-            {
                 "question": "Who was the last ruler of the Mauryan Dynasty?",
                 "options": [
                     "Ashoka",
@@ -143,54 +13,194 @@
                 "answer": 3
             },
             {
-                "question": "Who killed Brihadratha, the last ruler of the Mauryan Dynasty?",
+                "question": "What was the capital of the Sunga Dynasty?",
                 "options": [
-                    "Gautamiputra Satkarni",
-                    "Pushyamitra Sunga",
-                    "Kanishka",
-                    "Vasudeva"
+                    "Vidisha",
+                    "Mathura",
+                    "Paithan",
+                    "Pataliputra"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Who is known as the 'Father of Surgery'?",
+                "options": [
+                    "Charak",
+                    "Patanjali",
+                    "Sushruta",
+                    "Vatsayana"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which book by Kalidasa narrates the love story of Agnimitra and Malvika?",
+                "options": [
+                    "Malvikagnimitra",
+                    "Raghuvamsa",
+                    "Meghaduta",
+                    "Abhijnanashakuntalam"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which famous lake was repaired by Rudradaman I, the ruler of the Saka Dynasty?",
+                "options": [
+                    "Pushkar Lake",
+                    "Sudarshan Lake",
+                    "Chilka Lake",
+                    "Dal Lake"
                 ],
                 "answer": 1
+            },
+            {
+                "question": "Which famous Greek ruler converted to Buddhism under Nagasena?",
+                "options": [
+                    "Antiochus",
+                    "Menander (Milinda)",
+                    "Seleucus Nicator",
+                    "Alexander the Great"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What was the capital of the Kanva Dynasty?",
+                "options": [
+                    "Paithan",
+                    "Ujjain",
+                    "Pataliputra",
+                    "Vidisha"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which of the following statements is correct with respect to the Shakas dynasty? (SSC CGL 12/12/2022 Second Shift)\nI. Some kingdoms of Shakas lasted for about 500 years.\nII. The Shakas were followed by the Kushans about 2200 years ago.",
+                "options": [
+                    "Only I",
+                    "Only II",
+                    "Neither I nor II",
+                    "Both I and II"
+                ],
+                "answer": 3
             },
             {
                 "question": "Which dynasty first introduced lead coins in India?",
                 "options": [
                     "Sunga Dynasty",
                     "Kanva Dynasty",
-                    "Satvahana Dynasty",
-                    "Mauryan Dynasty"
+                    "Mauryan Dynasty",
+                    "Satvahana Dynasty"
                 ],
-                "answer": 2
+                "answer": 3
+            },
+            {
+                "question": "Who was the first ruler to cross the Hindu Kush mountains?",
+                "options": [
+                    "Ashoka",
+                    "Kanishka",
+                    "Rudradaman I",
+                    "Meander (Milinda)"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "The Tamil word 'muvendar' mentioned in the Sangam poems means (SSC CGL 01/12/2022 Second Shift)",
+                "options": [
+                    "Dhamma Mahamatta",
+                    "Rich",
+                    "Headmen",
+                    "Three chiefs"
+                ],
+                "answer": 3
             },
             {
                 "question": "Which ruler of the Satvahana Dynasty defeated Kshatrap Nahapana?",
                 "options": [
-                    "Vasishka",
-                    "Pushyamitra Sunga",
                     "Gautamiputra Satkarni",
-                    "Simuka"
+                    "Simuka",
+                    "Pushyamitra Sunga",
+                    "Vasishka"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Who among the following assassinated the last Mauryan King Brihadrath?",
+                "options": [
+                    "Vasudeva",
+                    "Bhadrabahu",
+                    "Pushyamitra Sunga",
+                    "Kanishka"
                 ],
                 "answer": 2
             },
             {
-                "question": "Who is known as the 'Father of Surgery'?",
+                "question": "Which dynasty introduced the Satrap system of government?",
                 "options": [
-                    "Charak",
-                    "Sushruta",
-                    "Patanjali",
-                    "Vatsayana"
+                    "Kushan Dynasty",
+                    "Saka Dynasty",
+                    "Satvahana Dynasty",
+                    "Kanva Dynasty"
                 ],
                 "answer": 1
             },
             {
-                "question": "Which of the following pairs 'Dynasty – ruled region' is correctly matched? (SSC CGL 08/12/2022 Second Shift)\nI. Shakas – North West and North India\nII. Vakatakas – Central and western India",
+                "question": "Who among the following was NOT a ruler of the Kushana dynasty? (SSC CHSL 12/04/2021 Afternoon Shift)",
                 "options": [
-                    "Only II",
-                    "Neither I nor II",
-                    "Both I and II",
-                    "Only I"
+                    "Vasishka",
+                    "Vasudeva",
+                    "Huvishka",
+                    "Nahapana"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Who among the following gave up his traditional professions and took to arms, successfully establishing a kingdom in Karnataka? (SSC CGL 13/12/2022 First Shift)",
+                "options": [
+                    "Pushyamitra Shunga",
+                    "Gurjara-Pratihara Harichandra",
+                    "Kadamba Mayurasharman",
+                    "Vasudeva Kanva"
                 ],
                 "answer": 2
+            },
+            {
+                "question": "Which of the following pairs 'Dynasty – ruled region' is correctly matched? (SSC CGL 08/12/2022 Second Shift)\nI. Shakas – North West and North India\nII. Vakatakas – Central and western India",
+                "options": [
+                    "Only I",
+                    "Neither I nor II",
+                    "Only II",
+                    "Both I and II"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Who killed Brihadratha, the last ruler of the Mauryan Dynasty?",
+                "options": [
+                    "Gautamiputra Satkarni",
+                    "Kanishka",
+                    "Pushyamitra Sunga",
+                    "Vasudeva"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Kanishka was a _____ king? (SSC CPO 16/03/2019 Afternoon Shift)",
+                "options": [
+                    "Gupta",
+                    "Chola",
+                    "Maurya",
+                    "Kushan"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which dynasty is credited with starting the Saka Era (followed by the Government of India)?",
+                "options": [
+                    "Kushan Dynasty",
+                    "Sunga Dynasty",
+                    "Satvahana Dynasty",
+                    "Kanva Dynasty"
+                ],
+                "answer": 0
             },
             {
                 "question": "Who wrote the book 'Buddhacharitra'?",
@@ -203,24 +213,14 @@
                 "answer": 2
             },
             {
-                "question": "Who among the following assassinated the last Mauryan King Brihadrath?",
+                "question": "Who was the most famous ruler of the Kushan Dynasty?",
                 "options": [
+                    "Huvishka",
                     "Kanishka",
-                    "Pushyamitra Sunga",
-                    "Bhadrabahu",
-                    "Vasudeva"
+                    "Kujula Kadphises",
+                    "Vima Kadphises"
                 ],
                 "answer": 1
-            },
-            {
-                "question": "Which dynasty introduced the Satrap system of government?",
-                "options": [
-                    "Saka Dynasty",
-                    "Kanva Dynasty",
-                    "Satvahana Dynasty",
-                    "Kushan Dynasty"
-                ],
-                "answer": 0
             }
         ]
     }

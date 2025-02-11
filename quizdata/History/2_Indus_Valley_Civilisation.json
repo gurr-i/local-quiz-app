@@ -3,212 +3,222 @@
         "title": "Indus Valley Civilization Quiz",
         "questions": [
             {
-                "question": "What type of script was used in the Indus Valley Civilization?",
+                "question": "What was the main function of the Great Granary?",
                 "options": [
-                    "Hieroglyphic",
-                    "Cuneiform",
-                    "Alphabetic",
-                    "Pictographic"
-                ],
-                "answer": 3
-            },
-            {
-                "question": "What type of pottery was commonly found in the Indus Valley?",
-                "options": [
-                    "Red and black pottery",
-                    "Metal pottery",
-                    "Painted pottery",
-                    "Glass pottery"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Which occupation was common in the Indus Valley Civilization?",
-                "options": [
-                    "Shipbuilding",
-                    "Iron forging",
-                    "Glass blowing",
-                    "Brick making"
-                ],
-                "answer": 3
-            },
-            {
-                "question": "What evidence of agriculture was found at Kalibangan?",
-                "options": [
-                    "Cotton",
-                    "Rice",
-                    "Ploughed fields",
-                    "Barley"
+                    "Workshops",
+                    "Residences",
+                    "Grain storage",
+                    "Rituals"
                 ],
                 "answer": 2
             },
             {
+                "question": "What type of pottery was commonly found in the Indus Valley?",
+                "options": [
+                    "Metal pottery",
+                    "Red and black pottery",
+                    "Painted pottery",
+                    "Glass pottery"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What type of figure is the terracotta figure found in the Indus Valley?",
+                "options": [
+                    "Male deity",
+                    "Mother Earth",
+                    "King",
+                    "Priest"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which material was used to make the bearded man's figure found in Mohenjadaro?",
+                "options": [
+                    "Terracotta",
+                    "Gold",
+                    "Steatite",
+                    "Bronze"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What was the floor of the Great Bath made of?",
+                "options": [
+                    "Mud",
+                    "Burnt bricks",
+                    "Stone",
+                    "Terracotta"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which Indus Valley site has evidence of rice cultivation?",
+                "options": [
+                    "Lothal",
+                    "Mohenjadaro",
+                    "Dholavira",
+                    "Kalibangan"
+                ],
+                "answer": 0
+            },
+            {
                 "question": "Which Harappan site is located in Afghanistan?",
                 "options": [
+                    "Lothal",
                     "Sutkagendor",
                     "Surkotada",
-                    "Lothal",
                     "Shortughai"
                 ],
                 "answer": 3
             },
             {
-                "question": "Which material was not known to the Indus Valley Civilization?",
+                "question": "Which site is known as the 'Mount of Dead'?",
                 "options": [
-                    "Tin",
-                    "Copper",
-                    "Iron",
-                    "Bronze"
+                    "Dholavira",
+                    "Harappa",
+                    "Mohenjadaro",
+                    "Lothal"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What is the time period of the Indus Valley Civilization?",
+                "options": [
+                    "2500 BC - 1800 BC",
+                    "2700 BC - 1600 BC",
+                    "2600 BC - 1700 BC",
+                    "3000 BC - 2000 BC"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which Harappan site is located in Baluchistan?",
+                "options": [
+                    "Dholavira",
+                    "Lothal",
+                    "Sutkagendor",
+                    "Kalibangan"
                 ],
                 "answer": 2
             },
             {
                 "question": "What material was the famous 'Dancing Girl' statue made of?",
                 "options": [
+                    "Copper",
                     "Terracotta",
-                    "Stone",
                     "Bronze",
-                    "Copper"
+                    "Stone"
                 ],
                 "answer": 2
             },
             {
-                "question": "Which site is known as the 'Mount of Dead'?",
+                "question": "What was the material of the weights and measures used in trade?",
                 "options": [
-                    "Harappa",
-                    "Lothal",
-                    "Dholavira",
-                    "Mohenjadaro"
+                    "Steatite",
+                    "Copper",
+                    "Jadeite",
+                    "Terracotta"
                 ],
-                "answer": 3
+                "answer": 0
             },
             {
-                "question": "Which river was associated with the site of Harappa?",
+                "question": "Which material was not known to the Indus Valley Civilization?",
                 "options": [
-                    "Bhogava",
-                    "Ravi",
-                    "Ghaggar",
-                    "Indus"
+                    "Copper",
+                    "Tin",
+                    "Bronze",
+                    "Iron"
                 ],
-                "answer": 1
+                "answer": 3
             },
             {
                 "question": "What shape was the Great Bath in Mohenjadaro?",
                 "options": [
-                    "Rectangular",
+                    "Circular",
                     "Square",
                     "Triangular",
-                    "Circular"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Which Indus Valley site is known for its dockyard?",
-                "options": [
-                    "Harappa",
-                    "Mohenjadaro",
-                    "Lothal",
-                    "Dholavira"
-                ],
-                "answer": 2
-            },
-            {
-                "question": "What type of ornaments were commonly used by the Indus Valley people?",
-                "options": [
-                    "Precious stones",
-                    "Shells and beads",
-                    "Wooden jewelry",
-                    "Gold and silver"
-                ],
-                "answer": 1
-            },
-            {
-                "question": "Which deity is represented by the Pashupati seal?",
-                "options": [
-                    "Brahma",
-                    "Lord Shiva",
-                    "Vishnu",
-                    "Proto-Shiva"
+                    "Rectangular"
                 ],
                 "answer": 3
             },
             {
-                "question": "What type of burial was found at Sanauli in Uttar Pradesh?",
+                "question": "Which Indus Valley site had a three-part citadel?",
                 "options": [
-                    "Extended burial",
-                    "Joint burial",
-                    "Double burial",
-                    "Coffin burial"
+                    "Dholavira",
+                    "Rakhigarhi",
+                    "Harappa",
+                    "Kalibangan"
                 ],
                 "answer": 0
             },
             {
-                "question": "Which Indus Valley site had a three-part citadel?",
+                "question": "Which animal is depicted as a 'unicorn' in Indus Valley seals?",
                 "options": [
-                    "Kalibangan",
-                    "Harappa",
-                    "Rakhigarhi",
-                    "Dholavira"
+                    "Rhino",
+                    "Deer",
+                    "Buffalo",
+                    "Horse"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which precious stone was traded by the Indus Valley Civilization?",
+                "options": [
+                    "Diamond",
+                    "Lapis Lazuli",
+                    "Emerald",
+                    "Ruby"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which Harappan site is the oldest in India?",
+                "options": [
+                    "Bhirrana",
+                    "Lothal",
+                    "Mohenjadaro",
+                    "Kalibangan"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which occupation was common in the Indus Valley Civilization?",
+                "options": [
+                    "Glass blowing",
+                    "Iron forging",
+                    "Brick making",
+                    "Shipbuilding"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which animal evidence was found only in Surkotada?",
+                "options": [
+                    "Horse",
+                    "Tiger",
+                    "Cow",
+                    "Elephant"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What was the primary river near which the Indus Valley Civilization developed?",
+                "options": [
+                    "Brahmaputra",
+                    "Ganges",
+                    "Yamuna",
+                    "Indus"
                 ],
                 "answer": 3
             },
             {
                 "question": "What game did the Harappans play that resembles modern chess?",
                 "options": [
-                    "Board games",
                     "Dice games",
+                    "Marbles",
                     "Checkers",
-                    "Marbles"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Which state in India has the Indus Valley site of Kalibangan?",
-                "options": [
-                    "Rajasthan",
-                    "Haryana",
-                    "Punjab",
-                    "Uttar Pradesh"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "What was the primary method of trade in the Indus Valley Civilization?",
-                "options": [
-                    "Currency",
-                    "Barter system",
-                    "Credit system",
-                    "Gold coins"
-                ],
-                "answer": 1
-            },
-            {
-                "question": "Which precious stone was traded by the Indus Valley Civilization?",
-                "options": [
-                    "Lapis Lazuli",
-                    "Emerald",
-                    "Diamond",
-                    "Ruby"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Which material was used to make the bearded man's figure found in Mohenjadaro?",
-                "options": [
-                    "Terracotta",
-                    "Steatite",
-                    "Gold",
-                    "Bronze"
-                ],
-                "answer": 1
-            },
-            {
-                "question": "What was the floor of the Great Bath made of?",
-                "options": [
-                    "Terracotta",
-                    "Mud",
-                    "Stone",
-                    "Burnt bricks"
+                    "Board games"
                 ],
                 "answer": 3
             },
@@ -223,174 +233,164 @@
                 "answer": 3
             },
             {
-                "question": "Which Harappan city had a grid system for town planning?",
+                "question": "Which river was associated with the site of Harappa?",
                 "options": [
-                    "Dholavira",
-                    "Lothal",
-                    "Harappa",
-                    "Mohenjadaro"
+                    "Ravi",
+                    "Ghaggar",
+                    "Bhogava",
+                    "Indus"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Who named the Indus Valley Civilization?",
+                "options": [
+                    "R. D. Banerjee",
+                    "Alexander Cunningham",
+                    "John Marshall",
+                    "Dayaram Sahini"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What type of script was used in the Indus Valley Civilization?",
+                "options": [
+                    "Hieroglyphic",
+                    "Pictographic",
+                    "Alphabetic",
+                    "Cuneiform"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which state in India has the Indus Valley site of Kalibangan?",
+                "options": [
+                    "Uttar Pradesh",
+                    "Haryana",
+                    "Punjab",
+                    "Rajasthan"
                 ],
                 "answer": 3
             },
             {
-                "question": "Which Indus Valley site has evidence of rice cultivation?",
+                "question": "What type of burial was found at Sanauli in Uttar Pradesh?",
                 "options": [
-                    "Dholavira",
-                    "Kalibangan",
-                    "Mohenjadaro",
-                    "Lothal"
+                    "Joint burial",
+                    "Double burial",
+                    "Extended burial",
+                    "Coffin burial"
                 ],
-                "answer": 3
-            },
-            {
-                "question": "What is the time period of the Indus Valley Civilization?",
-                "options": [
-                    "3000 BC - 2000 BC",
-                    "2500 BC - 1800 BC",
-                    "2700 BC - 1600 BC",
-                    "2600 BC - 1700 BC"
-                ],
-                "answer": 3
+                "answer": 2
             },
             {
                 "question": "What material were Harappan seals commonly made of?",
                 "options": [
                     "Steatite",
-                    "Terracotta",
-                    "Bronze",
-                    "Copper"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "What type of figure is the terracotta figure found in the Indus Valley?",
-                "options": [
-                    "Priest",
-                    "Male deity",
-                    "King",
-                    "Mother Earth"
-                ],
-                "answer": 3
-            },
-            {
-                "question": "What was the primary river near which the Indus Valley Civilization developed?",
-                "options": [
-                    "Yamuna",
-                    "Brahmaputra",
-                    "Ganges",
-                    "Indus"
-                ],
-                "answer": 3
-            },
-            {
-                "question": "Which Harappan site is the oldest in India?",
-                "options": [
-                    "Lothal",
-                    "Bhirrana",
-                    "Mohenjadaro",
-                    "Kalibangan"
-                ],
-                "answer": 1
-            },
-            {
-                "question": "What was the primary diet of the Indus Valley people?",
-                "options": [
-                    "Rice and wheat",
-                    "Fish and barley",
-                    "Fruits and milk",
-                    "Meat and vegetables"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Which tool used for agriculture was found at Kalibangan?",
-                "options": [
-                    "Spade",
-                    "Hoe",
-                    "Sickle",
-                    "Ploughshare"
-                ],
-                "answer": 3
-            },
-            {
-                "question": "What was the material of the weights and measures used in trade?",
-                "options": [
-                    "Steatite",
                     "Copper",
-                    "Jadeite",
-                    "Terracotta"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Which animal evidence was found only in Surkotada?",
-                "options": [
-                    "Tiger",
-                    "Elephant",
-                    "Cow",
-                    "Horse"
-                ],
-                "answer": 3
-            },
-            {
-                "question": "Who named the Indus Valley Civilization?",
-                "options": [
-                    "Dayaram Sahini",
-                    "R. D. Banerjee",
-                    "Alexander Cunningham",
-                    "John Marshall"
-                ],
-                "answer": 3
-            },
-            {
-                "question": "What was the main function of the Great Granary?",
-                "options": [
-                    "Rituals",
-                    "Grain storage",
-                    "Workshops",
-                    "Residences"
-                ],
-                "answer": 1
-            },
-            {
-                "question": "Which animal is depicted as a 'unicorn' in Indus Valley seals?",
-                "options": [
-                    "Horse",
-                    "Buffalo",
-                    "Deer",
-                    "Rhino"
-                ],
-                "answer": 3
-            },
-            {
-                "question": "Which Harappan site is located in Baluchistan?",
-                "options": [
-                    "Sutkagendor",
-                    "Kalibangan",
-                    "Lothal",
-                    "Dholavira"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Which site has evidence of a fire altar?",
-                "options": [
-                    "Lothal",
-                    "Dholavira",
-                    "Mohenjadaro",
-                    "Kalibangan"
+                    "Terracotta",
+                    "Bronze"
                 ],
                 "answer": 0
             },
             {
                 "question": "Which city of the Indus Valley Civilization had no citadel?",
                 "options": [
+                    "Mohenjadaro",
                     "Chanhudaro",
+                    "Dholavira",
+                    "Harappa"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which Indus Valley site is known for its dockyard?",
+                "options": [
+                    "Mohenjadaro",
+                    "Dholavira",
+                    "Lothal",
+                    "Harappa"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What type of ornaments were commonly used by the Indus Valley people?",
+                "options": [
+                    "Wooden jewelry",
+                    "Shells and beads",
+                    "Precious stones",
+                    "Gold and silver"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What was the primary diet of the Indus Valley people?",
+                "options": [
+                    "Fruits and milk",
+                    "Meat and vegetables",
+                    "Rice and wheat",
+                    "Fish and barley"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which deity is represented by the Pashupati seal?",
+                "options": [
+                    "Brahma",
+                    "Lord Shiva",
+                    "Proto-Shiva",
+                    "Vishnu"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which site has evidence of a fire altar?",
+                "options": [
+                    "Mohenjadaro",
+                    "Dholavira",
+                    "Lothal",
+                    "Kalibangan"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which Harappan city had a grid system for town planning?",
+                "options": [
                     "Harappa",
+                    "Lothal",
                     "Dholavira",
                     "Mohenjadaro"
                 ],
-                "answer": 0
+                "answer": 3
+            },
+            {
+                "question": "What was the primary method of trade in the Indus Valley Civilization?",
+                "options": [
+                    "Currency",
+                    "Barter system",
+                    "Credit system",
+                    "Gold coins"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which tool used for agriculture was found at Kalibangan?",
+                "options": [
+                    "Hoe",
+                    "Sickle",
+                    "Ploughshare",
+                    "Spade"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What evidence of agriculture was found at Kalibangan?",
+                "options": [
+                    "Barley",
+                    "Rice",
+                    "Ploughed fields",
+                    "Cotton"
+                ],
+                "answer": 2
             }
         ]
     }

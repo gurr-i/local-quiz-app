@@ -1,0 +1,607 @@
+[
+    {
+        "title": "Quiz on Socialism, Simon and CDM – Indian History",
+        "questions": [
+            {
+                "question": "Which non-violent protest march did Gandhi lead from Sabarmati to Dandi in 1930?",
+                "options": [
+                    "Civil Disobedience March",
+                    "Salt March",
+                    "Dandi March",
+                    "Freedom March"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Where was the Communist Party of India founded?",
+                "options": [
+                    "Calcutta, India",
+                    "Bombay, India",
+                    "Moscow, Russia",
+                    "Tashkent, Uzbekistan"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which novel by Sachin Sanyal is mentioned in the context of revolutionary literature?",
+                "options": [
+                    "Aag Ka Daan",
+                    "Inquilab",
+                    "Bandi Jeevan",
+                    "Ghadar"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which revolutionary leader is prominently associated with the Meerut Conspiracy Case?",
+                "options": [
+                    "Ram Prasad Bismil",
+                    "Sukhdev",
+                    "Bhagat Singh",
+                    "Chandra Shekhar Azad"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which conspiracy case was initiated in Meerut in 1929?",
+                "options": [
+                    "Meerut Conspiracy Case",
+                    "Delhi Conspiracy Case",
+                    "Kakori Conspiracy Case",
+                    "Kanpur Conspiracy Case"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which movement did Gandhi launch after the flag was hoisted on the banks of the Ravi River?",
+                "options": [
+                    "Swadeshi Movement",
+                    "Civil Disobedience Movement",
+                    "Quit India Movement",
+                    "Non-Cooperation Movement"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "In which year did revolutionaries attempt to kill Irwin?",
+                "options": [
+                    "1931",
+                    "1928",
+                    "1929",
+                    "1930"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which leader from Malabar is associated with the Vaikom Satyagraha?",
+                "options": [
+                    "M. G. Ranade",
+                    "Bal Gangadhar Tilak",
+                    "K. Kelappan",
+                    "E. V. Ramaswamy Naicker"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "On which date was Gandhi arrested following his raid at Dharsana?",
+                "options": [
+                    "8 May 1930",
+                    "2 May 1930",
+                    "6 May 1930",
+                    "4 May 1930"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which leader from Manipur and Nagaland is mentioned for revolutionary activities?",
+                "options": [
+                    "Kamala Devi",
+                    "Indira Gandhi",
+                    "Rani Gaidinliu",
+                    "Kiran Bedi"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which strategy did the Congress adopt to spread Salt Disobedience in rural areas?",
+                "options": [
+                    "Boycott of British schools",
+                    "Mass fasting campaigns",
+                    "Non-payment of revenue and defiance of forest laws",
+                    "Armed rebellion"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "In which regions was the Hindustan Republican Association (HRA) formed in 1924?",
+                "options": [
+                    "Maharashtra and Gujarat",
+                    "South India",
+                    "Bengal and Orissa",
+                    "Punjab, UP, and Bihar"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which session of Congress held in December 1929 was presided over by J. L. Nehru?",
+                "options": [
+                    "Banaras Session",
+                    "Lahore Session",
+                    "Calcutta Session",
+                    "Madras Session"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which slogan was hoisted on the banks of the Ravi River on 31 December 1930?",
+                "options": [
+                    "\"Swaraj for All\"",
+                    "\"Vande Mataram\"",
+                    "\"Jai Hind\"",
+                    "\"Inquilab Zindabad\""
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which act, introduced in 1919, is associated with the Montagu Chelmsford Reforms?",
+                "options": [
+                    "GOI Act 1919",
+                    "Defence of India Act",
+                    "Ilbert Bill",
+                    "Vernacular Press Act"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which organization was formed in Punjab in 1926 to mobilize youth?",
+                "options": [
+                    "Punjab Naujawan Bharat Sabha",
+                    "Indian National Youth League",
+                    "All India Youth Congress",
+                    "Punjab Revolutionary League"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which incident in 1925, occurring near Kakori, is linked to the HRA?",
+                "options": [
+                    "Bombay Conspiracy",
+                    "Kakori Incident",
+                    "Meerut Conspiracy Case",
+                    "Delhi Conspiracy"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Who led protests against the Simon Commission in 1928 by reciting the slogan \"Simon go back\"?",
+                "options": [
+                    "Chandra Shekhar Azad",
+                    "Sukhdev",
+                    "Lala Lajpat Rai",
+                    "Bhagat Singh"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which case, associated with the HRA, was investigated in Kanpur in 1924?",
+                "options": [
+                    "Kanpur Bolshevik Conspiracy Case",
+                    "Kakori Conspiracy Case",
+                    "Meerut Conspiracy Case",
+                    "Delhi Conspiracy Case"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which session of Congress in 1928 decided to boycott the Simon Commission?",
+                "options": [
+                    "Lahore Session",
+                    "Madras Session",
+                    "Kanpur Session",
+                    "Calcutta Session"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which report, chaired by Motilal Nehru, demanded an end to separate electorates?",
+                "options": [
+                    "Lajpat Rai Report",
+                    "Nehru Report (1928)",
+                    "Tagore Report",
+                    "Tilak Report"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Name one leader involved in the Kanpur Bolshevik Conspiracy Case.",
+                "options": [
+                    "Bhagat Singh",
+                    "Ram Prasad Bismil",
+                    "Chandra Shekhar Azad",
+                    "S. A. Dange"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which caste movement was led by E. V. Ramaswamy Naicker?",
+                "options": [
+                    "Self Respect Movement",
+                    "Bharat Dharma Movement",
+                    "Arya Samaj",
+                    "Brahmo Samaj"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "On which date is the 1st Independence Day celebrated according to the text?",
+                "options": [
+                    "26 January 1929",
+                    "26 January 1930",
+                    "2 October 1930",
+                    "15 August 1930"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Approximately how many miles did Gandhi march during the Dandi March?",
+                "options": [
+                    "360 miles",
+                    "100 miles",
+                    "240 miles",
+                    "120 miles"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What was the common Indian slogan in response to the all-white Simon Commission?",
+                "options": [
+                    "\"Jai Hind\"",
+                    "\"Vande Mataram\"",
+                    "\"Simon go back\"",
+                    "\"Inquilab Zindabad\""
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which prominent leader from Peshawar, also known as Frontier Gandhi, is mentioned?",
+                "options": [
+                    "Jawaharlal Nehru",
+                    "Sardar Patel",
+                    "Bal Gangadhar Tilak",
+                    "Khan Abdul Ghaffar Khan"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which revolutionary leader committed suicide in 1931?",
+                "options": [
+                    "C. S. Azad",
+                    "Chandra Shekhar Azad",
+                    "Bhagat Singh",
+                    "Ram Prasad Bismil"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "On which date is \"Shaheed Diwas\" celebrated, marking the martyrdom of revolutionaries?",
+                "options": [
+                    "26 January 1931",
+                    "2 October 1931",
+                    "23 March 1931",
+                    "15 August 1931"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which event in 1929 involved Bhagat Singh and Batukeshwar Dutt bombing the Central Legislative Assembly?",
+                "options": [
+                    "Bombing of the Central Legislative Assembly",
+                    "Kakori Incident",
+                    "Meerut Conspiracy Case",
+                    "Chittagong Armoury Raid"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which revolutionary grouping, abbreviated as HRA HSRA, operated in Feroz Shah Kotla in 1928?",
+                "options": [
+                    "HRA HSRA",
+                    "HRAC",
+                    "BLP",
+                    "IRA"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Who formalized the Hindustan Republican Association in Kanpur in 1925?",
+                "options": [
+                    "M. N. Roy",
+                    "Bhagat Singh",
+                    "Sukhdev",
+                    "Chandra Shekhar Azad"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "In which year did the Simon Commission arrive in India?",
+                "options": [
+                    "1930",
+                    "1927",
+                    "1928",
+                    "1929"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which legislative innovation was introduced at the Centre under the Montagu Chelmsford Reforms?",
+                "options": [
+                    "Unicameral Legislature",
+                    "Bicameral Legislature",
+                    "Direct election of the Prime Minister",
+                    "Parliamentary Sovereignty"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "The Chittagong Armoury Raid was partly aimed at avenging the death of which leader?",
+                "options": [
+                    "Gopal Krishna Gokhale",
+                    "Bal Gangadhar Tilak",
+                    "Lala Lajpat Rai",
+                    "B. G. Tilak"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which peasant struggle, initiated in 1927, was led by Dr. B. R. Ambedkar?",
+                "options": [
+                    "Kheda Satyagraha",
+                    "Non-Cooperation Movement",
+                    "Champaran Satyagraha",
+                    "Mahad Satyagraha"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which leader from Tamil Nadu is mentioned as a state leader during the Salt Disobedience movement?",
+                "options": [
+                    "K. Kamaraj",
+                    "Kamal Haasan",
+                    "C. Rajagopalachari",
+                    "Subramania Bharati"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "In 1928, which revolutionaries killed a British officer named Saunders?",
+                "options": [
+                    "Bhagat Singh, Sukhdev, and Raj Guru",
+                    "Ram Prasad Bismil and Chandra Shekhar Azad",
+                    "M. N. Roy and S. A. Dange",
+                    "Lala Lajpat Rai and Tilak"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Name one woman participant in the revolutionary activities in Bengal mentioned in the text.",
+                "options": [
+                    "Kamala Nehru",
+                    "Sarojini Naidu",
+                    "Pritilata Waddedar",
+                    "Annie Besant"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which concept by Karl Marx formed the basis of socialism, emphasizing mass struggle to overthrow the rich classes?",
+                "options": [
+                    "Gradual reform through parliament",
+                    "Peaceful coexistence of classes",
+                    "Mass struggle to remove the rich classes",
+                    "Spiritual upliftment of society"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which organization, established in 1920, involved leaders like N. M. Joshi and Lala Lajpat Rai?",
+                "options": [
+                    "Punjab Naujawan Bharat Sabha",
+                    "Hindustan Republican Association",
+                    "All India Trade Union Congress",
+                    "Indian National Congress"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Who chaired the Simon Commission when it was formed?",
+                "options": [
+                    "John Simon",
+                    "Montagu",
+                    "Birkenhead",
+                    "Chelmsford"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which major event partly inspired the rise of socialism in India?",
+                "options": [
+                    "French Revolution",
+                    "Industrial Revolution",
+                    "American Revolution",
+                    "Russian Revolution"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which pact, signed on 14 February 1931, required Gandhi to suspend the Civil Disobedience Movement?",
+                "options": [
+                    "Gandhi-Patel Pact",
+                    "Gandhi-Rowlatt Pact",
+                    "Gandhi-British Pact",
+                    "Gandhi-Irwin Pact"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "On what date did Gandhi announce his 11 Demands during the Lahore Session?",
+                "options": [
+                    "15 August 1930",
+                    "31 January 1930",
+                    "2 October 1930",
+                    "26 January 1930"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which leaders were part of the HRA HSRA in 1928?",
+                "options": [
+                    "Lala Lajpat Rai, Tilak, and Nehru",
+                    "Raja Ram Mohan Roy, Naoroji, and Ranade",
+                    "Chandra Shekhar Azad, Bhagat Singh, and Sukhdev",
+                    "B. R. Ambedkar, Jinnah, and Tilak"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which leader from Bihar chose Nakhas Pond as a site to violate the salt law?",
+                "options": [
+                    "Ram Manohar Lohia",
+                    "Lala Lajpat Rai",
+                    "Ambika Kant Sinha",
+                    "Dr. Rajendra Prasad"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which British officer was responsible for killing Surya Sen during the Chittagong raid?",
+                "options": [
+                    "Dyer",
+                    "Irwin",
+                    "Hardinge",
+                    "Scott"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which law was Gandhi deliberately breaking during the Dandi March?",
+                "options": [
+                    "Import-Export Act",
+                    "Land Revenue Act",
+                    "Excise Duty Act",
+                    "Salt Law"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which female leader from Dharsana is noted in the text?",
+                "options": [
+                    "Annie Besant",
+                    "Kamala Nehru",
+                    "Sarojini Naidu",
+                    "Aruna Asaf Ali"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What was the primary goal behind boycotting the 1st Round Table Conference?",
+                "options": [
+                    "To form a coalition government",
+                    "To negotiate separate electorates",
+                    "To demand 'Purna Swaraj'",
+                    "To accept Dominion Status"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which revolutionary action in Bengal in 1930 was led by Surya Sen?",
+                "options": [
+                    "Delhi Conspiracy",
+                    "Meerut Conspiracy Case",
+                    "Kakori Incident",
+                    "Chittagong Armoury Raid"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "In which year was the Communist Party of India formed?",
+                "options": [
+                    "1930",
+                    "1917",
+                    "1920",
+                    "1925"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What alias is Surya Sen also known by?",
+                "options": [
+                    "Master Da",
+                    "Revolutionary Sen",
+                    "Senji",
+                    "Babu Sen"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which book titled 'Philosophy of Bomb' was written by B. C. Vohra?",
+                "options": [
+                    "Bomb and Revolution",
+                    "Philosophy of Bomb",
+                    "Theory of Explosion",
+                    "The Art of the Bomb"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Name a participant of the Meerut Conspiracy Case who was later hanged.",
+                "options": [
+                    "Ashfaqulla",
+                    "Gopal Krishna Gokhale",
+                    "Lala Lajpat Rai",
+                    "Subhas Chandra Bose"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which leader from Orissa is mentioned in the context of Salt Disobedience?",
+                "options": [
+                    "Naveen Patnaik",
+                    "Gopalbandhu Choudhary",
+                    "Jayadev Jena",
+                    "Biju Patnaik"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which work by Sharat Chandra Chatterjee is associated with revolutionary ideas?",
+                "options": [
+                    "Devdas",
+                    "Chokher Bali",
+                    "Pather Dabi",
+                    "Gitanjali"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Under the Montagu Chelmsford Reforms, which group was granted a separate electorate?",
+                "options": [
+                    "Dalits",
+                    "Tribal communities",
+                    "Muslims",
+                    "Anglo-Indians and Christians"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "What system was introduced at the provincial level under the Montagu Chelmsford Reforms?",
+                "options": [
+                    "Federalism",
+                    "Bicameral legislature",
+                    "Unitary administration",
+                    "Dyarchy"
+                ],
+                "answer": 3
+            }
+        ]
+    }
+]

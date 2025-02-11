@@ -1,0 +1,607 @@
+[
+    {
+        "title": "Quiz on Emergence of Gandhi – Indian History (PARMAR SSC)",
+        "questions": [
+            {
+                "question": "In which month and year was the All India Khilafat Conference held in Delhi?",
+                "options": [
+                    "October 1919",
+                    "November 1919",
+                    "December 1918",
+                    "January 1920"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "In which region did a local protest lead to the death of 22 policemen due to a fire in the police station?",
+                "options": [
+                    "Bombay",
+                    "Punjab",
+                    "Malabar",
+                    "Bihar"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What nickname did Gandhi give to the Rowlatt Act?",
+                "options": [
+                    "Oppressive Act",
+                    "Black Act",
+                    "Sedition Act",
+                    "Red Act"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which title did Gandhi return in protest following the Jallianwala Bagh incident?",
+                "options": [
+                    "Swaraj",
+                    "Kaiser-e-Hind",
+                    "Deshbhakt",
+                    "Rashtrapati"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which major movement did Gandhi launch in 1921 that fostered Hindu-Muslim unity?",
+                "options": [
+                    "Non-Cooperation Movement",
+                    "Quit India Movement",
+                    "Swadeshi Movement",
+                    "Civil Disobedience Movement"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "On what date did Gandhi return to India?",
+                "options": [
+                    "9th January 1915",
+                    "15th August 1915",
+                    "2nd October 1915",
+                    "26th January 1915"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What was the name of Gandhi's father?",
+                "options": [
+                    "Karam Singh Gandhi",
+                    "Karamji Gandhi",
+                    "Karamdas Gandhi",
+                    "Karamchand Gandhi"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which leaders, including C. R. Das and Motilal Nehru, opposed Gandhi's idea on council entry?",
+                "options": [
+                    "C. R. Das and Motilal Nehru",
+                    "B. G. Tilak and Subhash Chandra Bose",
+                    "Sardar Patel and Jawaharlal Nehru",
+                    "Annie Besant and J. B. Kriplani"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "In 1921, which fund was established in remembrance of B. G. Tilak?",
+                "options": [
+                    "Nehru Memorial Fund",
+                    "Tilak Swaraj Fund",
+                    "B. G. Tilak Fund",
+                    "Gandhi Peace Fund"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which farm did Gandhi set up in 1910 in South Africa?",
+                "options": [
+                    "Gandhi Farm",
+                    "Phoenix Farm",
+                    "Tolstoy Farm",
+                    "Unity Farm"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What key electoral change was introduced under the Montagu Chelmsford Reforms?",
+                "options": [
+                    "Universal suffrage for all adults",
+                    "Proportional representation in legislatures",
+                    "Direct election of the Viceroy",
+                    "Separate electorates for Anglo-Indians and Christians"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which body was formed to lead Congress as an extra-constitutional mass struggle?",
+                "options": [
+                    "Congress Working Committee",
+                    "Swaraj Party",
+                    "Khilafat Andolan",
+                    "Non-Cooperation Movement"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which bill proposed in 1928 was defeated due to opposition from Gandhi and his supporters?",
+                "options": [
+                    "Sedition Act 1928",
+                    "Defence of India Act 1928",
+                    "Security of India Bill 1928",
+                    "Public Safety Bill 1928"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Who were the key figures behind the formation of the Khilafat Committee?",
+                "options": [
+                    "The Ali Brothers",
+                    "Tagore and Nehru",
+                    "Tilak and Gokhale",
+                    "Dyer and Hunter"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What was the name of Gandhi's mother?",
+                "options": [
+                    "Putlibai Gandhi",
+                    "Kasturba Gandhi",
+                    "Lakshmi Gandhi",
+                    "Manjula Gandhi"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Into what two groups was the Swaraj Party divided?",
+                "options": [
+                    "Responsivists and Non-Responsivists",
+                    "Nationalists and Socialists",
+                    "Moderates and Extremists",
+                    "Reformists and Radicals"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "In which country did Gandhi first develop his Satyagraha techniques?",
+                "options": [
+                    "Kenya",
+                    "India",
+                    "South Africa",
+                    "England"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which newspaper was launched by British elites to fund efforts in support of Reginald Dyer?",
+                "options": [
+                    "The Times",
+                    "The Guardian",
+                    "Daily Mail",
+                    "Morning Post"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "What action did Udham Singh take following the Jallianwala Bagh massacre?",
+                "options": [
+                    "He joined the British forces",
+                    "He organized protests in his hometown",
+                    "He assassinated Michael O'Dyer",
+                    "He fled to Nepal"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which prominent leaders resigned from the Congress as mentioned in the text?",
+                "options": [
+                    "Subhash Chandra Bose and Jawaharlal Nehru",
+                    "M. A. Jinnah, Annie Besant, and B. C. Pal",
+                    "Tilak, B. G. Tilak, and Madan Mohan Malviya",
+                    "Sardar Patel and Gopal Krishna Gokhale"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Who invited Gandhi to address the mill workers' issues in Ahmedabad?",
+                "options": [
+                    "Sardar Patel",
+                    "Rajkumar Shukla",
+                    "Gopal Krishna Gokhale",
+                    "Anusuya Sarabhai"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "In 1922, for which movement was Gandhi jailed?",
+                "options": [
+                    "Quit India Movement",
+                    "Non-Cooperation Movement",
+                    "Civil Disobedience Movement",
+                    "Satyagraha Movement"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which session of Congress, held in December 1922, is mentioned in the text?",
+                "options": [
+                    "Lahore Session",
+                    "Belgaum Session",
+                    "Calcutta Session",
+                    "Gaya Session"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "What action did Gandhi take regarding the Non-Cooperation Movement after the Chauri Chaura incident?",
+                "options": [
+                    "He withdrew the Non-Cooperation Movement",
+                    "He modified the movement",
+                    "He intensified the movement",
+                    "He converted it into an armed struggle"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which Satyagraha did Gandhi lead in 1917?",
+                "options": [
+                    "Rowlatt Satyagraha",
+                    "Kheda Satyagraha",
+                    "Non-Cooperation Movement",
+                    "Champaran Satyagraha"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Where did the Chauri Chaura incident take place?",
+                "options": [
+                    "Calcutta",
+                    "Gorakhpur",
+                    "Bombay",
+                    "Madras"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which organization did Gandhi set up in South Africa?",
+                "options": [
+                    "Indian Opinion Group",
+                    "Natal Indian Congress",
+                    "South African Indian Association",
+                    "African Indian League"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What was Gandhi's stance on entering the councils during the boycott?",
+                "options": [
+                    "He supported council entry",
+                    "He opposed council entry",
+                    "He organized a parallel council",
+                    "He was indifferent"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which eminent poet returned his knighthood in protest after Jallianwala Bagh?",
+                "options": [
+                    "Kavi Pradeep",
+                    "Rabindranath Tagore",
+                    "Subramania Bharati",
+                    "Bankim Chatterjee"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Who was Gandhi's political mentor upon his return to India?",
+                "options": [
+                    "Bal Gangadhar Tilak",
+                    "Gopal Krishna Gokhale",
+                    "Jawaharlal Nehru",
+                    "Sardar Vallabhbhai Patel"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What party was formed by the 'pro changers' after the suspension of the Non-Cooperation Movement?",
+                "options": [
+                    "Congress Working Committee",
+                    "Indian National Liberation Federation",
+                    "All India Khilafat Swaraj Party",
+                    "Swaraj Party"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "After the suspension of the Non-Cooperation Movement, what type of work did the 'pro changers' focus on?",
+                "options": [
+                    "Armed rebellion",
+                    "Constructive work, such as building ashrams and schools",
+                    "Appealing directly to the British government",
+                    "Mass protests"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Who suggested the act that later became known as the Rowlatt Act in 1919?",
+                "options": [
+                    "Montagu",
+                    "Chelmsford",
+                    "Sydney Rowlatt",
+                    "Dalhousie"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "In which city was the 1920 Congress session held that is associated with the Non-Cooperation Movement?",
+                "options": [
+                    "Lahore",
+                    "Nagpur",
+                    "Bombay",
+                    "Calcutta"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which revolt in 1921 is noted from the Malabar region?",
+                "options": [
+                    "Champaran Satyagraha",
+                    "Kheda Satyagraha",
+                    "Mappila Revolt",
+                    "Non-Cooperation Movement"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which famous writer contributed funds for Reginald Dyer’s indemnity?",
+                "options": [
+                    "E. M. Forster",
+                    "T. S. Eliot",
+                    "George Orwell",
+                    "Rudyard Kipling"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which act, also known as the Montagu Chelmsford Reforms, was introduced in 1919?",
+                "options": [
+                    "Ilbert Bill",
+                    "Rowlatt Act",
+                    "GOI Act 1919",
+                    "Defence of India Act"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which session of Congress in 1924 was the only one presided over by Gandhi?",
+                "options": [
+                    "Calcutta Session",
+                    "Lahore Session",
+                    "Belgaum Session",
+                    "Gaya Session"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What was the name of the farm Gandhi established in 1904 in South Africa?",
+                "options": [
+                    "Freedom Farm",
+                    "Tolstoy Farm",
+                    "Satyagraha Farm",
+                    "Phoenix Farm"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "In which year did the Jallianwala Bagh massacre occur?",
+                "options": [
+                    "1919",
+                    "1917",
+                    "1915",
+                    "1920"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Who ordered the firing on the crowd at Jallianwala Bagh?",
+                "options": [
+                    "General Dyer",
+                    "Colonel Dyer",
+                    "General Reginald Dyer",
+                    "Captain Dyer"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Gandhi’s method of Satyagraha was inspired by which book?",
+                "options": [
+                    "\"The Power of Nonviolence\" by Leo Tolstoy",
+                    "\"Unto the Last\" by John Ruskin",
+                    "\"Civil Disobedience\" by Henry David Thoreau",
+                    "\"My Experiments with Truth\" by Gandhi"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Who invited Gandhi to lead the Champaran Satyagraha?",
+                "options": [
+                    "B. G. Tilak",
+                    "Rajkumar Shukla",
+                    "Anusuya Sarabhai",
+                    "Sardar Patel"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which festival was being celebrated when the Jallianwala Bagh massacre took place?",
+                "options": [
+                    "Holi",
+                    "Diwali",
+                    "Eid",
+                    "Baisakhi"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Who led the All India Khilafat Conference?",
+                "options": [
+                    "Gandhi",
+                    "B. G. Tilak",
+                    "Sardar Patel",
+                    "Gopal Krishna Gokhale"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "When was Mahatma Gandhi born?",
+                "options": [
+                    "15th August 1869",
+                    "15th August 1870",
+                    "2nd October 1869",
+                    "2nd October 1870"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which community in Punjab is associated with agitation for the removal of corrupt Mahants?",
+                "options": [
+                    "Muslim League",
+                    "Dalit groups",
+                    "Sikh community",
+                    "Hindu reformists"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which commission was set up to investigate the Jallianwala Bagh massacre?",
+                "options": [
+                    "Dalhousie Commission",
+                    "Rowlatt Commission",
+                    "Hunter Commission",
+                    "Tagore Commission"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which local struggle in Uttar Pradesh is mentioned as part of the Non-Cooperation Movement?",
+                "options": [
+                    "Sikh Agitation",
+                    "Bengal Uprising",
+                    "Eka Movement",
+                    "Mappila Revolt"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which movement emerged after World War I involving the Khilafat Committee?",
+                "options": [
+                    "Non-Cooperation Movement",
+                    "Civil Disobedience Movement",
+                    "Satyagraha Movement",
+                    "Khilafat Andolan"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which act did the British pass to provide indemnity after the Jallianwala Bagh massacre?",
+                "options": [
+                    "Rowlatt Act",
+                    "Sedition Act",
+                    "Indemnity Act",
+                    "Defense of India Act"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What incident on 5th February 1922 led to the suspension of the Non-Cooperation Movement?",
+                "options": [
+                    "Chauri Chaura incident",
+                    "Komagata Maru Incident",
+                    "Alipore Bomb Conspiracy",
+                    "Jallianwala Bagh massacre"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which newspaper did Gandhi start while in South Africa?",
+                "options": [
+                    "The Gandhi Times",
+                    "African Indian News",
+                    "Indian Opinion",
+                    "Satyagraha Herald"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which organization was formed by Surendranath Banerjee?",
+                "options": [
+                    "Congress Working Committee",
+                    "Swaraj Party",
+                    "Indian National Liberation Federation",
+                    "Khilafat Swaraj Party"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which movement did Sardar Vallabhbhai Patel invite Gandhi to lead in 1918?",
+                "options": [
+                    "Champaran Satyagraha",
+                    "Non-Cooperation Movement",
+                    "Kheda Satyagraha",
+                    "Rowlatt Satyagraha"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What issue did the Ahmedabad Mill Strike primarily focus on?",
+                "options": [
+                    "Religious discrimination",
+                    "Unfair taxation",
+                    "Economic injustice and discontinued plague bonuses",
+                    "Poor working conditions in the fields"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Under what alias did one revolutionary operate against Reginald Dyer?",
+                "options": [
+                    "Madan Lal Dhingra",
+                    "Bhagat Singh",
+                    "Ram Mohammed Singh Azad",
+                    "Udham Singh"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which faction within the Congress accepted the Swaraj Party and worked constructively within the party?",
+                "options": [
+                    "Responsivists",
+                    "Non-Responsivists",
+                    "Radicals",
+                    "Pro-changers"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which movement did Gandhi lead in Ahmedabad in 1918?",
+                "options": [
+                    "Kheda Satyagraha",
+                    "Ahmedabad Mill Strike",
+                    "Champaran Satyagraha",
+                    "Non-Cooperation Movement"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which session of Congress in 1920 approved the Non-Cooperation Movement?",
+                "options": [
+                    "Nagpur session",
+                    "Banaras session",
+                    "Calcutta session",
+                    "Lahore session"
+                ],
+                "answer": 2
+            }
+        ]
+    }
+]

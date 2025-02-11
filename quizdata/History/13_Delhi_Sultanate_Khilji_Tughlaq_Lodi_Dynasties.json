@@ -3,54 +3,244 @@
         "title": "Delhi Sultanate: Khilji, Tughlaq, and Lodi Dynasties",
         "questions": [
             {
-                "question": "Which Sultan built the Alai Darwaja, the entrance gate of the Qutub Minar complex?",
+                "question": "The period between ____ in India’s history is known as the Delhi Sultanate Period?",
                 "options": [
-                    "Jalaluddin Khilji",
-                    "Firoz Shah Tughlaq",
-                    "Mohammad Bin Tughlaq",
-                    "Alauddin Khilji"
+                    "1456 AD and 1675 AD",
+                    "1206 AD and 1526 AD",
+                    "1105 AD and 1445 AD",
+                    "745 AD and 1245 AD"
                 ],
-                "answer": 3
+                "answer": 1
             },
             {
-                "question": "Who among the following was the founder of the Khilji Dynasty?",
+                "question": "Who among the following classical poets of the Sultanate period in India popularized Qawwali?",
+                "options": [
+                    "Amir Khusrau",
+                    "Shams al-Din Muhammad Hafiz",
+                    "Jalal al-Din Muhammad Rumi",
+                    "Nizam al-Din Awliya"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which Sultan established the 'Diwan-i-Khairat' department for the marriage of poor girls?",
+                "options": [
+                    "Mohammad Bin Tughlaq",
+                    "Sikandar Lodi",
+                    "Firoz Shah Tughlaq",
+                    "Alauddin Khilji"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Who wrote the book 'Padmavat'?",
+                "options": [
+                    "Ibn Battuta",
+                    "Ziauddin Barani",
+                    "Malik Muhammad Jayasi",
+                    "Amir Khusrau"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which Sultan built the Alai Darwaja, the entrance gate of the Qutub Minar complex?",
+                "options": [
+                    "Firoz Shah Tughlaq",
+                    "Alauddin Khilji",
+                    "Jalaluddin Khilji",
+                    "Mohammad Bin Tughlaq"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What was the title given to Malik Kafur after his Deccan expedition?",
+                "options": [
+                    "Hajardinari",
+                    "Zil-i-Ilahi",
+                    "Sikandar-e-Saini",
+                    "Tuti-e-Hind"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Who was the first Sultan of the Delhi Sultanate to start military expeditions into southern India?",
+                "options": [
+                    "Alauddin Khalji",
+                    "Ghiyasuddin Balban",
+                    "Muhammad Tughluq",
+                    "Shamsuddin Iltutmish"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which Sultan is known for imposing the 'Jizya' tax as a separate tax during his reign?",
                 "options": [
                     "Alauddin Khilji",
-                    "Nasiruddin Khusrau Shah",
-                    "Qutbuddin Mubarak Shah",
-                    "Jalal-ud-din Firoz Khilji"
+                    "Firoz Shah Tughlaq",
+                    "Mohammad Bin Tughlaq",
+                    "Sikandar Lodi"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Who founded the Khilji Dynasty?",
+                "options": [
+                    "Alauddin Khilji",
+                    "Malik Kafur",
+                    "Jalaluddin Khilji",
+                    "Ghiyasuddin Tughlaq"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which Sultan introduced the 'Dagh' (branding of horses) and 'Chehra' (descriptive roll of soldiers)?",
+                "options": [
+                    "Firoz Shah Tughlaq",
+                    "Jalaluddin Khilji",
+                    "Alauddin Khilji",
+                    "Mohammad Bin Tughlaq"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Who was the founder of the Lodi Dynasty?",
+                "options": [
+                    "Ibrahim Lodi",
+                    "Bahlol Lodi",
+                    "Daulat Khan Lodi",
+                    "Sikandar Lodi"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which of the following Sultans of Delhi was appointed as Amir-i-Tuzuk before becoming the Sultan?",
+                "options": [
+                    "Iltutmish",
+                    "Alauddin Khalji",
+                    "Muhammad Bin Tughlaq",
+                    "Balban"
                 ],
                 "answer": 3
             },
             {
                 "question": "Which Sultan shifted the capital of the Delhi Sultanate from Delhi to Agra?",
                 "options": [
-                    "Firoz Shah Tughlaq",
-                    "Bahlol Lodi",
                     "Sikandar Lodi",
-                    "Ibrahim Lodi"
+                    "Ibrahim Lodi",
+                    "Firoz Shah Tughlaq",
+                    "Bahlol Lodi"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Who among the following was the founder of the Khilji Dynasty?",
+                "options": [
+                    "Nasiruddin Khusrau Shah",
+                    "Jalal-ud-din Firoz Khilji",
+                    "Alauddin Khilji",
+                    "Qutbuddin Mubarak Shah"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Who among the following Sultans framed a series of regulations to weaken the power of nobles?",
+                "options": [
+                    "Iltutmish",
+                    "Alauddin Khilji",
+                    "Muhammad bin Tughluq",
+                    "Balban"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Who among the following was the slave-general of Alauddin Khilji, who led his army in the battle against Ramachandra of Devagiri?",
+                "options": [
+                    "Nusrat Khan",
+                    "Ulugh Khan",
+                    "Malik Kafur",
+                    "Zafar Khan"
                 ],
                 "answer": 2
             },
             {
-                "question": "Who founded the Khilji Dynasty?",
+                "question": "Which Sultan built the city of Jaunpur?",
                 "options": [
-                    "Ghiyasuddin Tughlaq",
-                    "Malik Kafur",
-                    "Jalaluddin Khilji",
-                    "Alauddin Khilji"
+                    "Alauddin Khilji",
+                    "Mohammad Bin Tughlaq",
+                    "Firoz Shah Tughlaq",
+                    "Sikandar Lodi"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Who was the Moroccan traveler who visited India during the reign of Mohammad Bin Tughlaq?",
+                "options": [
+                    "Ziauddin Barani",
+                    "Ibn Battuta",
+                    "Al-Biruni",
+                    "Amir Khusrau"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Who was the first to mention the incident of Jauhar in Persian?",
+                "options": [
+                    "Ibn Batutah",
+                    "Amir Khusrau",
+                    "Ziauddin Barani",
+                    "Hasan Nizami"
                 ],
                 "answer": 2
             },
             {
                 "question": "Which Sultan imposed the 'Haque-i-Sharb' and 'Hasil-i-Sharb' taxes related to water usage?",
                 "options": [
+                    "Firoz Shah Tughlaq",
                     "Sikandar Lodi",
                     "Alauddin Khilji",
+                    "Mohammad Bin Tughlaq"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which Sultan introduced the token currency system using bronze coins?",
+                "options": [
+                    "Alauddin Khilji",
                     "Mohammad Bin Tughlaq",
+                    "Firoz Shah Tughlaq",
+                    "Bahlol Lodi"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "During which years did the Khalji dynasty rule over Delhi?",
+                "options": [
+                    "1290 - 1320",
+                    "1320 - 1414",
+                    "1451 - 1526",
+                    "1414 - 1451"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Who was the last ruler of the Lodi Dynasty?",
+                "options": [
+                    "Daulat Khan Lodi",
+                    "Ibrahim Lodi",
+                    "Bahlol Lodi",
+                    "Sikandar Lodi"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which Sultan built the Moth Ki Masjid in Delhi?",
+                "options": [
+                    "Alauddin Khilji",
+                    "Mohammad Bin Tughlaq",
+                    "Sikandar Lodi",
                     "Firoz Shah Tughlaq"
                 ],
-                "answer": 3
+                "answer": 2
             },
             {
                 "question": "During Alauddin Khilji's reign, the cloth market was known as______.",
@@ -63,242 +253,52 @@
                 "answer": 1
             },
             {
-                "question": "Who among the following was the slave-general of Alauddin Khilji, who led his army in the battle against Ramachandra of Devagiri?",
+                "question": "Who was the court poet of Alauddin Khilji and was known as 'Tuti-e-Hind'?",
                 "options": [
-                    "Ulugh Khan",
-                    "Malik Kafur",
-                    "Zafar Khan",
-                    "Nusrat Khan"
+                    "Malik Muhammad Jayasi",
+                    "Ziauddin Barani",
+                    "Ibn Battuta",
+                    "Amir Khusrau"
                 ],
-                "answer": 1
-            },
-            {
-                "question": "Who among the following Sultans framed a series of regulations to weaken the power of nobles?",
-                "options": [
-                    "Balban",
-                    "Iltutmish",
-                    "Alauddin Khilji",
-                    "Muhammad bin Tughluq"
-                ],
-                "answer": 2
-            },
-            {
-                "question": "Who was the first Sultan of the Delhi Sultanate to start military expeditions into southern India?",
-                "options": [
-                    "Muhammad Tughluq",
-                    "Shamsuddin Iltutmish",
-                    "Alauddin Khalji",
-                    "Ghiyasuddin Balban"
-                ],
-                "answer": 2
-            },
-            {
-                "question": "Who was the last ruler of the Lodi Dynasty?",
-                "options": [
-                    "Ibrahim Lodi",
-                    "Sikandar Lodi",
-                    "Daulat Khan Lodi",
-                    "Bahlol Lodi"
-                ],
-                "answer": 0
+                "answer": 3
             },
             {
                 "question": "Which Sultan introduced the 'Gaz-i-Sikandari' for measuring cultivated fields?",
                 "options": [
+                    "Firoz Shah Tughlaq",
                     "Sikandar Lodi",
                     "Alauddin Khilji",
-                    "Mohammad Bin Tughlaq",
-                    "Firoz Shah Tughlaq"
+                    "Mohammad Bin Tughlaq"
                 ],
-                "answer": 0
-            },
-            {
-                "question": "Which of the following Sultans of Delhi was appointed as Amir-i-Tuzuk before becoming the Sultan?",
-                "options": [
-                    "Balban",
-                    "Iltutmish",
-                    "Muhammad Bin Tughlaq",
-                    "Alauddin Khalji"
-                ],
-                "answer": 0
+                "answer": 1
             },
             {
                 "question": "Which Sultan is associated with the construction of the Hauz Khas tank in Delhi?",
                 "options": [
                     "Mohammad Bin Tughlaq",
-                    "Alauddin Khilji",
+                    "Firoz Shah Tughlaq",
                     "Jalaluddin Khilji",
-                    "Firoz Shah Tughlaq"
-                ],
-                "answer": 1
-            },
-            {
-                "question": "Which Sultan introduced the token currency system using bronze coins?",
-                "options": [
-                    "Firoz Shah Tughlaq",
-                    "Mohammad Bin Tughlaq",
-                    "Alauddin Khilji",
-                    "Bahlol Lodi"
-                ],
-                "answer": 1
-            },
-            {
-                "question": "Who was the first to mention the incident of Jauhar in Persian?",
-                "options": [
-                    "Hasan Nizami",
-                    "Amir Khusrau",
-                    "Ziauddin Barani",
-                    "Ibn Batutah"
-                ],
-                "answer": 2
-            },
-            {
-                "question": "Who wrote the book 'Padmavat'?",
-                "options": [
-                    "Ibn Battuta",
-                    "Amir Khusrau",
-                    "Malik Muhammad Jayasi",
-                    "Ziauddin Barani"
-                ],
-                "answer": 2
-            },
-            {
-                "question": "Which Sultan is known for imposing the 'Jizya' tax as a separate tax during his reign?",
-                "options": [
-                    "Mohammad Bin Tughlaq",
-                    "Sikandar Lodi",
-                    "Firoz Shah Tughlaq",
                     "Alauddin Khilji"
                 ],
-                "answer": 2
+                "answer": 3
             },
             {
                 "question": "Which Sultan is known for introducing the 'Ekta system', making land revenue assignments hereditary?",
                 "options": [
                     "Bahlol Lodi",
+                    "Mohammad Bin Tughlaq",
                     "Alauddin Khilji",
-                    "Firoz Shah Tughlaq",
-                    "Mohammad Bin Tughlaq"
+                    "Firoz Shah Tughlaq"
                 ],
-                "answer": 2
+                "answer": 3
             },
             {
                 "question": "Which Sultan shifted the capital from Delhi to Daulatabad (Devagiri)?",
                 "options": [
-                    "Mohammad Bin Tughlaq",
                     "Sikandar Lodi",
-                    "Alauddin Khilji",
-                    "Firoz Shah Tughlaq"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Who among the following classical poets of the Sultanate period in India popularized Qawwali?",
-                "options": [
-                    "Shams al-Din Muhammad Hafiz",
-                    "Nizam al-Din Awliya",
-                    "Amir Khusrau",
-                    "Jalal al-Din Muhammad Rumi"
-                ],
-                "answer": 2
-            },
-            {
-                "question": "Which Sultan introduced the 'Dagh' (branding of horses) and 'Chehra' (descriptive roll of soldiers)?",
-                "options": [
                     "Firoz Shah Tughlaq",
                     "Mohammad Bin Tughlaq",
-                    "Jalaluddin Khilji",
                     "Alauddin Khilji"
-                ],
-                "answer": 3
-            },
-            {
-                "question": "Who was the founder of the Lodi Dynasty?",
-                "options": [
-                    "Daulat Khan Lodi",
-                    "Sikandar Lodi",
-                    "Bahlol Lodi",
-                    "Ibrahim Lodi"
-                ],
-                "answer": 2
-            },
-            {
-                "question": "Who was the court poet of Alauddin Khilji and was known as 'Tuti-e-Hind'?",
-                "options": [
-                    "Amir Khusrau",
-                    "Ziauddin Barani",
-                    "Malik Muhammad Jayasi",
-                    "Ibn Battuta"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Which Sultan built the Moth Ki Masjid in Delhi?",
-                "options": [
-                    "Firoz Shah Tughlaq",
-                    "Alauddin Khilji",
-                    "Sikandar Lodi",
-                    "Mohammad Bin Tughlaq"
-                ],
-                "answer": 2
-            },
-            {
-                "question": "The period between ____ in India’s history is known as the Delhi Sultanate Period?",
-                "options": [
-                    "1456 AD and 1675 AD",
-                    "1105 AD and 1445 AD",
-                    "1206 AD and 1526 AD",
-                    "745 AD and 1245 AD"
-                ],
-                "answer": 2
-            },
-            {
-                "question": "What was the title given to Malik Kafur after his Deccan expedition?",
-                "options": [
-                    "Zil-i-Ilahi",
-                    "Hajardinari",
-                    "Sikandar-e-Saini",
-                    "Tuti-e-Hind"
-                ],
-                "answer": 2
-            },
-            {
-                "question": "Which Sultan built the city of Jaunpur?",
-                "options": [
-                    "Mohammad Bin Tughlaq",
-                    "Sikandar Lodi",
-                    "Firoz Shah Tughlaq",
-                    "Alauddin Khilji"
-                ],
-                "answer": 2
-            },
-            {
-                "question": "Which Sultan established the 'Diwan-i-Khairat' department for the marriage of poor girls?",
-                "options": [
-                    "Sikandar Lodi",
-                    "Alauddin Khilji",
-                    "Firoz Shah Tughlaq",
-                    "Mohammad Bin Tughlaq"
-                ],
-                "answer": 2
-            },
-            {
-                "question": "During which years did the Khalji dynasty rule over Delhi?",
-                "options": [
-                    "1451 - 1526",
-                    "1414 - 1451",
-                    "1320 - 1414",
-                    "1290 - 1320"
-                ],
-                "answer": 3
-            },
-            {
-                "question": "Who was the Moroccan traveler who visited India during the reign of Mohammad Bin Tughlaq?",
-                "options": [
-                    "Amir Khusrau",
-                    "Al-Biruni",
-                    "Ibn Battuta",
-                    "Ziauddin Barani"
                 ],
                 "answer": 2
             }

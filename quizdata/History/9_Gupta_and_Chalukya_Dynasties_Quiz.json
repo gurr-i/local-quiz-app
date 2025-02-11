@@ -5,312 +5,52 @@
             {
                 "question": "Which famous inscription records Samudragupta’s reign?",
                 "options": [
-                    "Bhitari Pillar Inscription",
-                    "Prayag Prasasti",
                     "Mehrauli Pillar Inscription",
-                    "Aihole Pillar Inscription"
+                    "Bhitari Pillar Inscription",
+                    "Aihole Pillar Inscription",
+                    "Prayag Prasasti"
                 ],
-                "answer": 1
+                "answer": 3
             },
             {
-                "question": "Who was the greatest ruler of the Pallava dynasty?",
+                "question": "The Dasavatara Temple is located in which Indian state?",
                 "options": [
-                    "Simha Vishnu",
-                    "Narasimhavarman I",
-                    "Mahendravarman I",
-                    "Krishna I"
-                ],
-                "answer": 2
-            },
-            {
-                "question": "Who defeated Pulakeshin II?",
-                "options": [
-                    "Harshavardhana",
-                    "Narasimhavarman I",
-                    "Chandragupta II",
-                    "Skandagupta"
-                ],
-                "answer": 1
-            },
-            {
-                "question": "Who among the following was the first independent Gupta king to hold the title of Maharajadhiraj?",
-                "options": [
-                    "Srigupta I",
-                    "Ghatotkach Gupta",
-                    "Chandragupta I",
-                    "Ramagupta"
+                    "Bihar",
+                    "Madhya Pradesh",
+                    "Uttar Pradesh",
+                    "Odisha"
                 ],
                 "answer": 2
             },
             {
                 "question": "Which king patronized Kalidasa?",
                 "options": [
-                    "Skandagupta",
-                    "Chandragupta II",
+                    "Kumaragupta I",
                     "Samudragupta",
-                    "Kumaragupta I"
-                ],
-                "answer": 1
-            },
-            {
-                "question": "The Dasavatara Temple is located in which Indian state?",
-                "options": [
-                    "Odisha",
-                    "Madhya Pradesh",
-                    "Bihar",
-                    "Uttar Pradesh"
+                    "Skandagupta",
+                    "Chandragupta II"
                 ],
                 "answer": 3
+            },
+            {
+                "question": "What was the primary tax system under the Gupta Empire?",
+                "options": [
+                    "Bhaga",
+                    "Vishti",
+                    "Bali",
+                    "Bhoga"
+                ],
+                "answer": 0
             },
             {
                 "question": "Which Chinese traveler visited India during Chandragupta II's reign?",
                 "options": [
                     "Xuanzang",
+                    "Hiuen-Tsang",
                     "Marco Polo",
-                    "Fa-Hein",
-                    "Hiuen-Tsang"
-                ],
-                "answer": 2
-            },
-            {
-                "question": "Who was the most powerful ruler of the Chalukya dynasty?",
-                "options": [
-                    "Pulakeshin I",
-                    "Kirtivarman",
-                    "Pulakeshin II",
-                    "Jayasimha"
-                ],
-                "answer": 2
-            },
-            {
-                "question": "The paintings in the Bagh caves belong to which of the following periods?",
-                "options": [
-                    "Maukhari",
-                    "Maurya",
-                    "Chola",
-                    "Gupta"
+                    "Fa-Hein"
                 ],
                 "answer": 3
-            },
-            {
-                "question": "In which period is the first inscriptional example of the practice of Sati found?",
-                "options": [
-                    "Maukhari",
-                    "Satavahana",
-                    "Vardhana",
-                    "Gupta"
-                ],
-                "answer": 3
-            },
-            {
-                "question": "Who is given the credit for starting the Gupta era?",
-                "options": [
-                    "Chandragupta I",
-                    "Kumaragupta",
-                    "Samudragupta",
-                    "Chandragupta II"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "What style of architecture did the Chalukyas follow?",
-                "options": [
-                    "Mughal",
-                    "Vesara",
-                    "Dravida",
-                    "Nagara"
-                ],
-                "answer": 1
-            },
-            {
-                "question": "Which dynasty built the Shore Temple at Mahabalipuram?",
-                "options": [
-                    "Chalukyas",
-                    "Satvahanas",
-                    "Pallavas",
-                    "Rashtrakutas"
-                ],
-                "answer": 2
-            },
-            {
-                "question": "Which musical instrument is depicted on the coins of Samudragupta?",
-                "options": [
-                    "Flute",
-                    "Veena",
-                    "Harp",
-                    "Drums"
-                ],
-                "answer": 1
-            },
-            {
-                "question": "Who was the first Gupta ruler to issue silver coins?",
-                "options": [
-                    "Chandragupta II",
-                    "Skandagupta",
-                    "Chandragupta I",
-                    "Samudragupta"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Who built the Virupaksha Temple at Pattadakal?",
-                "options": [
-                    "Pallavas",
-                    "Rashtrakutas",
-                    "Satvahanas",
-                    "Chalukyas"
-                ],
-                "answer": 3
-            },
-            {
-                "question": "Which inscription provides details about Pulakeshin II?",
-                "options": [
-                    "Prayag Prasasti",
-                    "Bhitari Pillar Inscription",
-                    "Mehrauli Pillar Inscription",
-                    "Aihole Pillar Inscription"
-                ],
-                "answer": 3
-            },
-            {
-                "question": "What was the capital of Harshavardhana's kingdom?",
-                "options": [
-                    "Vatapi",
-                    "Kannauj",
-                    "Kanchipuram",
-                    "Ellora"
-                ],
-                "answer": 1
-            },
-            {
-                "question": "Which title was assumed by Chandragupta I?",
-                "options": [
-                    "Sarva-raj-ochchetta",
-                    "Kaviraja",
-                    "Maharajadhiraja",
-                    "Param Bhagavat"
-                ],
-                "answer": 2
-            },
-            {
-                "question": "Who composed the Prayag Prasasti?",
-                "options": [
-                    "Kalidasa",
-                    "Varahamihira",
-                    "Harisena",
-                    "Amarsinha"
-                ],
-                "answer": 2
-            },
-            {
-                "question": "Who was the author of 'Harshacharitra'?",
-                "options": [
-                    "Harisena",
-                    "Kalidasa",
-                    "Sudraka",
-                    "Banabhatta"
-                ],
-                "answer": 3
-            },
-            {
-                "question": "The famous source of the Gupta empire, the Prayaga Prashasti is also known as the ________.",
-                "options": [
-                    "Lucknow pillar inscription",
-                    "Bithur pillar inscription",
-                    "Ahmedabad pillar inscription",
-                    "Allahabad pillar inscription"
-                ],
-                "answer": 3
-            },
-            {
-                "question": "Which of the following statements is/are correct about the rule of Chandragupta II? A) Chandragupta II adopted the title ‘Vikramaditya’. B) Kalidasa and Amarasimha were part of his court.",
-                "options": [
-                    "Both A and B",
-                    "Neither A nor B",
-                    "Only B",
-                    "Only A"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "The _________ were tributary chiefs of the Gupta dynasty. They established an independent kingdom in western India. Dhruvasena II was the most important ruler of this kingdom.",
-                "options": [
-                    "Pushyabhutis",
-                    "Maitrakas",
-                    "Gurjara Pratiharas",
-                    "Maukharis"
-                ],
-                "answer": 1
-            },
-            {
-                "question": "Which temple in Aihole is made on an apsidal plane?",
-                "options": [
-                    "Huchimalligudi Temple",
-                    "Virupaksha Temple",
-                    "Durga Temple",
-                    "Ladh Khan Temple"
-                ],
-                "answer": 2
-            },
-            {
-                "question": "Who built the Kailasha Temple at Ellora?",
-                "options": [
-                    "Rashtrakutas",
-                    "Chalukyas",
-                    "Guptas",
-                    "Pallavas"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Amar Singh was one of the luminaries in the court of ________.",
-                "options": [
-                    "Samudragupta",
-                    "Chandragupta I",
-                    "Kumaragupta",
-                    "Chandragupta II"
-                ],
-                "answer": 3
-            },
-            {
-                "question": "Which Gupta ruler founded Nalanda University?",
-                "options": [
-                    "Samudragupta",
-                    "Kumaragupta I",
-                    "Skandagupta",
-                    "Chandragupta II"
-                ],
-                "answer": 1
-            },
-            {
-                "question": "Rudrasena II of which of the following dynasties married Prabhavatigupta, the daughter of Chandragupta II of the Gupta dynasty?",
-                "options": [
-                    "Chalukya",
-                    "Pallava",
-                    "Pushyabhuti",
-                    "Vakataka"
-                ],
-                "answer": 3
-            },
-            {
-                "question": "What does the title 'Vatapikonda' signify?",
-                "options": [
-                    "Defeater of Vatapi",
-                    "Conqueror of Harsha",
-                    "Builder of Temples",
-                    "Protector of Vishnu"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "What was the primary tax system under the Gupta Empire?",
-                "options": [
-                    "Bali",
-                    "Bhaga",
-                    "Bhoga",
-                    "Vishti"
-                ],
-                "answer": 1
             },
             {
                 "question": "Samudragupta’s achievements are recorded in a long inscription called Prashasti by his court poet, ______________.",
@@ -323,114 +63,374 @@
                 "answer": 2
             },
             {
-                "question": "Who was the founder of the Gupta dynasty?",
+                "question": "What does the title 'Vatapikonda' signify?",
+                "options": [
+                    "Protector of Vishnu",
+                    "Defeater of Vatapi",
+                    "Builder of Temples",
+                    "Conqueror of Harsha"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Who built the Kailasha Temple at Ellora?",
+                "options": [
+                    "Guptas",
+                    "Rashtrakutas",
+                    "Pallavas",
+                    "Chalukyas"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Amar Singh was one of the luminaries in the court of ________.",
                 "options": [
                     "Chandragupta I",
-                    "Sri Gupta",
+                    "Kumaragupta",
                     "Samudragupta",
-                    "Skandagupta"
-                ],
-                "answer": 1
-            },
-            {
-                "question": "What was the administration system of the Gupta Empire divided into?",
-                "options": [
-                    "Kingdoms, States, Regions",
-                    "Villages, Towns, States",
-                    "Provinces, States, Districts",
-                    "Provinces, Vishayas, Villages"
+                    "Chandragupta II"
                 ],
                 "answer": 3
             },
             {
-                "question": "What is the starting year of the Gupta Era?",
+                "question": "Which inscription provides details about Pulakeshin II?",
                 "options": [
-                    "335 AD",
-                    "310 AD",
-                    "320 AD",
-                    "319 AD"
+                    "Bhitari Pillar Inscription",
+                    "Prayag Prasasti",
+                    "Mehrauli Pillar Inscription",
+                    "Aihole Pillar Inscription"
                 ],
-                "answer": 2
+                "answer": 3
             },
             {
-                "question": "After the fall of the Guptas, different kingdoms emerged in various parts of India. Among them, the Maukharis emerged in which of the following areas?",
+                "question": "Who was the author of 'Harshacharitra'?",
                 "options": [
-                    "Valabhi",
-                    "Kunnur",
-                    "Kannauj",
-                    "Thanesar"
-                ],
-                "answer": 2
-            },
-            {
-                "question": "What was the capital of the Chalukyas?",
-                "options": [
-                    "Kanchipuram",
-                    "Ellora",
-                    "Vatapi",
-                    "Kannauj"
-                ],
-                "answer": 2
-            },
-            {
-                "question": "What title was given to Harshavardhana in Chalukyan inscriptions?",
-                "options": [
-                    "Vikramaditya",
-                    "Sakalottarapathanatha",
-                    "Sarva-raj-ochchetta",
-                    "Napoleon of India"
-                ],
-                "answer": 1
-            },
-            {
-                "question": "Who was the court poet of Samudragupta?",
-                "options": [
-                    "Kalidasa",
                     "Harisena",
-                    "Dhanvantri",
-                    "Ravikriti"
-                ],
-                "answer": 1
-            },
-            {
-                "question": "Samudragupta was known as the ________ of India.",
-                "options": [
-                    "Shakespeare",
-                    "Napoleon",
-                    "King of Poets",
-                    "Conqueror"
-                ],
-                "answer": 1
-            },
-            {
-                "question": "What title was used by Chandragupta II?",
-                "options": [
-                    "Sarva-raj-ochchetta",
-                    "Maharajadhiraja",
-                    "Napoleon",
-                    "Vikramaditya"
+                    "Sudraka",
+                    "Kalidasa",
+                    "Banabhatta"
                 ],
                 "answer": 3
+            },
+            {
+                "question": "Who was the first Gupta ruler to issue silver coins?",
+                "options": [
+                    "Chandragupta II",
+                    "Skandagupta",
+                    "Chandragupta I",
+                    "Samudragupta"
+                ],
+                "answer": 0
             },
             {
                 "question": "Which Chalukya king defeated Harshavardhana?",
                 "options": [
+                    "Pulakeshin I",
                     "Kirtivarman II",
+                    "Vikramaditya I",
+                    "Pulakeshin II"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which Gupta ruler founded Nalanda University?",
+                "options": [
+                    "Skandagupta",
+                    "Chandragupta II",
+                    "Kumaragupta I",
+                    "Samudragupta"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Who defeated Pulakeshin II?",
+                "options": [
+                    "Skandagupta",
+                    "Harshavardhana",
+                    "Chandragupta II",
+                    "Narasimhavarman I"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Who built the Virupaksha Temple at Pattadakal?",
+                "options": [
+                    "Satvahanas",
+                    "Pallavas",
+                    "Chalukyas",
+                    "Rashtrakutas"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What is the starting year of the Gupta Era?",
+                "options": [
+                    "320 AD",
+                    "319 AD",
+                    "310 AD",
+                    "335 AD"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Who among the following was the first independent Gupta king to hold the title of Maharajadhiraj?",
+                "options": [
+                    "Chandragupta I",
+                    "Ghatotkach Gupta",
+                    "Srigupta I",
+                    "Ramagupta"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Who is given the credit for starting the Gupta era?",
+                "options": [
+                    "Samudragupta",
+                    "Chandragupta I",
+                    "Kumaragupta",
+                    "Chandragupta II"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What was the capital of Harshavardhana's kingdom?",
+                "options": [
+                    "Vatapi",
+                    "Kanchipuram",
+                    "Ellora",
+                    "Kannauj"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Who composed the Prayag Prasasti?",
+                "options": [
+                    "Amarsinha",
+                    "Harisena",
+                    "Kalidasa",
+                    "Varahamihira"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What title was given to Harshavardhana in Chalukyan inscriptions?",
+                "options": [
+                    "Sakalottarapathanatha",
+                    "Vikramaditya",
+                    "Sarva-raj-ochchetta",
+                    "Napoleon of India"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "The famous source of the Gupta empire, the Prayaga Prashasti is also known as the ________.",
+                "options": [
+                    "Allahabad pillar inscription",
+                    "Lucknow pillar inscription",
+                    "Bithur pillar inscription",
+                    "Ahmedabad pillar inscription"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Who was the most powerful ruler of the Chalukya dynasty?",
+                "options": [
+                    "Jayasimha",
                     "Pulakeshin I",
                     "Pulakeshin II",
-                    "Vikramaditya I"
+                    "Kirtivarman"
                 ],
                 "answer": 2
             },
             {
                 "question": "The Vakataka dynasty was directly related to which Gupta emperor?",
                 "options": [
-                    "Chandra Gupta I",
-                    "Samudra Gupta",
                     "Shree Gupta",
-                    "Chandra Gupta II"
+                    "Chandra Gupta I",
+                    "Chandra Gupta II",
+                    "Samudra Gupta"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What was the capital of the Chalukyas?",
+                "options": [
+                    "Vatapi",
+                    "Ellora",
+                    "Kanchipuram",
+                    "Kannauj"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which musical instrument is depicted on the coins of Samudragupta?",
+                "options": [
+                    "Harp",
+                    "Flute",
+                    "Drums",
+                    "Veena"
                 ],
                 "answer": 3
+            },
+            {
+                "question": "The paintings in the Bagh caves belong to which of the following periods?",
+                "options": [
+                    "Maukhari",
+                    "Gupta",
+                    "Maurya",
+                    "Chola"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Who was the founder of the Gupta dynasty?",
+                "options": [
+                    "Samudragupta",
+                    "Skandagupta",
+                    "Chandragupta I",
+                    "Sri Gupta"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "The _________ were tributary chiefs of the Gupta dynasty. They established an independent kingdom in western India. Dhruvasena II was the most important ruler of this kingdom.",
+                "options": [
+                    "Gurjara Pratiharas",
+                    "Pushyabhutis",
+                    "Maukharis",
+                    "Maitrakas"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "What was the administration system of the Gupta Empire divided into?",
+                "options": [
+                    "Villages, Towns, States",
+                    "Kingdoms, States, Regions",
+                    "Provinces, Vishayas, Villages",
+                    "Provinces, States, Districts"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which title was assumed by Chandragupta I?",
+                "options": [
+                    "Param Bhagavat",
+                    "Kaviraja",
+                    "Sarva-raj-ochchetta",
+                    "Maharajadhiraja"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which of the following statements is/are correct about the rule of Chandragupta II? A) Chandragupta II adopted the title ‘Vikramaditya’. B) Kalidasa and Amarasimha were part of his court.",
+                "options": [
+                    "Only B",
+                    "Neither A nor B",
+                    "Both A and B",
+                    "Only A"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Rudrasena II of which of the following dynasties married Prabhavatigupta, the daughter of Chandragupta II of the Gupta dynasty?",
+                "options": [
+                    "Pallava",
+                    "Pushyabhuti",
+                    "Vakataka",
+                    "Chalukya"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What style of architecture did the Chalukyas follow?",
+                "options": [
+                    "Dravida",
+                    "Vesara",
+                    "Mughal",
+                    "Nagara"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "In which period is the first inscriptional example of the practice of Sati found?",
+                "options": [
+                    "Maukhari",
+                    "Gupta",
+                    "Vardhana",
+                    "Satavahana"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which dynasty built the Shore Temple at Mahabalipuram?",
+                "options": [
+                    "Chalukyas",
+                    "Satvahanas",
+                    "Rashtrakutas",
+                    "Pallavas"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "What title was used by Chandragupta II?",
+                "options": [
+                    "Maharajadhiraja",
+                    "Napoleon",
+                    "Sarva-raj-ochchetta",
+                    "Vikramaditya"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Who was the court poet of Samudragupta?",
+                "options": [
+                    "Harisena",
+                    "Dhanvantri",
+                    "Ravikriti",
+                    "Kalidasa"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "After the fall of the Guptas, different kingdoms emerged in various parts of India. Among them, the Maukharis emerged in which of the following areas?",
+                "options": [
+                    "Thanesar",
+                    "Kunnur",
+                    "Kannauj",
+                    "Valabhi"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Samudragupta was known as the ________ of India.",
+                "options": [
+                    "Shakespeare",
+                    "King of Poets",
+                    "Conqueror",
+                    "Napoleon"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which temple in Aihole is made on an apsidal plane?",
+                "options": [
+                    "Huchimalligudi Temple",
+                    "Virupaksha Temple",
+                    "Durga Temple",
+                    "Ladh Khan Temple"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Who was the greatest ruler of the Pallava dynasty?",
+                "options": [
+                    "Simha Vishnu",
+                    "Krishna I",
+                    "Mahendravarman I",
+                    "Narasimhavarman I"
+                ],
+                "answer": 2
             }
         ]
     }

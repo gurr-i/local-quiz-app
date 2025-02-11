@@ -1,0 +1,507 @@
+[
+    {
+        "title": "Quiz on Bhakti and Sufi Movements – Indian History",
+        "questions": [
+            {
+                "question": "Which 19th-century movement in Central India was started by Guru Ghasidas?",
+                "options": [
+                    "Sufi Movement",
+                    "Varkari Movement",
+                    "Bhakti Movement",
+                    "Satnami Movement"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Who is considered the founder of the Bhakti Movement in Maharashtra and wrote a commentary on the Bhagavad Gita?",
+                "options": [
+                    "Namadeva",
+                    "Eknath",
+                    "Tukaram",
+                    "Jnanadeva"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "In Punjab, the worship of God as 'Nirankar' (formless) is emphasized by which saint?",
+                "options": [
+                    "Guru Arjan",
+                    "Baba Dayal Das",
+                    "Dadu Dayal",
+                    "Guru Nanak"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Who is recognized as the first female Alvar and a pioneer in the Bhakti tradition?",
+                "options": [
+                    "Akka Mahadevi",
+                    "Lalleshwari",
+                    "Andal",
+                    "Mirabai"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Mirabai belonged to which royal family by birth?",
+                "options": [
+                    "Rathore",
+                    "Maratha",
+                    "Mughal",
+                    "Chola"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Tansen, the legendary musician, was a disciple of which saint?",
+                "options": [
+                    "Kabir",
+                    "Haridas",
+                    "Chaitanya",
+                    "Guru Nanak"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "In Sufi terminology, what does the word 'Khanqah' refer to?",
+                "options": [
+                    "A Sufi lodge or monastery",
+                    "A ritual dance",
+                    "A type of prayer",
+                    "A musical instrument"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Mirabai is best known as a devotee of which deity?",
+                "options": [
+                    "Krishna",
+                    "Shiva",
+                    "Vishnu",
+                    "Ram"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Under the leadership of Banda Bahadur, after the death of Guru Gobind Singh, the Sikhs revolted against which empire?",
+                "options": [
+                    "Marathas",
+                    "Mughals",
+                    "Afghans",
+                    "British"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which Sufi saint is the founder of the Chisti Order in India?",
+                "options": [
+                    "Baba Farid",
+                    "Khwaja Ali Hujwiri",
+                    "Shaikh Bahauddin Zakaria",
+                    "Khwaja Moinuddin Chisti"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which saint's sermons were compiled in the work 'Dasabodha'?",
+                "options": [
+                    "Eknath",
+                    "Tukaram",
+                    "Ramdas",
+                    "Namadeva"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which aspect of the Bhakti and Sufi movements contributed most to social reform in India?",
+                "options": [
+                    "Their promotion of material wealth",
+                    "Their emphasis on devotion over ritualism",
+                    "Their encouragement of animal sacrifice",
+                    "Their strict adherence to caste norms"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Amir Khusrau was a disciple of which famous Sufi saint?",
+                "options": [
+                    "Baba Farid",
+                    "Khwaja Moinuddin Chisti",
+                    "Shaikh Nizamuddin Auliya",
+                    "Khwaja Ali Hujwiri"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which saint, a disciple of Ramananda, is famous for his dohas that critique both Hindu and Islamic practices?",
+                "options": [
+                    "Tulsidas",
+                    "Chaitanya",
+                    "Kabir",
+                    "Guru Nanak"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which saint founded the Varkari sect in Maharashtra?",
+                "options": [
+                    "Tukaram",
+                    "Namadeva",
+                    "Eknath",
+                    "Jnanadeva"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which saint, often referred to as the 'cobbler saint', is revered in the Bhakti tradition?",
+                "options": [
+                    "Ravidas",
+                    "Kabir",
+                    "Guru Nanak",
+                    "Tulsi Das"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "The Bhakti Movement promoted the worship of a _____ God.",
+                "options": [
+                    "multiple (polytheistic)",
+                    "single (monotheistic)",
+                    "ancestral",
+                    "elemental"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Who founded the Firdausi Order among the Sufi saints?",
+                "options": [
+                    "Shaikh Bahauddin Zakaria",
+                    "Baba Farid",
+                    "Shaikh Badruddin Samarkandi",
+                    "Khwaja Moinuddin Chisti"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which Sufi saint later came to be known as Chirag-i-Delhi?",
+                "options": [
+                    "Shaikh Badruddin Samarkandi",
+                    "Baba Farid",
+                    "Shaikh Nasiruddin Mahmud",
+                    "Shaikh Nizamuddin Auliya"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which Bhakti saint is famously known as the 'Radha of Rajasthan'?",
+                "options": [
+                    "Kabir",
+                    "Tulsidas",
+                    "Mirabai",
+                    "Surdas"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which Sikh Guru compiled the Adi Granth and oversaw the construction of the Golden Temple?",
+                "options": [
+                    "Guru Nanak",
+                    "Guru Hargobind",
+                    "Guru Gobind Singh",
+                    "Guru Arjan"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which saint gave the philosophy of 'Shuddhadvaita' and founded the Pushti Marg tradition?",
+                "options": [
+                    "Ramanujacharya",
+                    "Sri Shankaracharya",
+                    "Ramananda",
+                    "Vallabhacharya"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which philosopher is most closely associated with Advaita (non-dualism)?",
+                "options": [
+                    "Ramanujacharya",
+                    "Ramananda",
+                    "Sri Shankaracharya",
+                    "Kabir"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which of the following is a complete list of traditional avatars of Vishnu?",
+                "options": [
+                    "Saraswati, Lakshmi, Parvati, Durga",
+                    "Rama, Krishna, Hanuman, Garuda",
+                    "Shiva, Brahma, Vishnu, Indra",
+                    "Matsya, Kurma, Varaha, Narasimha, Vamana, Parashurama, Rama, Krishna, Buddha, Kalki"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Tulsi Das is renowned for composing which epic devotional work?",
+                "options": [
+                    "Meghaduta",
+                    "Bhagavad Gita",
+                    "Geeta Govinda",
+                    "Ramcharitmanas"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Who is known as the Father of Carnatic Music among the Bhakti saints?",
+                "options": [
+                    "Vallabhacharya",
+                    "Dadu Dayal",
+                    "Purandar Das",
+                    "Surdas"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which Sufi saint is popularly known as Bandanawaz?",
+                "options": [
+                    "Shaikh Nasiruddin Mahmud",
+                    "Shaikh Nizamuddin Auliya",
+                    "Khwaja Moinuddin Chisti",
+                    "Syed Muhammad Gesu Daraz"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Who founded the leading Khanqah in Multan and the Suhara-Wardi Order in India?",
+                "options": [
+                    "Khwaja Moinuddin Chisti",
+                    "Shaikh Bahauddin Zakaria",
+                    "Baba Farid",
+                    "Khwaja Ali Hujwiri"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Who is famous for his devotional Abhang poetry in the Marathi Bhakti tradition?",
+                "options": [
+                    "Namadeva",
+                    "Jnanadeva",
+                    "Tukaram",
+                    "Eknath"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Who initiated the construction of the Qutub Minar in India?",
+                "options": [
+                    "Shah Jahan",
+                    "Aibak",
+                    "Iltutmish",
+                    "Aurangzeb"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Nathpandthis, Siddhas, and Yogis are devotional groups primarily found in which part of India?",
+                "options": [
+                    "Eastern India",
+                    "Northern India",
+                    "Western India",
+                    "Southern India"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Khusrau, the rebellious son of Jahangir, was assisted by which Sikh Guru?",
+                "options": [
+                    "Guru Amar Das",
+                    "Guru Gobind Singh",
+                    "Guru Nanak",
+                    "Guru Arjan Dev Ji"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Ramananda, an important figure in the Bhakti Movement from North India, belonged to which sect?",
+                "options": [
+                    "Nirguna",
+                    "Saguna",
+                    "Dvaita",
+                    "Advaita"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which Sikh Guru is credited with starting the Langar system and introducing the Gurumukhi script?",
+                "options": [
+                    "Guru Arjan",
+                    "Guru Tegh Bahadur",
+                    "Guru Gobind Singh",
+                    "Guru Nanak"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Guru Nanak, the founder of Sikhism, is associated with which Bhakti sect?",
+                "options": [
+                    "Nirguna",
+                    "Saguna",
+                    "Advaita",
+                    "Dvaita"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which Sufi saint is popularly known as Baba Farid?",
+                "options": [
+                    "Baba Farid",
+                    "Khwaja Qutubuddin Kaki",
+                    "Shaikh Nizamuddin Auliya",
+                    "Khwaja Moinuddin Chisti"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which saint is celebrated as the King of Gaudiya Vaishnavism?",
+                "options": [
+                    "Chaitanya",
+                    "Vidyapati",
+                    "Vallabhacharya",
+                    "Purandar Das"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which poet composed the Padavali—love ballads of Radha and Krishna?",
+                "options": [
+                    "Vidyapati",
+                    "Tulsidas",
+                    "Kabir",
+                    "Guru Nanak"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What is a main feature of the Bhakti Movement?",
+                "options": [
+                    "It focused solely on asceticism",
+                    "It emphasized complex Vedic rituals",
+                    "It promoted animal sacrifices",
+                    "It discarded elaborate rituals and sacrifices"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Who founded Vishistadvaita, a qualified non-dualistic (dualistic) school of thought?",
+                "options": [
+                    "Vallabhacharya",
+                    "Ramananda",
+                    "Sri Shankaracharya",
+                    "Ramanujacharya"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Thyagaraja, a legendary composer from Tamil Nadu, was a devotee of which deity?",
+                "options": [
+                    "Krishna",
+                    "Shiva",
+                    "Rama",
+                    "Vishnu"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "In Bhakti philosophy, what do the terms 'Saguna' and 'Nirguna' refer to?",
+                "options": [
+                    "Good and evil",
+                    "Life and death",
+                    "Matter and spirit",
+                    "God with form and God without form"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which Sufi saint, known as Mehboob-i-illahi, lived from 1236 to 1325?",
+                "options": [
+                    "Shaikh Badruddin Samarkandi",
+                    "Baba Farid",
+                    "Khwaja Ali Hujwiri",
+                    "Shaikh Nizamuddin Auliya"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which Sikh Guru is known for promoting social equality by abolishing untouchability through practices like Langar, Pangat, and Sangat?",
+                "options": [
+                    "Guru Gobind Singh",
+                    "Guru Arjan",
+                    "Guru Amar Das",
+                    "Guru Nanak"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which Marathi saint authored 'Bhavartha Ramayana'?",
+                "options": [
+                    "Eknath",
+                    "Jnanadeva",
+                    "Ramdas",
+                    "Tukaram"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which Bhakti saint, famous for his devotional compositions to Krishna, was known for being blind?",
+                "options": [
+                    "Dadu Dayal",
+                    "Kabir",
+                    "Tulsidas",
+                    "Surdas"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which Sufi saint is famously known as 'Data Ganj Baksh'?",
+                "options": [
+                    "Khwaja Moinuddin Chisti",
+                    "Shaikh Bahauddin Zakaria",
+                    "Khwaja Ali Hujwiri",
+                    "Baba Farid"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which saint spread the Bhakti Movement in Assam and is credited with the Sattriya dance tradition?",
+                "options": [
+                    "Vidyapati",
+                    "Sankaradeva",
+                    "Namadeva",
+                    "Chaitanya"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Who founded the Dadu Panth and belonged to the Nirguna sect?",
+                "options": [
+                    "Guru Nanak",
+                    "Kabir",
+                    "Dadu Dayal",
+                    "Ramananda"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which Sufi order is especially associated with spiritual gatherings (Sama) and music?",
+                "options": [
+                    "Suhrawardi Order",
+                    "Chisti Order",
+                    "Firdausi Order",
+                    "Qadiri Order"
+                ],
+                "answer": 1
+            }
+        ]
+    }
+]

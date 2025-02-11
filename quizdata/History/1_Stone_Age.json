@@ -3,32 +3,112 @@
         "title": "Stone Age Quiz",
         "questions": [
             {
-                "question": "Which period is known as the 'New Stone Age'?",
+                "question": "What is the first metal discovered by humans?",
                 "options": [
-                    "Neolithic",
-                    "Mesolithic",
-                    "Chalcolithic",
-                    "Palaeolithic"
+                    "Iron",
+                    "Gold",
+                    "Copper",
+                    "Bronze"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which site in Gujarat is associated with Mesolithic tools?",
+                "options": [
+                    "Langhnaj",
+                    "Adamgarh",
+                    "Bagor",
+                    "Paiyampalli"
                 ],
                 "answer": 0
             },
             {
-                "question": "What does the term 'Neolithic Revolution' refer to?",
+                "question": "What is the key feature of Neolithic pottery?",
                 "options": [
-                    "Use of bronze tools",
-                    "Domestication of horses",
-                    "Development of microliths",
-                    "Start of agriculture and food production"
+                    "Glazed pottery",
+                    "Stone pottery",
+                    "Black and red pottery",
+                    "Terracotta pottery"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which term is associated with graves marked by large stones?",
+                "options": [
+                    "Cairn circles",
+                    "Urn burial",
+                    "Microliths",
+                    "Rock shelters"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What is the distinguishing feature of the Mesolithic period?",
+                "options": [
+                    "Microliths",
+                    "Iron tools",
+                    "Urbanization",
+                    "Pottery"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which period marks the appearance of Homo sapiens?",
+                "options": [
+                    "Middle Palaeolithic",
+                    "Mesolithic",
+                    "Lower Palaeolithic",
+                    "Upper Palaeolithic"
                 ],
                 "answer": 3
             },
             {
-                "question": "Which site is known for the first evidence of domesticated dogs buried with their masters?",
+                "question": "What does 'Chalcolithic' mean?",
+                "options": [
+                    "Copper and Stone Age",
+                    "Bronze and Iron Age",
+                    "Iron and Stone Age",
+                    "Stone and Bronze Age"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which site is associated with the earliest millet cultivation?",
+                "options": [
+                    "Mehrgarh",
+                    "Burzahom",
+                    "Sanganakallu",
+                    "Langhnaj"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which site is referred to as the 'cave of potters'?",
                 "options": [
                     "Bagor",
-                    "Mehrgarh",
-                    "Langhnaj",
-                    "Burzahom"
+                    "Gufkral",
+                    "Inamgaon",
+                    "Mehrgarh"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which river valley is associated with Mehrgarh?",
+                "options": [
+                    "Narmada",
+                    "Ganga",
+                    "Banas",
+                    "Indus"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "What type of tools were predominantly used in the Palaeolithic period?",
+                "options": [
+                    "Iron tools",
+                    "Copper tools",
+                    "Bronze tools",
+                    "Flint tools"
                 ],
                 "answer": 3
             },
@@ -36,181 +116,61 @@
                 "question": "What was the main occupation during the Middle Palaeolithic period?",
                 "options": [
                     "Pottery making",
-                    "Agriculture",
+                    "Metalwork",
                     "Hunting and food gathering",
-                    "Metalwork"
+                    "Agriculture"
                 ],
                 "answer": 2
             },
             {
-                "question": "Where was the first evidence of rice cultivation found?",
+                "question": "What type of burial was practiced in the Chalcolithic period?",
                 "options": [
-                    "Koldihwa",
-                    "Bagor",
-                    "Burzahom",
-                    "Mehrgarh"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Which site is referred to as the 'cave of potters'?",
-                "options": [
-                    "Bagor",
-                    "Inamgaon",
-                    "Mehrgarh",
-                    "Gufkral"
-                ],
-                "answer": 3
-            },
-            {
-                "question": "What type of tools were predominantly used in the Palaeolithic period?",
-                "options": [
-                    "Copper tools",
-                    "Iron tools",
-                    "Bronze tools",
-                    "Flint tools"
-                ],
-                "answer": 3
-            },
-            {
-                "question": "What is the meaning of 'Palaeolithic'?",
-                "options": [
-                    "Old Stone Age",
-                    "Copper Age",
-                    "New Stone Age",
-                    "Bronze Age"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Where is evidence of the earliest domestication of animals found?",
-                "options": [
-                    "Bagor",
-                    "Langhnaj",
-                    "Mehrgarh",
-                    "Burzahom"
+                    "Megaliths",
+                    "Pit burial",
+                    "Urn burial",
+                    "Cremation"
                 ],
                 "answer": 2
             },
             {
-                "question": "What is the key feature of Neolithic pottery?",
+                "question": "Where was the skull of Homo erectus found in India?",
                 "options": [
-                    "Glazed pottery",
-                    "Black and red pottery",
-                    "Stone pottery",
-                    "Terracotta pottery"
+                    "Bhimbetka, MP",
+                    "Hathnora, MP",
+                    "Didwana, Rajasthan",
+                    "Langhnaj, Gujarat"
                 ],
                 "answer": 1
             },
             {
-                "question": "Which tool is specific to the Neolithic period?",
+                "question": "Where was the first evidence of rice cultivation found?",
                 "options": [
-                    "Polished stone tools",
-                    "Bone tools",
-                    "Flint tools",
-                    "Microliths"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Which site is famous for rock shelters and paintings in Madhya Pradesh?",
-                "options": [
-                    "Bhimbetka",
-                    "Langhnaj",
                     "Burzahom",
-                    "Adamgarh"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "What does 'Microliths' refer to?",
-                "options": [
-                    "Large stones",
-                    "Bronze weapons",
-                    "Small stone tools",
-                    "Metal tools"
-                ],
-                "answer": 2
-            },
-            {
-                "question": "Which site provides evidence of rice cultivation in 7000 BC?",
-                "options": [
-                    "Langhnaj",
-                    "Burzahom",
+                    "Bagor",
                     "Koldihwa",
                     "Mehrgarh"
                 ],
                 "answer": 2
-            },
-            {
-                "question": "Which age is known for the use of copper tools?",
-                "options": [
-                    "Bronze Age",
-                    "Iron Age",
-                    "Copper Age",
-                    "Stone Age"
-                ],
-                "answer": 2
-            },
-            {
-                "question": "Which period is known for rock paintings at Bhimbetka?",
-                "options": [
-                    "Mesolithic",
-                    "Palaeolithic",
-                    "Neolithic",
-                    "Bronze Age"
-                ],
-                "answer": 0
             },
             {
                 "question": "Which phase coincided with the last Ice Age?",
                 "options": [
                     "Upper Palaeolithic",
-                    "Mesolithic",
                     "Middle Palaeolithic",
-                    "Early Palaeolithic"
+                    "Early Palaeolithic",
+                    "Mesolithic"
                 ],
                 "answer": 0
             },
             {
-                "question": "What type of burial was practiced in the Chalcolithic period?",
+                "question": "What does the term 'Proto-historic' mean?",
                 "options": [
-                    "Cremation",
-                    "Urn burial",
-                    "Pit burial",
-                    "Megaliths"
+                    "No written evidence",
+                    "Written evidence but not understood",
+                    "Both written and oral evidence",
+                    "Fully developed texts"
                 ],
                 "answer": 1
-            },
-            {
-                "question": "Which site is one of the earliest human proto-cities in Turkey?",
-                "options": [
-                    "Catal Huyuk",
-                    "Mehrgarh",
-                    "Bagor",
-                    "Langhnaj"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Which river valley is associated with Mehrgarh?",
-                "options": [
-                    "Banas",
-                    "Narmada",
-                    "Ganga",
-                    "Indus"
-                ],
-                "answer": 3
-            },
-            {
-                "question": "Which term is associated with graves marked by large stones?",
-                "options": [
-                    "Microliths",
-                    "Rock shelters",
-                    "Cairn circles",
-                    "Urn burial"
-                ],
-                "answer": 2
             },
             {
                 "question": "What was the primary material used in the Chalcolithic period?",
@@ -223,124 +183,164 @@
                 "answer": 2
             },
             {
-                "question": "Which period is considered the 'Middle Stone Age'?",
+                "question": "Which site is one of the earliest human proto-cities in Turkey?",
+                "options": [
+                    "Bagor",
+                    "Catal Huyuk",
+                    "Mehrgarh",
+                    "Langhnaj"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which period is known as the 'New Stone Age'?",
                 "options": [
                     "Neolithic",
+                    "Chalcolithic",
+                    "Palaeolithic",
+                    "Mesolithic"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which period is considered the 'Middle Stone Age'?",
+                "options": [
+                    "Palaeolithic",
                     "Mesolithic",
                     "Chalcolithic",
-                    "Palaeolithic"
+                    "Neolithic"
                 ],
                 "answer": 1
             },
             {
-                "question": "What does 'Chalcolithic' mean?",
+                "question": "What does the term 'Neolithic Revolution' refer to?",
                 "options": [
-                    "Bronze and Iron Age",
-                    "Copper and Stone Age",
-                    "Iron and Stone Age",
-                    "Stone and Bronze Age"
+                    "Domestication of horses",
+                    "Start of agriculture and food production",
+                    "Development of microliths",
+                    "Use of bronze tools"
                 ],
                 "answer": 1
             },
             {
-                "question": "What does the term 'Proto-historic' mean?",
+                "question": "Which site is famous for rock shelters and paintings in Madhya Pradesh?",
                 "options": [
-                    "No written evidence",
-                    "Fully developed texts",
-                    "Both written and oral evidence",
-                    "Written evidence but not understood"
-                ],
-                "answer": 3
-            },
-            {
-                "question": "Where was the skull of Homo erectus found in India?",
-                "options": [
-                    "Langhnaj, Gujarat",
-                    "Hathnora, MP",
-                    "Bhimbetka, MP",
-                    "Didwana, Rajasthan"
+                    "Langhnaj",
+                    "Bhimbetka",
+                    "Adamgarh",
+                    "Burzahom"
                 ],
                 "answer": 1
             },
             {
-                "question": "Which site is associated with the earliest millet cultivation?",
+                "question": "Which site provides evidence of rice cultivation in 7000 BC?",
                 "options": [
+                    "Koldihwa",
+                    "Langhnaj",
+                    "Mehrgarh",
+                    "Burzahom"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which tool is specific to the Neolithic period?",
+                "options": [
+                    "Bone tools",
+                    "Polished stone tools",
+                    "Microliths",
+                    "Flint tools"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which site is known for the first evidence of domesticated dogs buried with their masters?",
+                "options": [
+                    "Bagor",
                     "Mehrgarh",
                     "Burzahom",
-                    "Langhnaj",
-                    "Sanganakallu"
+                    "Langhnaj"
                 ],
-                "answer": 3
+                "answer": 2
             },
             {
                 "question": "What is the estimated age of Earth?",
                 "options": [
                     "400 million years",
-                    "4 million years",
+                    "4000 million years",
                     "4000 years",
-                    "4000 million years"
-                ],
-                "answer": 3
-            },
-            {
-                "question": "Which period marks the appearance of Homo sapiens?",
-                "options": [
-                    "Lower Palaeolithic",
-                    "Middle Palaeolithic",
-                    "Mesolithic",
-                    "Upper Palaeolithic"
-                ],
-                "answer": 3
-            },
-            {
-                "question": "Which site in Gujarat is associated with Mesolithic tools?",
-                "options": [
-                    "Paiyampalli",
-                    "Langhnaj",
-                    "Bagor",
-                    "Adamgarh"
+                    "4 million years"
                 ],
                 "answer": 1
             },
             {
                 "question": "Which site is the largest Chalcolithic site in India?",
                 "options": [
-                    "Jorwe",
                     "Nevasa",
                     "Inamgaon",
-                    "Daimabad"
+                    "Daimabad",
+                    "Jorwe"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which age is known for the use of copper tools?",
+                "options": [
+                    "Bronze Age",
+                    "Iron Age",
+                    "Stone Age",
+                    "Copper Age"
                 ],
                 "answer": 3
             },
             {
-                "question": "What is the first metal discovered by humans?",
+                "question": "What does 'Microliths' refer to?",
                 "options": [
-                    "Gold",
-                    "Iron",
-                    "Copper",
-                    "Bronze"
+                    "Small stone tools",
+                    "Metal tools",
+                    "Bronze weapons",
+                    "Large stones"
                 ],
-                "answer": 2
+                "answer": 0
             },
             {
-                "question": "What is the distinguishing feature of the Mesolithic period?",
+                "question": "What is the meaning of 'Palaeolithic'?",
                 "options": [
-                    "Urbanization",
-                    "Iron tools",
-                    "Microliths",
-                    "Pottery"
+                    "Old Stone Age",
+                    "New Stone Age",
+                    "Copper Age",
+                    "Bronze Age"
                 ],
-                "answer": 2
+                "answer": 0
             },
             {
                 "question": "Which site in Rajasthan provides evidence of microliths?",
                 "options": [
-                    "Langhnaj",
-                    "Adamgarh",
                     "Burzahom",
-                    "Bagor"
+                    "Langhnaj",
+                    "Bagor",
+                    "Adamgarh"
                 ],
-                "answer": 3
+                "answer": 2
+            },
+            {
+                "question": "Where is evidence of the earliest domestication of animals found?",
+                "options": [
+                    "Bagor",
+                    "Mehrgarh",
+                    "Langhnaj",
+                    "Burzahom"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which period is known for rock paintings at Bhimbetka?",
+                "options": [
+                    "Neolithic",
+                    "Bronze Age",
+                    "Mesolithic",
+                    "Palaeolithic"
+                ],
+                "answer": 2
             }
         ]
     }
