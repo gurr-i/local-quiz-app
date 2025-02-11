@@ -3,52 +3,112 @@
         "title": "Current Affairs PART - 4",
         "questions": [
             {
-                "question": "Where is India's first Constitution Park located?",
+                "question": "Which Indian state launched the Mukhyamantri Majhi Ladki Behan scheme?",
                 "options": [
-                    "Pune",
-                    "Mumbai",
-                    "Delhi",
-                    "Bengaluru"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Which state has mandated 33% reservations for women in government contract jobs?",
-                "options": [
+                    "Gujarat",
                     "Karnataka",
                     "Maharashtra",
-                    "Punjab",
-                    "Gujarat"
+                    "Madhya Pradesh"
                 ],
-                "answer": 0
+                "answer": 2
             },
             {
-                "question": "What campaign did Uttarakhand launch to combat forest fires?",
+                "question": "Which Indian city became the venue for the 2025 BWF World Junior Badminton Championships?",
                 "options": [
-                    "Pirul Lao- Paise Lao",
-                    "Jal Bachao",
-                    "Van Raksha",
-                    "Fire Warrior"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Which Indian city is the first to use police drones?",
-                "options": [
+                    "Guwahati",
+                    "Bengaluru",
                     "Chennai",
-                    "Mumbai",
-                    "Delhi",
-                    "Bengaluru"
+                    "Hyderabad"
                 ],
                 "answer": 0
             },
             {
-                "question": "What is the name of the anti-drug mission launched by Punjab?",
+                "question": "Which Indian state is the first to be designated as a Craft City by UNESCO?",
                 "options": [
-                    "Mission Nischay",
-                    "Operation Clean",
-                    "Drug Free Punjab",
-                    "Safe Punjab"
+                    "Malappuram",
+                    "Jaipur",
+                    "Srinagar",
+                    "Mysore"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Who is the National Ambassador for UNICEF India?",
+                "options": [
+                    "Priyanka Chopra",
+                    "Deepika Padukone",
+                    "Aishwarya Rai",
+                    "Kareena Kapoor"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which Indian actor was awarded the Lata Deenanath Mangeshkar Award?",
+                "options": [
+                    "Shah Rukh Khan",
+                    "Salman Khan",
+                    "Aamir Khan",
+                    "Amitabh Bachchan"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Where is India's first Constitution Park located?",
+                "options": [
+                    "Mumbai",
+                    "Bengaluru",
+                    "Pune",
+                    "Delhi"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which Indian city was recently noted for its conservation efforts in Asian King Vulture?",
+                "options": [
+                    "Guwahati",
+                    "Bhubaneswar",
+                    "Chennai",
+                    "Kolkata"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which city is hosting the 2024 Superbet Rapid & Blitz Chess Tournament?",
+                "options": [
+                    "New York",
+                    "Paris",
+                    "Mumbai",
+                    "Berlin"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which Indian state launched the ‘Pirul Lao- Paise Lao’ campaign?",
+                "options": [
+                    "Rajasthan",
+                    "Himachal Pradesh",
+                    "Madhya Pradesh",
+                    "Uttarakhand"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which country is ranked 1st in the World Press Freedom Index 2024?",
+                "options": [
+                    "Sweden",
+                    "Denmark",
+                    "Norway",
+                    "Finland"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which Indian city is the venue for the 2024 International Weightlifting World Cup?",
+                "options": [
+                    "New Delhi",
+                    "Chennai",
+                    "Bengaluru",
+                    "Mumbai"
                 ],
                 "answer": 0
             },
@@ -56,39 +116,19 @@
                 "question": "Which state inaugurated an Om-shaped temple in Pali?",
                 "options": [
                     "Rajasthan",
-                    "Gujarat",
                     "Uttar Pradesh",
-                    "Haryana"
+                    "Haryana",
+                    "Gujarat"
                 ],
                 "answer": 0
             },
             {
-                "question": "Which of the following GI tags is associated with Uttar Pradesh?",
+                "question": "Who won the International Booker Prize 2024?",
                 "options": [
-                    "Sanjhi ceremonial craft",
-                    "Tiranga Barfi",
-                    "Kathiya Gehu",
-                    "All of the above"
-                ],
-                "answer": 3
-            },
-            {
-                "question": "What is the purpose of the ‘Booth Rabta’ initiative launched by Punjab?",
-                "options": [
-                    "Bridge the gap between voters and election authorities",
-                    "Promote voter turnout",
-                    "Improve election security",
-                    "Increase election awareness"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Which lake was recently noted in Himachal Pradesh?",
-                "options": [
-                    "Gepan Garth Lake",
-                    "Dal Lake",
-                    "Khiad Lake",
-                    "Sangla Lake"
+                    "Jenny Erpenbeck",
+                    "Anuk Arudpragasam",
+                    "George Saunders",
+                    "Olga Tokarczuk"
                 ],
                 "answer": 0
             },
@@ -103,104 +143,134 @@
                 "answer": 0
             },
             {
-                "question": "Which Indian city is designated as the fourth Craft City?",
+                "question": "Which Indian city is hosting the 2024 Superbet Rapid & Blitz Chess Tournament?",
                 "options": [
-                    "Srinagar",
+                    "New York",
+                    "Berlin",
+                    "Mumbai",
+                    "Paris"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which Indian state recently introduced the 'Menstrual Leave Policy' for female employees?",
+                "options": [
+                    "Sikkim",
+                    "Assam",
+                    "Madhya Pradesh",
+                    "Himachal Pradesh"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What is the name of the anti-drug mission launched by Punjab?",
+                "options": [
+                    "Safe Punjab",
+                    "Operation Clean",
+                    "Drug Free Punjab",
+                    "Mission Nischay"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which Indian state recently inaugurated the Om-shaped temple?",
+                "options": [
+                    "Haryana",
+                    "Gujarat",
+                    "Uttar Pradesh",
+                    "Rajasthan"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which Indian cricketer recently retired from all formats?",
+                "options": [
+                    "Shikhar Dhawan",
+                    "Kolkata Knight Riders",
+                    "Dinesh Karthik",
+                    "MS Dhoni"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Who won the Whitley Gold Award 2024 for conservation?",
+                "options": [
+                    "Purnima Devi Barman",
+                    "Anil Verma",
+                    "Suman Sahai",
+                    "Ramesh Kumar"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which Indian university was awarded the Raman Magsaysay Award?",
+                "options": [
+                    "Jawaharlal Nehru University",
+                    "Banaras Hindu University",
+                    "Aligarh Muslim University",
+                    "University of Delhi"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Who became the first woman Vice-Chancellor of Aligarh Muslim University?",
+                "options": [
+                    "Prof. Zoya Hasan",
+                    "Prof. Ayesha Khan",
+                    "Prof. Naima Khatoon",
+                    "Prof. Rukmini Bhaya Nair"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which Indian cricketer became the Most Valuable Player in IPL 2024?",
+                "options": [
+                    "AB de Villiers",
+                    "Sunil Narine",
+                    "Chris Gayle",
+                    "Andre Russell"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which Indian city was designated as the first Craft City by UNESCO?",
+                "options": [
                     "Jaipur",
+                    "Srinagar",
                     "Mysore",
                     "Malappuram"
                 ],
-                "answer": 0
+                "answer": 1
             },
             {
-                "question": "Which Indian state launched the Mukhyamantri Majhi Ladki Behan scheme?",
+                "question": "Which Indian space mission is planned in collaboration with JAXA?",
                 "options": [
-                    "Maharashtra",
-                    "Karnataka",
-                    "Gujarat",
-                    "Madhya Pradesh"
+                    "Gaganyaan",
+                    "Chandrayaan-4",
+                    "LUPEX Mission",
+                    "Astrosat"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which Indian company developed the Agnibaan rocket engine?",
+                "options": [
+                    "Agnikul Cosmos",
+                    "Blue Sky",
+                    "Skyroot Aerospace",
+                    "Satellize"
                 ],
                 "answer": 0
             },
             {
-                "question": "What is the name of the scheme to assist students from six minority groups launched by the Ministry of Minority Affairs?",
+                "question": "Which Indian cricketer was the first South Indian actor to have a statue at Madame Tussauds, Dubai?",
                 "options": [
-                    "Naya Savera Scheme",
-                    "Education for All",
-                    "Minority Boost",
-                    "Scholarship Scheme"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Who is the newly appointed Chairman of NAFED?",
-                "options": [
-                    "Jetha Ahir",
-                    "Shyam Sundar",
-                    "Rajiv Kumar",
-                    "Ramesh Chandra"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Which IIT is ranked 1st in India in QS World University Rankings 2024?",
-                "options": [
-                    "IIT Bombay",
-                    "IIT Madras",
-                    "IIT Delhi",
-                    "IIT Kanpur"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Which country is ranked 1st in the World Press Freedom Index 2024?",
-                "options": [
-                    "Norway",
-                    "Sweden",
-                    "Denmark",
-                    "Finland"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "What is the name of the first domestic gene therapy developed by IIT Bombay?",
-                "options": [
-                    "CAT-T",
-                    "GenoThera",
-                    "GeneGuard",
-                    "BioGen"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Who won the International Booker Prize 2024?",
-                "options": [
-                    "Jenny Erpenbeck",
-                    "Olga Tokarczuk",
-                    "George Saunders",
-                    "Anuk Arudpragasam"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Which Indian actor was the first South Indian actor to have a statue at Madame Tussauds, Dubai?",
-                "options": [
-                    "Allu Arjun",
                     "Rajinikanth",
-                    "Kamala Haasan",
-                    "Chiranjeevi"
+                    "Allu Arjun",
+                    "Chiranjeevi",
+                    "Kamal Haasan"
                 ],
-                "answer": 0
-            },
-            {
-                "question": "Who is the Chief of Personnel of the Indian Navy?",
-                "options": [
-                    "Sanjay Bhalla",
-                    "Karambir Singh",
-                    "Rohit Kumar",
-                    "Manoj Bhaduria"
-                ],
-                "answer": 0
+                "answer": 1
             },
             {
                 "question": "Which state inaugurated Utkela Airport?",
@@ -213,84 +283,44 @@
                 "answer": 0
             },
             {
-                "question": "Which Indian cricketer became the Orange Cap holder in IPL 2024?",
+                "question": "Which Indian state has launched the ‘Safe Health Scheme’?",
                 "options": [
-                    "Virat Kohli",
-                    "Rohit Sharma",
-                    "Shubman Gill",
-                    "David Warner"
+                    "West Bengal",
+                    "Kerala",
+                    "Sikkim",
+                    "Madhya Pradesh"
                 ],
-                "answer": 0
+                "answer": 2
             },
             {
-                "question": "Which Indian state launched the ‘Pirul Lao- Paise Lao’ campaign?",
+                "question": "Who won the Whitley Gold Award 2024?",
                 "options": [
-                    "Uttarakhand",
-                    "Himachal Pradesh",
-                    "Madhya Pradesh",
-                    "Rajasthan"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Who is the new DG of the Bureau of Police Research & Development?",
-                "options": [
-                    "Rajeev Kr. Sharma",
-                    "Amitabh Thakur",
-                    "A.K. Sharma",
+                    "Suman Sahai",
+                    "Purnima Devi Barman",
+                    "Anil Prakash",
                     "Ravi Kumar"
                 ],
-                "answer": 0
+                "answer": 1
             },
             {
-                "question": "What is the new name of Udhampur railway station in J&K?",
+                "question": "What is the name of the new platform launched by IRDAI for health insurance?",
                 "options": [
-                    "Tushar Mahajan",
-                    "Ravi Sharma",
-                    "Vikram Singh",
-                    "Deepak Kumar"
+                    "HealthNet",
+                    "Safe Health Scheme",
+                    "Health Insurance Reforms",
+                    "IRDAI Health Platform"
                 ],
                 "answer": 0
             },
             {
-                "question": "Who is the National Ambassador for UNICEF India?",
+                "question": "What is the name of the new gold-backed currency introduced in Zimbabwe?",
                 "options": [
-                    "Kareena Kapoor",
-                    "Priyanka Chopra",
-                    "Deepika Padukone",
-                    "Aishwarya Rai"
+                    "GoldDinar",
+                    "ZimDollar",
+                    "ZiG",
+                    "ZimbabweGold"
                 ],
-                "answer": 0
-            },
-            {
-                "question": "Which city is hosting the 2025 BWF World Junior Badminton Championships?",
-                "options": [
-                    "Guwahati",
-                    "Hyderabad",
-                    "Chennai",
-                    "Bengaluru"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Which Indian cricketer retired from all formats recently?",
-                "options": [
-                    "Dinesh Karthik",
-                    "MS Dhoni",
-                    "Kolkata Knight Riders",
-                    "Shikhar Dhawan"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Who won the 2024 Asian Women's Gymnastics Championships gold medal?",
-                "options": [
-                    "Dipa Karmakar",
-                    "Simone Biles",
-                    "Nadia Comaneci",
-                    "Katelyn Ohashi"
-                ],
-                "answer": 0
+                "answer": 2
             },
             {
                 "question": "Who is the new Chairman of ASSOCHAM?",
@@ -303,302 +333,132 @@
                 "answer": 0
             },
             {
-                "question": "Which Indian cricketer became the Most Valuable Player in IPL 2024?",
-                "options": [
-                    "Sunil Narine",
-                    "Andre Russell",
-                    "AB de Villiers",
-                    "Chris Gayle"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "What is the name of the world’s first 3D-printed rocket engine developed by Agnikul Cosmos?",
-                "options": [
-                    "Agnibaan",
-                    "Vajra",
-                    "Sudarshan",
-                    "Tejas"
-                ],
-                "answer": 0
-            },
-            {
                 "question": "Who is the Chief of the Indian Army Staff?",
                 "options": [
-                    "Lt. Gen. Upendra Dwivedi",
-                    "Gen. Manoj Pande",
                     "Gen. Bipin Rawat",
+                    "Gen. Manoj Pande",
+                    "Lt. Gen. Upendra Dwivedi",
                     "Gen. V.K. Singh"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Which Indian actress won the Best Actress award at the 2024 International Emmy Awards?",
-                "options": [
-                    "Sushmita Sen",
-                    "Richa Chadha",
-                    "Kalki Koechlin",
-                    "Madhuri Dixit"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Which Indian space mission is planned in collaboration with JAXA?",
-                "options": [
-                    "LUPEX Mission",
-                    "Chandrayaan-4",
-                    "Gaganyaan",
-                    "Astrosat"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Which Indian state recently introduced the 'Menstrual Leave Policy' for female employees?",
-                "options": [
-                    "Sikkim",
-                    "Assam",
-                    "Himachal Pradesh",
-                    "Madhya Pradesh"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Who won the Shaw Prize 2024 in Astronomy?",
-                "options": [
-                    "Shrinivas R. Kulkarni",
-                    "Ramesh Narayan",
-                    "Natarajan Chandrasekhar",
-                    "Srinivasan Raghavan"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Which country has legalized recreational cannabis recently?",
-                "options": [
-                    "Germany",
-                    "Italy",
-                    "Spain",
-                    "Canada"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Which Indian state is hosting the first multipurpose green hydrogen pilot project?",
-                "options": [
-                    "Himachal Pradesh",
-                    "Gujarat",
-                    "Kerala",
-                    "Tamil Nadu"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Which city is the host of the World’s Highest Polling Station?",
-                "options": [
-                    "Tashigang",
-                    "Shimla",
-                    "Leh",
-                    "Srinagar"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Who won the Whitley Gold Award 2024?",
-                "options": [
-                    "Purnima Devi Barman",
-                    "Ravi Kumar",
-                    "Anil Prakash",
-                    "Suman Sahai"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Which Indian cricketer won the Purple Cap in IPL 2024?",
-                "options": [
-                    "Harshal Patel",
-                    "Jasprit Bumrah",
-                    "Kagiso Rabada",
-                    "Pat Cummins"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "What is the name of the new gold-backed currency introduced in Zimbabwe?",
-                "options": [
-                    "ZiG",
-                    "GoldDinar",
-                    "ZimDollar",
-                    "ZimbabweGold"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Which organization has launched the CDP-SURAKSHA PLATFORM to disburse subsidies to horticulture farmers?",
-                "options": [
-                    "Central Government",
-                    "State Government",
-                    "Ministry of Agriculture",
-                    "Horticulture Board"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Which Indian state is the first to be designated as a Craft City by UNESCO?",
-                "options": [
-                    "Srinagar",
-                    "Jaipur",
-                    "Mysore",
-                    "Malappuram"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Which Indian organization developed the world’s first wooden satellite?",
-                "options": [
-                    "Kyoto University",
-                    "Indian Institute of Science",
-                    "ISRO",
-                    "NASA"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Who became the first woman Vice-Chancellor of Aligarh Muslim University?",
-                "options": [
-                    "Prof. Naima Khatoon",
-                    "Prof. Ayesha Khan",
-                    "Prof. Zoya Hasan",
-                    "Prof. Rukmini Bhaya Nair"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Which Indian city is hosting the 2027 FIFA Women’s World Cup?",
-                "options": [
-                    "Brazil",
-                    "Argentina",
-                    "Mexico",
-                    "Canada"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Who is the Principal Secretary to PM Modi?",
-                "options": [
-                    "P.K. Mishra",
-                    "Amit Shah",
-                    "Rajiv Gauba",
-                    "Sanjay Kumar"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Who won the Grand Prix at the 77th Cannes Film Festival?",
-                "options": [
-                    "Payal Kapadia",
-                    "Satyajit Ray",
-                    "Ritesh Batra",
-                    "Zoya Akhtar"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "What is the name of the new platform launched by IRDAI for health insurance?",
-                "options": [
-                    "Health Insurance Reforms",
-                    "Safe Health Scheme",
-                    "HealthNet",
-                    "IRDAI Health Platform"
                 ],
                 "answer": 2
             },
             {
-                "question": "Which Indian state recently inaugurated the world’s first conservation and breeding center for Asian King Vulture?",
+                "question": "Which organization recently launched the CDP-SURAKSHA PLATFORM?",
                 "options": [
-                    "Maharashtra",
-                    "Assam",
-                    "Uttar Pradesh",
-                    "West Bengal"
+                    "Ministry of Agriculture",
+                    "Horticulture Board",
+                    "Central Government",
+                    "State Government"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Who is the Principal Secretary to PM Modi?",
+                "options": [
+                    "Rajiv Gauba",
+                    "P.K. Mishra",
+                    "Sanjay Kumar",
+                    "Amit Shah"
                 ],
                 "answer": 1
             },
             {
-                "question": "Which Indian actor was awarded the Lata Deenanath Mangeshkar Award?",
+                "question": "Who is the Chief of Personnel of the Indian Navy?",
                 "options": [
-                    "Amitabh Bachchan",
-                    "Shah Rukh Khan",
-                    "Aamir Khan",
-                    "Salman Khan"
+                    "Rohit Kumar",
+                    "Karambir Singh",
+                    "Manoj Bhaduria",
+                    "Sanjay Bhalla"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Who was awarded the Grand Prix at the 77th Cannes Film Festival?",
+                "options": [
+                    "Payal Kapadia",
+                    "Zoya Akhtar",
+                    "Satyajit Ray",
+                    "Anurag Kashyap"
                 ],
                 "answer": 0
+            },
+            {
+                "question": "Who was awarded the International Booker Prize 2024?",
+                "options": [
+                    "George Saunders",
+                    "Jenny Erpenbeck",
+                    "Olga Tokarczuk",
+                    "Anuk Arudpragasam"
+                ],
+                "answer": 1
             },
             {
                 "question": "Which Indian university was awarded the Raman Magsaysay Award in 2023?",
                 "options": [
                     "Aligarh Muslim University",
+                    "University of Delhi",
                     "Jawaharlal Nehru University",
-                    "Banaras Hindu University",
-                    "University of Delhi"
+                    "Banaras Hindu University"
                 ],
                 "answer": 0
             },
             {
-                "question": "Which of the following was a winner at the 2024 Asian Games?",
+                "question": "Who became the new Chief of Personnel of the Indian Navy?",
                 "options": [
-                    "Jyoti Ratre",
-                    "Neeraj Chopra",
-                    "Vijender Singh",
-                    "Deepika Kumari"
+                    "Rohit Kumar",
+                    "Manoj Bhaduria",
+                    "Karambir Singh",
+                    "Sanjay Bhalla"
                 ],
-                "answer": 0
+                "answer": 3
             },
             {
-                "question": "Which Indian company developed the Agnibaan rocket engine?",
+                "question": "Which Indian state is hosting the first multipurpose green hydrogen pilot project?",
                 "options": [
-                    "Agnikul Cosmos",
-                    "Skyroot Aerospace",
-                    "Satellize",
-                    "Blue Sky"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Which Indian city is the venue for the 2024 International Weightlifting World Cup?",
-                "options": [
-                    "New Delhi",
-                    "Mumbai",
-                    "Chennai",
-                    "Bengaluru"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Which city is hosting the 2024 Superbet Rapid & Blitz Chess Tournament?",
-                "options": [
-                    "Paris",
-                    "New York",
-                    "Mumbai",
-                    "Berlin"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Which Indian state is hosting the first 3D-printed rocket engine?",
-                "options": [
+                    "Gujarat",
                     "Tamil Nadu",
+                    "Himachal Pradesh",
+                    "Kerala"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which Indian state introduced the world’s first wooden satellite?",
+                "options": [
+                    "Karnataka",
                     "Kerala",
                     "Gujarat",
-                    "Maharashtra"
+                    "Tamil Nadu"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Who was appointed as the new Director-General of the Bureau of Police Research & Development?",
+                "options": [
+                    "Ravi Kumar",
+                    "Rajeev Kr. Sharma",
+                    "Anil Kumar",
+                    "Amit Shah"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which Indian state is hosting the Utkela Airport?",
+                "options": [
+                    "Odisha",
+                    "Madhya Pradesh",
+                    "Gujarat",
+                    "Assam"
                 ],
                 "answer": 0
             },
             {
-                "question": "Which of the following received a GI tag from Uttar Pradesh?",
+                "question": "What is the name of the first domestic gene therapy developed by IIT Bombay?",
                 "options": [
-                    "Tiranga Barfi",
-                    "Kathiya Gehu",
-                    "Sanjhi ceremonial craft",
-                    "All of the above"
+                    "BioGen",
+                    "GeneGuard",
+                    "GenoThera",
+                    "CAT-T"
                 ],
                 "answer": 3
             },
@@ -606,171 +466,71 @@
                 "question": "Which of the following athletes became the oldest Indian woman to conquer Mt. Everest?",
                 "options": [
                     "Jyoti Ratre",
-                    "Sushmita Sen",
+                    "Anushka Sharma",
                     "Madhuri Dixit",
-                    "Anushka Sharma"
+                    "Sushmita Sen"
                 ],
                 "answer": 0
             },
             {
-                "question": "Which Indian state is hosting the Utkela Airport?",
+                "question": "Which organization has launched the CDP-SURAKSHA PLATFORM to disburse subsidies to horticulture farmers?",
                 "options": [
-                    "Odisha",
-                    "Gujarat",
-                    "Madhya Pradesh",
-                    "Assam"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Who was appointed as the new Director-General of the Bureau of Police Research & Development?",
-                "options": [
-                    "Rajeev Kr. Sharma",
-                    "Amit Shah",
-                    "Ravi Kumar",
-                    "Anil Kumar"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Which Indian player won gold in the International Weightlifting World Cup 2024?",
-                "options": [
-                    "Bindyarani Devi",
-                    "Mirabai Chanu",
-                    "Kavita Devi",
-                    "Sanjita Chanu"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Who was appointed as the new Chairman of the National Bank for Agriculture and Rural Development?",
-                "options": [
-                    "Jetha Ahir",
-                    "Ramesh Chand",
-                    "Shyam Sundar",
-                    "Sanjay Bhalla"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Which Indian state introduced the ‘Naya Savera Scheme’?",
-                "options": [
-                    "Karnataka",
-                    "Madhya Pradesh",
-                    "Uttar Pradesh",
-                    "Gujarat"
+                    "Horticulture Board",
+                    "Ministry of Agriculture",
+                    "Central Government",
+                    "State Government"
                 ],
                 "answer": 2
             },
             {
-                "question": "Who was awarded the Grand Prix at the 77th Cannes Film Festival?",
+                "question": "Which of the following was a winner at the 2024 Asian Games?",
                 "options": [
-                    "Payal Kapadia",
-                    "Satyajit Ray",
-                    "Anurag Kashyap",
-                    "Zoya Akhtar"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Which Indian university recently launched the world’s first wooden satellite?",
-                "options": [
-                    "Kyoto University",
-                    "Indian Institute of Science",
-                    "ISRO",
-                    "NASA"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Who became the new Chief of Personnel of the Indian Navy?",
-                "options": [
-                    "Sanjay Bhalla",
-                    "Karambir Singh",
-                    "Rohit Kumar",
-                    "Manoj Bhaduria"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Which Indian city was recently noted for its conservation efforts in Asian King Vulture?",
-                "options": [
-                    "Guwahati",
-                    "Kolkata",
-                    "Bhubaneswar",
-                    "Chennai"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Which Indian state has launched the ‘Safe Health Scheme’?",
-                "options": [
-                    "Madhya Pradesh",
-                    "Sikkim",
-                    "Kerala",
-                    "West Bengal"
+                    "Vijender Singh",
+                    "Jyoti Ratre",
+                    "Deepika Kumari",
+                    "Neeraj Chopra"
                 ],
                 "answer": 1
             },
             {
-                "question": "Who won the Whitley Gold Award 2024 for conservation?",
+                "question": "Which Indian city is hosting the 2027 FIFA Women’s World Cup?",
                 "options": [
-                    "Purnima Devi Barman",
-                    "Ramesh Kumar",
-                    "Anil Verma",
-                    "Suman Sahai"
+                    "Argentina",
+                    "Canada",
+                    "Brazil",
+                    "Mexico"
                 ],
-                "answer": 0
+                "answer": 2
             },
             {
-                "question": "Which Indian state has launched the world’s first 3D-printed rocket engine?",
+                "question": "Which Indian cricketer won the Purple Cap in IPL 2024?",
                 "options": [
-                    "Tamil Nadu",
-                    "Kerala",
-                    "Karnataka",
-                    "Gujarat"
+                    "Pat Cummins",
+                    "Jasprit Bumrah",
+                    "Kagiso Rabada",
+                    "Harshal Patel"
                 ],
-                "answer": 0
+                "answer": 3
             },
             {
-                "question": "Who was the winner of the Shaw Prize 2024 in Astronomy?",
+                "question": "Which city is hosting the 2025 BWF World Junior Badminton Championships?",
                 "options": [
-                    "Shrinivas R. Kulkarni",
-                    "Ramesh Narayan",
-                    "Natarajan Chandrasekhar",
-                    "Srinivasan Raghavan"
+                    "Chennai",
+                    "Hyderabad",
+                    "Guwahati",
+                    "Bengaluru"
                 ],
-                "answer": 0
+                "answer": 2
             },
             {
-                "question": "Which Indian state introduced the Menstrual Leave Policy recently?",
+                "question": "What is the new name of Udhampur railway station in J&K?",
                 "options": [
-                    "Sikkim",
-                    "Assam",
-                    "Madhya Pradesh",
-                    "Kerala"
+                    "Ravi Sharma",
+                    "Vikram Singh",
+                    "Tushar Mahajan",
+                    "Deepak Kumar"
                 ],
-                "answer": 0
-            },
-            {
-                "question": "Which organization recently launched the CDP-SURAKSHA PLATFORM?",
-                "options": [
-                    "Central Government",
-                    "State Government",
-                    "Ministry of Agriculture",
-                    "Horticulture Board"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Who became the Principal Secretary to PM Modi recently?",
-                "options": [
-                    "P.K. Mishra",
-                    "Amit Shah",
-                    "Rajiv Gauba",
-                    "Sanjay Kumar"
-                ],
-                "answer": 0
+                "answer": 2
             },
             {
                 "question": "Which city is hosting the 2024 International Weightlifting World Cup?",
@@ -783,167 +543,77 @@
                 "answer": 0
             },
             {
-                "question": "Which Indian city was designated as the first Craft City by UNESCO?",
+                "question": "Who was appointed as the new Chairman of the National Bank for Agriculture and Rural Development?",
                 "options": [
-                    "Srinagar",
-                    "Jaipur",
-                    "Mysore",
-                    "Malappuram"
+                    "Sanjay Bhalla",
+                    "Shyam Sundar",
+                    "Ramesh Chand",
+                    "Jetha Ahir"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which of the following GI tags is associated with Uttar Pradesh?",
+                "options": [
+                    "All of the above",
+                    "Tiranga Barfi",
+                    "Kathiya Gehu",
+                    "Sanjhi ceremonial craft"
                 ],
                 "answer": 0
             },
             {
-                "question": "Which Indian actor was the first South Indian actor to have a statue at Madame Tussauds, Dubai?",
+                "question": "Who was the winner of the Shaw Prize 2024 in Astronomy?",
                 "options": [
-                    "Allu Arjun",
-                    "Rajinikanth",
-                    "Chiranjeevi",
-                    "Kamal Haasan"
+                    "Natarajan Chandrasekhar",
+                    "Shrinivas R. Kulkarni",
+                    "Ramesh Narayan",
+                    "Srinivasan Raghavan"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which Indian university recently launched the world’s first wooden satellite?",
+                "options": [
+                    "ISRO",
+                    "Kyoto University",
+                    "Indian Institute of Science",
+                    "NASA"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What campaign did Uttarakhand launch to combat forest fires?",
+                "options": [
+                    "Pirul Lao- Paise Lao",
+                    "Fire Warrior",
+                    "Van Raksha",
+                    "Jal Bachao"
                 ],
                 "answer": 0
             },
             {
-                "question": "Who was awarded the International Booker Prize 2024?",
+                "question": "Which Indian state introduced the Menstrual Leave Policy recently?",
                 "options": [
-                    "Jenny Erpenbeck",
-                    "Olga Tokarczuk",
-                    "George Saunders",
-                    "Anuk Arudpragasam"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Which Indian state recently inaugurated the Om-shaped temple?",
-                "options": [
-                    "Rajasthan",
-                    "Gujarat",
-                    "Haryana",
-                    "Uttar Pradesh"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Which Indian city became the venue for the 2025 BWF World Junior Badminton Championships?",
-                "options": [
-                    "Guwahati",
-                    "Hyderabad",
-                    "Chennai",
-                    "Bengaluru"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Which Indian university was awarded the Raman Magsaysay Award?",
-                "options": [
-                    "Aligarh Muslim University",
-                    "Jawaharlal Nehru University",
-                    "Banaras Hindu University",
-                    "University of Delhi"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Which Indian player won the Orange Cap in IPL 2024?",
-                "options": [
-                    "Virat Kohli",
-                    "Rohit Sharma",
-                    "Shubman Gill",
-                    "David Warner"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "What is the new name of the world’s highest polling station in India?",
-                "options": [
-                    "Tashigang",
-                    "Shimla",
-                    "Leh",
-                    "Srinagar"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Which Indian actor was awarded the Lata Deenanath Mangeshkar Award?",
-                "options": [
-                    "Amitabh Bachchan",
-                    "Shah Rukh Khan",
-                    "Aamir Khan",
-                    "Salman Khan"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Who won the Purple Cap in IPL 2024?",
-                "options": [
-                    "Harshal Patel",
-                    "Jasprit Bumrah",
-                    "Kagiso Rabada",
-                    "Pat Cummins"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Which organization developed the Agnibaan rocket engine?",
-                "options": [
-                    "Agnikul Cosmos",
-                    "Skyroot Aerospace",
-                    "Satellize",
-                    "Blue Sky"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Who is the new Director-General of the Bureau of Police Research & Development?",
-                "options": [
-                    "Rajeev Kr. Sharma",
-                    "Amit Shah",
-                    "Ravi Kumar",
-                    "Anil Kumar"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Which Indian city is hosting the 2024 Superbet Rapid & Blitz Chess Tournament?",
-                "options": [
-                    "Paris",
-                    "New York",
-                    "Mumbai",
-                    "Berlin"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Which Indian state recently launched the Naya Savera Scheme?",
-                "options": [
-                    "Uttar Pradesh",
-                    "Karnataka",
+                    "Kerala",
+                    "Assam",
                     "Madhya Pradesh",
-                    "Gujarat"
+                    "Sikkim"
                 ],
-                "answer": 0
+                "answer": 3
             },
             {
-                "question": "Which Indian city is hosting the 2027 FIFA Women’s World Cup?",
+                "question": "Which Indian organization developed the world’s first wooden satellite?",
                 "options": [
-                    "Brazil",
-                    "Argentina",
-                    "Mexico",
-                    "Canada"
+                    "Indian Institute of Science",
+                    "Kyoto University",
+                    "ISRO",
+                    "NASA"
                 ],
-                "answer": 0
+                "answer": 1
             },
             {
-                "question": "Who is the Chief of the Indian Army Staff?",
-                "options": [
-                    "Lt. Gen. Upendra Dwivedi",
-                    "Gen. Manoj Pande",
-                    "Gen. Bipin Rawat",
-                    "Gen. V.K. Singh"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Which Indian cricketer recently retired from all formats?",
+                "question": "Which Indian cricketer retired from all formats recently?",
                 "options": [
                     "Dinesh Karthik",
                     "MS Dhoni",
@@ -953,52 +623,322 @@
                 "answer": 0
             },
             {
-                "question": "Which Indian cricketer was the first South Indian actor to have a statue at Madame Tussauds, Dubai?",
+                "question": "Which Indian state has launched the world’s first 3D-printed rocket engine?",
                 "options": [
-                    "Allu Arjun",
-                    "Rajinikanth",
-                    "Chiranjeevi",
-                    "Kamal Haasan"
+                    "Gujarat",
+                    "Karnataka",
+                    "Kerala",
+                    "Tamil Nadu"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which organization developed the Agnibaan rocket engine?",
+                "options": [
+                    "Skyroot Aerospace",
+                    "Satellize",
+                    "Blue Sky",
+                    "Agnikul Cosmos"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which Indian state introduced the ‘Naya Savera Scheme’?",
+                "options": [
+                    "Uttar Pradesh",
+                    "Karnataka",
+                    "Gujarat",
+                    "Madhya Pradesh"
                 ],
                 "answer": 0
+            },
+            {
+                "question": "Which Indian state recently launched the Naya Savera Scheme?",
+                "options": [
+                    "Karnataka",
+                    "Gujarat",
+                    "Madhya Pradesh",
+                    "Uttar Pradesh"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Who is the new DG of the Bureau of Police Research & Development?",
+                "options": [
+                    "Ravi Kumar",
+                    "A.K. Sharma",
+                    "Amitabh Thakur",
+                    "Rajeev Kr. Sharma"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "What is the name of the world’s first 3D-printed rocket engine developed by Agnikul Cosmos?",
+                "options": [
+                    "Sudarshan",
+                    "Agnibaan",
+                    "Tejas",
+                    "Vajra"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which Indian state recently inaugurated the world’s first conservation and breeding center for Asian King Vulture?",
+                "options": [
+                    "Maharashtra",
+                    "West Bengal",
+                    "Uttar Pradesh",
+                    "Assam"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "What is the purpose of the ‘Booth Rabta’ initiative launched by Punjab?",
+                "options": [
+                    "Increase election awareness",
+                    "Promote voter turnout",
+                    "Improve election security",
+                    "Bridge the gap between voters and election authorities"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Who is the new Director-General of the Bureau of Police Research & Development?",
+                "options": [
+                    "Anil Kumar",
+                    "Ravi Kumar",
+                    "Amit Shah",
+                    "Rajeev Kr. Sharma"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which Indian state is hosting the first 3D-printed rocket engine?",
+                "options": [
+                    "Gujarat",
+                    "Maharashtra",
+                    "Kerala",
+                    "Tamil Nadu"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "What is the new name of the world’s highest polling station in India?",
+                "options": [
+                    "Leh",
+                    "Shimla",
+                    "Srinagar",
+                    "Tashigang"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which Indian player won the Orange Cap in IPL 2024?",
+                "options": [
+                    "Virat Kohli",
+                    "Shubman Gill",
+                    "Rohit Sharma",
+                    "David Warner"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which country has legalized recreational cannabis recently?",
+                "options": [
+                    "Italy",
+                    "Canada",
+                    "Germany",
+                    "Spain"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which lake was recently noted in Himachal Pradesh?",
+                "options": [
+                    "Dal Lake",
+                    "Sangla Lake",
+                    "Gepan Garth Lake",
+                    "Khiad Lake"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which Indian city is designated as the fourth Craft City?",
+                "options": [
+                    "Jaipur",
+                    "Mysore",
+                    "Srinagar",
+                    "Malappuram"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which Indian actor was the first South Indian actor to have a statue at Madame Tussauds, Dubai?",
+                "options": [
+                    "Rajinikanth",
+                    "Allu Arjun",
+                    "Kamala Haasan",
+                    "Chiranjeevi"
+                ],
+                "answer": 1
             },
             {
                 "question": "Which Indian player won the Most Valuable Player award in IPL 2024?",
                 "options": [
-                    "Sunil Narine",
+                    "Chris Gayle",
                     "Andre Russell",
                     "AB de Villiers",
-                    "Chris Gayle"
+                    "Sunil Narine"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Who is the newly appointed Chairman of NAFED?",
+                "options": [
+                    "Rajiv Kumar",
+                    "Ramesh Chandra",
+                    "Shyam Sundar",
+                    "Jetha Ahir"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which city is the host of the World’s Highest Polling Station?",
+                "options": [
+                    "Srinagar",
+                    "Leh",
+                    "Tashigang",
+                    "Shimla"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which Indian player won gold in the International Weightlifting World Cup 2024?",
+                "options": [
+                    "Mirabai Chanu",
+                    "Bindyarani Devi",
+                    "Kavita Devi",
+                    "Sanjita Chanu"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which Indian city is the first to use police drones?",
+                "options": [
+                    "Mumbai",
+                    "Chennai",
+                    "Bengaluru",
+                    "Delhi"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which of the following received a GI tag from Uttar Pradesh?",
+                "options": [
+                    "All of the above",
+                    "Kathiya Gehu",
+                    "Sanjhi ceremonial craft",
+                    "Tiranga Barfi"
                 ],
                 "answer": 0
             },
             {
-                "question": "Which Indian state introduced the world’s first wooden satellite?",
+                "question": "Which Indian cricketer became the Orange Cap holder in IPL 2024?",
                 "options": [
-                    "Tamil Nadu",
-                    "Kerala",
+                    "Virat Kohli",
+                    "Rohit Sharma",
+                    "David Warner",
+                    "Shubman Gill"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What is the name of the scheme to assist students from six minority groups launched by the Ministry of Minority Affairs?",
+                "options": [
+                    "Education for All",
+                    "Scholarship Scheme",
+                    "Naya Savera Scheme",
+                    "Minority Boost"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which Indian actress won the Best Actress award at the 2024 International Emmy Awards?",
+                "options": [
+                    "Richa Chadha",
+                    "Sushmita Sen",
+                    "Madhuri Dixit",
+                    "Kalki Koechlin"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Who won the Grand Prix at the 77th Cannes Film Festival?",
+                "options": [
+                    "Zoya Akhtar",
+                    "Satyajit Ray",
+                    "Payal Kapadia",
+                    "Ritesh Batra"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Who won the 2024 Asian Women's Gymnastics Championships gold medal?",
+                "options": [
+                    "Dipa Karmakar",
+                    "Katelyn Ohashi",
+                    "Simone Biles",
+                    "Nadia Comaneci"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Who became the Principal Secretary to PM Modi recently?",
+                "options": [
+                    "P.K. Mishra",
+                    "Sanjay Kumar",
+                    "Amit Shah",
+                    "Rajiv Gauba"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Who won the Purple Cap in IPL 2024?",
+                "options": [
+                    "Jasprit Bumrah",
+                    "Kagiso Rabada",
+                    "Harshal Patel",
+                    "Pat Cummins"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which state has mandated 33% reservations for women in government contract jobs?",
+                "options": [
                     "Karnataka",
-                    "Gujarat"
+                    "Punjab",
+                    "Gujarat",
+                    "Maharashtra"
                 ],
                 "answer": 0
             },
             {
-                "question": "Who won the International Booker Prize 2024?",
+                "question": "Which IIT is ranked 1st in India in QS World University Rankings 2024?",
                 "options": [
-                    "Jenny Erpenbeck",
-                    "Olga Tokarczuk",
-                    "George Saunders",
-                    "Anuk Arudpragasam"
+                    "IIT Bombay",
+                    "IIT Kanpur",
+                    "IIT Madras",
+                    "IIT Delhi"
                 ],
                 "answer": 0
             },
             {
-                "question": "Who was the winner of the Shaw Prize 2024 in Astronomy?",
+                "question": "Who won the Shaw Prize 2024 in Astronomy?",
                 "options": [
                     "Shrinivas R. Kulkarni",
                     "Ramesh Narayan",
-                    "Natarajan Chandrasekhar",
-                    "Srinivasan Raghavan"
+                    "Srinivasan Raghavan",
+                    "Natarajan Chandrasekhar"
                 ],
                 "answer": 0
             }

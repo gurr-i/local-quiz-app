@@ -1,10 +1,10 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Quiziare",
+  "name": "Quiziare - Ultimate Quiz Platform",
   "icons": [
     {
       "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
+      "sizes": "16x16 24x24 32x32 64x64",
       "type": "image/x-icon"
     },
     {
@@ -18,8 +18,9 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": ".",
+  "start_url": "/",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "theme_color": "#1a73e8",
+  "background_color": "#ffffff",
+  "description": "Take fun and challenging quizzes on Quiziare, your ultimate quiz platform."
 }

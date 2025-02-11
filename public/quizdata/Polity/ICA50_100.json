@@ -1,0 +1,547 @@
+[
+    {
+        "title": "Indian Constitution Articles Quiz (Part 2) article [1-50]",
+        "questions": [
+            {
+                "question": "Which article requires a special address by the President?",
+                "options": [
+                    "Article 89",
+                    "Article 90",
+                    "Article 87",
+                    "Article 88"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Article 34 places restrictions on rights during what situation?",
+                "options": [
+                    "Natural disaster",
+                    "Epidemic",
+                    "Public emergency",
+                    "Martial law"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Article 5 of the Indian Constitution deals with which of the following?",
+                "options": [
+                    "Directive Principles",
+                    "Right to Life",
+                    "Citizenship at the commencement of the Constitution",
+                    "Freedom of Speech"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What does Article 55 of the Indian Constitution describe?",
+                "options": [
+                    "Manner of election of President",
+                    "Term of office of President",
+                    "Eligibility for re-election",
+                    "Qualifications for election as President"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which article ensures the separation of judiciary from the executive?",
+                "options": [
+                    "Article 52",
+                    "Article 51",
+                    "Article 53",
+                    "Article 50"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Article 52 defines which position in the Union?",
+                "options": [
+                    "Attorney General of India",
+                    "Chief Justice of India",
+                    "Prime Minister of India",
+                    "President of India"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "What is established by Article 76 of the Indian Constitution?",
+                "options": [
+                    "The Attorney-General for India",
+                    "The Comptroller and Auditor General",
+                    "The Prime Minister's office",
+                    "The Supreme Court of India"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What does Article 51 promote?",
+                "options": [
+                    "Right to education",
+                    "Cultural rights",
+                    "International peace and security",
+                    "Equal justice"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What is prohibited by Article 96 of the Indian Constitution?",
+                "options": [
+                    "The Speaker or Deputy Speaker presiding while a resolution for their removal is under consideration",
+                    "The President from dissolving Parliament",
+                    "Members of Parliament from voting on money bills",
+                    "Judges from presiding over election matters"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which article contains provisions about ministers?",
+                "options": [
+                    "Article 77",
+                    "Article 75",
+                    "Article 76",
+                    "Article 78"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which article abolishes untouchability?",
+                "options": [
+                    "Article 17",
+                    "Article 19",
+                    "Article 20",
+                    "Article 18"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Article 99 requires members of Parliament to do what before taking their seats?",
+                "options": [
+                    "Sign a code of conduct",
+                    "Take an oath or affirmation",
+                    "Submit financial disclosures",
+                    "Undergo a background check"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Article 23 prohibits which of the following?",
+                "options": [
+                    "Religious conversions",
+                    "Discrimination",
+                    "Untouchability",
+                    "Traffic in human beings and forced labor"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "What does Article 43 ensure for workers?",
+                "options": [
+                    "Right to education",
+                    "Freedom of religion",
+                    "Living wage and decent standard of life",
+                    "Right to property"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Article 54 is related to which process?",
+                "options": [
+                    "Amendment of the Constitution",
+                    "Formation of new States",
+                    "Impeachment of the President",
+                    "Election of the President"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which article covers citizenship rights for persons of Indian origin residing outside India?",
+                "options": [
+                    "Article 10",
+                    "Article 8",
+                    "Article 11",
+                    "Article 9"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What does Article 70 address?",
+                "options": [
+                    "Discharge of President’s functions in other contingencies",
+                    "Term of office of President",
+                    "Election of Vice-President",
+                    "Oath or affirmation by the Vice-President"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Article 18 prohibits the State from conferring which of the following?",
+                "options": [
+                    "Land",
+                    "Money",
+                    "Power",
+                    "Titles"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Article 30 gives the right to minorities to do what?",
+                "options": [
+                    "Establish and administer educational institutions",
+                    "Vote",
+                    "Practice religion",
+                    "Acquire property"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What does Article 12 define?",
+                "options": [
+                    "Right to Equality",
+                    "Citizenship",
+                    "The term 'State' for the purposes of Fundamental Rights",
+                    "Directive Principles"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What does Article 24 prohibit?",
+                "options": [
+                    "Slavery",
+                    "Employment of children in factories",
+                    "Discrimination based on gender",
+                    "Prostitution"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Article 45 provides for early childhood care and education up to what age?",
+                "options": [
+                    "Twelve years",
+                    "Ten years",
+                    "Six years",
+                    "Fourteen years"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What does Article 84 specify?",
+                "options": [
+                    "Conduct of business in Parliament",
+                    "Powers of the Prime Minister",
+                    "Oath or affirmation by members",
+                    "Qualification for membership of Parliament"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Article 88 pertains to the rights of whom in relation to the Houses of Parliament?",
+                "options": [
+                    "The Prime Minister",
+                    "Judges of the Supreme Court",
+                    "The Comptroller and Auditor General",
+                    "Ministers and Attorney-General"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "What does Article 92 prohibit during the consideration of a resolution for removal?",
+                "options": [
+                    "The Prime Minister from participating",
+                    "The Attorney-General from providing legal advice",
+                    "The Chairman or Deputy Chairman from presiding",
+                    "The Speaker from voting"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Who are the officials referred to in Article 93?",
+                "options": [
+                    "The Prime Minister and Deputy Prime Minister",
+                    "The Speaker and Deputy Speaker of the House of the People",
+                    "The Chairman and Deputy Chairman of the Council of States",
+                    "The President and Vice-President"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What is constituted under Article 79?",
+                "options": [
+                    "The Parliament of India",
+                    "The President of India",
+                    "The Election Commission",
+                    "The Supreme Court of India"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Article 36 provides the definition of which term?",
+                "options": [
+                    "Union",
+                    "President",
+                    "State",
+                    "Citizen"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which article is related to the compulsory acquisition of property (now omitted)?",
+                "options": [
+                    "Article 34",
+                    "Article 32",
+                    "Article 33",
+                    "Article 31"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "What is described in Article 77?",
+                "options": [
+                    "Duties of the Prime Minister",
+                    "Composition of the Council of States",
+                    "Conduct of business of the Government of India",
+                    "Election of the President"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Article 68 outlines the procedure for what?",
+                "options": [
+                    "Election of the President",
+                    "Oath or affirmation by the Vice-President",
+                    "Impeachment of the President",
+                    "Time of holding election to fill vacancy in the office of Vice-President and the term of office of person elected to fill casual vacancy"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "What does Article 48A focus on?",
+                "options": [
+                    "Protection of monuments",
+                    "Freedom of speech",
+                    "Protection of environment and wildlife",
+                    "Education of minorities"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which article requires the State to secure a social order for the promotion of welfare of the people?",
+                "options": [
+                    "Article 41",
+                    "Article 38",
+                    "Article 40",
+                    "Article 39"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What is provided for under Article 21A?",
+                "options": [
+                    "Right to equality",
+                    "Right to education",
+                    "Right to freedom of speech",
+                    "Right to property"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What does Article 82 address?",
+                "options": [
+                    "Qualifications for membership of Parliament",
+                    "Duration of the Houses of Parliament",
+                    "Sessions of Parliament",
+                    "Readjustment after each census"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which article covers the oath or affirmation by the President?",
+                "options": [
+                    "Article 60",
+                    "Article 63",
+                    "Article 61",
+                    "Article 62"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which article calls for a Uniform Civil Code for citizens?",
+                "options": [
+                    "Article 44",
+                    "Article 45",
+                    "Article 46",
+                    "Article 47"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which article relates to matters connected with the election of the President or Vice-President?",
+                "options": [
+                    "Article 72",
+                    "Article 73",
+                    "Article 74",
+                    "Article 71"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "What responsibility is given to the Vice-President under Article 65?",
+                "options": [
+                    "To be the Head of Parliament",
+                    "To serve as the Chief Justice of India",
+                    "To act as President or discharge his functions during casual vacancies in the office, or during the absence, of President",
+                    "To assist the Prime Minister in day-to-day functions"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which article guarantees the right to work, education, and public assistance in certain cases?",
+                "options": [
+                    "Article 42",
+                    "Article 44",
+                    "Article 43",
+                    "Article 41"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "What does Article 100 deal with?",
+                "options": [
+                    "Procedures for introducing bills",
+                    "Power of the President during recess",
+                    "Regulation of financial business",
+                    "Voting in Houses, power of Houses to act notwithstanding vacancies, and quorum"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "What is covered under Article 57?",
+                "options": [
+                    "Eligibility for re-election",
+                    "Conditions of President’s office",
+                    "Oath or affirmation by the President",
+                    "Procedure for impeachment of the President"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What does Article 29 protect?",
+                "options": [
+                    "Property rights",
+                    "Right to education",
+                    "Freedom of speech",
+                    "Interests of minorities"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Article 31C saves laws giving effect to which principles?",
+                "options": [
+                    "Right to Equality",
+                    "Directive Principles",
+                    "Fundamental Rights",
+                    "Right to Freedom"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What does Article 74 establish?",
+                "options": [
+                    "Council of Ministers to aid and advise the President",
+                    "Election of the President",
+                    "Salaries of ministers",
+                    "Duties of the Prime Minister"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Article 31A deals with the saving of laws providing for what?",
+                "options": [
+                    "Directive Principles",
+                    "Acquisition of estates",
+                    "Fundamental Duties",
+                    "Right to property"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What does Article 67 specify?",
+                "options": [
+                    "Conditions of President’s office",
+                    "Oath or affirmation by the Vice-President",
+                    "Election of Vice-President",
+                    "Term of office of Vice-President"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which article allows for the admission or establishment of new States?",
+                "options": [
+                    "Article 3",
+                    "Article 4",
+                    "Article 2",
+                    "Article 5"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Article 4 provides for amendments to which schedules of the Constitution?",
+                "options": [
+                    "Second and Third Schedules",
+                    "First and Fourth Schedules",
+                    "Seventh and Eighth Schedules",
+                    "Fifth and Sixth Schedules"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Article 94 deals with which aspect of the offices of Speaker and Deputy Speaker?",
+                "options": [
+                    "Vacation, resignation, and removal",
+                    "Powers and duties",
+                    "Salaries and allowances",
+                    "Election and appointment"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Article 39 lists which principles that the State should follow?",
+                "options": [
+                    "Certain principles of policy",
+                    "Environmental protection",
+                    "Rights of minorities",
+                    "Equal justice and free legal aid"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which article protects against conviction for offenses?",
+                "options": [
+                    "Article 20",
+                    "Article 21",
+                    "Article 22",
+                    "Article 23"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which article empowers Parliament to regulate citizenship by law?",
+                "options": [
+                    "Article 11",
+                    "Article 12",
+                    "Article 14",
+                    "Article 13"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which article addresses the vacation, resignation, and removal from the office of Deputy Chairman?",
+                "options": [
+                    "Article 93",
+                    "Article 92",
+                    "Article 91",
+                    "Article 90"
+                ],
+                "answer": 3
+            }
+        ]
+    }
+]

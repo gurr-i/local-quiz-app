@@ -1,0 +1,43 @@
+.review-section {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  background: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  font-family: Arial, sans-serif;
+}
+
+.review-section h2 {
+  text-align: center;
+  font-size: 24px;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.review-question {
+  padding: 15px;
+  margin-bottom: 10px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  background: #fff;
+}
+
+.review-question p {
+  margin: 5px 0;
+  font-size: 16px;
+}
+
+.review-question strong {
+  color: #007bff;
+}
+
+.review-question p:nth-child(2) {
+  color: #ff5722;
+  font-weight: bold;
+}
+
+.review-question p:nth-child(3) {
+  color: #4caf50;
+  font-weight: bold;
+}

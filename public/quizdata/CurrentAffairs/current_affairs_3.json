@@ -3,252 +3,32 @@
         "title": "General Knowledge Quiz 3",
         "questions": [
             {
-                "question": "Who is the new Chief Minister of Haryana?",
+                "question": "Which scheme is aimed at addressing grievances and public awareness in Tamil Nadu?",
                 "options": [
-                    "Nitish Kumar",
-                    "C.P. Radhakrishnan",
-                    "Simon Harris",
-                    "Nayab Singh Saini"
-                ],
-                "answer": 3
-            },
-            {
-                "question": "Who is the current Chairperson of the Lokpal?",
-                "options": [
-                    "Arvind Panagariya",
-                    "Hansha Mishra",
-                    "Ajay M. Khanwilkar",
-                    "Jay Shah"
+                    "Mahtari Vandana Yojana",
+                    "Vidyanjali Scholarship Programme",
+                    "Neengal Nalama",
+                    "Gharana Gharana Muft Ration Yojana"
                 ],
                 "answer": 2
-            },
-            {
-                "question": "Who is the youngest Prime Minister of Ireland?",
-                "options": [
-                    "Enda Kenny",
-                    "Brian Cowen",
-                    "Leo Varadkar",
-                    "Simon Harris"
-                ],
-                "answer": 3
-            },
-            {
-                "question": "Who is the new Governor of Maharashtra?",
-                "options": [
-                    "C.P. Radhakrishnan",
-                    "Manoj Soni",
-                    "Nayib Bukele",
-                    "Rashmi Shukla"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Who is the 1st woman Director General of Maharashtra?",
-                "options": [
-                    "Suman Kumari",
-                    "Sue Redfern",
-                    "Maryam Nawaz",
-                    "Rashmi Shukla"
-                ],
-                "answer": 3
             },
             {
                 "question": "Who is the new Chairman of the NCSC?",
                 "options": [
+                    "Ajay M. Khanwilkar",
                     "Kishor Makwana",
                     "Senthil Pandian",
-                    "Ajay M. Khanwilkar",
-                    "Rahul Singh"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Who is the new President of the Paralympic Committee of India?",
-                "options": [
-                    "Suman Kumari",
-                    "Devendra Jhajharia",
-                    "Nangloi Mbumba",
-                    "Jay Shah"
-                ],
-                "answer": 1
-            },
-            {
-                "question": "Who is the 1st female sniper of the BSF?",
-                "options": [
-                    "Preeti Rajak",
-                    "Suman Kumari",
-                    "Rashmi Shukla",
-                    "Sue Redfern"
-                ],
-                "answer": 1
-            },
-            {
-                "question": "Who is the new President of Namibia after Hage Geingob?",
-                "options": [
-                    "Nangloi Mbumba",
-                    "Asif Ali Zardari",
-                    "Satnam Singh Sandhu",
-                    "Tamas Sulyok"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Who is the new President of El Salvador?",
-                "options": [
-                    "Jay Shah",
-                    "Simon Harris",
-                    "Nayib Bukele",
-                    "Nangloi Mbumba"
-                ],
-                "answer": 2
-            },
-            {
-                "question": "Who is the new Vigilance Commissioner?",
-                "options": [
-                    "Senthil Pandian",
-                    "A.S. Rajeev",
-                    "Vice Admiral Lochan Singh Pathania",
-                    "Samir Shah"
-                ],
-                "answer": 1
-            },
-            {
-                "question": "Who is the new Chairman of TRAI?",
-                "options": [
-                    "Manoj Soni",
-                    "Arvind Panagariya",
-                    "Ajay Narayan Jha",
-                    "Anil Kumar Lahoti"
-                ],
-                "answer": 3
-            },
-            {
-                "question": "Who is the 1st woman Chief Justice of Uttarakhand High Court?",
-                "options": [
-                    "Preeti Rajak",
-                    "Justice Ritu Bahri",
-                    "Rashmi Shukla",
-                    "Maryam Nawaz"
-                ],
-                "answer": 1
-            },
-            {
-                "question": "Who is the 1st transgender umpire?",
-                "options": [
-                    "McGahey",
-                    "Suman Kumari",
-                    "Sue Redfern",
-                    "Devendra Jhajharia"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Who is the Vice Chief of Naval Staff?",
-                "options": [
-                    "Vice Admiral Lochan Singh Pathania",
-                    "Vice Admiral Dinesh K. Tripathi",
-                    "Jay Shah",
-                    "Nayib Bukele"
-                ],
-                "answer": 1
-            },
-            {
-                "question": "Who is the new Railway Board Secretary, not to be confused with Jaya Verma Sinha?",
-                "options": [
-                    "Jaya Verma Sinha",
-                    "Satnam Singh Sandhu",
-                    "Nitish Kumar",
                     "Rahul Singh"
                 ],
                 "answer": 1
             },
             {
-                "question": "Who is India's envoy to WTO?",
+                "question": "Where is the NACIN campus located?",
                 "options": [
-                    "A.S. Rajeev",
-                    "Senthil Pandian",
-                    "Arvind Panagariya",
-                    "Samir Shah"
-                ],
-                "answer": 1
-            },
-            {
-                "question": "Who is the new Chief Hydrographer to the Government of India?",
-                "options": [
-                    "Vice Admiral Lochan Singh Pathania",
-                    "Suman Kumari",
-                    "Arvind Panagariya",
-                    "Ajay Narayan Jha"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Who is the 1st woman Subedar in the Indian Army?",
-                "options": [
-                    "Rashmi Shukla",
-                    "Sue Redfern",
-                    "Maryam Nawaz",
-                    "Preeti Rajak"
-                ],
-                "answer": 3
-            },
-            {
-                "question": "In which year was the Citizenship Amendment Act (CAA) passed?",
-                "options": [
-                    "2018",
-                    "2020",
-                    "2019",
-                    "2021"
-                ],
-                "answer": 2
-            },
-            {
-                "question": "Which act does the Citizenship Amendment Act (CAA) amend?",
-                "options": [
-                    "Act of 1955",
-                    "Act of 1965",
-                    "Act of 1975",
-                    "Act of 1985"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "When is the Citizenship Amendment Act (CAA) scheduled to be implemented?",
-                "options": [
-                    "December 2024",
-                    "June 2024",
-                    "March 2024",
-                    "January 2024"
-                ],
-                "answer": 2
-            },
-            {
-                "question": "Which communities are included in the Citizenship Amendment Act (CAA) from Afghanistan, Pakistan, and Bangladesh?",
-                "options": [
-                    "Sikh, Hindu, Christian, Buddhists, Jains, Parsis",
-                    "Hindu, Sikh, Christian, Jains, Parsis, Zoroastrians",
-                    "Sikh, Muslim, Christian, Buddhists, Jains, Zoroastrians",
-                    "Hindu, Muslim, Christian, Sikhs, Buddhists, Jains"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "In which year was the Electoral Bonds Scheme launched?",
-                "options": [
-                    "2017",
-                    "2020",
-                    "2019",
-                    "2018"
-                ],
-                "answer": 3
-            },
-            {
-                "question": "Which political party was the major beneficiary of the Electoral Bonds Scheme according to the data?",
-                "options": [
-                    "AAP",
-                    "DMK",
-                    "BJP",
-                    "Congress"
+                    "Lalitpur, Uttar Pradesh",
+                    "Bengaluru, Karnataka",
+                    "Palasamudram, Andhra Pradesh",
+                    "Dwarka, Gujarat"
                 ],
                 "answer": 2
             },
@@ -257,783 +37,263 @@
                 "options": [
                     "International Court of Justice",
                     "District Court",
-                    "High Court",
-                    "Supreme Court"
+                    "Supreme Court",
+                    "High Court"
                 ],
-                "answer": 3
+                "answer": 2
             },
             {
-                "question": "Under which Article did the Supreme Court strike down the Electoral Bonds Scheme?",
+                "question": "When is the Citizenship Amendment Act (CAA) scheduled to be implemented?",
                 "options": [
-                    "Article 14",
-                    "Article 19(1)(a)",
-                    "Article 21",
-                    "Article 32"
+                    "December 2024",
+                    "March 2024",
+                    "January 2024",
+                    "June 2024"
                 ],
                 "answer": 1
             },
             {
-                "question": "Which act was found to be violated by the Electoral Bonds Scheme?",
+                "question": "Who is the 1st transgender umpire?",
                 "options": [
-                    "RTI Act, 2005",
-                    "Civil Rights Act, 1955",
-                    "Constitution of India",
-                    "Companies Act, 2013"
+                    "Devendra Jhajharia",
+                    "Suman Kumari",
+                    "Sue Redfern",
+                    "McGahey"
                 ],
-                "answer": 0
+                "answer": 3
             },
             {
-                "question": "Which ministry launched the KIRTI Programme?",
+                "question": "Which ministry launched the 'ADITI Scheme' for promoting startups in the defense sector?",
                 "options": [
-                    "Ministry of Sports",
+                    "Ministry of Education",
                     "Ministry of Commerce",
-                    "Ministry of Health",
-                    "Ministry of Education"
+                    "Ministry of Sports",
+                    "Ministry of Defence"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which state has introduced the 'VAN MITRA' scheme for tree planting?",
+                "options": [
+                    "Himachal Pradesh",
+                    "Uttar Pradesh",
+                    "Haryana",
+                    "Madhya Pradesh"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which state has India's first government-backed OTT platform?",
+                "options": [
+                    "Kerala",
+                    "Maharashtra",
+                    "Punjab",
+                    "Gujarat"
                 ],
                 "answer": 0
             },
             {
-                "question": "What does the KIRTI Programme aim to identify?",
+                "question": "Which state has introduced the 'VAN MITRA' scheme focusing on tree planting?",
                 "options": [
-                    "Healthcare innovations",
-                    "Rising talent",
-                    "Educational reforms",
-                    "Business opportunities"
+                    "Himachal Pradesh",
+                    "Uttar Pradesh",
+                    "Haryana",
+                    "Madhya Pradesh"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which scheme launched by Himachal Pradesh provides ₹1500 to women aged 18-59 years?",
+                "options": [
+                    "Neengal Nalama",
+                    "Gharana Gharana Muft Ration Yojana",
+                    "Indira Gandhi Pyari Behna Sukh Samman Nidhi Yojana",
+                    "Mahtari Vandana Yojana"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which state's new initiative aims to improve academic record management through a mobile app?",
+                "options": [
+                    "Kerala",
+                    "Karnataka",
+                    "West Bengal",
+                    "Odisha"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "What is the main focus of the SWAYAM scheme launched in Odisha?",
+                "options": [
+                    "Agricultural loans",
+                    "Interest-free loans to unemployed youth",
+                    "Educational scholarships",
+                    "Healthcare support"
                 ],
                 "answer": 1
             },
             {
                 "question": "'PM-SHRI' is a centrally sponsored scheme launched in which year?",
                 "options": [
-                    "2023",
                     "2022",
+                    "2021",
                     "2020",
-                    "2021"
-                ],
-                "answer": 1
-            },
-            {
-                "question": "What is the target of the 'PM-SHRI' scheme?",
-                "options": [
-                    "Develop 10,000 schools",
-                    "Develop 25,000 schools",
-                    "Develop 14,500 schools",
-                    "Develop 20,000 schools"
-                ],
-                "answer": 2
-            },
-            {
-                "question": "Which Tamil Nadu scheme addresses grievances and public awareness?",
-                "options": [
-                    "Gharana Gharana Muft Ration Yojana",
-                    "Neengal Nalama",
-                    "Vidhwa Uttejaka Mandala",
-                    "Widow Remarriage Incentive Scheme"
-                ],
-                "answer": 1
-            },
-            {
-                "question": "Which state government launched the Widow Remarriage Incentive Scheme offering ₹2 lakh?",
-                "options": [
-                    "Himachal Pradesh",
-                    "Jharkhand",
-                    "Punjab",
-                    "Chhattisgarh"
-                ],
-                "answer": 1
-            },
-            {
-                "question": "Who started the Vidhwa Uttejaka Mandala in 1866?",
-                "options": [
-                    "Swami Vivekananda",
-                    "Ishwar Chandra Vidyasagar",
-                    "Vishnu Shastri Pandit",
-                    "Raja Ram Mohan Roy"
-                ],
-                "answer": 2
-            },
-            {
-                "question": "What is the focus of the UNNATI scheme?",
-                "options": [
-                    "Industrialisation",
-                    "Educational reforms",
-                    "Agricultural development",
-                    "Healthcare improvements"
+                    "2023"
                 ],
                 "answer": 0
             },
             {
-                "question": "Which scheme, launched by Rajnath Singh, promotes funding startups in the defense sector?",
+                "question": "Which state’s artificial reef project is aimed at addressing coral bleaching?",
                 "options": [
-                    "Neengal Nalama",
-                    "KIRTI Programme",
-                    "ADITI Scheme",
-                    "PM-SHRI"
-                ],
-                "answer": 2
-            },
-            {
-                "question": "Operation Kamdhenu is associated with which region?",
-                "options": [
-                    "Himachal Pradesh",
-                    "Punjab",
-                    "Uttar Pradesh",
-                    "Jammu and Kashmir"
-                ],
-                "answer": 3
-            },
-            {
-                "question": "Which central sector scheme is aimed at mechanizing the sanitation ecosystem?",
-                "options": [
-                    "Neengal Nalama",
-                    "NAMASTE",
-                    "Gharana Gharana Muft Ration Yojana",
-                    "Unnati"
-                ],
-                "answer": 1
-            },
-            {
-                "question": "Where was India’s first driverless metro train launched?",
-                "options": [
-                    "Delhi",
-                    "Mumbai",
-                    "Kolkata",
-                    "Bengaluru"
-                ],
-                "answer": 3
-            },
-            {
-                "question": "Which state has India's first government-backed OTT platform?",
-                "options": [
-                    "Gujarat",
-                    "Punjab",
-                    "Maharashtra",
-                    "Kerala"
-                ],
-                "answer": 3
-            },
-            {
-                "question": "What is the incentive amount for women under the Indira Gandhi Pyari Behna Sukh Samman Nidhi Yojana in Himachal Pradesh?",
-                "options": [
-                    "₹1000",
-                    "₹1500",
-                    "₹2000",
-                    "₹2500"
-                ],
-                "answer": 1
-            },
-            {
-                "question": "Which scheme in Chhattisgarh offers ₹1000 per month?",
-                "options": [
-                    "Gharana Gharana Muft Ration Yojana",
-                    "Mahtari Vandana Yojana",
-                    "Indira Gandhi Pyari Behna Sukh Samman Nidhi Yojana",
-                    "Vidyanjali Scholarship Programme"
-                ],
-                "answer": 1
-            },
-            {
-                "question": "Which state government has introduced the Bagless School initiative for grades 1-12?",
-                "options": [
-                    "Himachal Pradesh",
-                    "Madhya Pradesh",
-                    "Uttar Pradesh",
-                    "Chhattisgarh"
-                ],
-                "answer": 1
-            },
-            {
-                "question": "Which city is known for hosting India's 1st submarine tourism?",
-                "options": [
-                    "Dwarka, Gujarat",
-                    "Kolkata, West Bengal",
-                    "Chennai, Tamil Nadu",
-                    "Mumbai, Maharashtra"
+                    "Kerala",
+                    "Goa",
+                    "Tamil Nadu",
+                    "Andaman & Nicobar"
                 ],
                 "answer": 0
             },
             {
-                "question": "Which state is establishing the first Turtle Conservation Reserve along the Saryu River?",
+                "question": "Who is the Vice Chief of Naval Staff?",
                 "options": [
-                    "Madhya Pradesh",
-                    "Himachal Pradesh",
-                    "Gujarat",
-                    "Uttar Pradesh"
-                ],
-                "answer": 3
-            },
-            {
-                "question": "Which new wildlife habitat is declared in Maharashtra for the Canid wild dog family?",
-                "options": [
-                    "Maharashtra Nature Park",
-                    "Lalitpur Pharma Park",
-                    "Sanjay Gandhi National Park",
-                    "Atpadi Conservation Reserve"
-                ],
-                "answer": 3
-            },
-            {
-                "question": "Where is the NACIN campus located?",
-                "options": [
-                    "Dwarka, Gujarat",
-                    "Bengaluru, Karnataka",
-                    "Lalitpur, Uttar Pradesh",
-                    "Palasamudram, Andhra Pradesh"
-                ],
-                "answer": 3
-            },
-            {
-                "question": "What is the target for the 'PM-SHRI' scheme?",
-                "options": [
-                    "20,000 schools",
-                    "15,000 schools",
-                    "10,000 schools",
-                    "14,500 schools"
-                ],
-                "answer": 3
-            },
-            {
-                "question": "Which scheme is aimed at addressing grievances and public awareness in Tamil Nadu?",
-                "options": [
-                    "Gharana Gharana Muft Ration Yojana",
-                    "Vidyanjali Scholarship Programme",
-                    "Neengal Nalama",
-                    "Mahtari Vandana Yojana"
-                ],
-                "answer": 2
-            },
-            {
-                "question": "Which Indian state has launched a scheme for providing free ration under the 'Gharana Gharana Muft Ration Yojana'?",
-                "options": [
-                    "Chhattisgarh",
-                    "Jharkhand",
-                    "Punjab",
-                    "Himachal Pradesh"
-                ],
-                "answer": 2
-            },
-            {
-                "question": "What is the amount offered under the Widow Remarriage Incentive Scheme in Jharkhand?",
-                "options": [
-                    "₹3 lakh",
-                    "₹2 lakh",
-                    "₹4 lakh",
-                    "₹1 lakh"
-                ],
-                "answer": 1
-            },
-            {
-                "question": "Which ministry launched the 'ADITI Scheme' for promoting startups in the defense sector?",
-                "options": [
-                    "Ministry of Defence",
-                    "Ministry of Sports",
-                    "Ministry of Education",
-                    "Ministry of Commerce"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "What is the fund amount under the 'ADITI Scheme' for defense startups?",
-                "options": [
-                    "₹15 crore",
-                    "₹25 crore",
-                    "₹20 crore",
-                    "₹10 crore"
-                ],
-                "answer": 1
-            },
-            {
-                "question": "Which city in Gujarat is known for India's first submarine tourism?",
-                "options": [
-                    "Dwarka",
-                    "Surat",
-                    "Ahmedabad",
-                    "Vadodara"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "What is the main focus of the 'NAMASTE' scheme?",
-                "options": [
-                    "Healthcare",
-                    "Industrialisation",
-                    "Educational reforms",
-                    "Sanitation ecosystem"
-                ],
-                "answer": 3
-            },
-            {
-                "question": "Which state has achieved 100% saturation in the 'Har Ghar Jal' scheme?",
-                "options": [
-                    "Madhya Pradesh",
-                    "Chhattisgarh",
-                    "Arunachal Pradesh",
-                    "Uttar Pradesh"
-                ],
-                "answer": 2
-            },
-            {
-                "question": "Which state government launched the 'VAN MITRA' scheme for tree planting?",
-                "options": [
-                    "Uttar Pradesh",
-                    "Madhya Pradesh",
-                    "Himachal Pradesh",
-                    "Haryana"
-                ],
-                "answer": 3
-            },
-            {
-                "question": "Which city in Madhya Pradesh hosted the 50th Khajuraho Dance Festival?",
-                "options": [
-                    "Bhopal",
-                    "Khajuraho",
-                    "Indore",
-                    "Gwalior"
-                ],
-                "answer": 1
-            },
-            {
-                "question": "Which state is known for the 'Mahtari Vandana Yojana' offering ₹1000 per month?",
-                "options": [
-                    "Punjab",
-                    "Himachal Pradesh",
-                    "Chhattisgarh",
-                    "Jharkhand"
-                ],
-                "answer": 2
-            },
-            {
-                "question": "Which state has set a Guinness World Record for the mass performance of Surya Namaskar?",
-                "options": [
-                    "Maharashtra",
-                    "Haryana",
-                    "Uttar Pradesh",
-                    "Gujarat"
-                ],
-                "answer": 3
-            },
-            {
-                "question": "What is the name of the new wildlife habitat declared for the Canid wild dog family in Maharashtra?",
-                "options": [
-                    "Kanha National Park",
-                    "Lalitpur Pharma Park",
-                    "Atpadi Conservation Reserve",
-                    "Sanjay Gandhi National Park"
-                ],
-                "answer": 2
-            },
-            {
-                "question": "Which organization is associated with the establishment of the new Turtle Conservation Reserve in Uttar Pradesh?",
-                "options": [
-                    "Uttar Pradesh State Government",
-                    "National Conservation Authority",
-                    "Forest Department",
-                    "Wildlife Institute of India"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Which new district was carved out from Kameng region in Arunachal Pradesh?",
-                "options": [
-                    "Upper Siang",
-                    "Keyi Panyor",
-                    "Bichon",
-                    "Lohit"
-                ],
-                "answer": 2
-            },
-            {
-                "question": "Which new district in Arunachal Pradesh was carved out from Subansari?",
-                "options": [
-                    "Pakke Kessang",
-                    "Keyi Panyor",
-                    "Bichon",
-                    "West Kameng"
-                ],
-                "answer": 1
-            },
-            {
-                "question": "Which Indian state introduced the 'Bagless School' initiative for grades 1-12?",
-                "options": [
-                    "Himachal Pradesh",
-                    "Uttar Pradesh",
-                    "Maharashtra",
-                    "Madhya Pradesh"
+                    "Jay Shah",
+                    "Nayib Bukele",
+                    "Vice Admiral Lochan Singh Pathania",
+                    "Vice Admiral Dinesh K. Tripathi"
                 ],
                 "answer": 3
             },
             {
                 "question": "Who is the Chairman of the 16th Finance Commission?",
                 "options": [
+                    "Manoj Soni",
                     "Hansha Mishra",
                     "Ajay M. Khanwilkar",
-                    "Manoj Soni",
                     "Arvind Pangarhiya"
                 ],
                 "answer": 3
             },
             {
-                "question": "Which state declared the Atpadi Conservation Reserve as a new wildlife habitat?",
+                "question": "In which year was the Electoral Bonds Scheme launched?",
                 "options": [
-                    "Chhattisgarh",
-                    "Maharashtra",
-                    "Gujarat",
-                    "Uttar Pradesh"
+                    "2020",
+                    "2017",
+                    "2019",
+                    "2018"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Who is the new President of Namibia after Hage Geingob?",
+                "options": [
+                    "Tamas Sulyok",
+                    "Nangloi Mbumba",
+                    "Satnam Singh Sandhu",
+                    "Asif Ali Zardari"
                 ],
                 "answer": 1
             },
             {
-                "question": "Which organization was officially declared as an unlawful organization in J&K?",
+                "question": "Who is the 1st woman Director General of Maharashtra?",
                 "options": [
-                    "Lashkar-e-Taiba",
-                    "Hizbul Mujahideen",
-                    "Masarat Alam Faction",
-                    "Jaish-e-Mohammed"
-                ],
-                "answer": 2
-            },
-            {
-                "question": "Which new scheme in Himachal Pradesh provides ₹1500 to women aged 18-59 years?",
-                "options": [
-                    "Indira Gandhi Pyari Behna Sukh Samman Nidhi Yojana",
-                    "Neengal Nalama",
-                    "Gharana Gharana Muft Ration Yojana",
-                    "Mahtari Vandana Yojana"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Which scheme launched by the Ministry of Sports focuses on talent identification?",
-                "options": [
-                    "NAMASTE",
-                    "PM-SHRI",
-                    "KIRTI Programme",
-                    "ADITI Scheme"
-                ],
-                "answer": 2
-            },
-            {
-                "question": "Which state's CM launched the 'Van Mitra' tree planting scheme?",
-                "options": [
-                    "Punjab",
-                    "Uttar Pradesh",
-                    "Haryana",
-                    "Madhya Pradesh"
-                ],
-                "answer": 2
-            },
-            {
-                "question": "Who is the new Director of UPSC?",
-                "options": [
-                    "Ajay Narayan Jha",
-                    "Manoj Soni",
-                    "Hansha Mishra",
-                    "Poonam Gupta"
-                ],
-                "answer": 2
-            },
-            {
-                "question": "Which is the first state in India to achieve 100% saturation in the 'Har Ghar Jal' scheme?",
-                "options": [
-                    "Chhattisgarh",
-                    "Madhya Pradesh",
-                    "Uttar Pradesh",
-                    "Arunachal Pradesh"
-                ],
-                "answer": 3
-            },
-            {
-                "question": "Which is the first government-backed OTT platform in India?",
-                "options": [
-                    "Kolkata",
-                    "Gujarat",
-                    "Maharashtra",
-                    "Kerala"
-                ],
-                "answer": 3
-            },
-            {
-                "question": "Which city in Gujarat set a Guinness World Record for the mass performance of Surya Namaskar?",
-                "options": [
-                    "Ahmedabad",
-                    "Surat",
-                    "Vadodara",
-                    "Gujarat"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Which state is known for the 'Vidhwa Uttejaka Mandala' started in 1866?",
-                "options": [
-                    "Himachal Pradesh",
-                    "Punjab",
-                    "Madhya Pradesh",
-                    "Jharkhand"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "What is the primary aim of the 'ADITI Scheme' launched by Rajnath Singh?",
-                "options": [
-                    "Industrial development",
-                    "Enhancing educational infrastructure",
-                    "Supporting healthcare innovations",
-                    "Promoting defense sector startups"
-                ],
-                "answer": 3
-            },
-            {
-                "question": "Which state government launched the 'Neengal Nalama' scheme for addressing public grievances?",
-                "options": [
-                    "Kerala",
-                    "Andhra Pradesh",
-                    "Karnataka",
-                    "Tamil Nadu"
-                ],
-                "answer": 3
-            },
-            {
-                "question": "Which state's 'Mahtari Vandana Yojana' provides ₹1000 per month?",
-                "options": [
-                    "Himachal Pradesh",
-                    "Jharkhand",
-                    "Punjab",
-                    "Chhattisgarh"
-                ],
-                "answer": 3
-            },
-            {
-                "question": "Which scheme launched by Himachal Pradesh provides ₹1500 to women aged 18-59 years?",
-                "options": [
-                    "Neengal Nalama",
-                    "Mahtari Vandana Yojana",
-                    "Indira Gandhi Pyari Behna Sukh Samman Nidhi Yojana",
-                    "Gharana Gharana Muft Ration Yojana"
-                ],
-                "answer": 2
-            },
-            {
-                "question": "Which organization officially declared Masarat Alam Faction as unlawful?",
-                "options": [
-                    "Government of India",
-                    "National Investigation Agency",
-                    "Supreme Court",
-                    "State Government of J&K"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Which new conservation initiative was launched in Gujarat?",
-                "options": [
-                    "Turtle conservation reserve",
-                    "Marine national park",
-                    "Tiger reserve",
-                    "Submarine tourism"
-                ],
-                "answer": 3
-            },
-            {
-                "question": "Which city is home to India’s first driverless metro train?",
-                "options": [
-                    "Mumbai",
-                    "Bengaluru",
-                    "Delhi",
-                    "Chennai"
+                    "Maryam Nawaz",
+                    "Rashmi Shukla",
+                    "Suman Kumari",
+                    "Sue Redfern"
                 ],
                 "answer": 1
             },
             {
-                "question": "Which state government introduced the 'Gharana Gharana Muft Ration Yojana'?",
+                "question": "Who is the new Vigilance Commissioner?",
                 "options": [
-                    "Chhattisgarh",
-                    "Jharkhand",
-                    "Punjab",
-                    "Madhya Pradesh"
-                ],
-                "answer": 2
-            },
-            {
-                "question": "Which state launched the 'Vidyanjali Scholarship Programme'?",
-                "options": [
-                    "Uttar Pradesh",
-                    "Jharkhand",
-                    "Himachal Pradesh",
-                    "Chhattisgarh"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Which state has introduced the 'VAN MITRA' scheme for tree planting?",
-                "options": [
-                    "Himachal Pradesh",
-                    "Madhya Pradesh",
-                    "Uttar Pradesh",
-                    "Haryana"
-                ],
-                "answer": 3
-            },
-            {
-                "question": "Which district in Arunachal Pradesh is associated with the new administrative changes?",
-                "options": [
-                    "Lalitpur",
-                    "Palasamudram",
-                    "Keyi Panyor",
-                    "Bichon"
+                    "Samir Shah",
+                    "A.S. Rajeev",
+                    "Senthil Pandian",
+                    "Vice Admiral Lochan Singh Pathania"
                 ],
                 "answer": 1
             },
             {
-                "question": "Which state government has set a Guinness World Record for Surya Namaskar?",
+                "question": "Which Indian state has introduced the 'Gharana Gharana Muft Ration Yojana'?",
                 "options": [
                     "Haryana",
-                    "Gujarat",
-                    "Uttar Pradesh",
-                    "Madhya Pradesh"
-                ],
-                "answer": 1
-            },
-            {
-                "question": "Which minister unveiled the SARATHI initiative?",
-                "options": [
-                    "Rajnath Singh",
-                    "Narendra Modi",
-                    "Amit Shah",
-                    "Arjun Munda"
+                    "Chhattisgarh",
+                    "Madhya Pradesh",
+                    "Punjab"
                 ],
                 "answer": 3
             },
             {
-                "question": "Which app was used for launching the APAAR (Automated Permanent Academic Account Registry)?",
+                "question": "What is the fund amount under the 'ADITI Scheme' for defense startups?",
                 "options": [
-                    "Aadhaar",
-                    "UMANG",
-                    "Swayam",
-                    "e-Sampark"
+                    "₹15 crore",
+                    "₹10 crore",
+                    "₹25 crore",
+                    "₹20 crore"
                 ],
-                "answer": 1
+                "answer": 2
+            },
+            {
+                "question": "Who is the 1st woman Subedar in the Indian Army?",
+                "options": [
+                    "Preeti Rajak",
+                    "Rashmi Shukla",
+                    "Maryam Nawaz",
+                    "Sue Redfern"
+                ],
+                "answer": 0
             },
             {
                 "question": "Which state fruit was officially recognized as Kaji Nemu?",
                 "options": [
-                    "Arunachal Pradesh",
+                    "Assam",
                     "Mizoram",
-                    "Nagaland",
-                    "Assam"
+                    "Arunachal Pradesh",
+                    "Nagaland"
                 ],
-                "answer": 3
+                "answer": 0
             },
             {
-                "question": "Which state has banned hookah parlours?",
+                "question": "Which Indian state is known for its opposition to the 'One National, One Election' policy?",
                 "options": [
                     "Kerala",
-                    "Telangana",
+                    "Andhra Pradesh",
                     "Karnataka",
                     "Tamil Nadu"
                 ],
-                "answer": 1
-            },
-            {
-                "question": "Which scheme provides interest-free loans up to ₹1 lakh to unemployed youth in Odisha?",
-                "options": [
-                    "YOGYASHREE",
-                    "APOORVA",
-                    "SARATHI",
-                    "SWAYAM"
-                ],
                 "answer": 3
             },
             {
-                "question": "Who is the state icon for Punjab in the 2024 Lok Sabha elections?",
+                "question": "In which state was the SWAYAM scheme launched, providing interest-free loans to unemployed youth?",
                 "options": [
-                    "Shubman Gill",
-                    "Ravi Shastri",
-                    "Navjot Singh Sidhu",
-                    "Amrinder Singh"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Which state launched the first caste census?",
-                "options": [
-                    "Uttar Pradesh",
-                    "Andhra Pradesh",
+                    "Odisha",
                     "Madhya Pradesh",
-                    "Bihar"
-                ],
-                "answer": 3
-            },
-            {
-                "question": "Which state’s artificial reef project is aimed at addressing coral bleaching?",
-                "options": [
-                    "Kerala",
-                    "Andaman & Nicobar",
-                    "Goa",
-                    "Tamil Nadu"
+                    "Gujarat",
+                    "West Bengal"
                 ],
                 "answer": 0
             },
             {
-                "question": "What is the primary focus of the SWAMITVA scheme?",
+                "question": "Which state is known for having launched the 'YOGYASHREE' scheme?",
                 "options": [
-                    "E-governance",
-                    "Health",
-                    "Agriculture",
-                    "Education"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Which Indian state launched the YOGYASHREE scheme?",
-                "options": [
-                    "West Bengal",
+                    "Assam",
                     "Jharkhand",
                     "Odisha",
-                    "Assam"
+                    "West Bengal"
                 ],
-                "answer": 0
+                "answer": 3
             },
             {
-                "question": "Which mobile app was launched by the Indian Army for secure communication?",
+                "question": "Which state is establishing the first Turtle Conservation Reserve along the Saryu River?",
                 "options": [
-                    "SAMBHAV",
-                    "SECURE",
-                    "SAFETY",
-                    "ARMY LINK"
+                    "Himachal Pradesh",
+                    "Gujarat",
+                    "Madhya Pradesh",
+                    "Uttar Pradesh"
                 ],
-                "answer": 0
+                "answer": 3
             },
             {
-                "question": "Where was the statue of U Tirot Sing, the freedom fighter of Khasi Hills, installed?",
-                "options": [
-                    "Delhi",
-                    "Shillong",
-                    "Dhaka",
-                    "Mumbai"
-                ],
-                "answer": 2
-            },
-            {
-                "question": "Which state is known for the Sarak Surakhya Force initiative?",
-                "options": [
-                    "Punjab",
-                    "Haryana",
-                    "Uttar Pradesh",
-                    "Rajasthan"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Which Indian state has the first graphene center and Center of Excellence in IIOT?",
-                "options": [
-                    "Kerala",
-                    "Karnataka",
-                    "Maharashtra",
-                    "Tamil Nadu"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Which central sector scheme won the Gold Prize in National Award for E-Governance 2023?",
+                "question": "Which scheme was launched by the Ministry of Panchayati Raj on April 24, 2021?",
                 "options": [
                     "PM-SHRI",
                     "e-SAMADHAN",
@@ -1043,234 +303,394 @@
                 "answer": 2
             },
             {
-                "question": "In which state was the SWAYAM scheme launched, providing interest-free loans to unemployed youth?",
+                "question": "What is the main focus of the 'NAMASTE' scheme?",
                 "options": [
-                    "Gujarat",
-                    "West Bengal",
-                    "Madhya Pradesh",
-                    "Odisha"
-                ],
-                "answer": 3
-            },
-            {
-                "question": "Which state is known for opposing the 'One National, One Election' policy?",
-                "options": [
-                    "Kerala",
-                    "Tamil Nadu",
-                    "Andhra Pradesh",
-                    "Karnataka"
-                ],
-                "answer": 1
-            },
-            {
-                "question": "Which state’s official fruit is Kaji Nemu (Citrus limon)?",
-                "options": [
-                    "Nagaland",
-                    "Assam",
-                    "Sikkim",
-                    "Arunachal Pradesh"
-                ],
-                "answer": 1
-            },
-            {
-                "question": "Which scheme is associated with providing automated academic records through the UMANG app?",
-                "options": [
-                    "YOGYASHREE",
-                    "APAAR",
-                    "SWAYAM",
-                    "SARATHI"
-                ],
-                "answer": 1
-            },
-            {
-                "question": "What is the maximum loan amount under the SWAYAM scheme?",
-                "options": [
-                    "₹75,000",
-                    "₹2 lakh",
-                    "₹50,000",
-                    "₹1 lakh"
-                ],
-                "answer": 3
-            },
-            {
-                "question": "Which Indian state has introduced the 'Sarak Surakhya Force'?",
-                "options": [
-                    "Punjab",
-                    "Haryana",
-                    "Rajasthan",
-                    "Uttar Pradesh"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Which Indian state is known for the artificial reef project aimed at tackling coral bleaching?",
-                "options": [
-                    "Goa",
-                    "Tamil Nadu",
-                    "Kerala",
-                    "Andaman & Nicobar"
-                ],
-                "answer": 2
-            },
-            {
-                "question": "Which state's new initiative aims to improve academic record management through a mobile app?",
-                "options": [
-                    "Karnataka",
-                    "Odisha",
-                    "Kerala",
-                    "West Bengal"
-                ],
-                "answer": 1
-            },
-            {
-                "question": "Which state has the first graphene center and Center of Excellence in IIOT?",
-                "options": [
-                    "Tamil Nadu",
-                    "Karnataka",
-                    "Maharashtra",
-                    "Kerala"
-                ],
-                "answer": 3
-            },
-            {
-                "question": "Which state has announced the establishment of a new mobile app for secure communication by the Indian Army?",
-                "options": [
-                    "Rajasthan",
-                    "Uttar Pradesh",
-                    "Punjab",
-                    "Haryana"
-                ],
-                "answer": 2
-            },
-            {
-                "question": "Which central sector scheme won the Gold Prize in the National Award for E-Governance 2023?",
-                "options": [
-                    "PM-SHRI",
-                    "M-Governance",
-                    "e-SAMADHAN",
-                    "SWAMITVA Scheme"
-                ],
-                "answer": 3
-            },
-            {
-                "question": "What is the primary objective of the SWAMITVA scheme?",
-                "options": [
-                    "E-governance",
-                    "Agriculture",
+                    "Industrialisation",
+                    "Healthcare",
                     "Educational reforms",
-                    "Healthcare"
+                    "Sanitation ecosystem"
                 ],
-                "answer": 0
+                "answer": 3
             },
             {
-                "question": "Which state’s official fruit is the Kaji Nemu?",
+                "question": "Which state has a fruit called Kaji Nemu, known scientifically as Citrus limon?",
                 "options": [
-                    "Nagaland",
+                    "Sikkim",
                     "Arunachal Pradesh",
                     "Assam",
-                    "Mizoram"
+                    "Nagaland"
                 ],
                 "answer": 2
             },
             {
-                "question": "Which state has the initiative named YOGYASHREE?",
+                "question": "Which new scheme in Himachal Pradesh provides ₹1500 to women aged 18-59 years?",
                 "options": [
-                    "Jharkhand",
-                    "Odisha",
-                    "Bihar",
-                    "West Bengal"
-                ],
-                "answer": 3
-            },
-            {
-                "question": "Which state has a scheme providing interest-free loans to unemployed youth up to ₹1 lakh?",
-                "options": [
-                    "Gujarat",
-                    "West Bengal",
-                    "Madhya Pradesh",
-                    "Odisha"
-                ],
-                "answer": 3
-            },
-            {
-                "question": "Which scheme, launched by the Ministry of Panchayati Raj, won a National Award for e-Governance 2023?",
-                "options": [
-                    "PM-SHRI",
-                    "M-Governance",
-                    "e-SAMADHAN",
-                    "SWAMITVA Scheme"
-                ],
-                "answer": 3
-            },
-            {
-                "question": "Which city in Kerala is known for housing India's first graphene center and Center of Excellence in IIOT?",
-                "options": [
-                    "Kannur",
-                    "Kochi",
-                    "Kollam",
-                    "Thiruvananthapuram"
-                ],
-                "answer": 3
-            },
-            {
-                "question": "Which scheme in Odisha provides interest-free loans to unemployed youth aged 18-35?",
-                "options": [
-                    "SWAYAM",
-                    "SARATHI",
-                    "APOORVA",
-                    "YOGYASHREE"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Which state’s new mobile app named SAMBHAV is used for secure communication?",
-                "options": [
-                    "Uttar Pradesh",
-                    "Rajasthan",
-                    "Punjab",
-                    "Haryana"
-                ],
-                "answer": 2
-            },
-            {
-                "question": "Which state introduced the 'Gharana Gharana Muft Ration Yojana'?",
-                "options": [
-                    "Chhattisgarh",
-                    "Punjab",
-                    "Jharkhand",
-                    "Madhya Pradesh"
+                    "Gharana Gharana Muft Ration Yojana",
+                    "Indira Gandhi Pyari Behna Sukh Samman Nidhi Yojana",
+                    "Neengal Nalama",
+                    "Mahtari Vandana Yojana"
                 ],
                 "answer": 1
             },
             {
-                "question": "Which state is known for the initiative called 'Sarak Surakhya Force'?",
+                "question": "Which city in Gujarat set a Guinness World Record for the mass performance of Surya Namaskar?",
                 "options": [
-                    "Haryana",
-                    "Madhya Pradesh",
-                    "Uttar Pradesh",
-                    "Punjab"
+                    "Gujarat",
+                    "Ahmedabad",
+                    "Surat",
+                    "Vadodara"
                 ],
-                "answer": 3
+                "answer": 1
             },
             {
-                "question": "Which Indian state is known for its opposition to the 'One National, One Election' policy?",
+                "question": "Which state is known for the Sarak Surakhya Force initiative?",
                 "options": [
-                    "Tamil Nadu",
-                    "Karnataka",
-                    "Kerala",
-                    "Andhra Pradesh"
+                    "Uttar Pradesh",
+                    "Haryana",
+                    "Punjab",
+                    "Rajasthan"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which act does the Citizenship Amendment Act (CAA) amend?",
+                "options": [
+                    "Act of 1955",
+                    "Act of 1985",
+                    "Act of 1965",
+                    "Act of 1975"
                 ],
                 "answer": 0
             },
             {
                 "question": "Which state’s artificial reef project aims to address coral bleaching?",
                 "options": [
-                    "Goa",
                     "Andaman & Nicobar",
                     "Tamil Nadu",
+                    "Goa",
                     "Kerala"
                 ],
                 "answer": 3
+            },
+            {
+                "question": "What is the primary focus of the SWAMITVA scheme?",
+                "options": [
+                    "Education",
+                    "E-governance",
+                    "Agriculture",
+                    "Health"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Who is the new Railway Board Secretary, not to be confused with Jaya Verma Sinha?",
+                "options": [
+                    "Satnam Singh Sandhu",
+                    "Rahul Singh",
+                    "Nitish Kumar",
+                    "Jaya Verma Sinha"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which scheme, launched by Rajnath Singh, promotes funding startups in the defense sector?",
+                "options": [
+                    "ADITI Scheme",
+                    "Neengal Nalama",
+                    "PM-SHRI",
+                    "KIRTI Programme"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which app was used for launching the APAAR (Automated Permanent Academic Account Registry)?",
+                "options": [
+                    "UMANG",
+                    "Swayam",
+                    "Aadhaar",
+                    "e-Sampark"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What does the KIRTI Programme aim to identify?",
+                "options": [
+                    "Healthcare innovations",
+                    "Business opportunities",
+                    "Educational reforms",
+                    "Rising talent"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which state’s initiative 'SAMBHAV' focuses on secure communication for the Indian Army?",
+                "options": [
+                    "Rajasthan",
+                    "Punjab",
+                    "Uttar Pradesh",
+                    "Haryana"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Where was the statue of U Tirot Sing, the freedom fighter of Khasi Hills, installed?",
+                "options": [
+                    "Dhaka",
+                    "Shillong",
+                    "Delhi",
+                    "Mumbai"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which state has announced the establishment of a new mobile app for secure communication by the Indian Army?",
+                "options": [
+                    "Haryana",
+                    "Rajasthan",
+                    "Uttar Pradesh",
+                    "Punjab"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which political party was the major beneficiary of the Electoral Bonds Scheme according to the data?",
+                "options": [
+                    "AAP",
+                    "Congress",
+                    "BJP",
+                    "DMK"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Who is India's envoy to WTO?",
+                "options": [
+                    "Senthil Pandian",
+                    "Samir Shah",
+                    "Arvind Panagariya",
+                    "A.S. Rajeev"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which state’s official fruit is the Kaji Nemu?",
+                "options": [
+                    "Assam",
+                    "Mizoram",
+                    "Arunachal Pradesh",
+                    "Nagaland"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which city is known for hosting India's 1st submarine tourism?",
+                "options": [
+                    "Mumbai, Maharashtra",
+                    "Chennai, Tamil Nadu",
+                    "Dwarka, Gujarat",
+                    "Kolkata, West Bengal"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which communities are included in the Citizenship Amendment Act (CAA) from Afghanistan, Pakistan, and Bangladesh?",
+                "options": [
+                    "Hindu, Muslim, Christian, Sikhs, Buddhists, Jains",
+                    "Hindu, Sikh, Christian, Jains, Parsis, Zoroastrians",
+                    "Sikh, Muslim, Christian, Buddhists, Jains, Zoroastrians",
+                    "Sikh, Hindu, Christian, Buddhists, Jains, Parsis"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which state’s official fruit is Kaji Nemu (Citrus limon)?",
+                "options": [
+                    "Arunachal Pradesh",
+                    "Assam",
+                    "Nagaland",
+                    "Sikkim"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which organization is associated with the establishment of the new Turtle Conservation Reserve in Uttar Pradesh?",
+                "options": [
+                    "Uttar Pradesh State Government",
+                    "Wildlife Institute of India",
+                    "Forest Department",
+                    "National Conservation Authority"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which ministry launched the KIRTI Programme?",
+                "options": [
+                    "Ministry of Commerce",
+                    "Ministry of Health",
+                    "Ministry of Sports",
+                    "Ministry of Education"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which mobile app was launched by the Indian Army for secure communication?",
+                "options": [
+                    "SAMBHAV",
+                    "SECURE",
+                    "ARMY LINK",
+                    "SAFETY"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which city in Kerala is known for the country's first graphene center and COE in IIOT?",
+                "options": [
+                    "Thiruvananthapuram",
+                    "Kochi",
+                    "Kollam",
+                    "Kannur"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which is the first government-backed OTT platform in India?",
+                "options": [
+                    "Kolkata",
+                    "Kerala",
+                    "Gujarat",
+                    "Maharashtra"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which central sector scheme won the Gold Prize in National Award for E-Governance 2023?",
+                "options": [
+                    "M-Governance",
+                    "e-SAMADHAN",
+                    "SWAMITVA Scheme",
+                    "PM-SHRI"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which state introduced the 'YOGYASHREE' scheme?",
+                "options": [
+                    "Odisha",
+                    "Gujarat",
+                    "Bihar",
+                    "West Bengal"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which Indian state launched the YOGYASHREE scheme?",
+                "options": [
+                    "West Bengal",
+                    "Assam",
+                    "Jharkhand",
+                    "Odisha"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which state has the new scheme named 'Gharana Gharana Muft Ration Yojana'?",
+                "options": [
+                    "Chhattisgarh",
+                    "Punjab",
+                    "Haryana",
+                    "Madhya Pradesh"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which central sector scheme is aimed at mechanizing the sanitation ecosystem?",
+                "options": [
+                    "Gharana Gharana Muft Ration Yojana",
+                    "Neengal Nalama",
+                    "NAMASTE",
+                    "Unnati"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which new conservation initiative was launched in Gujarat?",
+                "options": [
+                    "Marine national park",
+                    "Submarine tourism",
+                    "Tiger reserve",
+                    "Turtle conservation reserve"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Who is the new Director of UPSC?",
+                "options": [
+                    "Manoj Soni",
+                    "Poonam Gupta",
+                    "Hansha Mishra",
+                    "Ajay Narayan Jha"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which Indian state has a new initiative for addressing grievances and public awareness under the 'Neengal Nalama' scheme?",
+                "options": [
+                    "West Bengal",
+                    "Tamil Nadu",
+                    "Karnataka",
+                    "Odisha"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which district in Arunachal Pradesh is associated with the new administrative changes?",
+                "options": [
+                    "Palasamudram",
+                    "Lalitpur",
+                    "Keyi Panyor",
+                    "Bichon"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which state has the initiative named YOGYASHREE?",
+                "options": [
+                    "Odisha",
+                    "Jharkhand",
+                    "Bihar",
+                    "West Bengal"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which state’s new mobile app named SAMBHAV is used for secure communication?",
+                "options": [
+                    "Uttar Pradesh",
+                    "Haryana",
+                    "Punjab",
+                    "Rajasthan"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which scheme launched by the Ministry of Sports focuses on talent identification?",
+                "options": [
+                    "NAMASTE",
+                    "ADITI Scheme",
+                    "PM-SHRI",
+                    "KIRTI Programme"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which city in Gujarat is known for India's first submarine tourism?",
+                "options": [
+                    "Vadodara",
+                    "Dwarka",
+                    "Surat",
+                    "Ahmedabad"
+                ],
+                "answer": 1
             },
             {
                 "question": "Which mobile app, launched by the Indian Army, is intended for secure communication?",
@@ -1283,254 +703,14 @@
                 "answer": 3
             },
             {
-                "question": "What is the name of the scheme that won the Gold Prize in National Award for e-Governance 2023?",
-                "options": [
-                    "SWAMITVA Scheme",
-                    "M-Governance",
-                    "e-SAMADHAN",
-                    "PM-SHRI"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Which state has introduced a new conservation initiative focusing on submarine tourism?",
-                "options": [
-                    "Kerala",
-                    "Maharashtra",
-                    "Goa",
-                    "Gujarat"
-                ],
-                "answer": 3
-            },
-            {
-                "question": "Which state has implemented the SWAYAM scheme providing loans to unemployed youth?",
-                "options": [
-                    "Madhya Pradesh",
-                    "Odisha",
-                    "Bihar",
-                    "West Bengal"
-                ],
-                "answer": 1
-            },
-            {
-                "question": "Which scheme was launched by the Ministry of Panchayati Raj on April 24, 2021?",
-                "options": [
-                    "M-Governance",
-                    "PM-SHRI",
-                    "SWAMITVA Scheme",
-                    "e-SAMADHAN"
-                ],
-                "answer": 2
-            },
-            {
-                "question": "Which Indian state is known for its first driverless metro train?",
-                "options": [
-                    "Bengaluru",
-                    "Mumbai",
-                    "Chennai",
-                    "Delhi"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Which state has a fruit called Kaji Nemu, known scientifically as Citrus limon?",
-                "options": [
-                    "Arunachal Pradesh",
-                    "Nagaland",
-                    "Assam",
-                    "Sikkim"
-                ],
-                "answer": 2
-            },
-            {
-                "question": "Which scheme in West Bengal is known for providing benefits to the youth?",
-                "options": [
-                    "APOORVA",
-                    "SARATHI",
-                    "YOGYASHREE",
-                    "SWAYAM"
-                ],
-                "answer": 2
-            },
-            {
-                "question": "Which Indian state’s new initiative focuses on addressing grievances and awareness of the public?",
-                "options": [
-                    "Tamil Nadu",
-                    "Kerala",
-                    "Odisha",
-                    "West Bengal"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Which state has introduced the 'VAN MITRA' scheme focusing on tree planting?",
-                "options": [
-                    "Haryana",
-                    "Uttar Pradesh",
-                    "Himachal Pradesh",
-                    "Madhya Pradesh"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Which state government has banned hookah parlours?",
-                "options": [
-                    "Telangana",
-                    "Kerala",
-                    "Karnataka",
-                    "Tamil Nadu"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "What is the main focus of the SWAYAM scheme launched in Odisha?",
-                "options": [
-                    "Healthcare support",
-                    "Educational scholarships",
-                    "Interest-free loans to unemployed youth",
-                    "Agricultural loans"
-                ],
-                "answer": 2
-            },
-            {
-                "question": "Which Indian state has a new initiative for addressing grievances and public awareness under the 'Neengal Nalama' scheme?",
-                "options": [
-                    "Karnataka",
-                    "West Bengal",
-                    "Tamil Nadu",
-                    "Odisha"
-                ],
-                "answer": 2
-            },
-            {
-                "question": "Which Indian state has a scheme named YOGYASHREE aimed at benefiting the youth?",
-                "options": [
-                    "Gujarat",
-                    "West Bengal",
-                    "Kerala",
-                    "Odisha"
-                ],
-                "answer": 1
-            },
-            {
-                "question": "Which state has the new scheme named 'Gharana Gharana Muft Ration Yojana'?",
-                "options": [
-                    "Chhattisgarh",
-                    "Haryana",
-                    "Punjab",
-                    "Madhya Pradesh"
-                ],
-                "answer": 2
-            },
-            {
-                "question": "Which state’s initiative 'Sarak Surakhya Force' is known for enhancing road safety?",
-                "options": [
-                    "Uttar Pradesh",
-                    "Punjab",
-                    "Rajasthan",
-                    "Haryana"
-                ],
-                "answer": 1
-            },
-            {
-                "question": "Which state launched the first caste census in India?",
-                "options": [
-                    "Madhya Pradesh",
-                    "Uttar Pradesh",
-                    "Andhra Pradesh",
-                    "Bihar"
-                ],
-                "answer": 3
-            },
-            {
-                "question": "Which state has the initiative known as the 'Artificial Reef Project' aimed at coral conservation?",
-                "options": [
-                    "Goa",
-                    "Kerala",
-                    "Andaman & Nicobar",
-                    "Tamil Nadu"
-                ],
-                "answer": 1
-            },
-            {
-                "question": "Which state’s initiative 'SAMBHAV' focuses on secure communication for the Indian Army?",
-                "options": [
-                    "Haryana",
-                    "Rajasthan",
-                    "Uttar Pradesh",
-                    "Punjab"
-                ],
-                "answer": 3
-            },
-            {
-                "question": "Which state is known for having launched the 'YOGYASHREE' scheme?",
-                "options": [
-                    "West Bengal",
-                    "Odisha",
-                    "Jharkhand",
-                    "Assam"
-                ],
-                "answer": 0
-            },
-            {
-                "question": "Which city in Kerala is known for the country's first graphene center and COE in IIOT?",
-                "options": [
-                    "Kollam",
-                    "Thiruvananthapuram",
-                    "Kochi",
-                    "Kannur"
-                ],
-                "answer": 1
-            },
-            {
-                "question": "Which state introduced the 'YOGYASHREE' scheme for the welfare of the youth?",
-                "options": [
-                    "Gujarat",
-                    "Bihar",
-                    "West Bengal",
-                    "Odisha"
-                ],
-                "answer": 2
-            },
-            {
-                "question": "What is the primary aim of the 'SWAYAM' scheme launched by the Odisha government?",
-                "options": [
-                    "Enhancing educational facilities",
-                    "Promoting agricultural development",
-                    "Providing interest-free loans to unemployed youth",
-                    "Improving healthcare services"
-                ],
-                "answer": 2
-            },
-            {
-                "question": "Which state’s scheme aims to provide interest-free loans to unemployed youth?",
-                "options": [
-                    "Gujarat",
-                    "Madhya Pradesh",
-                    "West Bengal",
-                    "Odisha"
-                ],
-                "answer": 3
-            },
-            {
-                "question": "Which Indian state’s new scheme named 'Sarak Surakhya Force' focuses on road safety?",
-                "options": [
-                    "Madhya Pradesh",
-                    "Uttar Pradesh",
-                    "Punjab",
-                    "Haryana"
-                ],
-                "answer": 2
-            },
-            {
                 "question": "Which state has the initiative named 'Artificial Reef Project' for coral conservation?",
                 "options": [
-                    "Tamil Nadu",
-                    "Andaman & Nicobar",
                     "Kerala",
-                    "Goa"
+                    "Goa",
+                    "Tamil Nadu",
+                    "Andaman & Nicobar"
                 ],
-                "answer": 2
+                "answer": 0
             },
             {
                 "question": "Which Indian state has the 'SAMBHAV' mobile app for secure communication?",
@@ -1543,44 +723,864 @@
                 "answer": 0
             },
             {
-                "question": "Which state's initiative called 'VAN MITRA' focuses on tree planting?",
+                "question": "Which Indian state is known for its first driverless metro train?",
                 "options": [
-                    "Haryana",
+                    "Bengaluru",
+                    "Mumbai",
+                    "Chennai",
+                    "Delhi"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which city in Kerala is known for housing India's first graphene center and Center of Excellence in IIOT?",
+                "options": [
+                    "Kannur",
+                    "Thiruvananthapuram",
+                    "Kochi",
+                    "Kollam"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which state is known for the 'Vidhwa Uttejaka Mandala' started in 1866?",
+                "options": [
+                    "Madhya Pradesh",
                     "Himachal Pradesh",
+                    "Punjab",
+                    "Jharkhand"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which act was found to be violated by the Electoral Bonds Scheme?",
+                "options": [
+                    "Constitution of India",
+                    "Civil Rights Act, 1955",
+                    "Companies Act, 2013",
+                    "RTI Act, 2005"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which state government launched the 'VAN MITRA' scheme for tree planting?",
+                "options": [
+                    "Himachal Pradesh",
+                    "Madhya Pradesh",
+                    "Haryana",
+                    "Uttar Pradesh"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which city is home to India’s first driverless metro train?",
+                "options": [
+                    "Bengaluru",
+                    "Chennai",
+                    "Mumbai",
+                    "Delhi"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What is the target of the 'PM-SHRI' scheme?",
+                "options": [
+                    "Develop 25,000 schools",
+                    "Develop 10,000 schools",
+                    "Develop 20,000 schools",
+                    "Develop 14,500 schools"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which state declared the Atpadi Conservation Reserve as a new wildlife habitat?",
+                "options": [
+                    "Chhattisgarh",
+                    "Gujarat",
+                    "Maharashtra",
+                    "Uttar Pradesh"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which state is known for the 'Mahtari Vandana Yojana' offering ₹1000 per month?",
+                "options": [
+                    "Himachal Pradesh",
+                    "Punjab",
+                    "Chhattisgarh",
+                    "Jharkhand"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which central sector scheme won the Gold Prize in the National Award for E-Governance 2023?",
+                "options": [
+                    "M-Governance",
+                    "SWAMITVA Scheme",
+                    "e-SAMADHAN",
+                    "PM-SHRI"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Who is the new Chief Hydrographer to the Government of India?",
+                "options": [
+                    "Arvind Panagariya",
+                    "Ajay Narayan Jha",
+                    "Suman Kumari",
+                    "Vice Admiral Lochan Singh Pathania"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which state government has introduced the Bagless School initiative for grades 1-12?",
+                "options": [
+                    "Himachal Pradesh",
+                    "Chhattisgarh",
+                    "Madhya Pradesh",
+                    "Uttar Pradesh"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which state introduced the 'Gharana Gharana Muft Ration Yojana'?",
+                "options": [
+                    "Punjab",
+                    "Madhya Pradesh",
+                    "Jharkhand",
+                    "Chhattisgarh"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What is the amount offered under the Widow Remarriage Incentive Scheme in Jharkhand?",
+                "options": [
+                    "₹2 lakh",
+                    "₹1 lakh",
+                    "₹4 lakh",
+                    "₹3 lakh"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which state has a scheme providing interest-free loans to unemployed youth up to ₹1 lakh?",
+                "options": [
+                    "Gujarat",
+                    "Madhya Pradesh",
+                    "West Bengal",
+                    "Odisha"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which state's 'Mahtari Vandana Yojana' provides ₹1000 per month?",
+                "options": [
+                    "Chhattisgarh",
+                    "Himachal Pradesh",
+                    "Jharkhand",
+                    "Punjab"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which state has banned hookah parlours?",
+                "options": [
+                    "Telangana",
+                    "Karnataka",
+                    "Tamil Nadu",
+                    "Kerala"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What is the name of the new wildlife habitat declared for the Canid wild dog family in Maharashtra?",
+                "options": [
+                    "Lalitpur Pharma Park",
+                    "Atpadi Conservation Reserve",
+                    "Sanjay Gandhi National Park",
+                    "Kanha National Park"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which scheme in Chhattisgarh offers ₹1000 per month?",
+                "options": [
+                    "Mahtari Vandana Yojana",
+                    "Indira Gandhi Pyari Behna Sukh Samman Nidhi Yojana",
+                    "Vidyanjali Scholarship Programme",
+                    "Gharana Gharana Muft Ration Yojana"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which state is known for opposing the 'One National, One Election' policy?",
+                "options": [
+                    "Tamil Nadu",
+                    "Karnataka",
+                    "Andhra Pradesh",
+                    "Kerala"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which Tamil Nadu scheme addresses grievances and public awareness?",
+                "options": [
+                    "Widow Remarriage Incentive Scheme",
+                    "Neengal Nalama",
+                    "Gharana Gharana Muft Ration Yojana",
+                    "Vidhwa Uttejaka Mandala"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Who is the new Chairman of TRAI?",
+                "options": [
+                    "Arvind Panagariya",
+                    "Manoj Soni",
+                    "Anil Kumar Lahoti",
+                    "Ajay Narayan Jha"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Who is the new Governor of Maharashtra?",
+                "options": [
+                    "C.P. Radhakrishnan",
+                    "Manoj Soni",
+                    "Nayib Bukele",
+                    "Rashmi Shukla"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Who is the state icon for Punjab in the 2024 Lok Sabha elections?",
+                "options": [
+                    "Amrinder Singh",
+                    "Ravi Shastri",
+                    "Shubman Gill",
+                    "Navjot Singh Sidhu"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which state has achieved 100% saturation in the 'Har Ghar Jal' scheme?",
+                "options": [
+                    "Uttar Pradesh",
+                    "Chhattisgarh",
+                    "Madhya Pradesh",
+                    "Arunachal Pradesh"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Who is the 1st woman Chief Justice of Uttarakhand High Court?",
+                "options": [
+                    "Rashmi Shukla",
+                    "Maryam Nawaz",
+                    "Preeti Rajak",
+                    "Justice Ritu Bahri"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which state’s scheme aims to provide interest-free loans to unemployed youth?",
+                "options": [
+                    "West Bengal",
+                    "Gujarat",
+                    "Odisha",
+                    "Madhya Pradesh"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which Indian state has a scheme named YOGYASHREE aimed at benefiting the youth?",
+                "options": [
+                    "Odisha",
+                    "West Bengal",
+                    "Kerala",
+                    "Gujarat"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which Indian state has introduced the 'Sarak Surakhya Force'?",
+                "options": [
+                    "Punjab",
+                    "Rajasthan",
+                    "Haryana",
+                    "Uttar Pradesh"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What is the focus of the UNNATI scheme?",
+                "options": [
+                    "Industrialisation",
+                    "Agricultural development",
+                    "Educational reforms",
+                    "Healthcare improvements"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What is the primary aim of the 'ADITI Scheme' launched by Rajnath Singh?",
+                "options": [
+                    "Supporting healthcare innovations",
+                    "Industrial development",
+                    "Promoting defense sector startups",
+                    "Enhancing educational infrastructure"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which scheme in West Bengal is known for providing benefits to the youth?",
+                "options": [
+                    "APOORVA",
+                    "YOGYASHREE",
+                    "SWAYAM",
+                    "SARATHI"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which state introduced the 'YOGYASHREE' scheme for the welfare of the youth?",
+                "options": [
+                    "Gujarat",
+                    "Bihar",
+                    "Odisha",
+                    "West Bengal"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "What is the primary objective of the SWAMITVA scheme?",
+                "options": [
+                    "E-governance",
+                    "Healthcare",
+                    "Educational reforms",
+                    "Agriculture"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which scheme is associated with providing automated academic records through the UMANG app?",
+                "options": [
+                    "APAAR",
+                    "YOGYASHREE",
+                    "SARATHI",
+                    "SWAYAM"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which new district was carved out from Kameng region in Arunachal Pradesh?",
+                "options": [
+                    "Upper Siang",
+                    "Bichon",
+                    "Keyi Panyor",
+                    "Lohit"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which is the first state in India to achieve 100% saturation in the 'Har Ghar Jal' scheme?",
+                "options": [
+                    "Madhya Pradesh",
+                    "Uttar Pradesh",
+                    "Arunachal Pradesh",
+                    "Chhattisgarh"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Under which Article did the Supreme Court strike down the Electoral Bonds Scheme?",
+                "options": [
+                    "Article 19(1)(a)",
+                    "Article 32",
+                    "Article 14",
+                    "Article 21"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which state’s initiative 'Sarak Surakhya Force' is known for enhancing road safety?",
+                "options": [
+                    "Punjab",
+                    "Rajasthan",
+                    "Uttar Pradesh",
+                    "Haryana"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which Indian state has the first graphene center and Center of Excellence in IIOT?",
+                "options": [
+                    "Maharashtra",
+                    "Kerala",
+                    "Karnataka",
+                    "Tamil Nadu"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Operation Kamdhenu is associated with which region?",
+                "options": [
+                    "Uttar Pradesh",
+                    "Himachal Pradesh",
+                    "Jammu and Kashmir",
+                    "Punjab"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What is the maximum loan amount under the SWAYAM scheme?",
+                "options": [
+                    "₹2 lakh",
+                    "₹50,000",
+                    "₹75,000",
+                    "₹1 lakh"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which Indian state is known for its artificial reef project to combat coral bleaching?",
+                "options": [
+                    "Tamil Nadu",
+                    "Andaman & Nicobar",
+                    "Kerala",
+                    "Goa"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Who is the current Chairperson of the Lokpal?",
+                "options": [
+                    "Hansha Mishra",
+                    "Ajay M. Khanwilkar",
+                    "Jay Shah",
+                    "Arvind Panagariya"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Who is the new President of El Salvador?",
+                "options": [
+                    "Nangloi Mbumba",
+                    "Jay Shah",
+                    "Nayib Bukele",
+                    "Simon Harris"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which Indian state is known for the artificial reef project aimed at tackling coral bleaching?",
+                "options": [
+                    "Tamil Nadu",
+                    "Kerala",
+                    "Goa",
+                    "Andaman & Nicobar"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What is the incentive amount for women under the Indira Gandhi Pyari Behna Sukh Samman Nidhi Yojana in Himachal Pradesh?",
+                "options": [
+                    "₹2000",
+                    "₹1000",
+                    "₹1500",
+                    "₹2500"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which organization was officially declared as an unlawful organization in J&K?",
+                "options": [
+                    "Jaish-e-Mohammed",
+                    "Hizbul Mujahideen",
+                    "Masarat Alam Faction",
+                    "Lashkar-e-Taiba"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Who is the new President of the Paralympic Committee of India?",
+                "options": [
+                    "Devendra Jhajharia",
+                    "Suman Kumari",
+                    "Jay Shah",
+                    "Nangloi Mbumba"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which state has the initiative known as the 'Artificial Reef Project' aimed at coral conservation?",
+                "options": [
+                    "Kerala",
+                    "Tamil Nadu",
+                    "Andaman & Nicobar",
+                    "Goa"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which state has the first graphene center and Center of Excellence in IIOT?",
+                "options": [
+                    "Kerala",
+                    "Karnataka",
+                    "Tamil Nadu",
+                    "Maharashtra"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Who is the 1st female sniper of the BSF?",
+                "options": [
+                    "Suman Kumari",
+                    "Preeti Rajak",
+                    "Rashmi Shukla",
+                    "Sue Redfern"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which scheme provides interest-free loans up to ₹1 lakh to unemployed youth in Odisha?",
+                "options": [
+                    "YOGYASHREE",
+                    "SWAYAM",
+                    "SARATHI",
+                    "APOORVA"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which state has introduced a new conservation initiative focusing on submarine tourism?",
+                "options": [
+                    "Kerala",
+                    "Gujarat",
+                    "Goa",
+                    "Maharashtra"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which state launched the first caste census?",
+                "options": [
+                    "Madhya Pradesh",
+                    "Andhra Pradesh",
+                    "Uttar Pradesh",
+                    "Bihar"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which minister unveiled the SARATHI initiative?",
+                "options": [
+                    "Amit Shah",
+                    "Rajnath Singh",
+                    "Narendra Modi",
+                    "Arjun Munda"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Who started the Vidhwa Uttejaka Mandala in 1866?",
+                "options": [
+                    "Raja Ram Mohan Roy",
+                    "Vishnu Shastri Pandit",
+                    "Swami Vivekananda",
+                    "Ishwar Chandra Vidyasagar"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which Indian state’s new scheme named 'Sarak Surakhya Force' focuses on road safety?",
+                "options": [
+                    "Punjab",
+                    "Uttar Pradesh",
+                    "Haryana",
+                    "Madhya Pradesh"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which Indian state’s new initiative focuses on addressing grievances and awareness of the public?",
+                "options": [
+                    "Kerala",
+                    "West Bengal",
+                    "Tamil Nadu",
+                    "Odisha"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which state is known for the initiative called 'Sarak Surakhya Force'?",
+                "options": [
+                    "Punjab",
+                    "Haryana",
                     "Uttar Pradesh",
                     "Madhya Pradesh"
                 ],
                 "answer": 0
             },
             {
-                "question": "Which Indian state has introduced the 'Gharana Gharana Muft Ration Yojana'?",
+                "question": "Which state's CM launched the 'Van Mitra' tree planting scheme?",
                 "options": [
-                    "Punjab",
                     "Haryana",
-                    "Chhattisgarh",
+                    "Uttar Pradesh",
+                    "Punjab",
                     "Madhya Pradesh"
                 ],
                 "answer": 0
             },
             {
-                "question": "Which Indian state is known for its artificial reef project to combat coral bleaching?",
+                "question": "Which state's initiative called 'VAN MITRA' focuses on tree planting?",
                 "options": [
-                    "Tamil Nadu",
-                    "Kerala",
-                    "Andaman & Nicobar",
-                    "Goa"
+                    "Uttar Pradesh",
+                    "Madhya Pradesh",
+                    "Haryana",
+                    "Himachal Pradesh"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which state has implemented the SWAYAM scheme providing loans to unemployed youth?",
+                "options": [
+                    "Madhya Pradesh",
+                    "Odisha",
+                    "West Bengal",
+                    "Bihar"
                 ],
                 "answer": 1
             },
             {
-                "question": "Which state introduced the 'YOGYASHREE' scheme?",
+                "question": "Which Indian state introduced the 'Bagless School' initiative for grades 1-12?",
                 "options": [
-                    "Odisha",
-                    "Bihar",
-                    "West Bengal",
+                    "Maharashtra",
+                    "Himachal Pradesh",
+                    "Uttar Pradesh",
+                    "Madhya Pradesh"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which state has set a Guinness World Record for the mass performance of Surya Namaskar?",
+                "options": [
+                    "Gujarat",
+                    "Maharashtra",
+                    "Uttar Pradesh",
+                    "Haryana"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Who is the youngest Prime Minister of Ireland?",
+                "options": [
+                    "Simon Harris",
+                    "Enda Kenny",
+                    "Leo Varadkar",
+                    "Brian Cowen"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What is the name of the scheme that won the Gold Prize in National Award for e-Governance 2023?",
+                "options": [
+                    "e-SAMADHAN",
+                    "SWAMITVA Scheme",
+                    "PM-SHRI",
+                    "M-Governance"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which state government launched the 'Neengal Nalama' scheme for addressing public grievances?",
+                "options": [
+                    "Karnataka",
+                    "Andhra Pradesh",
+                    "Kerala",
+                    "Tamil Nadu"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which state government has set a Guinness World Record for Surya Namaskar?",
+                "options": [
+                    "Haryana",
+                    "Madhya Pradesh",
+                    "Uttar Pradesh",
                     "Gujarat"
                 ],
+                "answer": 3
+            },
+            {
+                "question": "What is the target for the 'PM-SHRI' scheme?",
+                "options": [
+                    "14,500 schools",
+                    "20,000 schools",
+                    "10,000 schools",
+                    "15,000 schools"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What is the primary aim of the 'SWAYAM' scheme launched by the Odisha government?",
+                "options": [
+                    "Enhancing educational facilities",
+                    "Providing interest-free loans to unemployed youth",
+                    "Promoting agricultural development",
+                    "Improving healthcare services"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which state government has banned hookah parlours?",
+                "options": [
+                    "Karnataka",
+                    "Tamil Nadu",
+                    "Kerala",
+                    "Telangana"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which Indian state has launched a scheme for providing free ration under the 'Gharana Gharana Muft Ration Yojana'?",
+                "options": [
+                    "Chhattisgarh",
+                    "Punjab",
+                    "Jharkhand",
+                    "Himachal Pradesh"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which organization officially declared Masarat Alam Faction as unlawful?",
+                "options": [
+                    "National Investigation Agency",
+                    "State Government of J&K",
+                    "Supreme Court",
+                    "Government of India"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Where was India’s first driverless metro train launched?",
+                "options": [
+                    "Bengaluru",
+                    "Delhi",
+                    "Kolkata",
+                    "Mumbai"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which state government launched the Widow Remarriage Incentive Scheme offering ₹2 lakh?",
+                "options": [
+                    "Himachal Pradesh",
+                    "Chhattisgarh",
+                    "Jharkhand",
+                    "Punjab"
+                ],
                 "answer": 2
+            },
+            {
+                "question": "Which scheme in Odisha provides interest-free loans to unemployed youth aged 18-35?",
+                "options": [
+                    "SARATHI",
+                    "YOGYASHREE",
+                    "SWAYAM",
+                    "APOORVA"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which new wildlife habitat is declared in Maharashtra for the Canid wild dog family?",
+                "options": [
+                    "Atpadi Conservation Reserve",
+                    "Sanjay Gandhi National Park",
+                    "Lalitpur Pharma Park",
+                    "Maharashtra Nature Park"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which city in Madhya Pradesh hosted the 50th Khajuraho Dance Festival?",
+                "options": [
+                    "Indore",
+                    "Bhopal",
+                    "Gwalior",
+                    "Khajuraho"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which new district in Arunachal Pradesh was carved out from Subansari?",
+                "options": [
+                    "West Kameng",
+                    "Bichon",
+                    "Keyi Panyor",
+                    "Pakke Kessang"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which state launched the first caste census in India?",
+                "options": [
+                    "Bihar",
+                    "Andhra Pradesh",
+                    "Uttar Pradesh",
+                    "Madhya Pradesh"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which state government introduced the 'Gharana Gharana Muft Ration Yojana'?",
+                "options": [
+                    "Madhya Pradesh",
+                    "Chhattisgarh",
+                    "Jharkhand",
+                    "Punjab"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which scheme, launched by the Ministry of Panchayati Raj, won a National Award for e-Governance 2023?",
+                "options": [
+                    "e-SAMADHAN",
+                    "SWAMITVA Scheme",
+                    "M-Governance",
+                    "PM-SHRI"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "In which year was the Citizenship Amendment Act (CAA) passed?",
+                "options": [
+                    "2019",
+                    "2018",
+                    "2021",
+                    "2020"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Who is the new Chief Minister of Haryana?",
+                "options": [
+                    "Nayab Singh Saini",
+                    "C.P. Radhakrishnan",
+                    "Nitish Kumar",
+                    "Simon Harris"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which state launched the 'Vidyanjali Scholarship Programme'?",
+                "options": [
+                    "Uttar Pradesh",
+                    "Himachal Pradesh",
+                    "Jharkhand",
+                    "Chhattisgarh"
+                ],
+                "answer": 0
             }
         ]
     }

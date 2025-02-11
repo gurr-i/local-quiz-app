@@ -44,7 +44,14 @@
 }
 
 .selector-dropdown {
-  width: 200px;
+  width: 350px !important;
+}
+
+/* Adjust width for larger screens */
+@media (min-width: 768px) {
+  .selector-dropdown {
+    width: 300px;
+  }
 }
 
 .quiz-grid {

@@ -1,0 +1,527 @@
+[
+    {
+        "title": "Quiz on Mughal Empire – Indian History",
+        "questions": [
+            {
+                "question": "What was the primary role of Faujdars in Akbar's empire?",
+                "options": [
+                    "Revenue collectors",
+                    "Diplomatic envoys",
+                    "Court poets",
+                    "Military commanders"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "In Akbar's revenue system, what is 'Banjar' land?",
+                "options": [
+                    "Land under active cultivation",
+                    "Land used for military purposes",
+                    "Irrigated land",
+                    "Land uncultivated for 5 years or more"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which unit of measurement, still used today in parts of India, was introduced during Akbar's time?",
+                "options": [
+                    "Yard",
+                    "Foot",
+                    "Gaz",
+                    "Meter"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which military innovation did Babur famously use in his conquests?",
+                "options": [
+                    "Gunpowder",
+                    "Longbows",
+                    "Cavalry charges",
+                    "War elephants"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "In which year did Babur defeat Ibrahim Lodhi at the Battle of Panipat?",
+                "options": [
+                    "1529",
+                    "1527",
+                    "1530",
+                    "1526"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which impressive gateway, built by Akbar, is located in Fatehpur Sikri?",
+                "options": [
+                    "Red Fort Gate",
+                    "Gateway of India",
+                    "India Gate",
+                    "Buland Darwaza"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "What was Babur's original name?",
+                "options": [
+                    "Zahir-ud-Din-Muhammad",
+                    "Sher Shah",
+                    "Akbar",
+                    "Humayun"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "In Akbar's revenue system, which term refers to land that is actively cultivated in succession?",
+                "options": [
+                    "Parauti",
+                    "Chachar",
+                    "Polaj",
+                    "Banjar"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which battle in 1576 was fought between Rana Pratap and Akbar's forces led by Man Singh?",
+                "options": [
+                    "Battle of Haldighati",
+                    "Battle of Khanwa",
+                    "Battle of Ghagra",
+                    "Battle of Chausa"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which famed musician and one of Akbar's Navaratnas is renowned for his contributions to Hindustani classical music?",
+                "options": [
+                    "Tansen",
+                    "Abul Fazal",
+                    "Man Singh",
+                    "Birbal"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which ruler defeated Humayun in the battles at Chausa (1539) and Kannauj (1540)?",
+                "options": [
+                    "Babur",
+                    "Sher Shah Suri",
+                    "Rana Sanga",
+                    "Akbar"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which battle in 1529 did Babur win against the Afghans?",
+                "options": [
+                    "Battle of Ghagra",
+                    "Battle of Chausa",
+                    "Battle of Panipat",
+                    "Battle of Khanwa"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which emperor is credited with initiating the Mansabdari system?",
+                "options": [
+                    "Humayun",
+                    "Babur",
+                    "Sher Shah Suri",
+                    "Akbar"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "After Sher Shah's death, which emperor regained control of India?",
+                "options": [
+                    "Rana Sanga",
+                    "Babur",
+                    "Akbar",
+                    "Humayun"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which Rajput ruler did NOT recognize Akbar's supremacy?",
+                "options": [
+                    "Birbal",
+                    "Tansen",
+                    "Rana Pratap Singh",
+                    "Abdur Rahim"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "In which battle of 1539 did Sher Shah defeat Humayun?",
+                "options": [
+                    "Battle of Chausa",
+                    "Battle of Ghagra",
+                    "Battle of Panipat",
+                    "Battle of Khanwa"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which official in Akbar's administration was responsible for revenue collection?",
+                "options": [
+                    "Bakhshi",
+                    "Faujdar",
+                    "Kotwal",
+                    "Diwan"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which Mughal emperor abolished the jizya tax?",
+                "options": [
+                    "Akbar",
+                    "Babur",
+                    "Sher Shah Suri",
+                    "Humayun"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Where is Babur's tomb located?",
+                "options": [
+                    "Delhi",
+                    "Lahore",
+                    "Agra",
+                    "Kabul"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which Rajput princess did Akbar marry in 1562?",
+                "options": [
+                    "Harakha Bai",
+                    "Razia Sultan",
+                    "Mumtaz Mahal",
+                    "Jodha Bai"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Where is the UNESCO World Heritage Site Humayun's Tomb located?",
+                "options": [
+                    "Delhi",
+                    "Lahore",
+                    "Agra",
+                    "Kabul"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "In Akbar's administration, who were the Kotwals responsible for?",
+                "options": [
+                    "Military strategy",
+                    "Cultural affairs",
+                    "Police functions",
+                    "Revenue collection"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "How did Humayun reportedly meet his end in 1556?",
+                "options": [
+                    "In battle against Afghans",
+                    "Falling down the stairs of a library at Din Panah",
+                    "Assassination by court rivals",
+                    "Plague outbreak"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Who succeeded Babur as the Mughal emperor?",
+                "options": [
+                    "Humayun",
+                    "Akbar",
+                    "Rana Sanga",
+                    "Sher Shah Suri"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Babur ascended the throne at what age?",
+                "options": [
+                    "15",
+                    "21",
+                    "18",
+                    "12"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Where was Sher Shah Suri buried?",
+                "options": [
+                    "Agra",
+                    "Delhi",
+                    "Sasaram",
+                    "Lahore"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What does the term 'Parauti' refer to in Akbar's land revenue system?",
+                "options": [
+                    "Irrigated land",
+                    "Cultivated land",
+                    "Unusable land",
+                    "Land left fallow to recover"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "In Akbar's administrative system, what is the term used for an official's rank?",
+                "options": [
+                    "Kotwal",
+                    "Mansab",
+                    "Jagir",
+                    "Diwan"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What were the two separate periods during which Humayun ruled?",
+                "options": [
+                    "1526-30 and 1540-45",
+                    "1530-40 and 1555-56",
+                    "1556-1605 and 1610-1625",
+                    "1530-40 and 1545-50"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What was the name of Humayun's second capital?",
+                "options": [
+                    "Purana Quila",
+                    "Fatehpur Sikri",
+                    "Agra",
+                    "Din Panah"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which group assisted the military commanders (Faujdars) in Akbar's empire?",
+                "options": [
+                    "Mansabdars",
+                    "Diwans",
+                    "Jagirdars",
+                    "Bakhshis"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "What were the 'Navaratnas' in Akbar's court?",
+                "options": [
+                    "Nine provinces",
+                    "Nine military units",
+                    "Nine battles",
+                    "Nine key ministers/jewels"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "What is the title of Babur's autobiography?",
+                "options": [
+                    "Humayunama",
+                    "Tuzuk-i-Baburi",
+                    "Baburnama",
+                    "Akbarnama"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Who authored the 'Akbarnama', the biography of Akbar?",
+                "options": [
+                    "Tansen",
+                    "Faizi",
+                    "Birbal",
+                    "Abul Fazal"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which architectural style was introduced by the Mughals?",
+                "options": [
+                    "Gothic",
+                    "Charbagh",
+                    "Baroque",
+                    "Dravidian"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which important city did Sher Shah annex after defeating Humayun at Kannauj in 1540?",
+                "options": [
+                    "Delhi",
+                    "Agra",
+                    "Kannauj",
+                    "Lahore"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Who was the finance minister known as Tordarmal in Akbar's court?",
+                "options": [
+                    "Bhagwandas",
+                    "Abdur Rahim Khanekhana",
+                    "Tordarmal",
+                    "Faizi"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which coin did Sher Shah introduce to standardize weights and measures?",
+                "options": [
+                    "Taka",
+                    "Mohur",
+                    "Dinar",
+                    "Rupia"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Whom did Babur defeat at Chanderi in 1528?",
+                "options": [
+                    "Medini Rai",
+                    "Rana Sanga",
+                    "Sher Shah",
+                    "Afghan chieftains"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "In the 2nd Battle of Panipat (1556), who was the opposing general defeated by Bairam Khan's forces?",
+                "options": [
+                    "Sher Shah Suri",
+                    "Rana Sanga",
+                    "Medini Rai",
+                    "Hemu"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which fort, located in Agra, is a symbol of Akbar's reign?",
+                "options": [
+                    "Lahore Fort",
+                    "Red Fort",
+                    "Purana Quila",
+                    "Agra Fort"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which one of these was NOT one of Akbar's Navaratnas?",
+                "options": [
+                    "Bairam Khan",
+                    "Tansen",
+                    "Birbal",
+                    "Abul Fazal"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which city did Akbar build to honor Salim Chisti and shift his court?",
+                "options": [
+                    "Lahore",
+                    "Agra",
+                    "Delhi",
+                    "Fatehpur Sikri"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "What new religion did Akbar proclaim in 1581?",
+                "options": [
+                    "Sufism",
+                    "Din-i-Illahi",
+                    "Buddhism",
+                    "Sikhism"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Who wrote the biography 'Humayunama'?",
+                "options": [
+                    "His sister, Gulbadan Begum",
+                    "His court poet",
+                    "His brother Kamran",
+                    "His mother"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Who served as the regent during Akbar's early reign?",
+                "options": [
+                    "Bairam Khan",
+                    "Abul Fazal",
+                    "Birbal",
+                    "Man Singh"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Who invited Babur to India?",
+                "options": [
+                    "Medini Rai",
+                    "Ibrahim Lodhi",
+                    "Rana Sanga",
+                    "Daulat Khan Lodi"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "What was the revenue-rights system called under which nobles were granted land in return for service?",
+                "options": [
+                    "Sarai",
+                    "Patta",
+                    "Jagir",
+                    "Zamindari"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which Mughal emperor ascended the throne at the age of 13?",
+                "options": [
+                    "Akbar",
+                    "Sher Shah",
+                    "Babur",
+                    "Humayun"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Who founded the Mughal Empire?",
+                "options": [
+                    "Sher Shah Suri",
+                    "Humayun",
+                    "Babur (Zahir-ud-Din-Muhammad)",
+                    "Akbar"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What does the Dahsala system refer to in Akbar's revenue administration?",
+                "options": [
+                    "3-year agrarian cycles",
+                    "7-day market cycles",
+                    "10-year land revenue estimates",
+                    "5-year military recruitment cycles"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which battle in 1527 saw Babur defeat Rana Sanga of Mewar?",
+                "options": [
+                    "Battle of Ghagra",
+                    "Battle of Panipat",
+                    "Battle of Chanderi",
+                    "Battle of Khanwa"
+                ],
+                "answer": 3
+            }
+        ]
+    }
+]

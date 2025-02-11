@@ -1,0 +1,397 @@
+[
+    {
+        "title": "Sangam Age Quiz",
+        "questions": [
+            {
+                "question": "Which thinai was known for salt collection?",
+                "options": [
+                    "Neytal",
+                    "Palai",
+                    "Marutam",
+                    "Kurinci"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Who was the greatest Chera ruler?",
+                "options": [
+                    "Elara",
+                    "Senguttuvan",
+                    "Karaikal",
+                    "Nakkirar"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What does the term 'Thinais' refer to?",
+                "options": [
+                    "Capital",
+                    "Ruler",
+                    "Literature",
+                    "Area"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "The emblem of the Chera Dynasty that controlled the central and northern parts of Kerala and the Kongu region of Tamil Nadu was ________.",
+                "options": [
+                    "Bow and arrow",
+                    "Tiger",
+                    "Birds",
+                    "Fish"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Who is the goddess of chastity worshipped by the Pandyas?",
+                "options": [
+                    "Parvati",
+                    "Kannagi",
+                    "Lakshmi",
+                    "Meenakshi"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Silappathikaram (the Jewelled Anklet), the earliest epic poem in Tamil, was written in the 5th - 6th Century CE by ________.",
+                "options": [
+                    "Ilango Adigal",
+                    "Sittalai Sattanar",
+                    "Tolkappiyar",
+                    "Tirumalisai Alwar"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What was the emblem of the Chola dynasty?",
+                "options": [
+                    "Fish",
+                    "Bow and Arrow",
+                    "Tiger",
+                    "Elephant"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What was the main occupation in Kurinci thinai?",
+                "options": [
+                    "Cattle lifting",
+                    "Hunting and Gathering",
+                    "Fishing",
+                    "Agriculture"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Who is the author of Silapathikaram?",
+                "options": [
+                    "Ilango Adigal",
+                    "Agastya",
+                    "Nakkirar",
+                    "Sattanar"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Name the Chola inscription that provided details of the way in which the sabha was organised in the local administration in the Chola empire.",
+                "options": [
+                    "Thiruvalangadu inscription",
+                    "Thirunanthikarai inscription",
+                    "Darsanam Koppu inscription",
+                    "Uttaramerur inscription"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "What was the emblem of the Chera dynasty?",
+                "options": [
+                    "Sword",
+                    "Bow and Arrow",
+                    "Tiger",
+                    "Fish"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What was the emblem of the Pandya dynasty?",
+                "options": [
+                    "Bow and Arrow",
+                    "Lotus",
+                    "Tiger",
+                    "Fish"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "What does the term 'Sangam' mean?",
+                "options": [
+                    "Assemblies",
+                    "Temples",
+                    "Literature",
+                    "Rulers"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "The famous book Arthashastra tells us that the north-west was important for blankets, and ________ for its gold and precious stones during the Mauryan period.",
+                "options": [
+                    "East India",
+                    "North India",
+                    "South India",
+                    "West India"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What were the Chera dynasty's major port cities?",
+                "options": [
+                    "Korkai and Kapadapuram",
+                    "Uraiyar and Vanchi",
+                    "Madurai and Puhar",
+                    "Muziris and Tondi"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which dynasty patronized the Sangam Assemblies?",
+                "options": [
+                    "Mauryas",
+                    "Cheras",
+                    "Pandyas",
+                    "Cholas"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What was the main port city of the Pandya dynasty?",
+                "options": [
+                    "Korkai",
+                    "Muziris",
+                    "Madurai",
+                    "Puhar"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What was the alternate capital of the Chola dynasty?",
+                "options": [
+                    "Korkai",
+                    "Kapadapuram",
+                    "Puhar",
+                    "Vanchi"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which of the following animals was the emblem of the Chola dynasty?",
+                "options": [
+                    "Tiger",
+                    "Wolf",
+                    "Elephant",
+                    "Horse"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Sangam poems mention a Tamil word 'Muvendar' which means ________.",
+                "options": [
+                    "Three chiefs",
+                    "Three horses",
+                    "Three taxes",
+                    "Three ports"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What does 'Akam' in Sangam literature refer to?",
+                "options": [
+                    "War",
+                    "Love",
+                    "Agriculture",
+                    "Hunting"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Who among the following was a famous ruler of the Pandya dynasty of South India?",
+                "options": [
+                    "Nedunjeliyan II",
+                    "Nizam Shah",
+                    "Ashoka",
+                    "Karikala"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What does 'Puram' in Sangam literature refer to?",
+                "options": [
+                    "Fishing",
+                    "Poetry",
+                    "Love",
+                    "War"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "What was the main occupation in Mullai thinai?",
+                "options": [
+                    "Agriculture",
+                    "Animal husbandry",
+                    "Cattle lifting",
+                    "Fishing"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which river is Madurai located on?",
+                "options": [
+                    "Tamraparni",
+                    "Vaigai",
+                    "Pennar",
+                    "Velar"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which Sangam assembly's literature is not found?",
+                "options": [
+                    "First",
+                    "Second",
+                    "All",
+                    "Third"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What is the central theme of the book Manimegalai?",
+                "options": [
+                    "A war story",
+                    "Story of Kovalam's daughter",
+                    "Agricultural practices",
+                    "A love story"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What is the earliest grammatical Tamil text?",
+                "options": [
+                    "Silapathikaram",
+                    "Akam",
+                    "Manimegalai",
+                    "Tolkappiyam"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Who wrote Tolkappiyam?",
+                "options": [
+                    "Agastya",
+                    "Nakkirar",
+                    "Ilango Adigal",
+                    "Tolkappiyar"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which dynasty ruled Vanjji as its capital?",
+                "options": [
+                    "Satavahanas",
+                    "Cholas",
+                    "Pandyas",
+                    "Cheras"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "What was the main occupation in Marutam thinai?",
+                "options": [
+                    "Agriculture",
+                    "Animal husbandry",
+                    "Fishing",
+                    "Hunting"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What were the Chera dynasty's primary trading goods?",
+                "options": [
+                    "Silk",
+                    "Cotton cloth",
+                    "Pearls",
+                    "Iron tools"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What was the capital of the Chola dynasty?",
+                "options": [
+                    "Kapadapuram",
+                    "Madurai",
+                    "Uraiyar",
+                    "Vanchi"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "The Pandya Kingdom was first mentioned by Megasthenes, who said that their kingdom was famous for pearls. Their capital was:",
+                "options": [
+                    "Thanjavur",
+                    "Kaveripatnam",
+                    "Madurai",
+                    "Uraiyur"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Where was the first Sangam held?",
+                "options": [
+                    "Madurai",
+                    "Kapadapuram",
+                    "Muchchangam",
+                    "Puhar"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "The kingdoms of Chola, Chera and Pandyas belong to which period in ancient India?",
+                "options": [
+                    "Mahajanapada Period",
+                    "Sangam Period",
+                    "Mauryan Period",
+                    "Gupta Period"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What were the two major forms of Sangam Literature?",
+                "options": [
+                    "Narrative and Didactic",
+                    "Poetic and Grammatical",
+                    "Religious and Historical",
+                    "Economic and Political"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which Sangam was associated with Kapadapuram?",
+                "options": [
+                    "Second",
+                    "None",
+                    "Third",
+                    "First"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "How many Sangams were held during the Sangam Age?",
+                "options": [
+                    "Five",
+                    "Two",
+                    "Four",
+                    "Three"
+                ],
+                "answer": 3
+            }
+        ]
+    }
+]

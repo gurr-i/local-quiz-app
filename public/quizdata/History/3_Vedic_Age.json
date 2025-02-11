@@ -1,0 +1,297 @@
+[
+    {
+        "title": "Vedic Age Quiz",
+        "questions": [
+            {
+                "question": "What is the primary subject of the Sama Veda?",
+                "options": [
+                    "Magic formulas",
+                    "Philosophical teachings",
+                    "Sacrifices and rituals",
+                    "Music and melodies"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which Vedic text contains the Gayatri Mantra?",
+                "options": [
+                    "Rig Veda",
+                    "Atharva Veda",
+                    "Sama Veda",
+                    "Yajur Veda"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What was the primary deity of the Rig Vedic people?",
+                "options": [
+                    "Indra",
+                    "Vishnu",
+                    "Varuna",
+                    "Agni"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "How many hymns are in the Rig Veda?",
+                "options": [
+                    "1500",
+                    "1028",
+                    "500",
+                    "2000"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What does 'Shyam Ayas' refer to in Later Vedic texts?",
+                "options": [
+                    "Copper",
+                    "Gold",
+                    "Silver",
+                    "Iron"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "What type of pottery is associated with the Later Vedic Period?",
+                "options": [
+                    "Ochre-colored pottery",
+                    "Black and red ware",
+                    "Painted grey ware",
+                    "Grey ware pottery"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What was the main occupation of the Early Vedic people?",
+                "options": [
+                    "Pastoralism",
+                    "Craftsmanship",
+                    "Trade",
+                    "Agriculture"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Who is known as the 'destroyer of forts' in Rig Vedic hymns?",
+                "options": [
+                    "Indra",
+                    "Rudra",
+                    "Varuna",
+                    "Agni"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What does the term 'Apaurasheya' mean?",
+                "options": [
+                    "Compiled in forests",
+                    "Composed by humans",
+                    "Written in Sanskrit",
+                    "Gifted by God"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Who wrote 'The Arctic Home in the Vedas'?",
+                "options": [
+                    "Swami Vivekananda",
+                    "Bal Gangadhar Tilak",
+                    "Dayananda Saraswati",
+                    "Max Müller"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which Vedic text is the basis of India's national emblem?",
+                "options": [
+                    "Atharva Veda",
+                    "Sama Veda",
+                    "Yajur Veda",
+                    "Rig Veda"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What does 'Satyameva Jayate' come from?",
+                "options": [
+                    "Brihadaranyaka Upanishad",
+                    "Manduka Upanishad",
+                    "Kena Upanishad",
+                    "Chandogya Upanishad"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What was the main political assembly of the Vedic Age?",
+                "options": [
+                    "Vidatha",
+                    "Sabha",
+                    "Parishad",
+                    "Samiti"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "What does the term 'Rashtra' signify in the Vedic polity?",
+                "options": [
+                    "Kingdom",
+                    "Clan",
+                    "Fort",
+                    "Village"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What is the time period of the Vedic Age?",
+                "options": [
+                    "1400-400 BC",
+                    "2000-1000 BC",
+                    "1500-600 BC",
+                    "1200-500 BC"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What is the primary subject of Aranyakas?",
+                "options": [
+                    "Philosophy",
+                    "Hermits and meditation",
+                    "Hymns",
+                    "Sacrifices"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which Veda is referred to as the 'Veda of magic formulas'?",
+                "options": [
+                    "Atharva Veda",
+                    "Rig Veda",
+                    "Yajur Veda",
+                    "Sama Veda"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which Veda was the first to be compiled?",
+                "options": [
+                    "Sama Veda",
+                    "Atharva Veda",
+                    "Rig Veda",
+                    "Yajur Veda"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "The Gayatri Mantra was composed by which sage?",
+                "options": [
+                    "Vishwamitra",
+                    "Patanjali",
+                    "Vashistha",
+                    "Kapila"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What is the meaning of the word 'Veda'?",
+                "options": [
+                    "Knowledge",
+                    "Wisdom",
+                    "Religion",
+                    "Life"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "The term 'Gavishthi' refers to what?",
+                "options": [
+                    "A type of hymn",
+                    "A tribal gathering",
+                    "Battle of Cows",
+                    "Ritual sacrifice"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What does the term 'Vidatha' refer to in the Vedic Age?",
+                "options": [
+                    "A battle",
+                    "A sacrifice ritual",
+                    "An assembly for religious purposes",
+                    "A social division"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Who was the king in the 'Battle of Ten Kings'?",
+                "options": [
+                    "Vishwamitra",
+                    "Parikshit",
+                    "Sudasa",
+                    "Bharata"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "The language of the Vedic people was?",
+                "options": [
+                    "Hindi",
+                    "Sanskrit",
+                    "Prakrit",
+                    "Pali"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "The concept of 'Sapta Sindhu' refers to what?",
+                "options": [
+                    "Seven sages",
+                    "Seven clans",
+                    "Seven rituals",
+                    "Seven rivers"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which Upanishad is the oldest?",
+                "options": [
+                    "Manduka",
+                    "Katha",
+                    "Brihadaranyaka",
+                    "Chandogya"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What is the Rig Vedic hymn 'Purush Sukta' primarily about?",
+                "options": [
+                    "Cosmic origins",
+                    "Battle of 10 Kings",
+                    "Agriculture rituals",
+                    "Praise of Indra"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "The river Ravi was called what in the Rig Veda?",
+                "options": [
+                    "Bipasha",
+                    "Vitasta",
+                    "Sindhu",
+                    "Parushini"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which inscription mentions the names Indra and Varuna?",
+                "options": [
+                    "Boghazkai inscription",
+                    "Mehrauli Iron Pillar",
+                    "Allahabad Pillar inscription",
+                    "Ashoka's Edicts"
+                ],
+                "answer": 0
+            }
+        ]
+    }
+]

@@ -1,0 +1,317 @@
+[
+    {
+        "title": "Delhi Sultanate Quiz",
+        "questions": [
+            {
+                "question": "Who was the commander of Muhammad Ghori in the Battle of Tarain?",
+                "options": [
+                    "Bhaktiyar Khilji",
+                    "Balban",
+                    "Iltutmish",
+                    "Qutubuddin Aibak"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Who wrote 'Prithviraj Raso'?",
+                "options": [
+                    "Chand Bardai",
+                    "Minhaj-al-Siraj",
+                    "Firdausi",
+                    "Al Beruni"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which Sultan introduced the 'Blood and Iron' policy?",
+                "options": [
+                    "Balban",
+                    "Iltutmish",
+                    "Muhammad Bin Tughlaq",
+                    "Alauddin Khilji"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Who was the first and only Muslim woman to rule the Delhi Sultanate?",
+                "options": [
+                    "Sanyogita",
+                    "Karpura Devi",
+                    "Naikidevi",
+                    "Razia Sultana"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which Sultan is known for his 'Blood and Iron' policy?",
+                "options": [
+                    "Iltutmish",
+                    "Alauddin Khilji",
+                    "Muhammad Bin Tughlaq",
+                    "Balban"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which Sultan introduced the 'Sijda' and 'Paibos' practices?",
+                "options": [
+                    "Alauddin Khilji",
+                    "Iltutmish",
+                    "Balban",
+                    "Muhammad Bin Tughlaq"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Who was the first Sultan to introduce the 'Iqta System'?",
+                "options": [
+                    "Balban",
+                    "Iltutmish",
+                    "Qutubuddin Aibak",
+                    "Alauddin Khilji"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Who defeated Muhammad Ghori in the Battle of Gujarat (1178)?",
+                "options": [
+                    "Raja Dahir",
+                    "Jai Chand",
+                    "Bhima II",
+                    "Prithviraj Chauhan"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which Sultan built the Adhai Din Ka Jhonpra Mosque?",
+                "options": [
+                    "Balban",
+                    "Iltutmish",
+                    "Razia Sultana",
+                    "Qutubuddin Aibak"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which Sultan is known as 'Lakh Baksh'?",
+                "options": [
+                    "Iltutmish",
+                    "Qutubuddin Aibak",
+                    "Balban",
+                    "Alauddin Khilji"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which battle marked the beginning of Muslim rule in India?",
+                "options": [
+                    "Battle of Peshawar (1001)",
+                    "Battle of Chandawar (1194)",
+                    "Battle of Tarain (1191)",
+                    "Battle of Panipat (1526)"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which Sultan is known for breaking the power of the 'Chahalgani'?",
+                "options": [
+                    "Alauddin Khilji",
+                    "Muhammad Bin Tughlaq",
+                    "Iltutmish",
+                    "Balban"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Who was the first Muslim invader to attack India?",
+                "options": [
+                    "Timur",
+                    "Muhammad Ghori",
+                    "Mahmud Ghaznavi",
+                    "Mohammad Bin Qasim"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which Sultan built the Quwat-ul-Islam Mosque?",
+                "options": [
+                    "Razia Sultana",
+                    "Iltutmish",
+                    "Qutubuddin Aibak",
+                    "Balban"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which Sultan was the son-in-law of Qutubuddin Aibak?",
+                "options": [
+                    "Razia Sultana",
+                    "Balban",
+                    "Alauddin Khilji",
+                    "Iltutmish"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Who destroyed the Nalanda University?",
+                "options": [
+                    "Bhaktiyar Khilji",
+                    "Muhammad Ghori",
+                    "Mahmud Ghaznavi",
+                    "Timur"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Who constructed the Qutub Minar?",
+                "options": [
+                    "Razia Sultana",
+                    "Iltutmish",
+                    "Qutubuddin Aibak",
+                    "Balban"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Who wrote the book 'Shahnama'?",
+                "options": [
+                    "Chand Bardai",
+                    "Firdausi",
+                    "Minhaj-al-Siraj",
+                    "Al Beruni"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Who was the first Sultan to organize the 'Chahalgani' (group of 40)?",
+                "options": [
+                    "Iltutmish",
+                    "Razia Sultana",
+                    "Balban",
+                    "Qutubuddin Aibak"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which Sultan is associated with the construction of the Qutub Minar?",
+                "options": [
+                    "Iltutmish",
+                    "Qutubuddin Aibak",
+                    "Balban",
+                    "Razia Sultana"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which Sultan is known as 'Zil-i-Ilahi'?",
+                "options": [
+                    "Muhammad Bin Tughlaq",
+                    "Alauddin Khilji",
+                    "Balban",
+                    "Iltutmish"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Who was the founder of the Slave Dynasty?",
+                "options": [
+                    "Balban",
+                    "Iltutmish",
+                    "Razia Sultana",
+                    "Qutubuddin Aibak"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Who was the last ruler of the Slave Dynasty?",
+                "options": [
+                    "Balban",
+                    "Iltutmish",
+                    "Khaiqubad",
+                    "Razia Sultana"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which Sultan established the military department 'Diwan-i-Arz'?",
+                "options": [
+                    "Alauddin Khilji",
+                    "Balban",
+                    "Muhammad Bin Tughlaq",
+                    "Iltutmish"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which Sultan shifted the capital from Lahore to Delhi?",
+                "options": [
+                    "Iltutmish",
+                    "Balban",
+                    "Razia Sultana",
+                    "Qutubuddin Aibak"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Who was the first Sultan to issue silver coins (Tanka) and copper coins (Jital)?",
+                "options": [
+                    "Alauddin Khilji",
+                    "Iltutmish",
+                    "Qutubuddin Aibak",
+                    "Balban"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which Sultan introduced the Iqta system?",
+                "options": [
+                    "Qutubuddin Aibak",
+                    "Iltutmish",
+                    "Balban",
+                    "Alauddin Khilji"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which Sultan saved Delhi from the wrath of Chengiz Khan?",
+                "options": [
+                    "Balban",
+                    "Iltutmish",
+                    "Razia Sultana",
+                    "Qutubuddin Aibak"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Who was the first Sultan to issue coins in the name of the Caliph of Baghdad?",
+                "options": [
+                    "Alauddin Khilji",
+                    "Iltutmish",
+                    "Qutubuddin Aibak",
+                    "Balban"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Who was the first Sultan to introduce the practice of 'Sijda'?",
+                "options": [
+                    "Alauddin Khilji",
+                    "Iltutmish",
+                    "Muhammad Bin Tughlaq",
+                    "Balban"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which dynasty is also known as the Mamluk Dynasty?",
+                "options": [
+                    "Slave Dynasty",
+                    "Tughlaq Dynasty",
+                    "Lodhi Dynasty",
+                    "Khilji Dynasty"
+                ],
+                "answer": 0
+            }
+        ]
+    }
+]

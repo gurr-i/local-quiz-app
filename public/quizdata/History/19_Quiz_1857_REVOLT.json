@@ -1,0 +1,507 @@
+[
+    {
+        "title": "Quiz on 1857 REVOLT – Indian History",
+        "questions": [
+            {
+                "question": "Which agricultural product was central to the Indigo Revolt?",
+                "options": [
+                    "Tea",
+                    "Cotton",
+                    "Sugarcane",
+                    "Indigo"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "What was one major reason for the failure of the 1857 Revolt?",
+                "options": [
+                    "Excessive British military power",
+                    "Overwhelming native support for the British",
+                    "International intervention",
+                    "Lack of coordination and leadership"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Who led the revolt in Lucknow during the 1857 Revolt?",
+                "options": [
+                    "Begum Hazrat Mahal",
+                    "Rani Lakshmibai",
+                    "Maulvi Ahmadullah",
+                    "Shah Mal"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "The Indigo Revolt of 1859 took place in which district?",
+                "options": [
+                    "Nadia District",
+                    "Odisha",
+                    "Rajmahal",
+                    "Bihar"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Who was the leader of the revolt in Kanpur?",
+                "options": [
+                    "Kunwar Singh",
+                    "General Bhakt Khan",
+                    "Mangal Pandey",
+                    "Nana Saheb/Tanti Tope"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Who led the revolt in Faizabad during the 1857 Revolt?",
+                "options": [
+                    "Khan Bahadur Khan",
+                    "Maulvi Ahmadullah",
+                    "Shah Mal",
+                    "Begum Hazrat Mahal"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Who emerged as the actual leader of the revolt in Delhi?",
+                "options": [
+                    "Begum Hazrat Mahal",
+                    "Mangal Pandey",
+                    "Nana Saheb",
+                    "General Bhakt Khan"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Under the Doctrine of Lapse, which territories were acquired in 1849?",
+                "options": [
+                    "Jhansi and Satara",
+                    "Punjab and Delhi",
+                    "Bengal and Bihar",
+                    "Sambalpur and Jaipur"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "The Santhal Rebellion of 1855 occurred in which geographical area?",
+                "options": [
+                    "Rajmahal Hills",
+                    "Bengal Delta",
+                    "Aravalli Range",
+                    "Deccan Plateau"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "In which region was the Ryotwari System primarily implemented?",
+                "options": [
+                    "South India (Madras)",
+                    "Uttar Pradesh",
+                    "Bengal",
+                    "Punjab"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Who led the Ahom Revolt in Assam?",
+                "options": [
+                    "Budho Bhagat",
+                    "Tipu",
+                    "Karam Shah",
+                    "Gomdhar Kunwar"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Who authored the novel 'Anandmath' based on the Indigo Revolt?",
+                "options": [
+                    "Bankim Chandra Chattopadhyay",
+                    "Dinbandhu Mitra",
+                    "B. C. Chatterjee",
+                    "Rabindranath Tagore"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What was the major reason behind the pre-1857 revolts according to PARMAR SSC?",
+                "options": [
+                    "Social reforms",
+                    "British industrial policies",
+                    "Land Reforms",
+                    "Religious discrimination"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Who suppressed the revolt in Jhansi?",
+                "options": [
+                    "Hugh Rose",
+                    "Colin Campbell",
+                    "John Nicholson",
+                    "Henry Lawrence"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Who were the two officials associated with the introduction of the Mahalwari System?",
+                "options": [
+                    "Cornwallis and Dalhousie",
+                    "Holt Mackenzie and William Bentinck",
+                    "Munro and Reed",
+                    "Bentinck and Canning"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which land revenue system was introduced by Cornwallis in 1793?",
+                "options": [
+                    "Mahalwari System",
+                    "Zamindari Reforms",
+                    "Ryotwari System",
+                    "Permanent Settlement"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which revolt in Bengal, started in 1825, was led by Karam Shah and Tipu?",
+                "options": [
+                    "Pagal Panthis",
+                    "Kol Mutiny",
+                    "Santhal Rebellion",
+                    "Indigo Revolt"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What immediate cause triggered the 1857 Revolt related to the Enfield rifle?",
+                "options": [
+                    "The rifles were imported from Europe",
+                    "The rifles malfunctioned during battle",
+                    "The cartridges were too expensive",
+                    "Cartridges were rumored to be greased with cow and pig fat"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "What was Rani Lakshmibai's original name?",
+                "options": [
+                    "Debi Chaudharani",
+                    "Manikarnika Tambe",
+                    "Sindhu",
+                    "Mangal Pandey"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "According to V.D. Savarkar, the 1857 Revolt is known as what?",
+                "options": [
+                    "The Sepoy Mutiny",
+                    "The First War of Independence",
+                    "The 1857 Uprising",
+                    "The Indian Rebellion"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Who led the revolt in Bareilly?",
+                "options": [
+                    "General Bhakt Khan",
+                    "Khan Bahadur Khan (Rohilla)",
+                    "Begum Hazrat Mahal",
+                    "Maulvi Ahmadullah"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Who was responsible for suppressing the revolt in Lucknow?",
+                "options": [
+                    "Hugh Rose",
+                    "John Nicholson",
+                    "Henry Lawrence",
+                    "Colin Campbell"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which notable female participated in the Sanyasi Revolt?",
+                "options": [
+                    "Kanhu",
+                    "Rani Lakshmibai",
+                    "Debi Chaudharani",
+                    "Begum Hazrat Mahal"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Who was the leader of the Paika Revolt in Odisha?",
+                "options": [
+                    "Mangal Pandey",
+                    "Nana Saheb",
+                    "Kunwar Singh",
+                    "Bakshi Jagbandhu Bidyadhar"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "In which year did the Ahom Revolt take place in Assam?",
+                "options": [
+                    "1855",
+                    "1817",
+                    "1828",
+                    "1836"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "On what date was the revolt in Gwalior suppressed?",
+                "options": [
+                    "April 8, 1857",
+                    "March 29, 1857",
+                    "May 10, 1857",
+                    "June 20, 1858"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which British officer suppressed the revolt in Kanpur?",
+                "options": [
+                    "Hugh Rose",
+                    "Henry Lawrence",
+                    "Colin Campbell",
+                    "John Nicholson"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "The Paika Revolt of 1817 occurred in which region?",
+                "options": [
+                    "Bengal",
+                    "Bihar",
+                    "Odisha",
+                    "Punjab"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "The Moplah Uprising of 1836 occurred in which region?",
+                "options": [
+                    "Uttar Pradesh",
+                    "Bengal",
+                    "Punjab",
+                    "Malabar"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which female leader became the symbol of resistance in Jhansi?",
+                "options": [
+                    "Debi Chaudharani",
+                    "Rani Lakshmibai",
+                    "Begum Hazrat Mahal",
+                    "Kanhu"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "On which date was Mangal Pandey hanged for his actions during the revolt?",
+                "options": [
+                    "April 8, 1857",
+                    "April 24, 1857",
+                    "March 29, 1857",
+                    "May 10, 1857"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Who were the leaders of the Santhal Rebellion?",
+                "options": [
+                    "Sindhu and Kanhu",
+                    "Kunwar Singh and Nana Saheb",
+                    "Bakshi Jagbandhu and Gomdhar",
+                    "Manju Shah and Debi Chaudharani"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which territory was annexed under the Doctrine of Lapse in 1854?",
+                "options": [
+                    "Satara",
+                    "Jaipur",
+                    "Sambalpur",
+                    "Jhansi"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which British policy, introduced by Dalhousie in 1848, led to the annexation of several princely states?",
+                "options": [
+                    "General Service Establishment Act",
+                    "Cartaze System",
+                    "Enfield Rifle Policy",
+                    "Doctrine of Lapse"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which landlord led the revolt in Bihar during 1857?",
+                "options": [
+                    "Mangal Pandey",
+                    "Nana Saheb",
+                    "Khan Bahadur Khan",
+                    "Kunwar Singh"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Name one of the leaders of the Sanyasi Revolt.",
+                "options": [
+                    "Mangal Pandey",
+                    "Bakshi Jagbandhu",
+                    "Kunwar Singh",
+                    "Manju Shah"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Who was the nominal Mughal ruler in Delhi during the 1857 Revolt?",
+                "options": [
+                    "Nana Saheb",
+                    "Rani Lakshmibai",
+                    "Bahadur Shah Zafar",
+                    "Kunwar Singh"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which play written by Dinbandhu Mitra depicted the Indigo Revolt?",
+                "options": [
+                    "Anandmath",
+                    "Nil Darpan",
+                    "Revolt in Indigo",
+                    "The Indigo Story"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which parallel government was established in Jagdishpur, Bihar in 1857 under whose leadership?",
+                "options": [
+                    "Maulvi Ahmadullah",
+                    "Kunwar Singh",
+                    "Nana Saheb",
+                    "Rani Lakshmibai"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which revenue system was introduced in 1820 by Munro and Reed?",
+                "options": [
+                    "Zamindari System",
+                    "Mahalwari System",
+                    "Ryotwari System",
+                    "Permanent Settlement"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Under the Doctrine of Lapse, which territory was annexed in 1848?",
+                "options": [
+                    "Jaipur",
+                    "Sambalpur",
+                    "Satara",
+                    "Jhansi"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "On what date did the 1857 Revolt officially begin?",
+                "options": [
+                    "May 10, 1857",
+                    "April 8, 1857",
+                    "April 24, 1857",
+                    "March 29, 1857"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Who, from the 34th Native Infantry, fired at the Sergeant Major on March 29, 1857?",
+                "options": [
+                    "Nana Saheb",
+                    "Bhakt Khan",
+                    "Tanti Tope",
+                    "Mangal Pandey"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which Act led to the abolition of the East India Company after the revolt?",
+                "options": [
+                    "Charter Act of 1833",
+                    "Indian Councils Act 1861",
+                    "Regulating Act 1773",
+                    "Government of India Act 1858"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which British officer suppressed the revolt in Delhi?",
+                "options": [
+                    "Hugh Rose",
+                    "Henry Lawrence",
+                    "John Nicholson",
+                    "Colin Campbell"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which revenue system, introduced in 1822, involved village headmen collecting revenue?",
+                "options": [
+                    "Zamindari System",
+                    "Mahalwari System",
+                    "Ryotwari System",
+                    "Permanent Settlement"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "The Sanyasi Revolt started around 1763/1764 in which regions?",
+                "options": [
+                    "Bihar and Bengal",
+                    "Punjab and Uttar Pradesh",
+                    "Odisha and Assam",
+                    "Maharashtra and Gujarat"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which revolt, led by Budho Bhagat, took place in 1831?",
+                "options": [
+                    "Ahom Revolt",
+                    "Paika Revolt",
+                    "Kol Mutiny",
+                    "Sanyasi Revolt"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which leader was at the helm of the revolt in Uttar Pradesh?",
+                "options": [
+                    "Rani Lakshmibai",
+                    "Shah Mal",
+                    "Nana Saheb",
+                    "Kunwar Singh"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Who led the Ho & Munda Uprising in 1899 in Ranchi, Singhbhum?",
+                "options": [
+                    "Nana Saheb",
+                    "Mangal Pandey",
+                    "Kunwar Singh",
+                    "Birsa Munda"
+                ],
+                "answer": 3
+            }
+        ]
+    }
+]

@@ -1,0 +1,507 @@
+[
+    {
+        "title": "Jainism and Buddhism Quiz",
+        "questions": [
+            {
+                "question": "Which is the largest Buddhist Stupa?",
+                "options": [
+                    "Kesariya",
+                    "Ramabhar",
+                    "Dhamek",
+                    "Sanchi"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which Buddhist sect believes in idol worship?",
+                "options": [
+                    "None of the above",
+                    "Vajrayana",
+                    "Hinayana",
+                    "Mahayana"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Who is depicted in the Statue of Gomateshwara?",
+                "options": [
+                    "Parshavnath",
+                    "Rishabh Dev",
+                    "Mahavir",
+                    "Bahubali"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Where did Gautam Buddha attain enlightenment?",
+                "options": [
+                    "Bodh Gaya",
+                    "Sarnath",
+                    "Kushinagara",
+                    "Lumbini"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which Tirthankara is associated with a serpent symbol?",
+                "options": [
+                    "Parshavnath",
+                    "Mahavir",
+                    "Rishabh Dev",
+                    "Aristanemi"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Who sent Mahendra and Sanghamitra to Sri Lanka to spread Buddhism?",
+                "options": [
+                    "Kanishka",
+                    "Bimbisara",
+                    "Ashoka",
+                    "Ajatshatru"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What language is Jain literature primarily written in?",
+                "options": [
+                    "Pali",
+                    "Sanskrit",
+                    "Hindi",
+                    "Prakrit"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "What was the stance of Jainism and Buddhism on the Varna system?",
+                "options": [
+                    "Opposed it",
+                    "Ignored it",
+                    "Supported it",
+                    "Made it stricter"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which of the following principles is NOT part of Jainism's five vows?",
+                "options": [
+                    "Satya",
+                    "Ahimsa",
+                    "Aparigraha",
+                    "Karma"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "What was Gautam Buddha’s childhood name?",
+                "options": [
+                    "Siddhartha",
+                    "Rahul",
+                    "Channa",
+                    "Mahaprajapati"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What is the primary text of Hinayana Buddhism?",
+                "options": [
+                    "Sanskrit",
+                    "Hindi",
+                    "Pali",
+                    "Prakrit"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Where did Gautam Buddha deliver his first sermon?",
+                "options": [
+                    "Bodh Gaya",
+                    "Lumbini",
+                    "Vaishali",
+                    "Sarnath"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Who is considered the first Tirthankar in Jainism?",
+                "options": [
+                    "Rishabh Dev",
+                    "Aristanemi",
+                    "Vardhaman Mahavir",
+                    "Parshavnath"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Who wrote the Buddhacharitra?",
+                "options": [
+                    "Asvaghosha",
+                    "Dharmapala",
+                    "Nagasena",
+                    "Kumaragupta"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What animal represents Rishabh Dev?",
+                "options": [
+                    "Elephant",
+                    "Serpent",
+                    "Bull",
+                    "Lion"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What does the term 'Chaitya' mean in Buddhism?",
+                "options": [
+                    "Temple",
+                    "Monastery",
+                    "Shrine",
+                    "Prayer hall"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "How did Jainism and Buddhism define Varnas?",
+                "options": [
+                    "Based on birth",
+                    "Based on occupation",
+                    "Based on gender",
+                    "Based on wealth"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What was one of the main causes of the origin of Jainism and Buddhism?",
+                "options": [
+                    "Brahminical domination",
+                    "Industrial revolution",
+                    "Agricultural dominance",
+                    "Colonial influence"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What does the term 'Ahimsa' mean in Jainism?",
+                "options": [
+                    "Detachment",
+                    "Non-violence",
+                    "Monasticism",
+                    "Truth"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What does 'Kaivalya' signify in Jainism?",
+                "options": [
+                    "Monastic Life",
+                    "Enlightenment",
+                    "Material Wealth",
+                    "Detachment"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which principle of Jainism emphasizes non-violence?",
+                "options": [
+                    "Satya",
+                    "Brahmacharya",
+                    "Asteya",
+                    "Ahimsa"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Who was the 24th Tirthankara of Jainism?",
+                "options": [
+                    "Parshavnath",
+                    "Mahavir",
+                    "Rishabh Dev",
+                    "Chandragupta Maurya"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What is the Vinaya Pitaka about?",
+                "options": [
+                    "Rules for Monks",
+                    "Buddha's Teachings",
+                    "Sermons",
+                    "Jataka Tales"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What language was most Jain literature written in?",
+                "options": [
+                    "Hindi",
+                    "Sanskrit",
+                    "Prakrit",
+                    "Pali"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which group started using punch-marked coins?",
+                "options": [
+                    "Brahmins",
+                    "Shudras",
+                    "Vaishyas",
+                    "Kshatriyas"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Where is the famous Statue of Gomateshwara located?",
+                "options": [
+                    "Bihar",
+                    "Odisha",
+                    "Karnataka",
+                    "Rajasthan"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What is the sacred text of Hinayana Buddhism?",
+                "options": [
+                    "Tripitaka",
+                    "Sutta Pitaka",
+                    "Jataka Tales",
+                    "Vinaya Pitaka"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Who was Gautam Buddha's father?",
+                "options": [
+                    "Suddhodhana",
+                    "Ashoka",
+                    "Bimbisara",
+                    "Kanishka"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Where was Gautam Buddha born?",
+                "options": [
+                    "Kushinagara",
+                    "Sarnath",
+                    "Bodh Gaya",
+                    "Lumbini"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Who founded the Digambara sect in Jainism?",
+                "options": [
+                    "Vastupala",
+                    "Chandragupta Maurya",
+                    "Sthulbhadra",
+                    "Bhadrabahu"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Where is the Mahabodhi Temple located?",
+                "options": [
+                    "Lumbini",
+                    "Kushinagara",
+                    "Sarnath",
+                    "Bodh Gaya"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "What does the term 'Dhamma' refer to in Buddhism?",
+                "options": [
+                    "Rituals",
+                    "Virtue",
+                    "Monastic Life",
+                    "The Doctrine"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "What kind of economy was impacted by ritualistic sacrifices?",
+                "options": [
+                    "Hunting economy",
+                    "Trade economy",
+                    "Industrial economy",
+                    "Agricultural economy"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which of the following is NOT a Buddhist university?",
+                "options": [
+                    "Nalanda",
+                    "Takshashila",
+                    "Vikramshila",
+                    "Odantpuri"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What is the term 'Chaitya' used for in Buddhism?",
+                "options": [
+                    "Residential Hall",
+                    "Monastic Rules",
+                    "Sacred Text",
+                    "Place of Worship"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which king was a contemporary of both Mahavir and Buddha?",
+                "options": [
+                    "Ashoka",
+                    "Chandragupta Maurya",
+                    "Kanishka",
+                    "Bimbisara"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Mahavir and Buddha belonged to which Varna?",
+                "options": [
+                    "Shudra",
+                    "Kshatriya",
+                    "Brahmin",
+                    "Vaishya"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What principle did both Jainism and Buddhism emphasize?",
+                "options": [
+                    "Warfare",
+                    "Ahimsa",
+                    "Materialism",
+                    "Polytheism"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What does the term 'Basadis' refer to in Jainism?",
+                "options": [
+                    "Jain festivals",
+                    "Jain monasteries",
+                    "Jain temples",
+                    "Jain scriptures"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which Jain principle is associated with detachment?",
+                "options": [
+                    "Aparigraha",
+                    "Asteya",
+                    "Ahimsa",
+                    "Satya"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Where was Vardhaman Mahavir born?",
+                "options": [
+                    "Kundagram",
+                    "Varanasi",
+                    "Bodh Gaya",
+                    "Lumbini"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Who built the Nalanda University?",
+                "options": [
+                    "Kumaragupta I",
+                    "Ashoka",
+                    "Dharmapala",
+                    "Kanishka"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which Buddhist council was held under Kanishka's patronage?",
+                "options": [
+                    "First",
+                    "Fourth",
+                    "Third",
+                    "Second"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What are the three principles of Jain philosophy?",
+                "options": [
+                    "Non-violence, truth, sacrifice",
+                    "Right belief, right conduct, right knowledge",
+                    "Faith, hope, charity",
+                    "Karma, dharma, moksha"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which council compiled the Tripitaka?",
+                "options": [
+                    "First",
+                    "Second",
+                    "Fourth",
+                    "Third"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What is the primary focus of the Eightfold Path in Buddhism?",
+                "options": [
+                    "Karma Theory",
+                    "Spiritual Liberation",
+                    "Material Wealth",
+                    "Idol Worship"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What is the meaning of the term 'Basadis'?",
+                "options": [
+                    "Jain Monasteries",
+                    "Rock-cut Caves",
+                    "Jain Texts",
+                    "Jain Festivals"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What is the largest Buddhist Stupa in India?",
+                "options": [
+                    "Dhamek Stupa",
+                    "Ramabhar Stupa",
+                    "Sanchi Stupa",
+                    "Kesariya Stupa"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Who built the Dilwara Temples in Rajasthan?",
+                "options": [
+                    "Ajatshatru",
+                    "Chandragupta Maurya",
+                    "Kanishka",
+                    "Vastupala Brothers"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which Buddhist text is primarily written in Pali?",
+                "options": [
+                    "Milindapanho",
+                    "Jataka Tales",
+                    "Tripitaka",
+                    "Buddhacharitra"
+                ],
+                "answer": 2
+            }
+        ]
+    }
+]

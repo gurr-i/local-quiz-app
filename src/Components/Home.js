@@ -3,9 +3,10 @@ import { Link } from "react-router-dom";
 import { Card, Button, Row, Col, Typography, Spin, Input, Select } from "antd";
 import "antd/dist/reset.css"; // Import Ant Design styles
 import "./Home.css"; // Import custom CSS for fancy styling
-import backgroundImage from "../assets/5442676.jpg"; // Import the image
+// import { Carousel } from "antd";
+// import QuizCarousel from "./QuizCarousel"; // Import the carousel component
 
-const { Title, Text } = Typography;
+const { Text } = Typography;
 const { Search } = Input;
 const { Option } = Select;
 
@@ -64,10 +65,9 @@ function Home() {
   const handleSearch = (value) => setSearchTerm(value);
 
   return (
-    <div
-      className="home-container"
-
-    >
+    <div className="home-container">
+      {/* Latest Quizzes Carousel */}
+      {/* {filteredQuizzes.length > 0 && <QuizCarousel quizzes={filteredQuizzes} />} */}
 
       {/* Search Bar */}
       <Search
@@ -104,6 +104,7 @@ function Home() {
             value={selectedSubcategory}
             onChange={(value) => setSelectedSubcategory(value)}
             className="selector-dropdown"
+            dropdownStyle={{ maxHeight: 800, overflow: "auto" }} // Increase dropdown height
           >
             {Object.keys(config.QUIZPATHS[selectedCategory]).map(
               (subcategory) => (

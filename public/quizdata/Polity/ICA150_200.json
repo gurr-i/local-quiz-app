@@ -1,0 +1,457 @@
+[
+    {
+        "title": "Indian Constitution Articles Quiz (Part 4) article [150-200]",
+        "questions": [
+            {
+                "question": "What does Article 167 specify?",
+                "options": [
+                    "Rights of Ministers in respect of the House",
+                    "Duration of State Legislatures",
+                    "Duties of the Chief Minister as respects the furnishing of information to the Governor",
+                    "Conduct of business of the Government of a State"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which article regulates the procedure in Parliament in relation to financial business?",
+                "options": [
+                    "Article 120",
+                    "Article 122",
+                    "Article 121",
+                    "Article 119"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "What does Article 144 require from civil and judicial authorities?",
+                "options": [
+                    "To interpret the Constitution",
+                    "To enforce laws passed by Parliament",
+                    "To consult the President",
+                    "To act in aid of the Supreme Court"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which article discusses the ancillary powers of the Supreme Court?",
+                "options": [
+                    "Article 140",
+                    "Article 143",
+                    "Article 141",
+                    "Article 142"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What jurisdiction and powers are exercisable by the Supreme Court under Article 135?",
+                "options": [
+                    "Enlargement of the jurisdiction of the Supreme Court",
+                    "Review of judgments or orders",
+                    "Jurisdiction and powers of the Federal Court under existing law",
+                    "Transfer of certain cases"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which article deals with the appointment and powers of the Speaker and Deputy Speaker of the Legislative Assembly?",
+                "options": [
+                    "Article 178",
+                    "Article 181",
+                    "Article 180",
+                    "Article 179"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Under which article can retired judges attend sittings of the Supreme Court?",
+                "options": [
+                    "Article 130",
+                    "Article 128",
+                    "Article 129",
+                    "Article 131"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What does Article 150 specify?",
+                "options": [
+                    "Rules of procedure",
+                    "Duties of the Comptroller and Auditor-General",
+                    "Form of accounts of the Union and the States",
+                    "Audit reports"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Under which article is the appointment of a Governor discussed?",
+                "options": [
+                    "Article 157",
+                    "Article 156",
+                    "Article 155",
+                    "Article 158"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What is the focus of Article 120?",
+                "options": [
+                    "Language to be used in Parliament",
+                    "Voting in Houses",
+                    "Powers of the Attorney-General",
+                    "Procedure for financial bills"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What is required under Article 111 before a bill becomes law?",
+                "options": [
+                    "Consent of the Vice-President",
+                    "Signature of the Prime Minister",
+                    "Assent by the President",
+                    "Approval by the Supreme Court"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which article grants the Governor the right to address and send messages to the House or Houses?",
+                "options": [
+                    "Article 177",
+                    "Article 175",
+                    "Article 176",
+                    "Article 178"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which article specifies the duration of State Legislatures?",
+                "options": [
+                    "Article 173",
+                    "Article 174",
+                    "Article 175",
+                    "Article 172"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which article confers on the Supreme Court the power to issue certain writs?",
+                "options": [
+                    "Article 140",
+                    "Article 139",
+                    "Article 141",
+                    "Article 142"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Article 104 imposes a penalty for what action?",
+                "options": [
+                    "Failing to attend a session of Parliament",
+                    "Conducting unauthorized business in Parliament",
+                    "Introducing a bill without proper notice",
+                    "Sitting and voting before making the required oath or affirmation or when not qualified or disqualified"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "What is established under Article 168?",
+                "options": [
+                    "Qualification for membership of the State Legislature",
+                    "Composition of the Legislative Assemblies",
+                    "Constitution of Legislatures in States",
+                    "Abolition or creation of Legislative Councils in States"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which article states the salaries and allowances of members of the State Legislature?",
+                "options": [
+                    "Article 195",
+                    "Article 197",
+                    "Article 196",
+                    "Article 194"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which article discusses the composition of the Legislative Assemblies?",
+                "options": [
+                    "Article 173",
+                    "Article 170",
+                    "Article 172",
+                    "Article 171"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What is established under Article 129?",
+                "options": [
+                    "Original jurisdiction of the Supreme Court",
+                    "Supreme Court as a court of record",
+                    "Salaries of judges",
+                    "National Judicial Appointments Commission"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which article grants the President the power to consult the Supreme Court?",
+                "options": [
+                    "Article 144",
+                    "Article 143",
+                    "Article 146",
+                    "Article 145"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which article addresses the appointment of an acting Chief Justice?",
+                "options": [
+                    "Article 126",
+                    "Article 129",
+                    "Article 127",
+                    "Article 128"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What is described in Article 105?",
+                "options": [
+                    "Powers, privileges, etc., of the Houses of Parliament and of the members and committees thereof",
+                    "Procedures for introducing financial bills",
+                    "Rights of the Attorney-General",
+                    "Salaries of members of Parliament"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What does Article 146 address?",
+                "options": [
+                    "Interpretation of the Constitution",
+                    "Duties of the Comptroller and Auditor-General",
+                    "Audit reports",
+                    "Officers and servants and the expenses of the Supreme Court"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "What type of jurisdiction is covered under Article 132?",
+                "options": [
+                    "Original jurisdiction of the Supreme Court",
+                    "Jurisdiction over criminal cases",
+                    "Appellate jurisdiction of the Supreme Court in appeals from High Courts in certain cases",
+                    "Jurisdiction over financial matters"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Under which article does the Governor take an oath or affirmation?",
+                "options": [
+                    "Article 161",
+                    "Article 160",
+                    "Article 162",
+                    "Article 159"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "What is covered under Article 163?",
+                "options": [
+                    "Executive power of the State",
+                    "Council of Ministers to aid and advise the Governor",
+                    "Appointment of the Advocate-General",
+                    "Oath of the Governor"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What does Article 137 allow the Supreme Court to do?",
+                "options": [
+                    "Review judgments or orders",
+                    "Consult with the President",
+                    "Transfer certain cases",
+                    "Issue writs"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Under which article can the jurisdiction of the Supreme Court be enlarged?",
+                "options": [
+                    "Article 139",
+                    "Article 138",
+                    "Article 140",
+                    "Article 141"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What is covered under Article 147?",
+                "options": [
+                    "Powers of the Supreme Court",
+                    "Interpretation of the Constitution",
+                    "Salaries of Judges",
+                    "Appellate jurisdiction of the Supreme Court"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What does Article 160 address?",
+                "options": [
+                    "Extent of executive power of the State",
+                    "Power of Governor to grant pardons",
+                    "Conditions of Governor’s office",
+                    "Discharge of the functions of the Governor in certain contingencies"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "What does Article 115 deal with?",
+                "options": [
+                    "Voting in Houses",
+                    "Salaries and allowances of members",
+                    "Supplementary, additional, or excess grants",
+                    "Duties of the Speaker"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "What does Article 142 pertain to?",
+                "options": [
+                    "Appellate jurisdiction of the Supreme Court",
+                    "Power of the President to consult the Supreme Court",
+                    "Jurisdiction over civil and criminal matters",
+                    "Enforcement of decrees and orders of the Supreme Court"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "What does Article 153 pertain to?",
+                "options": [
+                    "Term of office of Governor",
+                    "Executive power of the State",
+                    "Appointment of Governor",
+                    "Governors of States"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "What does Article 208 cover regarding legislative procedure?",
+                "options": [
+                    "Restriction on discussion in the Legislature",
+                    "Regulation of procedure in financial business",
+                    "Rules of procedure",
+                    "Language to be used in the Legislature"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which article mandates the presentation of the annual financial statement?",
+                "options": [
+                    "Article 112",
+                    "Article 113",
+                    "Article 115",
+                    "Article 114"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which article pertains to the conduct of business of the Government of a State?",
+                "options": [
+                    "Article 166",
+                    "Article 168",
+                    "Article 167",
+                    "Article 169"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What does Article 148 establish?",
+                "options": [
+                    "The Public Service Commission",
+                    "The Finance Commission",
+                    "The Election Commission of India",
+                    "The Comptroller and Auditor-General of India"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which article outlines the procedure for the introduction and passing of Bills in the State Legislature?",
+                "options": [
+                    "Article 196",
+                    "Article 199",
+                    "Article 198",
+                    "Article 197"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What does Article 133 address?",
+                "options": [
+                    "Jurisdiction over constitutional validity of laws",
+                    "Appellate jurisdiction of the Supreme Court in civil matters",
+                    "Original jurisdiction of the Supreme Court",
+                    "Appellate jurisdiction of the Supreme Court in criminal matters"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What does Article 173 address?",
+                "options": [
+                    "Duties of the Chief Minister",
+                    "Rights of Ministers in respect of the House",
+                    "Sessions of the State Legislature",
+                    "Qualification for membership of the State Legislature"
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Which article pertains to the rules of court?",
+                "options": [
+                    "Article 147",
+                    "Article 145",
+                    "Article 148",
+                    "Article 146"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which article restricts certain discussions in Parliament?",
+                "options": [
+                    "Article 124",
+                    "Article 123",
+                    "Article 121",
+                    "Article 122"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "Which article grants the President the power to promulgate Ordinances during the recess of Parliament?",
+                "options": [
+                    "Article 123",
+                    "Article 125",
+                    "Article 124",
+                    "Article 126"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What does Article 116 address?",
+                "options": [
+                    "Quorum in Parliament",
+                    "Votes on account, votes of credit, and exceptional grants",
+                    "Annual financial statement",
+                    "Special procedures for Money Bills"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which article deals with the power of the Governor to promulgate Ordinances during the recess of the Legislature?",
+                "options": [
+                    "Article 215",
+                    "Article 213",
+                    "Article 214",
+                    "Article 216"
+                ],
+                "answer": 1
+            }
+        ]
+    }
+]
