@@ -1,3 +1,23 @@
+/* Custom Scrollbar Design */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #ffffff;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #bed3ea;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #a1c5eb55;
+}
+
+/* Existing Styles */
 .logo {
   float: left;
   margin-right: 20px;

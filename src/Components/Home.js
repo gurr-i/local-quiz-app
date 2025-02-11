@@ -3,6 +3,8 @@ import { Link } from "react-router-dom";
 import { Card, Button, Row, Col, Typography, Spin, Input, Select } from "antd";
 import "antd/dist/reset.css"; // Import Ant Design styles
 import "./Home.css"; // Import custom CSS for fancy styling
+import useBackground from "./useBackground";
+
 // import { Carousel } from "antd";
 // import QuizCarousel from "./QuizCarousel"; // Import the carousel component
 
@@ -13,6 +15,8 @@ const { Option } = Select;
 const config = require("../configvariable");
 
 function Home() {
+  const background = useBackground();
+
   const [quizzes, setQuizzes] = useState([]);
   const [loading, setLoading] = useState(true);
   const [searchTerm, setSearchTerm] = useState("");
@@ -65,7 +69,15 @@ function Home() {
   const handleSearch = (value) => setSearchTerm(value);
 
   return (
-    <div className="home-container">
+    <div
+      className="home-container"
+      style={{
+        backgroundImage: `url(${
+          background ||
+          "https://unsplash.com/photos/wQ-JkefGRq8/download?ixid=M3wxMjA3fDB8MXxzZWFyY2h8NDh8fGNhcnN8ZW58MHx8fHwxNzM5MzAxMDQxfDA&force=true"
+        })`,
+      }}
+    >
       {/* Latest Quizzes Carousel */}
       {/* {filteredQuizzes.length > 0 && <QuizCarousel quizzes={filteredQuizzes} />} */}
 

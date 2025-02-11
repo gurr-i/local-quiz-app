@@ -8,13 +8,14 @@ import ErrorMessage from "./Quiz/ErrorMessage";
 import LoadingSpinner from "./Quiz/LoadingSpinner";
 import { Button, Typography } from "antd";
 import { ArrowRightOutlined, CheckCircleOutlined } from "@ant-design/icons";
-import backgroundImage from "../assets/5442676.jpg";
 import "./Quiz.css";
+import useBackground from "./useBackground";
 
 const { Title } = Typography;
 const config = require("../configvariable");
 
 function Quiz() {
+  const background = useBackground();
   const { id, subcategory } = useParams();
   const [quizData, setQuizData] = useState(null);
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
@@ -133,19 +134,15 @@ function Quiz() {
     setReviewMode(false);
   };
 
-  if (error)
-    return <ErrorMessage error={error} backgroundImage={backgroundImage} />;
+  if (error) return <ErrorMessage error={error} backgroundImage={background} />;
   if (loading) return <LoadingSpinner />;
   if (!quizData?.questions)
     return (
-      <ErrorMessage
-        error="No quiz data found."
-        backgroundImage={backgroundImage}
-      />
+      <ErrorMessage error="No quiz data found." backgroundImage={background} />
     );
 
   return (
-    <div className="quiz-container">
+    <div className="quiz-container" style={{ backgroundImage: `url(${background || "https://unsplash.com/photos/MBr7At_KxxM/download?ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTI2fHxjYXJzfGVufDB8fHx8MTczOTMwMTM4N3ww&force=true"})` }}>
       <Title level={1} className="quiz-title">
         {quizData.title}
       </Title>

@@ -21,7 +21,7 @@ function App() {
         <AppHeader />
 
         {/* Main Content */}
-        <Layout.Content style={{ padding: "20px" }}>
+        <Layout.Content>
           <Routes>
             {/* Home Route */}
             <Route path={ROUTES.HOME} element={<Home />} />
@@ -31,7 +31,6 @@ function App() {
 
             {/* Fallback Route (e.g., for 404 pages) */}
             <Route path="*" element={<Home />} />
-            
           </Routes>
         </Layout.Content>
 
