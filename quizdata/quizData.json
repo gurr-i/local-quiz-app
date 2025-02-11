@@ -1,0 +1,87 @@
+[
+    {
+        "title": "Famous Dances of India Quiz",
+        "questions": [
+            {
+                "question": "Which dance form is known as the 'Dance of the Gods'?",
+                "options": [
+                    "Kathak",
+                    "Bharatanatyam",
+                    "Odissi",
+                    "Kuchipudi"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which dance form originated in the state of Gujarat?",
+                "options": [
+                    "Kathakali",
+                    "Garba",
+                    "Manipuri",
+                    "Mohiniyattam"
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What is the primary dance form of Kerala known for its elaborate makeup and costumes?",
+                "options": [
+                    "Kathakali",
+                    "Bharatanatyam",
+                    "Kuchipudi",
+                    "Odissi"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which dance form is characterized by its intricate footwork and is performed in the northern regions of India?",
+                "options": [
+                    "Kathak",
+                    "Sattriya",
+                    "Bharatanatyam",
+                    "Chhau"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "What is the classical dance form of Manipur known for its graceful movements and is usually performed by women?",
+                "options": [
+                    "Manipuri",
+                    "Kathakali",
+                    "Kuchipudi",
+                    "Odissi"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which dance form involves a combination of martial arts and folk dance, originating from Odisha?",
+                "options": [
+                    "Chhau",
+                    "Kuchipudi",
+                    "Bharatanatyam",
+                    "Kathak"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which dance form is performed during festivals in Punjab and is known for its energetic movements?",
+                "options": [
+                    "Bhangra",
+                    "Garba",
+                    "Dandiya",
+                    "Kathak"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which South Indian classical dance form is traditionally performed in temples and is known for its expressive gestures and storytelling?",
+                "options": [
+                    "Kuchipudi",
+                    "Bharatanatyam",
+                    "Kathak",
+                    "Odissi"
+                ],
+                "answer": 1
+            }
+        ]
+    }
+]
